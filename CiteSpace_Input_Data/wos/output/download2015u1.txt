@@ -1,0 +1,53 @@
+PT J
+AU Li, DW
+   Xu, LH
+   Tan, CX
+   Goodman, ED
+   Fu, DC
+   Xin, LJ
+AF Li, Dawei
+   Xu, Lihong
+   Tan, Chengxiang
+   Goodman, Erik D.
+   Fu, Daichang
+   Xin, Longjiao
+TI Digitization and Visualization of Greenhouse Tomato Plants in Indoor Environments
+SO SENSORS
+LA English
+DT Article
+ID 3d reconstruction; pepper plants; color; identification; segmentation; system; models; growth; recognition; vegetation
+AB This paper is concerned with the digitization and visualization of potted greenhouse tomato plants in indoor environments. For the digitization, an inexpensive and efficient commercial stereo sensor-a Microsoft Kinect-is used to separate visual information about tomato plants from background. Based on the Kinect, a 4-step approach that can automatically detect and segment stems of tomato plants is proposed, including acquisition and preprocessing of image data, detection of stem segments, removing false detections and automatic segmentation of stem segments. Correctly segmented texture samples including stems and leaves are then stored in a texture database for further usage. Two types of tomato plants-the cherry tomato variety and the ordinary variety are studied in this paper. The stem detection accuracy (under a simulated greenhouse environment) for the cherry tomato variety is 98.4% at a true positive rate of 78.0%, whereas the detection accuracy for the ordinary variety is 94.5% at a true positive of 72.5%. In visualization, we combine L-system theory and digitized tomato organ texture data to build realistic 3D virtual tomato plant models that are capable of exhibiting various structures and poses in real time. In particular, we also simulate the growth process on virtual tomato plants by exerting controls on two L-systems via parameters concerning the age and the form of lateral branches. This research may provide useful visual cues for improving intelligent greenhouse control systems and meanwhile may facilitate research on artificial organisms.
+C1 [Li, Dawei; Xu, Lihong; Tan, Chengxiang; Fu, Daichang; Xin, Longjiao] Tongji Univ, Coll Elect & Informat Engn, Shanghai 201804, Peoples R China.
+   [Goodman, Erik D.] BEACON Ctr, E Lansing, MI 48824 USA.
+C3 Tongji University
+RP Xu, LH (corresponding author), Tongji Univ, Coll Elect & Informat Engn, 4800 Caoan Rd,Zhixin Bldg, Shanghai 201804, Peoples R China.
+EM ldwei1986@163.com; xulhk@163.com; Jerrytan@tongji.edu.cn; goodman@egr.msu.edu; fudaic1988@163.com; ljxin@163.com
+FU National High-Tech R&D Program of China [2013AA102305]; National Natural Science Foundation of China [61174090, 61374094]; China Postdoctoral Science Foundation [2013M540385, 2014T70427]; U.S. National Science Foundation's BEACON Center for the Study of Evolution in Action [DBI-0939454]
+NR 84
+TC 27
+Z9 41
+U1 1
+U2 82
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 1424-8220
+EI 
+J9 SENSORS-BASEL
+JI Sensors
+PD FEB 15
+PY 2015
+VL 15
+IS 2
+BP 4019
+EP 4051
+DI 10.3390/s150204019
+PG 33
+WC Chemistry, Analytical; Engineering, Electrical & Electronic; Instruments & Instrumentation
+SC Chemistry; Engineering; Instruments & Instrumentation
+GA CE7BT
+UT WOS:000351992700039
+PM 25675284
+DA 2025-12-25
+ER
+

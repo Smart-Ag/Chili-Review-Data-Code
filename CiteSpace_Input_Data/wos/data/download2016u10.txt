@@ -1,0 +1,503 @@
+PT J
+AU Tijskens, LMM
+   Unuk, T
+   Okello, RCO
+   Wubs, AM
+   Sustar, V
+   Sumak, D
+   Schouten, RE
+AF Tijskens, L. M. M.
+   Unuk, T.
+   Okello, R. C. O.
+   Wubs, A. M.
+   Sustar, V.
+   Sumak, D.
+   Schouten, R. E.
+TI From fruitlet to harvest: Modelling and predicting size and its distributions for tomato, apple and pepper fruit
+SO SCIENTIA HORTICULTURAE
+LA English
+DT Article
+DE Diameter; Length; Volume; Size prediction; Biological variation; Apples (Malus domesticus, borkh); Tomatoes (Solanum lycopersicum L.; Peppers (Capsicum annuum L.; Von bertalanffy growth model
+ID biological variation; sink strength; gala apple; crop load; growth; quality; temperature; cultivars; maturity; season
+AB Size is an important property of all fruit as it determines, together with crop load, fruit yield. The aim of this study is to model the increase in fruit size during cell expansion based on diameter or length and to predict fruit size and volume, including the variation in size and volume, at harvest. The size of individual fruit during growth of fruit (four apple, two tomato and six pepper cultivars) was measured from early fruit set until harvest at several seasons. Size data were evaluated as diameter and length using the von Bertalanffy growth model, adapted to include the variation in size between individuals and the effect of growing temperature. The adapted von Bertalanffy model describes the increase in diameter and length and their variation. For any fruit type, size increased along the same generic growth model. A single stochastic variable, the biological shift factor, was sufficient to describe the variation in development time, initial size and maximum size. For all batches the percentage variation explained for were well over 93% with growth rate constants similar per species and only a minor effect of growing temperature. Prediction of the maximum size distribution based on measurements halfway the cell expansion period is explored and discussed. Size and its distribution can be predicted based on a single measuring point in time but with two or three points in time the prediction system becomes more robust. (C) 2016 Elsevier B.V. All rights reserved.
+C1 [Tijskens, L. M. M.; Wubs, A. M.; Schouten, R. E.] Wageningen Univ, Hort & Prod Physiol, NL-6700 AP Wageningen, Netherlands.
+   [Unuk, T.; Sustar, V.] Univ Maribor, Fac Agr & Life Sci, SLO-2000 Maribor, Slovenia.
+   [Okello, R. C. O.] Wageningen Univ, Ctr Crop Syst Anal, NL-6700 AP Wageningen, Netherlands.
+   [Sumak, D.] Paradajz DOO, Turnisce, Slovenia.
+   [Okello, R. C. O.] Orco Grp Ltd, Kampala, Uganda.
+   [Wubs, A. M.] Rijk Zwaan BV, De Lier, Netherlands.
+   [Sumak, D.] Spovano DOO, Murska Sobota, Slovenia.
+C3 Wageningen University & Research; University of Maribor; Wageningen University & Research
+RP Tijskens, LMM (corresponding author), Wageningen Univ, Hort & Prod Physiol, NL-6700 AP Wageningen, Netherlands.
+EM Pol.Tijskens@wur.nl
+NR 62
+TC 20
+Z9 24
+U1 3
+U2 54
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0304-4238
+EI 1879-1018
+J9 SCI HORTIC-AMSTERDAM
+JI Sci. Hortic.
+PD JUN 2
+PY 2016
+VL 204
+IS 
+BP 54
+EP 64
+DI 10.1016/j.scienta.2016.03.036
+PG 11
+WC Horticulture
+SC Agriculture
+GA DL8JG
+UT WOS:000375887700007
+DA 2025-12-25
+ER
+
+PT J
+AU Eizicovits, D
+   van Tuijl, B
+   Berman, S
+   Edan, Y
+AF Eizicovits, Danny
+   van Tuijl, Bart
+   Berman, Sigal
+   Edan, Yael
+TI Integration of perception capabilities in gripper design using graspability maps
+SO BIOSYSTEMS ENGINEERING
+LA English
+DT Article
+DE Gripper design; Grasping; Sensing; Sweet-pepper harvesting; Agricultural robots
+ID agricultural robot; food-products
+AB Agricultural environments impose high demands on robotic grippers since the objects to be grasped (e.g., fruit) suffer from inherent uncertainties in size, shape, weight, and texture, are typically highly sensitive to excessive force, and tend to be partly or fully occluded. This paper presents a methodology for evaluating the influence of perception capabilities on grasping and on gripper design using graspability maps. Graspability maps are spatial representations of grasp quality grades from wrist poses (position and orientation) about an object and are generated using simulation. A new module was developed to enable the insertion of object pose errors for testing the effects of perception inaccuracies on grasping. The methodology was implemented for comparing two grippers (Fin-Ray and Lip-type) for harvesting two sweet-pepper cultivars. A 3D model of each gripper was constructed and suitable grasp quality measures were developed and validated in a physical environment. Task and gripper specific grasp quality measures were developed for each implementation. Sensitivity analyses included varying pepper dimensions and perception inaccuracies. These were followed by analyses of the influence of gripper design parameters on grasp capabilities. Results indicate that the Lip-type gripper is less sensitive to inaccuracies in object orientation, while both grippers are similarly sensitive to inaccuracies in object position. Specific perception system demands and design recommendations are given for each gripper, and cultivar. The results illustrate the importance of integrating perception analysis in the gripper design phase and the utility of the graspability simulation tool for design analysis. (C) 2015 IAgrE. Published by Elsevier Ltd. All rights reserved.
+C1 [Eizicovits, Danny; Berman, Sigal; Edan, Yael] Ben Gurion Univ Negev, Dept Ind Engn & Management, POB 653, IL-84105 Beer Sheva, Israel.
+   [van Tuijl, Bart] Wageningen UR Greenhouse Hort, Wageningen, Netherlands.
+C3 Ben-Gurion University of the Negev; Wageningen University & Research
+RP Eizicovits, D (corresponding author), Ben Gurion Univ Negev, Dept Ind Engn & Management, POB 653, IL-84105 Beer Sheva, Israel.
+EM Dannyeiz@bgu.post.ac.il
+FU European Commission (CROPS GA) [246252]; Helmsley Charitable Trust through the Agricultural, Biological and Cognitive Robotics Centre at Ben-Gurion University of the Negev; Rabbi W. Gunther Plaut Chair in Manufacturing Engineering at Ben-Gurion University of the Negev
+NR 61
+TC 41
+Z9 43
+U1 0
+U2 40
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 1537-5110
+EI 1537-5129
+J9 BIOSYST ENG
+JI Biosyst. Eng.
+PD JUN 15
+PY 2016
+VL 146
+IS 
+BP 98
+EP 113
+DI 10.1016/j.biosystemseng.2015.12.016
+PG 16
+WC Agricultural Engineering; Agriculture, Multidisciplinary
+SC Agriculture
+GA DQ1MZ
+UT WOS:000378966400009
+DA 2025-12-25
+ER
+
+PT J
+AU Eizentals, P
+   Oka, K
+AF Eizentals, Peteris
+   Oka, Koichi
+TI 3D pose estimation of green pepper fruit for automated harvesting
+SO COMPUTERS AND ELECTRONICS IN AGRICULTURE
+LA English
+DT Article
+DE Pose estimation; Automatic harvesting; Harvesting robot; Green pepper; Point matching
+ID robot
+AB This paper presents a novel pose estimation algorithm for stem position detection in Japanese green pepper automatic harvesting. When the available visual cues do not provide sufficient information to the harvesting robot, information about the pose of the fruit in space is necessary for accurate stem position detection. In the proposed method the orientation of a fruit in space is obtained by fitting a model to surface points of the fruit. These surface points are acquired using a Lidar type laser range finder, and the point matching is performed using a coherent point drift algorithm with two model transformation methods, rigid and affine. The performance of the proposed method was evaluated both under laboratory conditions and in a greenhouse. In the laboratory test, the mean total error for the affine transformation was less than 25 mm in 42 of 49 positions, less than 20 mm in 28 of 49 positions and less than 15 mm in 19 of 49 positions. For the rigid transformation, the same error was less than 25 mm in 39 of 49 positions, less than 20 mm in 31 of 49 positions and less than 15 mm in 11 of 49 positions. The total error of the affine transformation was found to be proportional to the inclination angle, as the mean error was 11 mm, 15 mm, and 23 mm for inclination angles of 15, 30 and 45 degrees, respectively. No relationship was found between the mean total error and the inclination angle for the rigid transformation, as the calculated mean total error was 20 mm, 18 mm, and 20 mm for inclination angles of 15, 30 and 45 degrees, respectively. In the greenhouse test, the stem was calculated to be within the cutting range for 81 of 107 instances for affine transformation and for 66 of 107 for rigid transformation. These results suggest that the proposed method is suitable for stem position detection in the automatic harvesting of green pepper, and could be adjusted for use with other fruits and vegetables. (C) 2016 Elsevier B.V. All rights reserved.
+C1 [Eizentals, Peteris; Oka, Koichi] Kochi Univ Technol, Dept Intelligent Mech Syst Engn, Kami City, Kochi 7828502, Japan.
+C3 Kochi University Technology
+RP Eizentals, P (corresponding author), Kochi Univ Technol, Dept Intelligent Mech Syst Engn, Kami City, Kochi 7828502, Japan.
+EM peteris.eizentals@gmail.com; oka.koichi@kochi-tech.ac.jp
+NR 17
+TC 50
+Z9 54
+U1 6
+U2 101
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0168-1699
+EI 1872-7107
+J9 COMPUT ELECTRON AGR
+JI Comput. Electron. Agric.
+PD OCT 15
+PY 2016
+VL 128
+IS 
+BP 127
+EP 140
+DI 10.1016/j.compag.2016.08.024
+PG 14
+WC Agriculture, Multidisciplinary; Computer Science, Interdisciplinary Applications
+SC Agriculture; Computer Science
+GA DY9RR
+UT WOS:000385473300015
+DA 2025-12-25
+ER
+
+PT J
+AU Sa, I
+   Ge, ZY
+   Dayoub, F
+   Upcroft, B
+   Perez, T
+   McCool, C
+AF Sa, Inkyu
+   Ge, Zongyuan
+   Dayoub, Feras
+   Upcroft, Ben
+   Perez, Tristan
+   McCool, Chris
+TI DeepFruits: A Fruit Detection System Using Deep Neural Networks
+SO SENSORS
+LA English
+DT Article
+DE visual fruit detection; deep convolutional neural network; multi-modal; rapid training; real-time performance; harvesting robots; horticulture; agricultural robotics
+ID classification; scale
+AB This paper presents a novel approach to fruit detection using deep convolutional neural networks. The aim is to build an accurate, fast and reliable fruit detection system, which is a vital element of an autonomous agricultural robotic platform; it is a key element for fruit yield estimation and automated harvesting. Recent work in deep neural networks has led to the development of a state-of-the-art object detector termed Faster Region-based CNN (Faster R-CNN). We adapt this model, through transfer learning, for the task of fruit detection using imagery obtained from two modalities: colour (RGB) and Near-Infrared (NIR). Early and late fusion methods are explored for combining the multi-modal (RGB and NIR) information. This leads to a novel multi-modal Faster R-CNN model, which achieves state-of-the-art results compared to prior work with the Fl score, which takes into account both precision and recall performances improving from 0.807 to 0.838 for the detection of sweet pepper. In addition to improved accuracy, this approach is also much quicker to deploy for new fruits, as it requires bounding box annotation rather than pixel-level annotation (annotating bounding boxes is approximately an order of magnitude quicker to perform). The model is retrained to perform the detection of seven fruits, with the entire process taking four hours to annotate and train the new model per fruit.
+C1 [Sa, Inkyu; Ge, Zongyuan; Dayoub, Feras; Upcroft, Ben; Perez, Tristan; McCool, Chris] Queensland Univ Technol, Fac Sci & Engn, Brisbane, Qld 4000, Australia.
+C3 Queensland University of Technology (QUT)
+RP Sa, I (corresponding author), Queensland Univ Technol, Fac Sci & Engn, Brisbane, Qld 4000, Australia.
+EM enddl22@gmail.com; gzy555555@gmail.com; feras.dayoub@qut.edu.au; ben.upcroft@qut.edu.au; tristan.perez@qut.edu.au; c.mccool@qut.edu.au
+NR 37
+TC 732
+Z9 852
+U1 16
+U2 343
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 1424-8220
+J9 SENSORS-BASEL
+JI Sensors
+PD AUG 15
+PY 2016
+VL 16
+IS 8
+BP 
+EP 
+DI 10.3390/s16081222
+PG 23
+WC Chemistry, Analytical; Engineering, Electrical & Electronic; Instruments & Instrumentation
+SC Chemistry; Engineering; Instruments & Instrumentation
+GA DU6KJ
+UT WOS:000382323200110
+PM 27527168
+DA 2025-12-25
+ER
+
+PT J
+AU Mahajan, BVC
+   Dhillon, WS
+   Sidhu, MK
+   Jindal, SK
+   Dhaliwal, MS
+   Singh, SP
+AF Mahajan, B. V. C.
+   Dhillon, W. S.
+   Sidhu, M. K.
+   Jindal, S. K.
+   Dhaliwal, M. S.
+   Singh, S. P.
+TI Effect of packaging and storage environments on quality and shelf-life of bell pepper (Capsicum annuum)
+SO INDIAN JOURNAL OF AGRICULTURAL SCIENCES
+LA English
+DT Article
+DE Bell pepper; Packaging films; Quality; Storage conditions
+ID postharvest treatments; broccoli; l.
+AB Bell pepper (Capsicum annuum L.) fruits of cultivar Indra were harvested at bright green colour stage and packed in different packaging films, viz. heat shrinkable film (15 mu), cling film (15 mu) and low density polyethylene film (LDPE 25 mu). After packaging, the fruits were stored under two different conditions, i.e. super-market conditions (18-20 degrees C; 90-95% RH) and ordinary market conditions (28-30 degrees C; 60-65% RH). The shrink and cling film significantly checked the loss in weight, firmness and decay incidence and maintained various qualities attributes like ascorbic acid, chlorophyll content and overall sensory quality of the fruits during shelf-life better than unwrapped control fruits. The in-pack bell pepper in shrink and cling film created a suitable headspace environment with desired level of O-2 and CO2 concentrations, which resulted in a better retention of freshness of the vegetable for its marketability. On the other hand, LDPE film accumulated very high level of CO2, which led to formation of fermenting odour and decay of fruits. The data revealed that shrink and cling film proved quite effective in prolonging the shelf-life of bell pepper fruits for 10 and 7 days under super market conditions and ordinary market conditions, respectively, as against 5 and 2 days only in case of unpacked control fruits.
+C1 [Mahajan, B. V. C.; Dhillon, W. S.; Singh, S. P.] Punjab Agr Univ, Ludhiana 141004, Punjab, India.
+   [Sidhu, M. K.] Punjab Agr Univ, Dept Hort Postharvest Technol, Ludhiana 141004, Punjab, India.
+   [Jindal, S. K.] Punjab Agr Univ, Dept Vegetable Sci, Ludhiana 141004, Punjab, India.
+   [Dhaliwal, M. S.] Punjab Agr Univ, Res, Ludhiana 141004, Punjab, India.
+C3 Punjab Agricultural University; Punjab Agricultural University; Punjab Agricultural University; Punjab Agricultural University
+RP Mahajan, BVC (corresponding author), Punjab Agr Univ, Ludhiana 141004, Punjab, India.
+EM mahajanbvc@gmail.com; wasakhasingh@yahoo.com; mksidhu@pau.edu; skjindal@pau.edu; msdhaliwal@pau.edu; phptc@pau.edu
+NR 21
+TC 5
+Z9 8
+U1 0
+U2 17
+PU INDIAN COUNC AGRICULTURAL RES
+PI NEW DELHI
+PA KAB-1, NEW DELHI 110012, INDIA
+SN 0019-5022
+EI 
+J9 INDIAN J AGR SCI
+JI Indian J. Agric. Sci.
+PD JUN 15
+PY 2016
+VL 86
+IS 6
+BP 738
+EP 742
+DI 
+PG 5
+WC Agriculture, Multidisciplinary
+SC Agriculture
+GA DO8FO
+UT WOS:000378018600005
+DA 2025-12-25
+ER
+
+PT J
+AU Barnea, E
+   Mairon, R
+   Ben-Shahar, O
+AF Barnea, Ehud
+   Mairon, Rotem
+   Ben-Shahar, Ohad
+TI Colour-agnostic shape-based 3D fruit detection for crop harvesting robots
+SO BIOSYSTEMS ENGINEERING
+LA English
+DT Article
+DE Agrobotics; Shape; Highlights; Symmetry; RGB-D; Green sweet pepper
+ID reflection components; recognition; system
+AB Most agricultural robots, fruit harvesting systems in particular, use computer vision to detect their fruit targets. Exploiting the uniqueness of fruit colour amidst the foliage, almost all of these computer vision systems rely on colour features to identify the fruit in the image. However, often the colour of fruit cannot be discriminated from its background, especially under unstable illumination conditions, thus rendering the detection and segmentation of the target highly sensitive or unfeasible in colour space. While multispectral signals, especially those outside the visible spectrum, may alleviate this difficulty, simpler, cheaper, and more accessible solutions are desired. Here exploiting both RGB and range data to analyse shape-related features of objects both in the image plane and 3D space is proposed. In particular, 3D surface normal features, 3D plane-reflective symmetry, and image plane highlights from elliptic surface points are combined to provide shape-based detection of fruits in 3D space regardless of their colour. Results are shown using a particularly challenging sweet pepper dataset with a significant degree of occlusions. (C) 2016 IAgrE. Published by Elsevier Ltd. All rights reserved.
+C1 [Barnea, Ehud; Mairon, Rotem; Ben-Shahar, Ohad] Ben Gurion Univ Negev, Dept Comp Sci, Interdisciplinary Computat Vis Lab, IL-84105 Beer Sheva, Israel.
+C3 Ben-Gurion University of the Negev
+RP Ben-Shahar, O (corresponding author), Ben Gurion Univ Negev, Dept Comp Sci, Interdisciplinary Computat Vis Lab, IL-84105 Beer Sheva, Israel.
+EM ben-shahar@cs.bgu.ac.il
+FU European Commission (CROPS GA) [246252]; Frankel fund at the Computer Science department at Ben-Gurion University of the Negev; Helmsley Charitable Trust through the Agricultural, Biological and Cognitive Robotics Initiative at Ben-Gurion University of the Negev
+NR 62
+TC 83
+Z9 92
+U1 2
+U2 99
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 1537-5110
+EI 1537-5129
+J9 BIOSYST ENG
+JI Biosyst. Eng.
+PD JUN 15
+PY 2016
+VL 146
+IS 
+BP 57
+EP 70
+DI 10.1016/j.biosystemseng.2016.01.013
+PG 14
+WC Agricultural Engineering; Agriculture, Multidisciplinary
+SC Agriculture
+GA DQ1MZ
+UT WOS:000378966400006
+DA 2025-12-25
+ER
+
+PT J
+AU Barth, R
+   Hemming, J
+   van Henten, EJ
+AF Barth, Ruud
+   Hemming, Jochen
+   van Henten, Eldert J.
+TI Design of an eye-in-hand sensing and servo control framework for harvesting robotics in dense vegetation
+SO BIOSYSTEMS ENGINEERING
+LA English
+DT Article
+DE Framework; Harvest robots; Visual servo control; ROS; SLAM
+ID localization
+AB A modular software framework design that allows flexible implementation of eye-in-hand sensing and motion control for agricultural robotics in dense vegetation is reported. Harvesting robots in cultivars with dense vegetation require multiple viewpoints and on-line trajectory adjustments in order to reduce the amount of false negatives and correct for fruit movement. In contrast to specialised software, the framework proposed aims to support a wide variety of agricultural use cases, hardware and extensions. A set of Robotic Operating System (ROS) nodes was created to ensure modularity and separation of concems, implementing functionalities for application control, robot motion control, image acquisition, fruit detection, visual servo control and simultaneous localisation and mapping (SLAM) for monocular relative depth estimation and scene reconstruction. Coordination functionality was implemented by the application control node with a finite state machine. In order to provide visual servo control and simultaneous localisation and mapping functionalities, off-the-shelf libraries Visual Servoing Platform library (ViSP) and Large Scale Direct SLAM (LSD-SLAM) were wrapped in ROS nodes. The capabilities of the framework are demonstrated by an example implementation for use with a sweet-pepper crop, combined with hardware consisting of a Baxter robot and a colour camera placed on its end-effector. Qualitative tests were performed under laboratory conditions using an artificial dense vegetation sweet-pepper crop. Results indicated the framework can be implemented for sensing and robot motion control in sweet-pepper using visual information from the end-effector. Future research to apply the framework to other use-cases and validate the performance of its components in servo applications under real greenhouse conditions is suggested. (C) 2015 The Authors. Published by Elsevier Ltd on behalf of IAgrE.
+C1 [Barth, Ruud] Harvard Univ, 60 Oxford St, Cambridge, MA 02138 USA.
+   [Barth, Ruud; Hemming, Jochen] Univ Wageningen & Res Ctr, Greenhouse Hort, POB 644, NL-6700 AP Wageningen, Netherlands.
+   [van Henten, Eldert J.] Univ Wageningen & Res Ctr, Farm Technol Grp, Droevendaalsesteeg 1, NL-6708 PB Wageningen, Netherlands.
+C3 Harvard University; Wageningen University & Research; Wageningen University & Research
+RP Barth, R (corresponding author), Univ Wageningen & Res Ctr, Greenhouse Hort, POB 644, NL-6700 AP Wageningen, Netherlands.
+EM r.barth@wur.nl; jochen.hemming@wur.nl; eldert.vanhenten@wur.nl
+FU European Commission (CROPS GA) [246252]; Horizon2020 Programme (SWEEPER GA) [644313]; Dutch horticultural product board (PT) [14555]
+NR 44
+TC 91
+Z9 109
+U1 7
+U2 131
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 1537-5110
+EI 1537-5129
+J9 BIOSYST ENG
+JI Biosyst. Eng.
+PD JUN 15
+PY 2016
+VL 146
+IS 
+BP 71
+EP 84
+DI 10.1016/j.biosystemseng.2015.12.001
+PG 14
+WC Agricultural Engineering; Agriculture, Multidisciplinary
+SC Agriculture
+GA DQ1MZ
+UT WOS:000378966400007
+DA 2025-12-25
+ER
+
+PT J
+AU Mahajan, BVC
+   Dhillon, WS
+   Sidhu, MK
+   Jindal, SK
+   Kumar, M
+   Dhaliwal, MS
+   Singh, SP
+AF Mahajan, B. V. C.
+   Dhillon, W. S.
+   Sidhu, M. K.
+   Jindal, S. K.
+   Kumar, Mahesh
+   Dhaliwal, M. S.
+   Singh, S. P.
+TI Effect of packaging films on shelf-life and quality of bell pepper under super and ordinary market conditions
+SO INDIAN JOURNAL OF HORTICULTURE
+LA English
+DT Article
+DE Bell pepper; packaging films; quality; storage conditions
+ID storage
+AB Bell pepper (Capsicum annuum L.) fruits of cv. Indra were harvested at commercial maturity and packed in different packaging films, viz. heat shrinkable film (15 mu), cling film (15 mu) and low density polyethylene film (LDPE 25 mu) and thereafter stored under two different conditions, i.e. super-market conditions (18-20 degrees C; 90-95% RH) and ordinary market conditions (28-30 degrees C; 60-65% RH). The shrink film significantly checked the loss in weight (3.38%), firmness (1330.5 g force) and decay incidence (0%), maintained qualities attributes like ascorbic acid (20.70 mg/100 g) and chlorophyll content (0.066 mg/100 g), respectively during 10 days of storage under super market conditions. The in-package gaseous composition (O-2 and CO2) in shrink film packed fruits was found to be 3.55 and 17.10% after 10 days of storage. The overall sensory quality of the packed bell pepper during retailing was found to be better than control fruits. The shrink and cling film prolonged the shelf-life and maintained the quality of bell pepper fruits for 10 and 7 days under super market conditions and ordinary market conditions, respectively as against 5 and 2 days only in case of unpacked control fruits.
+C1 [Mahajan, B. V. C.; Dhillon, W. S.; Sidhu, M. K.; Jindal, S. K.; Kumar, Mahesh; Dhaliwal, M. S.; Singh, S. P.] Punjab Hort Postharvest Technol Ctr, Punjab Agr Univ Campus, Ludhiana 141004, Punjab, India.
+   [Jindal, S. K.; Dhaliwal, M. S.] PAU, Dept Vegetable Crops, Ludhiana, Punjab, India.
+C3 Punjab Agricultural University; Punjab Agricultural University
+RP Mahajan, BVC (corresponding author), Punjab Hort Postharvest Technol Ctr, Punjab Agr Univ Campus, Ludhiana 141004, Punjab, India.
+EM mahajanbvc@gmail.com
+NR 16
+TC 4
+Z9 4
+U1 0
+U2 6
+PU HORTICULTURAL SOC INDIA
+PI NEW DELHI
+PA DIV FRUITS & HORTICULTURAL TECHNOL, INDIAN AGRICULTURAL RESEARCH INST, NEW DELHI, 110 012, INDIA
+SN 0972-8538
+EI 1875-8711
+J9 INDIAN J HORTIC
+JI Indian J. Hortic.
+PD MAR 15
+PY 2016
+VL 73
+IS 1
+BP 114
+EP 119
+DI 10.5958/0974-0112.2016.00029.3
+PG 6
+WC Horticulture
+SC Agriculture
+GA DM6PU
+UT WOS:000376475700021
+DA 2025-12-25
+ER
+
+PT J
+AU Benz, V
+   Lúcio, AD
+AF Benz, Vilson
+   Lucio, Alessandro Dal'Col
+TI Producing randomness between plots in pepper and snap bean experiments
+SO SEMINA-CIENCIAS AGRARIAS
+LA English
+DT Article
+DE Capsicum annuum; Phaseolus vulgaris L.; Run test; Experimental planning; Experimental precision
+ID sample-size; zucchini
+AB It is important to know the production variability among experimental plots in a protected environment because this information reduces error and increases the reliability of the results. Therefore, the objective of this study was to characterize the spatial independence of fruit yield between plots of peppers and snap beans. Data on production uniformity were gathered from trials performed at the Department of Plant Science, Federal University of Santa Maria. Different plots sizes were created according to the number of plants in the crop row. To verify the randomness of the data distribution, we applied a sequence test between the plots within one line for individual and combined harvests. The use of ten plants per plot in experiments with peppers led to no randomness within the lines during the production of fruit fresh biomass. In experiments with snap beans conducted in a greenhouse, a plastic tunnel and by unprotected cultivation using plots with six or more basic units, 12 or more plants per plot produced random fresh biomass data for fruits within the crop row.
+C1 [Benz, Vilson] Univ Fed Santa Maria, Colegio Politecn, Santa Maria, RS, Brazil.
+   [Lucio, Alessandro Dal'Col] Univ Fed Santa Maria, Dept Fitotecnia, Santa Maria, RS, Brazil.
+C3 Universidade Federal de Santa Maria (UFSM); Universidade Federal de Santa Maria (UFSM)
+RP Benz, V (corresponding author), Univ Fed Santa Maria, Colegio Politecn, Santa Maria, RS, Brazil.
+EM vibenz@gmail.com; adlucio@ufsm.br
+NR 18
+TC 0
+Z9 0
+U1 0
+U2 2
+PU UNIV ESTADUAL LONDRINA
+PI LONDRINA
+PA CAXIA POSTAL 6001, LONDRINA, PARANA 86501-990, BRAZIL
+SN 1676-546X
+EI 1679-0359
+J9 SEMIN-CIENC AGRAR
+JI Semin.-Cienc. Agrar.
+PD JUN 15
+PY 2016
+VL 37
+IS 6
+BP 3835
+EP 3845
+DI 10.5433/1679-0359.2016v37n6p3835
+PG 11
+WC Agriculture, Multidisciplinary
+SC Agriculture
+GA EJ6KO
+UT WOS:000393328300002
+DA 2025-12-25
+ER
+
+PT J
+AU Bac, CW
+   Roorda, T
+   Reshef, R
+   Berman, S
+   Hemming, J
+   van Henten, EJ
+AF Bac, C. Wouter
+   Roorda, Tim
+   Reshef, Roi
+   Berman, Sigal
+   Hemming, Jochen
+   van Henten, Eldert J.
+TI Analysis of a motion planning problem for sweet-pepper harvesting in a dense obstacle environment
+SO BIOSYSTEMS ENGINEERING
+LA English
+DT Article
+DE Motion planning; Agricultural robot; Sensitivity analysis; Rapidly exploring random trees; Grasp pose
+ID sensitivity-analysis; robot; manipulators; design
+AB To reach a fruit in an obstacle-dense crop environment, robotic fruit harvesting requires a collision-free motion of the manipulator and end-effector. A novel two-part analysis was conducted of a sweet-pepper harvesting robot based on data of fruit (N = 158) and stem locations collected from a greenhouse. The first part of the analysis compared two methods of selecting the azimuth angle of the end-effector. The new 'constrained-azimuth' method avoided risky paths and achieved a motion planning success similar to the 'full-azimuth' method. In the second part, a sensitivity analysis was conducted for five parameters specifying the crop (stem spacing and fruit location), the robot (end-effector dimensions and robot position) and the planning algorithm, to evaluate their effect on successfully finding a collision-free goal configuration and path. Reducing end-effector dimensions and widening stem spacing are promising research directions because they significantly improved goal configuration success, from 63% to 84%. However, the fruit location at the stem is the strongest influencing parameter and therefore provides an incentive to train or breed plants that develop more fruit at the front side of the plant stem. The two analyses may serve as useful tools to study motion planning problems in a dense obstacle environment. (C) 2015 IAgrE. Published by Elsevier Ltd. All rights reserved.
+C1 [Bac, C. Wouter; Hemming, Jochen] Univ Wageningen & Res Ctr, Wageningen UR Greenhouse Hort, Droevendaalsesteeg 1, NL-6708 PB Wageningen, Netherlands.
+   [Bac, C. Wouter; Roorda, Tim; van Henten, Eldert J.] Univ Wageningen & Res Ctr, Farm Technol Grp, Droevendaalsesteeg 1, NL-6708 PB Wageningen, Netherlands.
+   [Reshef, Roi; Berman, Sigal] Ben Gurion Univ Negev, Dept Ind Engn & Management, POB 653, IL-84105 Beer Sheva, Israel.
+C3 Wageningen University & Research; Wageningen University & Research; Ben-Gurion University of the Negev
+RP Bac, CW (corresponding author), Univ Wageningen & Res Ctr, Wageningen UR Greenhouse Hort, Droevendaalsesteeg 1, NL-6708 PB Wageningen, Netherlands.; Bac, CW (corresponding author), Univ Wageningen & Res Ctr, Farm Technol Grp, Droevendaalsesteeg 1, NL-6708 PB Wageningen, Netherlands.
+EM wouter.bac@wur.nl
+FU European Commission (CROPS GA) [246252]; Dutch horticultural product board (PT) [14555]
+NR 38
+TC 57
+Z9 70
+U1 1
+U2 35
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 1537-5110
+EI 1537-5129
+J9 BIOSYST ENG
+JI Biosyst. Eng.
+PD JUN 15
+PY 2016
+VL 146
+IS 
+BP 85
+EP 97
+DI 10.1016/j.biosystemseng.2015.07.004
+PG 13
+WC Agricultural Engineering; Agriculture, Multidisciplinary
+SC Agriculture
+GA DQ1MZ
+UT WOS:000378966400008
+DA 2025-12-25
+ER
+

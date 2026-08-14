@@ -1,0 +1,1659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key id="name" for="node" attr.name="name" attr.type="string"/>
+<key id="label" for="node" attr.name="label" attr.type="string"/>
+<key id="author" for="node" attr.name="author" attr.type="string"/>
+<key id="year" for="node" attr.name="year" attr.type="string"/>
+<key id="title" for="node" attr.name="title" attr.type="string"/>
+<key id="so" for="node" attr.name="so" attr.type="string"/>
+<key id="vol" for="node" attr.name="vol" attr.type="string"/>
+<key id="page" for="node" attr.name="pg" attr.type="string"/>
+<key id="ut" for="node" attr.name="ut" attr.type="string"/>
+<key id="freq" for="node" attr.name="freq" attr.type="integer"/>
+<key id="centrality" for="node" attr.name="centrality" attr.type="double"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="float"/>
+<key id="slice" for="edge" attr.name="slice" attr.type="integer"/>
+<key id="year" for="edge" attr.name="year" attr.type="string"/>
+<graph edgedefault="undirected">
+<node id="0">
+  <data key="name">河套学院机电工程系</data>
+  <data key="label">河套学院机电工程系</data>
+  <data key="author">河套学院机电工程系</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="1">
+  <data key="name">安徽科技学院机械工程学院</data>
+  <data key="label">安徽科技学院机械工程学院</data>
+  <data key="author">安徽科技学院机械工程学院</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="2">
+  <data key="name">武威职业学院</data>
+  <data key="label">武威职业学院</data>
+  <data key="author">武威职业学院</data>
+  <data key="year">2025</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="3">
+  <data key="name">新疆农业大学机械交通学院</data>
+  <data key="label">新疆农业大学机械交通学院</data>
+  <data key="author">新疆农业大学机械交通学院</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="4">
+  <data key="name">甘肃畜牧工程职业技术学院</data>
+  <data key="label">甘肃畜牧工程职业技术学院</data>
+  <data key="author">甘肃畜牧工程职业技术学院</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="5">
+  <data key="name">池州学院</data>
+  <data key="label">池州学院</data>
+  <data key="author">池州学院</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="6">
+  <data key="name">中国农业大学工学院</data>
+  <data key="label">中国农业大学工学院</data>
+  <data key="author">中国农业大学工学院</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="7">
+  <data key="name">山西省农业机械发展中心</data>
+  <data key="label">山西省农业机械发展中心</data>
+  <data key="author">山西省农业机械发展中心</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="8">
+  <data key="name">兰州市科学技术咨询服务中心</data>
+  <data key="label">兰州市科学技术咨询服务中心</data>
+  <data key="author">兰州市科学技术咨询服务中心</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="9">
+  <data key="name">广东海洋大学机械工程学院</data>
+  <data key="label">广东海洋大学机械工程学院</data>
+  <data key="author">广东海洋大学机械工程学院</data>
+  <data key="year">2025</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="10">
+  <data key="name">新疆巴州农业农村机械化发展中心</data>
+  <data key="label">新疆巴州农业农村机械化发展中心</data>
+  <data key="author">新疆巴州农业农村机械化发展中心</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="11">
+  <data key="name">广西师范大学电子工程学院</data>
+  <data key="label">广西师范大学电子工程学院</data>
+  <data key="author">广西师范大学电子工程学院</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="12">
+  <data key="name">广西师范大学职业技术师范学院</data>
+  <data key="label">广西师范大学职业技术师范学院</data>
+  <data key="author">广西师范大学职业技术师范学院</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="13">
+  <data key="name">一拖(洛阳)福莱格车身有限公司</data>
+  <data key="label">一拖(洛阳)福莱格车身有限公司</data>
+  <data key="author">一拖(洛阳)福莱格车身有限公司</data>
+  <data key="year">2024</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="14">
+  <data key="name">库尔勒源丰农机有限公司</data>
+  <data key="label">库尔勒源丰农机有限公司</data>
+  <data key="author">库尔勒源丰农机有限公司</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="15">
+  <data key="name">新疆维吾尔自治区巴州农业农村机械化发展中心</data>
+  <data key="label">新疆维吾尔自治区巴州农业农村机械化发展中心</data>
+  <data key="author">新疆维吾尔自治区巴州农业农村机械化发展中心</data>
+  <data key="year">2024</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="16">
+  <data key="name">新疆农垦科学院作物研究所</data>
+  <data key="label">新疆农垦科学院作物研究所</data>
+  <data key="author">新疆农垦科学院作物研究所</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="17">
+  <data key="name">石河子大学机械电气工程学院/新疆生产建设兵团农业机械重点实验室</data>
+  <data key="label">石河子大学机械电气工程学院/新疆生产建设兵团农业机械重点实验室</data>
+  <data key="author">石河子大学机械电气工程学院/新疆生产建设兵团农业机械重点实验室</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="18">
+  <data key="name">巴音郭楞职业技术学院</data>
+  <data key="label">巴音郭楞职业技术学院</data>
+  <data key="author">巴音郭楞职业技术学院</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="19">
+  <data key="name">华北水利水电大学机械学院</data>
+  <data key="label">华北水利水电大学机械学院</data>
+  <data key="author">华北水利水电大学机械学院</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="20">
+  <data key="name">重庆市农业科学院</data>
+  <data key="label">重庆市农业科学院</data>
+  <data key="author">重庆市农业科学院</data>
+  <data key="year">2024</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="21">
+  <data key="name">新疆中收农牧机械有限公司</data>
+  <data key="label">新疆中收农牧机械有限公司</data>
+  <data key="author">新疆中收农牧机械有限公司</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="22">
+  <data key="name">南疆特色农林产物利用与装备兵团重点实验室</data>
+  <data key="label">南疆特色农林产物利用与装备兵团重点实验室</data>
+  <data key="author">南疆特色农林产物利用与装备兵团重点实验室</data>
+  <data key="year">2025</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="23">
+  <data key="name">天津市农业发展服务中心</data>
+  <data key="label">天津市农业发展服务中心</data>
+  <data key="author">天津市农业发展服务中心</data>
+  <data key="year">2024</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="24">
+  <data key="name">巴州农业农村机械化发展中心</data>
+  <data key="label">巴州农业农村机械化发展中心</data>
+  <data key="author">巴州农业农村机械化发展中心</data>
+  <data key="year">2024</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="25">
+  <data key="name">新疆生产建设兵团第二师二十一团农业技术推广站</data>
+  <data key="label">新疆生产建设兵团第二师二十一团农业技术推广站</data>
+  <data key="author">新疆生产建设兵团第二师二十一团农业技术推广站</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="26">
+  <data key="name">新疆农业大学</data>
+  <data key="label">新疆农业大学</data>
+  <data key="author">新疆农业大学</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="27">
+  <data key="name">杭州职业技术学院</data>
+  <data key="label">杭州职业技术学院</data>
+  <data key="author">杭州职业技术学院</data>
+  <data key="year">2024</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="28">
+  <data key="name">京都大学农学研究科</data>
+  <data key="label">京都大学农学研究科</data>
+  <data key="author">京都大学农学研究科</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="29">
+  <data key="name">广东海洋大学电子与信息工程学院</data>
+  <data key="label">广东海洋大学电子与信息工程学院</data>
+  <data key="author">广东海洋大学电子与信息工程学院</data>
+  <data key="year">2025</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="30">
+  <data key="name">湖北第二师范学院物理与电子信息学院</data>
+  <data key="label">湖北第二师范学院物理与电子信息学院</data>
+  <data key="author">湖北第二师范学院物理与电子信息学院</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="31">
+  <data key="name">东北林业大学</data>
+  <data key="label">东北林业大学</data>
+  <data key="author">东北林业大学</data>
+  <data key="year">2025</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="32">
+  <data key="name">华中科技大学机械科学与工程学院</data>
+  <data key="label">华中科技大学机械科学与工程学院</data>
+  <data key="author">华中科技大学机械科学与工程学院</data>
+  <data key="year">2025</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="33">
+  <data key="name">浙江理工大学机械工程学院</data>
+  <data key="label">浙江理工大学机械工程学院</data>
+  <data key="author">浙江理工大学机械工程学院</data>
+  <data key="year">2024</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="34">
+  <data key="name">太原科技大学</data>
+  <data key="label">太原科技大学</data>
+  <data key="author">太原科技大学</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="35">
+  <data key="name">凯里学院</data>
+  <data key="label">凯里学院</data>
+  <data key="author">凯里学院</data>
+  <data key="year">2025</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="36">
+  <data key="name">沈阳农业大学工程学院</data>
+  <data key="label">沈阳农业大学工程学院</data>
+  <data key="author">沈阳农业大学工程学院</data>
+  <data key="year">2025</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="37">
+  <data key="name">石河子大学</data>
+  <data key="label">石河子大学</data>
+  <data key="author">石河子大学</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="38">
+  <data key="name">新疆隆平高科红安天椒农业科技有限公司</data>
+  <data key="label">新疆隆平高科红安天椒农业科技有限公司</data>
+  <data key="author">新疆隆平高科红安天椒农业科技有限公司</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="39">
+  <data key="name">贵州省山地农业机械研究所</data>
+  <data key="label">贵州省山地农业机械研究所</data>
+  <data key="author">贵州省山地农业机械研究所</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">8</data>
+</node>
+<node id="40">
+  <data key="name">新疆维吾尔自治区农牧业机械试验鉴定站</data>
+  <data key="label">新疆维吾尔自治区农牧业机械试验鉴定站</data>
+  <data key="author">新疆维吾尔自治区农牧业机械试验鉴定站</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="41">
+  <data key="name">新疆维吾尔自治区巴音郭楞职业技术学院</data>
+  <data key="label">新疆维吾尔自治区巴音郭楞职业技术学院</data>
+  <data key="author">新疆维吾尔自治区巴音郭楞职业技术学院</data>
+  <data key="year">2024</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="42">
+  <data key="name">河南省漯河市农业机械技术中心</data>
+  <data key="label">河南省漯河市农业机械技术中心</data>
+  <data key="author">河南省漯河市农业机械技术中心</data>
+  <data key="year">2024</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="43">
+  <data key="name">新疆机械研究院股份有限公司</data>
+  <data key="label">新疆机械研究院股份有限公司</data>
+  <data key="author">新疆机械研究院股份有限公司</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="44">
+  <data key="name">洛阳拖拉机研究所有限公司</data>
+  <data key="label">洛阳拖拉机研究所有限公司</data>
+  <data key="author">洛阳拖拉机研究所有限公司</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="45">
+  <data key="name">民勤县农业技术推广中心</data>
+  <data key="label">民勤县农业技术推广中心</data>
+  <data key="author">民勤县农业技术推广中心</data>
+  <data key="year">2025</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="46">
+  <data key="name">中国生物发酵产业协会</data>
+  <data key="label">中国生物发酵产业协会</data>
+  <data key="author">中国生物发酵产业协会</data>
+  <data key="year">2025</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="47">
+  <data key="name">北京市农林科学院智能装备技术研究中心</data>
+  <data key="label">北京市农林科学院智能装备技术研究中心</data>
+  <data key="author">北京市农林科学院智能装备技术研究中心</data>
+  <data key="year">2025</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="48">
+  <data key="name">智能农业动力装备全国重点实验室</data>
+  <data key="label">智能农业动力装备全国重点实验室</data>
+  <data key="author">智能农业动力装备全国重点实验室</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="49">
+  <data key="name">杭州市农业科学研究院蔬菜研究所</data>
+  <data key="label">杭州市农业科学研究院蔬菜研究所</data>
+  <data key="author">杭州市农业科学研究院蔬菜研究所</data>
+  <data key="year">2024</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="50">
+  <data key="name">石河子大学机电学院</data>
+  <data key="label">石河子大学机电学院</data>
+  <data key="author">石河子大学机电学院</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="51">
+  <data key="name">河北中农博远农业装备有限公司</data>
+  <data key="label">河北中农博远农业装备有限公司</data>
+  <data key="author">河北中农博远农业装备有限公司</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="52">
+  <data key="name">新疆巴州库尔勒市培训中心</data>
+  <data key="label">新疆巴州库尔勒市培训中心</data>
+  <data key="author">新疆巴州库尔勒市培训中心</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="53">
+  <data key="name">中国石油大学机电工程学院</data>
+  <data key="label">中国石油大学机电工程学院</data>
+  <data key="author">中国石油大学机电工程学院</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="54">
+  <data key="name">新疆交通职业技术学院</data>
+  <data key="label">新疆交通职业技术学院</data>
+  <data key="author">新疆交通职业技术学院</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="55">
+  <data key="name">河南工业职业技术学院</data>
+  <data key="label">河南工业职业技术学院</data>
+  <data key="author">河南工业职业技术学院</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="56">
+  <data key="name">贵州电子科技职业学院</data>
+  <data key="label">贵州电子科技职业学院</data>
+  <data key="author">贵州电子科技职业学院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="57">
+  <data key="name">石河子大学机械电气工程学院</data>
+  <data key="label">石河子大学机械电气工程学院</data>
+  <data key="author">石河子大学机械电气工程学院</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">10</data>
+</node>
+<node id="58">
+  <data key="name">河北省农机化技术推广总站</data>
+  <data key="label">河北省农机化技术推广总站</data>
+  <data key="author">河北省农机化技术推广总站</data>
+  <data key="year">2024</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="59">
+  <data key="name">北京市海淀区农业技术综合服务中心</data>
+  <data key="label">北京市海淀区农业技术综合服务中心</data>
+  <data key="author">北京市海淀区农业技术综合服务中心</data>
+  <data key="year">2025</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="60">
+  <data key="name">天津市宝坻区农业发展服务中心</data>
+  <data key="label">天津市宝坻区农业发展服务中心</data>
+  <data key="author">天津市宝坻区农业发展服务中心</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="61">
+  <data key="name">新疆生产建设兵团第十师184团农业发展服务中心</data>
+  <data key="label">新疆生产建设兵团第十师184团农业发展服务中心</data>
+  <data key="author">新疆生产建设兵团第十师184团农业发展服务中心</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="62">
+  <data key="name">贵州经贸职业技术学院</data>
+  <data key="label">贵州经贸职业技术学院</data>
+  <data key="author">贵州经贸职业技术学院</data>
+  <data key="year">2025</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="63">
+  <data key="name">江西交通职业技术学院</data>
+  <data key="label">江西交通职业技术学院</data>
+  <data key="author">江西交通职业技术学院</data>
+  <data key="year">2024</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="64">
+  <data key="name">第一拖拉机股份有限公司</data>
+  <data key="label">第一拖拉机股份有限公司</data>
+  <data key="author">第一拖拉机股份有限公司</data>
+  <data key="year">2024</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="65">
+  <data key="name">兵团第二师二十一团农业技术推广站</data>
+  <data key="label">兵团第二师二十一团农业技术推广站</data>
+  <data key="author">兵团第二师二十一团农业技术推广站</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="66">
+  <data key="name">新疆农业工程装备创新设计实验室重点实验室</data>
+  <data key="label">新疆农业工程装备创新设计实验室重点实验室</data>
+  <data key="author">新疆农业工程装备创新设计实验室重点实验室</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="67">
+  <data key="name">农业农村部规划设计研究院设施农业研究所</data>
+  <data key="label">农业农村部规划设计研究院设施农业研究所</data>
+  <data key="author">农业农村部规划设计研究院设施农业研究所</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="68">
+  <data key="name">昌吉市农机推广站</data>
+  <data key="label">昌吉市农机推广站</data>
+  <data key="author">昌吉市农机推广站</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="69">
+  <data key="name">武夷学院机电工程学院</data>
+  <data key="label">武夷学院机电工程学院</data>
+  <data key="author">武夷学院机电工程学院</data>
+  <data key="year">2024</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="70">
+  <data key="name">衡水市农机技术推广站</data>
+  <data key="label">衡水市农机技术推广站</data>
+  <data key="author">衡水市农机技术推广站</data>
+  <data key="year">2024</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="71">
+  <data key="name">和硕县塔哈其镇农业(畜牧业)发展服务中心</data>
+  <data key="label">和硕县塔哈其镇农业(畜牧业)发展服务中心</data>
+  <data key="author">和硕县塔哈其镇农业(畜牧业)发展服务中心</data>
+  <data key="year">2025</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="72">
+  <data key="name">新疆维吾尔自治区农业科学院</data>
+  <data key="label">新疆维吾尔自治区农业科学院</data>
+  <data key="author">新疆维吾尔自治区农业科学院</data>
+  <data key="year">2025</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="73">
+  <data key="name">新疆隆平高科红安种业有限公司</data>
+  <data key="label">新疆隆平高科红安种业有限公司</data>
+  <data key="author">新疆隆平高科红安种业有限公司</data>
+  <data key="year">2025</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="74">
+  <data key="name">贵州师范大学机械与电气工程学院</data>
+  <data key="label">贵州师范大学机械与电气工程学院</data>
+  <data key="author">贵州师范大学机械与电气工程学院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="75">
+  <data key="name">塔里木大学机械电气化工程学院</data>
+  <data key="label">塔里木大学机械电气化工程学院</data>
+  <data key="author">塔里木大学机械电气化工程学院</data>
+  <data key="year">2025</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="76">
+  <data key="name">桂林电子科技大学海洋工程学院</data>
+  <data key="label">桂林电子科技大学海洋工程学院</data>
+  <data key="author">桂林电子科技大学海洋工程学院</data>
+  <data key="year">2025</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="77">
+  <data key="name">浙江省种植装备技术重点实验室</data>
+  <data key="label">浙江省种植装备技术重点实验室</data>
+  <data key="author">浙江省种植装备技术重点实验室</data>
+  <data key="year">2024</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="78">
+  <data key="name">新疆维吾尔自治区昌吉市农机推广站</data>
+  <data key="label">新疆维吾尔自治区昌吉市农机推广站</data>
+  <data key="author">新疆维吾尔自治区昌吉市农机推广站</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="79">
+  <data key="name">河北省农业机械鉴定总站</data>
+  <data key="label">河北省农业机械鉴定总站</data>
+  <data key="author">河北省农业机械鉴定总站</data>
+  <data key="year">2024</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="80">
+  <data key="name">甘肃农业大学机电工程学院</data>
+  <data key="label">甘肃农业大学机电工程学院</data>
+  <data key="author">甘肃农业大学机电工程学院</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="81">
+  <data key="name">沈阳航空航天大学机电工程学院</data>
+  <data key="label">沈阳航空航天大学机电工程学院</data>
+  <data key="author">沈阳航空航天大学机电工程学院</data>
+  <data key="year">2025</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="82">
+  <data key="name">新疆农垦科学院机械装备研究所</data>
+  <data key="label">新疆农垦科学院机械装备研究所</data>
+  <data key="author">新疆农垦科学院机械装备研究所</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="83">
+  <data key="name">浙江大学文学院</data>
+  <data key="label">浙江大学文学院</data>
+  <data key="author">浙江大学文学院</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="84">
+  <data key="name">新疆工程学院</data>
+  <data key="label">新疆工程学院</data>
+  <data key="author">新疆工程学院</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="85">
+  <data key="name">和硕县农业技术推广中心</data>
+  <data key="label">和硕县农业技术推广中心</data>
+  <data key="author">和硕县农业技术推广中心</data>
+  <data key="year">2025</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="86">
+  <data key="name">新疆工程学院机械工程系</data>
+  <data key="label">新疆工程学院机械工程系</data>
+  <data key="author">新疆工程学院机械工程系</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="87">
+  <data key="name">安徽唯嵩光电科技有限公司</data>
+  <data key="label">安徽唯嵩光电科技有限公司</data>
+  <data key="author">安徽唯嵩光电科技有限公司</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="88">
+  <data key="name">广西钦州市乡村振兴信息中心</data>
+  <data key="label">广西钦州市乡村振兴信息中心</data>
+  <data key="author">广西钦州市乡村振兴信息中心</data>
+  <data key="year">2025</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="89">
+  <data key="name">农业部西北农业装备重点实验室</data>
+  <data key="label">农业部西北农业装备重点实验室</data>
+  <data key="author">农业部西北农业装备重点实验室</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="90">
+  <data key="name">贵州省农业科学院辣椒研究所</data>
+  <data key="label">贵州省农业科学院辣椒研究所</data>
+  <data key="author">贵州省农业科学院辣椒研究所</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="91">
+  <data key="name">河北省衡水市农机技术推广站</data>
+  <data key="label">河北省衡水市农机技术推广站</data>
+  <data key="author">河北省衡水市农机技术推广站</data>
+  <data key="year">2024</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="92">
+  <data key="name">石河子大学经济与管理学院</data>
+  <data key="label">石河子大学经济与管理学院</data>
+  <data key="author">石河子大学经济与管理学院</data>
+  <data key="year">2024</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="93">
+  <data key="name">新疆巴音郭楞职业技术学院</data>
+  <data key="label">新疆巴音郭楞职业技术学院</data>
+  <data key="author">新疆巴音郭楞职业技术学院</data>
+  <data key="year">2025</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="94">
+  <data key="name">新疆新研牧神科技有限公司</data>
+  <data key="label">新疆新研牧神科技有限公司</data>
+  <data key="author">新疆新研牧神科技有限公司</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">14</data>
+</node>
+<node id="95">
+  <data key="name">河南省农业科学技术展览馆</data>
+  <data key="label">河南省农业科学技术展览馆</data>
+  <data key="author">河南省农业科学技术展览馆</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="96">
+  <data key="name">广东海洋大学深蓝智能机电产品创新团队</data>
+  <data key="label">广东海洋大学深蓝智能机电产品创新团队</data>
+  <data key="author">广东海洋大学深蓝智能机电产品创新团队</data>
+  <data key="year">2025</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="97">
+  <data key="name">黑龙江省农业机械工程科学研究院牡丹江分院</data>
+  <data key="label">黑龙江省农业机械工程科学研究院牡丹江分院</data>
+  <data key="author">黑龙江省农业机械工程科学研究院牡丹江分院</data>
+  <data key="year">2024</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="98">
+  <data key="name">甘肃省金昌市金川区双湾镇农业服务中心</data>
+  <data key="label">甘肃省金昌市金川区双湾镇农业服务中心</data>
+  <data key="author">甘肃省金昌市金川区双湾镇农业服务中心</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="99">
+  <data key="name">江西机电职业技术学院</data>
+  <data key="label">江西机电职业技术学院</data>
+  <data key="author">江西机电职业技术学院</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="100">
+  <data key="name">新疆维吾尔自治区昌吉市佃坝乡农机管理服务站</data>
+  <data key="label">新疆维吾尔自治区昌吉市佃坝乡农机管理服务站</data>
+  <data key="author">新疆维吾尔自治区昌吉市佃坝乡农机管理服务站</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="101">
+  <data key="name">新疆巴州焉耆回族自治县五号渠乡农业发展中心</data>
+  <data key="label">新疆巴州焉耆回族自治县五号渠乡农业发展中心</data>
+  <data key="author">新疆巴州焉耆回族自治县五号渠乡农业发展中心</data>
+  <data key="year">2025</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="102">
+  <data key="name">新疆农业大学机电工程学院</data>
+  <data key="label">新疆农业大学机电工程学院</data>
+  <data key="author">新疆农业大学机电工程学院</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="103">
+  <data key="name">华中农业大学工学院</data>
+  <data key="label">华中农业大学工学院</data>
+  <data key="author">华中农业大学工学院</data>
+  <data key="year">2025</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="104">
+  <data key="name">新疆中收农牧机械公司</data>
+  <data key="label">新疆中收农牧机械公司</data>
+  <data key="author">新疆中收农牧机械公司</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="105">
+  <data key="name">天津市宝坻区农机发展服务中心</data>
+  <data key="label">天津市宝坻区农机发展服务中心</data>
+  <data key="author">天津市宝坻区农机发展服务中心</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="106">
+  <data key="name">新疆和静县哈尔莫敦镇农机站</data>
+  <data key="label">新疆和静县哈尔莫敦镇农机站</data>
+  <data key="author">新疆和静县哈尔莫敦镇农机站</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="107">
+  <data key="name">巴音郭楞蒙古自治州农业农村机械化发展中心</data>
+  <data key="label">巴音郭楞蒙古自治州农业农村机械化发展中心</data>
+  <data key="author">巴音郭楞蒙古自治州农业农村机械化发展中心</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="108">
+  <data key="name">新疆生产建设兵团第七师胡杨河市一二九团农业和林业草原中心</data>
+  <data key="label">新疆生产建设兵团第七师胡杨河市一二九团农业和林业草原中心</data>
+  <data key="author">新疆生产建设兵团第七师胡杨河市一二九团农业和林业草原中心</data>
+  <data key="year">2025</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="109">
+  <data key="name">山东农业大学信息科学与工程学院</data>
+  <data key="label">山东农业大学信息科学与工程学院</data>
+  <data key="author">山东农业大学信息科学与工程学院</data>
+  <data key="year">2025</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<edge source="1" target="87">
+  <data key="weight">1.0</data>
+  <data key="slice">12</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="3" target="40">
+  <data key="weight">1.0</data>
+  <data key="slice">0</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="3" target="43">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">0</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="7" target="34">
+  <data key="weight">1.0</data>
+  <data key="slice">11</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="8" target="80">
+  <data key="weight">1.0</data>
+  <data key="slice">9</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="9" target="29">
+  <data key="weight">1.0</data>
+  <data key="slice">15</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="9" target="96">
+  <data key="weight">1.0</data>
+  <data key="slice">15</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="11" target="12">
+  <data key="weight">1.0</data>
+  <data key="slice">13</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="13" target="44">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">14</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="13" target="48">
+  <data key="weight">1.0</data>
+  <data key="slice">14</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="14" target="18">
+  <data key="weight">1.0</data>
+  <data key="slice">11</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="14" target="102">
+  <data key="weight">1.0</data>
+  <data key="slice">11</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="14" target="107">
+  <data key="weight">1.0</data>
+  <data key="slice">11</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="15" target="41">
+  <data key="weight">1.0</data>
+  <data key="slice">14</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="15" target="93">
+  <data key="weight">1.0</data>
+  <data key="slice">15</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="18" target="102">
+  <data key="weight">1.0</data>
+  <data key="slice">11</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="18" target="107">
+  <data key="weight">1.0</data>
+  <data key="slice">11</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="21" target="84">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="22" target="32">
+  <data key="weight">1.0</data>
+  <data key="slice">15</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="22" target="75">
+  <data key="weight">1.0</data>
+  <data key="slice">15</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="22" target="103">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">15</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="26" target="94">
+  <data key="weight">0.4472135901451111</data>
+  <data key="slice">12</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="27" target="33">
+  <data key="weight">1.0</data>
+  <data key="slice">14</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="27" target="49">
+  <data key="weight">1.0</data>
+  <data key="slice">14</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="27" target="77">
+  <data key="weight">1.0</data>
+  <data key="slice">14</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="28" target="83">
+  <data key="weight">1.0</data>
+  <data key="slice">12</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="29" target="96">
+  <data key="weight">1.0</data>
+  <data key="slice">15</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="30" target="54">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">2</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="30" target="57">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="32" target="75">
+  <data key="weight">1.0</data>
+  <data key="slice">15</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="32" target="103">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">15</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="33" target="49">
+  <data key="weight">1.0</data>
+  <data key="slice">14</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="33" target="77">
+  <data key="weight">1.0</data>
+  <data key="slice">14</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="39" target="56">
+  <data key="weight">1.0</data>
+  <data key="slice">10</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="39" target="74">
+  <data key="weight">1.0</data>
+  <data key="slice">13</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="40" target="43">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">0</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="44" target="48">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">14</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="44" target="64">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">14</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="47" target="59">
+  <data key="weight">1.0</data>
+  <data key="slice">15</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="47" target="103">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">15</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="47" target="109">
+  <data key="weight">1.0</data>
+  <data key="slice">15</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="49" target="77">
+  <data key="weight">1.0</data>
+  <data key="slice">14</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="50" target="53">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="54" target="57">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">2</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="56" target="74">
+  <data key="weight">1.0</data>
+  <data key="slice">10</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="57" target="86">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">8</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="57" target="89">
+  <data key="weight">1.0</data>
+  <data key="slice">9</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="58" target="70">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">14</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="58" target="79">
+  <data key="weight">1.0</data>
+  <data key="slice">14</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="58" target="91">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">14</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="59" target="103">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">15</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="59" target="109">
+  <data key="weight">1.0</data>
+  <data key="slice">15</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="66" target="102">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">12</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="70" target="79">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">14</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="71" target="85">
+  <data key="weight">1.0</data>
+  <data key="slice">15</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="72" target="73">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">15</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="72" target="94">
+  <data key="weight">0.3535533845424652</data>
+  <data key="slice">15</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="72" target="101">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">15</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="73" target="101">
+  <data key="weight">1.0</data>
+  <data key="slice">15</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="75" target="103">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">15</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="79" target="91">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">14</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="94" target="102">
+  <data key="weight">5.163977903066552E-7</data>
+  <data key="slice">12</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="102" target="107">
+  <data key="weight">1.0</data>
+  <data key="slice">11</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="103" target="109">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">15</data>
+  <data key="year">2025</data>
+</edge>
+</graph>
+</graphml>

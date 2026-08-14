@@ -1,0 +1,44 @@
+PT J
+AU Spann, TM
+   Danyluk, MD
+AF Spann, Timothy M.
+   Danyluk, Michelle D.
+TI Mechanical Harvesting Increases Leaf and Stem Debris in Loads of Mechanically Harvested Citrus Fruit
+SO HORTSCIENCE
+LA English
+DT Article
+DE sweet orange; Citrus sinensis; canopy shaker; mechanized harvest
+ID peppers
+AB The adoption of mechanical harvesting for processing oranges is a major objective of the Florida citrus industry. A number of issues have slowed the adoption of this new technology, including the observation that the amount of leaves, sterns, and dead branches (collectively termed "debris") is greater in mechanically harvested than in hand-harvested loads of fruit. This debris increases transportation and processing costs. The objective of this research was to determine the amount and types of debris in mechanically harvested loads of sweet oranges compared with hand-harvested controls. Mechanical harvesting was found to increase the amount of debris per load of fruit by as much as 250% compared with hand-harvested fruit. This translates into approximate to 108 kg of debris compared with 71 kg (fresh weight) per 27 t load for mechanically harvested and hand-harvested fruit, respectively. Across harvesting method, leaves were the largest component of debris, accounting for approximate to 60% of total debris, small stems (less than 5 mm diameter) accounted for approximate to 35%, and the remaining 5% was large stems (greater than 5 mm diameter). In addition, the amount of sand on the surface of mechanically harvested fruit that was picked up from the orchard floor was found to be up to 10 times greater compared with hand-harvested controls. Engineers developing debris elimination systems for mechanical harvesting systems can use the data from this study to determine the performance requirements of their systems. The data are also useful for economic analyses of the costs of mechanical harvesting.
+C1 [Spann, Timothy M.] Univ Florida, Dept Hort Sci, Ctr Citrus Res & Educ, Lake Alfred, FL 33850 USA.
+   [Danyluk, Michelle D.] Univ Florida, Dept Food Sci & Human Nutr, Ctr Citrus Res & Educ, Lake Alfred, FL 33850 USA.
+C3 State University System of Florida; University of Florida; State University System of Florida; University of Florida
+RP Spann, TM (corresponding author), Univ Florida, Dept Hort Sci, Ctr Citrus Res & Educ, 700 Expt Stn Rd, Lake Alfred, FL 33850 USA.
+EM spann@ufl.edu
+NR 19
+TC 25
+Z9 27
+U1 2
+U2 20
+PU AMER SOC HORTICULTURAL SCIENCE
+PI ALEXANDRIA
+PA 113 S WEST ST, STE 200, ALEXANDRIA, VA 22314-2851 USA
+SN 0018-5345
+EI 
+J9 HORTSCIENCE
+JI Hortscience
+PD AUG 15
+PY 2010
+VL 45
+IS 8
+BP 1297
+EP 1300
+DI 10.21273/HORTSCI.45.8.1297
+PG 4
+WC Horticulture
+SC Agriculture
+GA 644OD
+UT WOS:000281387200029
+DA 2025-12-25
+ER
+

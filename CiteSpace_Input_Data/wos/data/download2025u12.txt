@@ -1,0 +1,648 @@
+PT J
+AU Görçün, ÖF
+   Saha, A
+   Kumar, PVR
+   Debnath, BK
+AF Gorcun, Omer Faruk
+   Saha, Abhijit
+   Kumar, Pydimarri Venkata Ravi
+   Debnath, Bijoy Krishna
+TI A hybrid rough aggregation approach for the selection of artificial intelligence-based industrial cleaning robots used in public spaces from the perspective of urban waste management
+SO ENGINEERING APPLICATIONS OF ARTIFICIAL INTELLIGENCE
+LA English
+DT Article
+DE Waste management; Artificial intelligence; Industrial cleaning robots; Rough number; Archimedean-dombi partitioned aggregation
+AB Waste management is becoming increasingly complex and challenging, especially in megacities with large populations. Unlike the past, when urban waste was simply collected and disposed of, modern waste management requires careful planning and execution of collection, separation, recycling, and reuse processes. Effective management of this complex system now needs more than just human effort. Integrating artificial intelligence (AI)-based systems into waste management can enhance waste reduction, reuse, and recycling effectiveness and efficiency. Selecting suitable AI-based cleaning robots (AI-ICR) for crowded public spaces, such as stations, train stations, and airports, poses complex decision-making challenges. The primary challenge is the novelty of the technology, which leads to uncertainties in selecting AI-ICRs. To address this challenge, we have developed a decision-making approach based on rough Archimedean-Dombi partitioned aggregation. This approach, termed "rough Archimedean-Dombi partitioned aggregation," combines the flexibility of Archimedean operators, the smoothness of Dombi operators, and the structured decomposition of Partitioned operators. This model is mainly chosen for its ability to handle the uncertainty and complexity inherent in multiple criteria decision-making (MCDM) processes. Leveraging rough numbers provides a robust framework for evaluating AI-ICRs under uncertain conditions. The main advantage of this model is its robustness, consistency, stability, and ability to handle complex uncertainties. We applied the proposed model to assess four AI-ICR alternatives identified through extensive research. We evaluated these alternatives using eighteen criteria established through comprehensive field studies. Based on the results, "Recycling cost (B12)" emerged as the most crucial criterion for selecting AIICRs. Additionally, the research identifies the SD45 manufactured by Peppermint Robotics Co. as the optimal AIICR candidate. Finally, the sensitivity and benchmark analyses to validate the proposed model confirm its robustness, consistency, and reliability.
+C1 [Gorcun, Omer Faruk] Kadir Has Univ, Dept Business Adm, Cibali Ave Kadir Has St Fatih, TR-34083 Istanbul, Turkiye.
+   [Saha, Abhijit] SRM Inst Sci & Technol SRMIST, Dept Comp Technol, Kattankulathur 603203, Tamil Nadu, India.
+   [Saha, Abhijit] Vilnius Gediminas Tech Univ, Fac Fundamental Sci, Dept Informat Technol, Vilnius, Lithuania.
+   [Kumar, Pydimarri Venkata Ravi] Koneru Lakshmaiah Educ Fdn, Dept Comp Sci & Engn, Vaddeswaram 522302, Andhra Pradesh, India.
+   [Debnath, Bijoy Krishna] Tezpur Univ, Sch Engn, Dept Appl Sci, Tezpur 784028, Assam, India.
+C3 Kadir Has University; SRM Institute of Science & Technology Chennai; Vilnius Gediminas Technical University; Koneru Lakshmaiah Education Foundation (K L Deemed to be University); Tezpur University
+RP Saha, A (corresponding author), SRM Inst Sci & Technol SRMIST, Dept Comp Technol, Kattankulathur 603203, Tamil Nadu, India.
+EM omer.gorcun@khas.edu.tr; abhijit84.math@gmail.com; venkataravi@kluniversity.in; deb.bijoy91@yahoo.com
+NR 93
+TC 2
+Z9 2
+U1 5
+U2 8
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0952-1976
+EI 1873-6769
+J9 ENG APPL ARTIF INTEL
+JI Eng. Appl. Artif. Intell.
+PD JUN 15
+PY 2025
+VL 150
+IS 
+BP 
+EP 
+DI 10.1016/j.engappai.2024.109566
+EA MAR 2025
+PG 29
+WC Automation & Control Systems; Computer Science, Artificial Intelligence; Engineering, Multidisciplinary; Engineering, Electrical & Electronic
+SC Automation & Control Systems; Computer Science; Engineering
+GA 0XT5R
+UT WOS:001458541100001
+DA 2025-12-25
+ER
+
+PT J
+AU Han, YK
+   Ren, GF
+   Zhang, JR
+   Du, YX
+   Bao, GQ
+   Cheng, LJ
+   Yan, HW
+AF Han, Yukuan
+   Ren, Gaifeng
+   Zhang, Jiarui
+   Du, Yuxin
+   Bao, Guoqiang
+   Cheng, Lijun
+   Yan, Hongwen
+TI DSW-YOLO-Based Green Pepper Detection Method Under Complex Environments
+SO AGRONOMY-BASEL
+LA English
+DT Article
+DE smart agriculture; green pepper object detection; YOLOv10; <italic>SimAM</italic>
+AB In this paper, a lightweight detection model DSW-YOLO based on improved YOLOv10n is proposed. After comparing mainstream lightweight models (YOLOv5n, YOLOv6n, YOLOv8n, YOLOv9t and YOLOv10n), YOLOv10n with the best performance was selected as the baseline. The DWRR block was then designed and integrated with the C2f module to form C2f-DWRR, replacing the original C2f blocks in the backbone. Consequently, the model's P, R, mAP50, and mAP50-95 increased by 2.3%, 2.1%, 1.8%, and 3.4%, respectively, while the parameter count dropped by 0.16 M and the model size was reduced by 0.25 MB. A SimAM parameter-free attention mechanism was added to the last layer of the backbone, boosting P, R, mAP50, and mAP50-95 to 90.6%, 84.0%, 91.8%, and 68.5%, and reducing average detection time to 1.1 ms. The CIOU function was replaced with WIOUv3 to accelerate convergence, decrease loss, and significantly enhance detection performance. Experimental results show that on a custom green pepper dataset, DSW-YOLO outperformed the baseline by achieving gains of 2.9%, 2.7%, 2.2%, and 3.4% in P, R, mAP50, and mAP50-95, reducing parameters by 1.6 M, cutting inference time by 0.7 ms, and shrinking the model size to 5.31 MB. DSW-YOLO efficiently and accurately detects green peppers in complex field conditions, significantly improving detection accuracy while remaining lightweight, and provides theoretical and technical support for designing and optimizing pepper-picking robot vision systems.
+C1 [Han, Yukuan; Ren, Gaifeng; Du, Yuxin; Bao, Guoqiang; Yan, Hongwen] Shanxi Agr Univ, Coll Informat Sci & Engn, Jinzhong 030801, Peoples R China.
+   [Zhang, Jiarui; Cheng, Lijun] Shanxi Agr Univ, Coll Software, Jinzhong 030801, Peoples R China.
+C3 Shanxi Agricultural University; Shanxi Agricultural University
+RP Yan, HW (corresponding author), Shanxi Agr Univ, Coll Informat Sci & Engn, Jinzhong 030801, Peoples R China.; Cheng, LJ (corresponding author), Shanxi Agr Univ, Coll Software, Jinzhong 030801, Peoples R China.
+EM 20233761@stu.sxau.edu.cn; 20233008@stu.sxau.edu.cn; 20233019@stu.sxau.edu.cn; 202430001@stu.sxau.edu.cn; 202430797@stu.sxau.edu.cn; cljzyb@sxau.edu.cn; sxauyhw@sxau.edu.cn
+FU Shanxi Province Graduate Education Innovation Plan;  [2024SJ142]
+NR 46
+TC 2
+Z9 2
+U1 14
+U2 19
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 2073-4395
+J9 AGRONOMY-BASEL
+JI Agronomy-Basel
+PD APR 18
+PY 2025
+VL 15
+IS 4
+BP 
+EP 
+DI 10.3390/agronomy15040981
+PG 23
+WC Agronomy; Plant Sciences
+SC Agriculture; Plant Sciences
+GA 1VM3Z
+UT WOS:001474629700001
+DA 2025-12-25
+ER
+
+PT J
+AU Dheeravathu, V
+   Shetty, NP
+AF Dheeravathu, Venkateshwarlu
+   Shetty, Nandini P.
+TI Characterization and application of zein-based composite films functionalized with PVA and peppermint extract in the preservation of harvested bell pepper
+SO POSTHARVEST BIOLOGY AND TECHNOLOGY
+LA English
+DT Article
+DE Composite film; Enzymes; Post-harvest; Shelf-life; Capsicum annuum.L
+ID shelf-life; coatings; quality; enzymes; guava
+AB Capsicum annuum.L (bell pepper) is a very cultivated and economically important crop. However, the short shelf life of the fruit, due to its non-climacteric ripening nature and susceptibility to mechanical damage, leads to significant postharvest losses. Edible packing has emerged as a promising and sustainable solution to preserve quality attributes and extend shelf life during storage. In this study, we developed a composite film by blending zein (Z) and polyvinyl alcohol (P), with peppermint extract (M). The mixture of Z, P, and M (ZPM films) exhibited higher antioxidant (DPPH (42 %) and ABTS (52 %)) and antimicrobial activity compared to Z and P films, and the incorporation of peppermint extract improved UV light protection (22 %). FTIR, XRD, and SEM analyses confirmed the interaction between Z, polymer, and peppermint extract. Films were applied to preserve bell peppers and evaluated over 9 d at room temperature for their structural, physical, mechanical, and antioxidant properties. Bell peppers packed in ZPM films showed reduced weight loss (2.9 %), delayed softening, and better antioxidant activity compared to control fruits. The H2O2 content (5 mol kg-1) was significantly higher in control fruits than in those packed with ZPM films. Additionally, we examined the relative gene expression and specific activity of cell wall-degrading enzymes in bell peppers. Fruit packed in ZPM films exhibited lower enzyme activity and expression fold change than the control, suggesting delayed cell wall degradation. These findings demonstrate that ZPM films offer an effective and sustainable food preservation method, extending the shelf life of bell peppers while supporting the development of eco-friendly food packaging.
+C1 [Dheeravathu, Venkateshwarlu; Shetty, Nandini P.] CSIR Cent Food Technol Res Inst, Plant Cell Biotechnol, Mysuru 570020, India.
+   [Dheeravathu, Venkateshwarlu; Shetty, Nandini P.] Acad Sci & Innovat Res AcSIR, Ghaziabad 201002, India.
+C3 Council of Scientific & Industrial Research (CSIR) - India; CSIR - Central Food Technological Research Institute (CFTRI); Academy of Scientific & Innovative Research (AcSIR)
+RP Shetty, NP (corresponding author), CSIR Cent Food Technol Res Inst, Plant Cell Biotechnol, Mysuru 570020, India.
+EM nandinips@cftri.res.in
+FU UGC, Government of India, New Delhi [610/ (CSIR-UGC NET-JUNE 2019)]
+NR 43
+TC 3
+Z9 3
+U1 27
+U2 27
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0925-5214
+EI 1873-2356
+J9 POSTHARVEST BIOL TEC
+JI Postharvest Biol. Technol.
+PD DEC 15
+PY 2025
+VL 230
+IS 
+BP 
+EP 
+DI 10.1016/j.postharvbio.2025.113750
+EA JUN 2025
+PG 13
+WC Agronomy; Food Science & Technology; Horticulture
+SC Agriculture; Food Science & Technology
+GA 4NX6Z
+UT WOS:001522506600001
+DA 2025-12-25
+ER
+
+PT J
+AU Tai, S
+   Tang, Z
+   Li, B
+   Wang, SG
+   Guo, XH
+AF Tai, Sheng
+   Tang, Zhong
+   Li, Bin
+   Wang, Shiguo
+   Guo, Xiaohu
+TI Intelligent Recognition and Automated Production of Chili Peppers: A Review Addressing Varietal Diversity and Technological Requirements
+SO AGRICULTURE-BASEL
+LA English
+DT Review
+DE computer vision; robotic harvesting; agricultural automation; deep learning
+ID capsicum-chinense; grain; performance; system; simulation; vibration; density; harvest; model; l.
+AB Chili pepper (Capsicum annuum L.), a globally important economic crop, faces production challenges characterized by high labor intensity, cost, and inefficiency. Intelligent technologies offer key opportunities for sector transformation. This review begins by outlining the diversity of major chili pepper cultivars, differences in key quality indicators, and the resulting specific harvesting needs. It then reviews recent progress in intelligent perception, recognition, and automation within the chili pepper industry. For perception and recognition, the review covers the evolution from traditional image processing to deep learning-based methods (e.g., YOLO and Mask R-CNN achieving a mAP > 90% in specific studies) for pepper detection, segmentation, and fine-grained cultivar identification, analyzing the performance and optimization in complex environments. In terms of automation, we systematically discuss the principles and feasibility of different mechanized harvesting machines, consider the potential of vision-based keypoint detection for the point localization of picking, and explore motion planning and control for harvesting robots (e.g., robotic systems incorporating diverse end-effectors like soft grippers or cutting mechanisms and motion planning algorithms such as RRT) as well as seed cleaning/separation techniques and simulations (e.g., CFD and DEM) for equipment optimization. The main current research challenges are listed including the environmental adaptability/robustness, efficiency/real-time performance, multi-cultivar adaptability/flexibility, system integration, and cost-effectiveness. Finally, future directions are given (e.g., multimodal sensor fusion, lightweight models, and edge computing applications) in the hope of guiding the intelligent growth of the chili pepper industry.
+C1 [Tai, Sheng; Tang, Zhong; Guo, Xiaohu] Jiangsu Univ, Coll Agr Engn, Zhenjiang 212013, Peoples R China.
+   [Tang, Zhong] Jiangsu Univ, Minist Educ, Key Lab Equipment Modern Agr Equipment & Technol, Zhenjiang 212013, Peoples R China.
+   [Li, Bin; Wang, Shiguo] Xinjiang Acad Agr & Reclamat Sci, Shihezi 832000, Peoples R China.
+C3 Jiangsu University; Jiangsu University; Xinjiang Academy of Agricultural & Reclamation Science
+RP Tang, Z (corresponding author), Jiangsu Univ, Coll Agr Engn, Zhenjiang 212013, Peoples R China.; Tang, Z (corresponding author), Jiangsu Univ, Minist Educ, Key Lab Equipment Modern Agr Equipment & Technol, Zhenjiang 212013, Peoples R China.; Li, B (corresponding author), Xinjiang Acad Agr & Reclamat Sci, Shihezi 832000, Peoples R China.
+EM 2222316031@stmail.ujs.edu.cn; zht@ujs.edu.cn; bin175337620@shzu.edu.cn; wansg@163.com; 2222216058@stmail.ujs.edu.cn
+FU Key Laboratory Equipment of Modern Agricultural Equipment and Technology (Jiangsu University), Ministry of Education; Xinjiang Production and Construction Corps Youth Talent Development Program; Science and Technology Project of the Xinjiang Production [2025CYL07];  [MAET202306]
+NR 168
+TC 6
+Z9 6
+U1 24
+U2 26
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 2077-0472
+J9 AGRICULTURE-BASEL
+JI Agriculture-Basel
+PD MAY 31
+PY 2025
+VL 15
+IS 11
+BP 
+EP 
+DI 10.3390/agriculture15111200
+PG 26
+WC Agronomy
+SC Agriculture
+GA 3QI8C
+UT WOS:001506492400001
+DA 2025-12-25
+ER
+
+PT J
+AU Niu, Q
+   Ma, WJ
+   Diao, RX
+   Yu, W
+   Wang, CL
+   Li, H
+   Wang, LH
+   Li, CS
+   Wang, P
+AF Niu, Qi
+   Ma, Wenjun
+   Diao, Rongxiang
+   Yu, Wei
+   Wang, Chunlei
+   Li, Hui
+   Wang, Lihong
+   Li, Chengsong
+   Wang, Pei
+TI Research on Recognition of Green Sichuan Pepper Clusters and Cutting-Point Localization in Complex Environments
+SO AGRICULTURE-BASEL
+LA English
+DT Article
+DE green Sichuan pepper; YOLO; k-means++; cutting-point localization; cluster object detection
+AB The harvesting of green Sichuan pepper remains heavily reliant on manual field operations, but automation can enhance the efficiency, quality, and sustainability of the process. However, challenges such as intertwined branches, dense foliage, and overlapping pepper clusters hinder intelligent harvesting by causing inaccuracies in target recognition and localization. This study compared the performance of multiple You Only Look Once (YOLO) algorithms for recognition and proposed a cluster segmentation method based on K-means++ and a cutting-point localization strategy using geometry-based iterative optimization. A dataset containing 14,504 training images under diverse lighting and occlusion scenarios was constructed. Comparative experiments on YOLOv5s, YOLOv8s, and YOLOv11s models revealed that YOLOv11s achieved a recall of 0.91 in leaf-occluded environments, marking a 21.3% improvement over YOLOv5s, with a detection speed of 28 Frames Per Second(FPS). A K-means++-based cluster separation algorithm (K = 1 similar to 10, optimized via the elbow method) was developed and was combined with OpenCV to iteratively solve the minimum circumscribed triangle vertices. The longest median extension line of the triangle was dynamically determined to be the cutting point. The experimental results demonstrated an average cutting-point deviation of 20 mm and a valid cutting-point ratio of 69.23%. This research provides a robust visual solution for intelligent green Sichuan pepper harvesting equipment, offering both theoretical and engineering significance for advancing the automated harvesting of Sichuan pepper (Zanthoxylum schinifolium) as a specialty economic crop.
+C1 [Niu, Qi; Ma, Wenjun; Diao, Rongxiang; Yu, Wei; Wang, Chunlei; Li, Hui; Wang, Lihong; Li, Chengsong; Wang, Pei] Southwest Univ, Coll Engn & Technol, Chongqing 400715, Peoples R China.
+   [Niu, Qi; Li, Hui; Wang, Lihong; Li, Chengsong; Wang, Pei] Southwest Univ, Key Lab Agr Equipment Hilly & Mountainous Areas, Chongqing 400715, Peoples R China.
+C3 Southwest University - China; Southwest University - China
+RP Wang, P (corresponding author), Southwest Univ, Coll Engn & Technol, Chongqing 400715, Peoples R China.; Wang, P (corresponding author), Southwest Univ, Key Lab Agr Equipment Hilly & Mountainous Areas, Chongqing 400715, Peoples R China.
+EM niuqi2019@swu.edu.cn; m1143966120@email.swu.edu.cn; drx0907@email.swu.edu.cn; y1262615309@email.swu.edu.cn; wangchunlei@swu.edu.cn; leehui@swu.edu.cn; w20190305@swu.edu.cn; l20190304@swu.edu.cn; peiwang@swu.edu.cn
+FU National Undergraduate Innovation Training Program Supported Project [202210635001]; National Undergraduate Innovation Training Program [cstc2021jscx-gksbX0007]; Technology Innovation and Application Development Special Project of Chongqing [SWU-KQ24001]; Fundamental Research Funds for the Central Universities
+NR 24
+TC 0
+Z9 0
+U1 11
+U2 13
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 2077-0472
+J9 AGRICULTURE-BASEL
+JI Agriculture-Basel
+PD MAY 16
+PY 2025
+VL 15
+IS 10
+BP 
+EP 
+DI 10.3390/agriculture15101079
+PG 15
+WC Agronomy
+SC Agriculture
+GA 3BN4D
+UT WOS:001496399700001
+DA 2025-12-25
+ER
+
+PT J
+AU Zhang, J
+   He, ZQ
+   Xia, WH
+   Ma, HF
+   Hu, DL
+   Liu, HJ
+   Ma, C
+   Niu, Q
+   Li, CS
+   Wang, LH
+AF Zhang, Jian
+   He, Zhiqiang
+   Xia, Weihai
+   Ma, Haifang
+   Hu, Daili
+   Liu, Haijun
+   Ma, Chen
+   Niu, Qi
+   Li, Chengsong
+   Wang, Lihong
+TI Characterization of green pepper distribution on a spiral curved surface
+SO LWT-FOOD SCIENCE AND TECHNOLOGY
+LA English
+DT Article
+DE Green pepper particles; Spiral curved surface; Distribution characteristics; Discrete element method; Action mechanism model
+ID particle separation; simulation; performance; flow
+AB Green pepper (Zanthoxylum armatum) has significant culinary value, but its high separation costs limits industry development. This study developed a cost-effective method for separating green pepper particles using a spiral curved surface, demonstrating significant economic advantages compared to manual and color sorting approaches. Through dynamic analysis, Discrete Element Method (DEM) simulations, and laboratory experiments, the distribution of particles along the spiral surface was studied. Results indicated that feeding velocity, position, helix angle, and radial inclination are key factors affecting particle movement. An equilibrium velocity model was developed to determine the feeding velocity, while an action mechanism model was used to examine the impact of these factors on separation efficiency. The optimal separation parameters were identified and experimentally validated as a helix angle (alpha) of 60 degrees, a radial inclination angle (beta) of 20 degrees, and a feeding radius (r) of 70 mm. The findings of this investigation, may provide a theoretical basis for the creation of low-cost separation technologies and equipment prototypes for granular materials, particularly green pepper, with potential benefits for global food safety.
+C1 [Zhang, Jian; He, Zhiqiang; Xia, Weihai; Ma, Haifang; Hu, Daili; Liu, Haijun] Huzhou Coll, Sch Intelligent Mfg, Huzhou 313000, Peoples R China.
+   [Zhang, Jian; Ma, Chen; Niu, Qi; Li, Chengsong; Wang, Lihong] Southwest Univ, Coll Engn & Technol, Chongqing 400715, Peoples R China.
+C3 Huzhou College; Southwest University - China
+RP Zhang, J (corresponding author), Huzhou Coll, Sch Intelligent Mfg, Huzhou 313000, Peoples R China.; Zhang, J; Wang, LH (corresponding author), Southwest Univ, Coll Engn & Technol, Chongqing 400715, Peoples R China.
+EM jianzhang_edu@163.com; wlh_shz@163.com
+FU Talent introduction program of Huzhou College [RK65026]; Key scientific research project of Huzhou College [2024HXKM01]; Natural science foundation of Chongqing, China [cstc2021jcyj-msxmX1178]
+NR 43
+TC 0
+Z9 0
+U1 10
+U2 12
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0023-6438
+EI 1096-1127
+J9 LWT-FOOD SCI TECHNOL
+JI LWT-Food Sci. Technol.
+PD MAY 1
+PY 2025
+VL 223
+IS 
+BP 
+EP 
+DI 10.1016/j.lwt.2025.117698
+EA MAR 2025
+PG 11
+WC Food Science & Technology
+SC Food Science & Technology
+GA 1AS7F
+UT WOS:001460553600001
+DA 2025-12-25
+ER
+
+PT J
+AU Heng, L
+   Hu, JJ
+   Hu, L
+   Zhang, ZQ
+   Tian, SB
+   Chen, QM
+   Jiao, WX
+   Fu, MR
+AF Heng, Liu
+   Hu, Jingjing
+   Hu, Liu
+   Zhang, Zhanquan
+   Tian, Subo
+   Chen, Qingmin
+   Jiao, Wenxiao
+   Fu, Maorun
+TI Geraniol combined nerolidol inhibited soft rot caused by Pectobacteriumn aroidearum in red pickled pepper
+SO POSTHARVEST BIOLOGY AND TECHNOLOGY
+LA English
+DT Article
+DE Bacterial soft rot; Postharvest pathogen; Plant essential oil; Composite bactericide
+ID essential oils; fruit
+AB Bacterial soft rot caused by Pectobacterium aroidearum is a common disease of red pickled peppers in postharvest logistics. Exploring effective ways to control bacterial soft rot is an urgent task to be addressed. In this paper, nine kinds of plant essential oil were employed to screen the bacteriostatic properties, and the composite bacteriostatic agents were selected subsequently among them. Results showed that nerolidol and geraniol showed a better effect on soft rot disease of red pickled peppers in nine essential oils, respectively. There was synergistic effect when these two essential oils were used in combination. The inhibition mechanism of geraniol and nerolidol against Pectobacteriumn aroidearum depended on the disruption of the cell membrane and leakage of intracellular contents. The combination of geraniol at a fumigation concentration of 0.075 mL L-1 and nerolidol at a fumigation concentration of 0.0375 mL L-1 had an excellent inhibitory effect on the bacterial soft rot of red pickled pepper, which reduced the decay rate from 59 % to 15 %, maintained quality attributes, and inhibited physiological metabolism of red pickled peppers after stored for 9 d at 25 degrees C. These results provided a safe and effective control technique for controlling bacterial soft rot of red pickled pepper caused by Pectobacteriumn aroidearum.
+C1 [Heng, Liu; Hu, Jingjing; Jiao, Wenxiao; Fu, Maorun] Qilu Univ Technol, Shandong Acad Sci, Coll Food Sci & Engn, Jinan 250353, Peoples R China.
+   [Hu, Liu; Chen, Qingmin] Shandong Agr & Engn Univ, Coll Food Sci & Engn, Jinan 250100, Peoples R China.
+   [Zhang, Zhanquan] Chinese Acad Agr Sci, Inst Vegetables & Flowers, State Key Lab Vegetable Biobreeding, Beijing 100081, Peoples R China.
+   [Tian, Subo] Shouguang Vegetable Ind Grp Food Co Ltd, Weifang 261000, Peoples R China.
+   [Jiao, Wenxiao; Fu, Maorun] Shandong Key Lab Hlth Food Resources Explorat & Cr, Jinan 250353, Peoples R China.
+C3 Qilu University of Technology; Shandong Agriculture & Engineering University; Chinese Academy of Agricultural Sciences; Institute of Vegetables & Flowers, CAAS
+RP Jiao, WX (corresponding author), Qilu Univ Technol, Shandong Acad Sci, Coll Food Sci & Engn, Jinan 250353, Peoples R China.; Chen, QM (corresponding author), Shandong Agr & Engn Univ, Coll Food Sci & Engn, Jinan 250100, Peoples R China.
+EM qmchen1207@163.com; skyfmr@163.com
+FU National Natural Science Founda-tion of China [32202126]; Natural Science Foundation of Shandong Province [ZR2023MC018]; Agricultural Industrial Technology System of Shandong Province [SDAIT-05]
+NR 39
+TC 2
+Z9 2
+U1 14
+U2 17
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0925-5214
+EI 1873-2356
+J9 POSTHARVEST BIOL TEC
+JI Postharvest Biol. Technol.
+PD AUG 15
+PY 2025
+VL 226
+IS 
+BP 
+EP 
+DI 10.1016/j.postharvbio.2025.113540
+EA APR 2025
+PG 11
+WC Agronomy; Food Science & Technology; Horticulture
+SC Agriculture; Food Science & Technology
+GA 1EJ7Y
+UT WOS:001463039800001
+DA 2025-12-25
+ER
+
+PT J
+AU Bai, J
+   Chen, XY
+   Fang, WQ
+   Fang, HM
+   Wang, XZ
+AF Bai, Jing
+   Chen, Xingye
+   Fang, Weiquan
+   Fang, Huimin
+   Wang, Xinzhong
+TI Design and Parameter Optimization of Fresh Chili Seed Extractor
+SO AGRICULTURE-BASEL
+LA English
+DT Article
+DE mechanization level; chili seed extractor; comprehensive score; optimal parameter combination
+AB There is a poor mechanization level among the existing chili seed extractors. The separation operation still relies on manual labor, with low efficiency and high costs. In this study, a fresh chili seed extractor for small-scale operations was designed, and the relevant parameters were optimized. The rotational speed of the drum, feeding speed, sieve diameter, threshing gap, number of peg teeth, and inclination angle of the frame were used as test factors, and the comprehensive score (loss rate, crushing rate, and impurity rate) of the effect of the chili seed extractor was set as an evaluation index. The initial parameters were selected via the Plackett-Burman test. The steepest climb test was carried out to determine the ranges of significance for the parameters. Moreover, a Box-Behnken test were conducted to obtain the optimal parameter combination: the drum rotation speed was 661 r/min, the sieve diameter was 8.5 mm, and the disengagement gap was 9.4 mm. The test results showed that the loss rate was 3.83%, the crushing rate was 2.01%, and the impurity rate was 11.31%, which met the actual production requirements for chili seeds. This study is expected to provide a necessary reference for the design of chili seed extractors.
+C1 [Bai, Jing; Chen, Xingye; Fang, Weiquan; Fang, Huimin; Wang, Xinzhong] Jiangsu Univ, Sch Agr Engn, Zhenjiang 212000, Peoples R China.
+C3 Jiangsu University
+RP Fang, HM (corresponding author), Jiangsu Univ, Sch Agr Engn, Zhenjiang 212000, Peoples R China.
+EM 1000006005@ujs.edu.cn; 2212116030@stmail.ujs.edu.cn; 2112116003@stmail.ujs.edu.cn; fanghuimin@ujs.edu.cn; xzwang@ujs.edu.cn
+FU Research Foundation for Talented Scholars of Jiangsu University; Priority Academic Program Development of Jiangsu Higher Education Institutions [PAPD-2023-87];  [22JDG041]
+NR 32
+TC 1
+Z9 1
+U1 8
+U2 8
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 2077-0472
+J9 AGRICULTURE-BASEL
+JI Agriculture-Basel
+PD JUN 21
+PY 2025
+VL 15
+IS 13
+BP 
+EP 
+DI 10.3390/agriculture15131336
+PG 11
+WC Agronomy
+SC Agriculture
+GA 4TJ1A
+UT WOS:001526203200001
+DA 2025-12-25
+ER
+
+PT J
+AU Zhang, SW
+   Li, SW
+   Dai, M
+   Lu, EH
+   Liu, SX
+   Ge, LQ
+   Zhang, YJ
+   Guan, CS
+   Xv, B
+   Su, W
+   Miao, H
+AF Zhang, Shanwen
+   Li, Shaowen
+   Dai, Min
+   Lu, Enhui
+   Liu, Sixing
+   Ge, Linquan
+   Zhang, Yongji
+   Guan, Chunsong
+   Xv, Binxing
+   Su, Wei
+   Miao, Hong
+TI Mechanical and biological evaluation of two fresh pepper varieties
+SO FRONTIERS IN PLANT SCIENCE
+LA English
+DT Article
+DE pepper biological parameters; pepper mechanical properties; fresh pepper; mechanical harvesting; mechanization-adapted variety
+AB The operation of roller-type pepper harvesters involves striking and pulling the peppers, which may result in incomplete detachment from their stems or cause surface damage or breakage of the peppers. The quality of the harvested peppers is directly influenced by the forces applied during striking and pulling. Therefore, the physical and mechanical properties of peppers are crucial for determining the structural and dynamic parameters of the screw rollers. This study selected Round peppers and the 'Bo 15' line pepper as experimental subjects. Growth parameters such as main stem diameter and fruit diameter were measured. And mechanical properties including tensile, bending, compressive, and shear strength were tested. Results showed that: two pepper varieties had a moisture content of 90% +/- 1%. The main stem diameters of Round pepper and 'Bo 15' line pepper were 10.196 +/- 1.508 mm and 13.44 +/- 0.769 mm. The average diameter of round pepper was greater than that of 'Bo 15' line pepper. For mechanical stress, the 'Bo 15' line pepper exhibited stronger resistance, and the mechanical properties were as follows: tensile strength was 0.83 MPa, bending strength was 0.58 MPa, radial compressive strength was 0.25 MPa, and shear strength was 0.28 MPa. This study provides a basis for the design of low damage harvesting device for fresh peppers and the selection of varieties suitable for mechanical harvesting.
+C1 [Zhang, Shanwen; Li, Shaowen; Dai, Min; Lu, Enhui; Liu, Sixing; Miao, Hong] Yangzhou Univ, Coll Mech Engn, Yangzhou, Peoples R China.
+   [Zhang, Shanwen; Li, Shaowen; Dai, Min; Lu, Enhui; Liu, Sixing; Miao, Hong] Minist Agr & Rural Affairs, Vegetable Root Vegetable Fully Mechanized Res Base, Yangzhou, Peoples R China.
+   [Ge, Linquan] Yangzhou Univ, Coll Plant Protect, Yangzhou, Peoples R China.
+   [Zhang, Yongji] Lixiahe Agr Res Inst Jiangsu Prov, Cash Crops Res Dept, Yangzhou, Peoples R China.
+   [Guan, Chunsong; Xv, Binxing] Minist Agr & Rural Affairs, Nanjing Inst Agr Mechanizat, Nanjing, Peoples R China.
+   [Su, Wei] Yangzhou Bur Agr & Rural Affairs, Agr Technol Integrated Serv Ctr, Yangzhou, Peoples R China.
+C3 Yangzhou University; Yangzhou University; Chinese Academy of Agricultural Sciences; Nanjing Institute of Agricultural Mechanization, CAAS
+RP Miao, H (corresponding author), Yangzhou Univ, Coll Mech Engn, Yangzhou, Peoples R China.; Miao, H (corresponding author), Minist Agr & Rural Affairs, Vegetable Root Vegetable Fully Mechanized Res Base, Yangzhou, Peoples R China.
+EM mh0514@163.com
+FU National Key Research and Development Program of China [2023YFD2001200]; Key Research and Development Plan of Jiangsu Province [BE2021330, BE2022345]; Jiangsu provincial policy guidance program [BZ2021079]; National Characteristic Vegetable Industry Technology System Mechanization Research Laboratory Intelligent Technology Application Project [CARS-24-D-03]; Collaborative Education Project of Industry and Education Cooperation of the Higher Education Department of the Ministry of Education [230903844281653]
+NR 37
+TC 0
+Z9 0
+U1 9
+U2 13
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN 1664-462X
+EI 
+J9 FRONT PLANT SCI
+JI Front. Plant Sci.
+PD APR 2
+PY 2025
+VL 16
+IS 
+BP 
+EP 
+DI 10.3389/fpls.2025.1542262
+PG 10
+WC Plant Sciences
+SC Plant Sciences
+GA 1KA6D
+UT WOS:001466866900001
+PM 40241825
+DA 2025-12-25
+ER
+
+PT J
+AU Wang, Y
+   Ouyang, C
+   Peng, H
+   Deng, JT
+   Yang, L
+   Chen, HL
+   Luo, YH
+   Jiang, P
+AF Wang, Yi
+   Ouyang, Cheng
+   Peng, Hao
+   Deng, Jingtao
+   Yang, Lin
+   Chen, Hailin
+   Luo, Yahui
+   Jiang, Ping
+TI YOLO-ALW: An Enhanced High-Precision Model for Chili Maturity Detection
+SO SENSORS
+LA English
+DT Article
+DE deep learning; fruit detection; attention mechanism; pepper maturity recognition; YOLOv8n
+AB Chili pepper, a widely cultivated and consumed crop, faces challenges in accurately determining maturity due to issues such as occlusion, small target size, and similarity between fruit color and background. This study presents an enhanced YOLOv8n-based object detection model, YOLO-ALW, designed to address these challenges. The model introduces the AKConv (Alterable Kernel Convolution) module in the head section, which adaptively adjusts the convolution kernel shape and size based on the target and scene, improving detection performance under occlusion and dense environments. In the backbone, the SPPF_LSKA (Spatial Pyramid Pooling Fast-Large Separable Kernel Attention) module enhances the integration of multi-scale features, facilitating accurate differentiation of peppers at various maturity stages while maintaining low computational complexity. Additionally, the Wise-IoU (Wise Intersection over Union) loss function optimizes bounding box learning, further improving the detection of peppers in occluded or background-similar scenarios. Experimental results demonstrate that YOLO-ALW achieves a mean average precision (mAP0.5) of 99.1%, with precision and recall rates of 98.3% and 97.8%, respectively, outperforming the original YOLOv8n by 3.4%, 5.1%, and 9.0%, respectively. Grad-CAM feature visualization highlights the model's improved focus on key fruit features. YOLO-ALW shows significant promise for high-precision chili pepper detection and maturity recognition, offering valuable support for automated harvesting applications.
+C1 [Wang, Yi; Ouyang, Cheng; Peng, Hao; Deng, Jingtao; Yang, Lin; Chen, Hailin] Hunan Agr Univ, Coll Informat & Intelligence, Changsha 410128, Peoples R China.
+   [Luo, Yahui; Jiang, Ping] Hunan Agr Univ, Coll Mech & Elect Engn, Changsha 410128, Peoples R China.
+C3 Hunan Agricultural University; Hunan Agricultural University
+RP Jiang, P (corresponding author), Hunan Agr Univ, Coll Mech & Elect Engn, Changsha 410128, Peoples R China.
+EM wangyi@hunau.edu.cn; ouyang@stu.hunau.edu.cn; sx20230201@stu.hunau.edu.cn; 984711035@stu.hunau.edu.cn; 2767959117@stu.hunau.edu.cn; 1152400900@stu.hunau.edu.cn; luoyh@hunau.edu.cn; 1233032@hunau.edu.cn
+FU National Key Research and Development Program of China [2022YFD2002001]; Key project of "Research on Key Common Technology and System Development for Intelligent Harvesting of Specialty Cash Crops". under the key project "Research and System Development of Key Common Technology for Intelligent Harvesting of Specialized Cash Cro
+NR 41
+TC 8
+Z9 9
+U1 16
+U2 25
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 1424-8220
+J9 SENSORS-BASEL
+JI Sensors
+PD MAR 15
+PY 2025
+VL 25
+IS 5
+BP 
+EP 
+DI 10.3390/s25051405
+PG 21
+WC Chemistry, Analytical; Engineering, Electrical & Electronic; Instruments & Instrumentation
+SC Chemistry; Engineering; Instruments & Instrumentation
+GA 0CP0M
+UT WOS:001444163700001
+PM 40096232
+DA 2025-12-25
+ER
+
+PT J
+AU Lian, J
+   Pan, QH
+   Wang, D
+AF Lian, Jie
+   Pan, Qinghui
+   Wang, Dong
+TI A Two-Stage Recognition and Planning Approach for Grasping Manipulators and Design of End-Effectors
+SO JOURNAL OF FIELD ROBOTICS
+LA English
+DT Article; Early Access
+DE end-effector design; harvesting robot; sweet pepper peduncles detection; two-stage motion planning
+ID harvesting robot; motion
+AB The development of selective harvesting robotics in agriculture and horticulture has gained a lot of attention and momentum in recent years, but commercial products are still lacking. This paper develops a sweet pepper harvesting robot and focuses on sweet pepper peduncle detection, the design of the end-effector, and the motion planning of the manipulator to improve the harvesting success rate. To address the low recognition accuracy of sweet pepper peduncles, a detection algorithm designed explicitly for sweet pepper peduncles is proposed by storing the observation position in advance, which involves dividing the recognition process into two steps. The recognition success rate of picking points is 94.4%. To address the problem of low efficiency and low success rate of harvesting robots, a two-stage motion planning (TSMP) method is proposed to divide the whole picking process into offline and online planning. Offline planning adopts a database to plan trajectories to pre-stored observation points to ensure that the manipulator identification of fruit peduncles at close range is with solutions and the trajectory is reliable, while online planning proposes an adaptive end-effector grasping pose control algorithm and analyzes and calculates the best grasping pose for the manipulator based on the sweet pepper peduncles pose. A novel sweet pepper end-effector is designed and integrated into a fully automatic harvesting robot system. Finally, the proposed method is experimentally verified on the developed sweet pepper harvesting robot. The field experiment results demonstrate that the robot can continuously harvest sweet peppers with a harvesting success rate of 77.16%. The average picking time is about 15 s with a fruit recovery device. Supplementary video is available at .
+C1 [Lian, Jie; Pan, Qinghui; Wang, Dong] Dalian Univ Technol, Sch Control Sci & Engn, Key Lab Intelligent Control & Optimizat Ind Equipm, Minist Educ, Dalian, Peoples R China.
+C3 Dalian University of Technology
+RP Wang, D (corresponding author), Dalian Univ Technol, Sch Control Sci & Engn, Key Lab Intelligent Control & Optimizat Ind Equipm, Minist Educ, Dalian, Peoples R China.
+EM dwang@dlut.edu.cn
+FU National Natural Science Foundation of China. [2023JH2/101700362, 2023JH2/101300200]; Liaoning Provincial Science and Technology Joint Program [62173061]; National Natural Science Foundation of China
+NR 39
+TC 1
+Z9 1
+U1 20
+U2 20
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1556-4959
+EI 1556-4967
+J9 J FIELD ROBOT
+JI J. Field Robot.
+PD AUG 6
+PY 2025
+VL 0
+IS 
+BP 
+EP 
+DI 10.1002/rob.70031
+EA AUG 2025
+PG 27
+WC Robotics
+SC Robotics
+GA 5UR6A
+UT WOS:001544765800001
+DA 2025-12-25
+ER
+
+PT J
+AU Mirzaei, A
+   Naseri, M
+   Ahmadian, A
+AF Mirzaei, Ali
+   Naseri, Mahboobeh
+   Ahmadian, Ahmad
+TI A natural approach to enhancing Capsicum annuum L. quality: Gum Arabic Micro-Capsule infused with Mentha piperita essential oil coating
+SO INDUSTRIAL CROPS AND PRODUCTS
+LA English
+DT Article
+DE Micro-capsules; Shelf life; Catalase activity; Nutritional value
+AB This study explores the preparation and effectiveness of gum Arabic Micro-Capsule infused with Mentha piperita essential oil to enhance the postharvest quality of bell peppers (Capsicum annuum L.). Given the commercial significance of bell peppers and their vulnerability to postharvest deterioration, innovative preservation techniques are essential for maintaining their quality. Micro-capsules were synthesized through a combination of essential oil, gum Arabic, and ultrasonic homogenization, yielding particles with an average size of 673 nm and a polydispersity index of 0.22. The efficacy of these Micro-capsules was assessed by treating harvested bell peppers and monitoring various postharvest parameters over a 28-day storage period. Results demonstrated that the Micro-capsule treatment significantly reduced weight loss by 33 % compared to the control group and effectively preserved vitamin C levels, chlorophyll content, and overall fruit quality. Furthermore, the treatments enhanced antioxidant capacity and catalase activity, both vital for combating oxidative stress. Importantly, the balance between acidity and sugar was maintained, contributing to desirable sensory attributes. These findings indicate that gum Arabic Micro-capsules containing Mentha piperita essential oil represent a promising, eco-friendly approach to improving the postharvest quality and shelf life of bell peppers. This technique may also have potential applications in preserving other agricultural products, such as tomatoes, cucumbers, and leafy greens, which similarly require extended freshness and quality maintenance.
+C1 [Mirzaei, Ali; Naseri, Mahboobeh; Ahmadian, Ahmad] Univ Torbatheydarieh, Fac Agr, Dept Plant Prod, Torbatheydarieh, Razavi Khorasan, Iran.
+RP Naseri, M (corresponding author), Univ Torbatheydarieh, Fac Agr, Dept Plant Prod, Torbatheydarieh, Razavi Khorasan, Iran.
+EM m.naseri@torbath.ac.ir
+NR 33
+TC 2
+Z9 2
+U1 1
+U2 1
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0926-6690
+EI 1872-633X
+J9 IND CROP PROD
+JI Ind. Crop. Prod.
+PD NOV 1
+PY 2025
+VL 235
+IS 
+BP 
+EP 
+DI 10.1016/j.indcrop.2025.121734
+EA AUG 2025
+PG 8
+WC Agricultural Engineering; Agronomy
+SC Agriculture
+GA 8AQ4A
+UT WOS:001584127400002
+DA 2025-12-25
+ER
+

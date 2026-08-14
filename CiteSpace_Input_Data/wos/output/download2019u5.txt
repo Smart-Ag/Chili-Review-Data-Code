@@ -1,0 +1,252 @@
+PT J
+AU Barth, R
+   Hemming, J
+   Van Henten, EJ
+AF Barth, Ruud
+   Hemming, Jochen
+   Van Henten, Eldert J.
+TI Angle estimation between plant parts for grasp optimisation in harvest robots
+SO BIOSYSTEMS ENGINEERING
+LA English
+DT Article
+DE Agriculture; Robotics; Computer vision; Semantic segmentation; Angle estimation
+ID classification; segmentation; networks
+AB For many robotic harvesting applications, position and angle between plant parts is required to optimally position the end-effector before attempting to approach, grasp and cut the product. A method for estimating the angle between plant parts, e.g. stem and fruit, is presented to support the optimisation of grasp pose for harvest robots. The hypothesis is that from colour images, this angle in the horizontal plane can be accurately derived under unmodified greenhouse conditions. It was hypothesised that the location of a fruit and stem could be inferred in the image plane from sparse semantic segmentations. The paper focussed on 4 sub-tasks for a sweet-pepper harvesting robot. Each task was evaluated under 3 conditions: laboratory, simplified greenhouse and unmodified greenhouse. The requirements for each task were based on the end-effector design that required a 25 positioning accuracy. In Task I, colour image segmentation for classes back-ground, fruit and stem plus wire was performed, meeting the requirement of an intersection-over-union > 0.58. In Task II, the stem pose was estimated from the segmentations. In Task III, centres of the fruit and stem were estimated from the output of previous tasks. Both centre estimations In Tasks II and III met the requirement of 25 pixel accuracy on average. In Task IV, the centres were used to estimate the angle between the fruit and stem, meeting the accuracy requirement of 25 for 73% of the cases. The work impacted on the harvest performance by increasing its success rate from 14% theoretically to 52% in practice under unmodified conditions. (C) 2019 Published by Elsevier Ltd on behalf of IAgrE.
+C1 [Barth, Ruud; Hemming, Jochen] Wageningen Univ & Res, Greenhouse Hort, POB 644, NL-6700 AP Wageningen, Netherlands.
+   [Van Henten, Eldert J.] Wageningen Univ & Res, Farm Technol Grp, POB 16, NL-6700 AA Wageningen, Netherlands.
+C3 Wageningen University & Research; Wageningen University & Research
+RP Barth, R (corresponding author), Wageningen Univ & Res, Greenhouse Hort, POB 644, NL-6700 AP Wageningen, Netherlands.
+EM ruud.barth@wur.nl; jochen.hemming@wur.nl; eldert.vanhenten@wur.nl
+FU European Commission in the Horizon2020 Programme (SWEEPER GA) [644313]; H2020 - Industrial Leadership [644313] Funding Source: H2020 - Industrial Leadership
+NR 36
+TC 37
+Z9 40
+U1 4
+U2 69
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 1537-5110
+EI 1537-5129
+J9 BIOSYST ENG
+JI Biosyst. Eng.
+PD JUL 15
+PY 2019
+VL 183
+IS 
+BP 26
+EP 46
+DI 10.1016/j.biosystemseng.2019.04.006
+PG 21
+WC Agricultural Engineering; Agriculture, Multidisciplinary
+SC Agriculture
+GA IH2KM
+UT WOS:000474323700003
+DA 2025-12-25
+ER
+
+PT J
+AU Di Nuovo, A
+   Varrasi, S
+   Lucas, A
+   Conti, D
+   McNamara, J
+   Soranzo, A
+AF Di Nuovo, Alessandro
+   Varrasi, Simone
+   Lucas, Alexandr
+   Conti, Daniela
+   McNamara, John
+   Soranzo, Alessandro
+TI Assessment of Cognitive skills via Human-robot Interaction and Cloud Computing
+SO JOURNAL OF BIONIC ENGINEERING
+LA English
+DT Article
+DE socially assistive robotics; brief cognitive testing; human-robot interaction; neurological screening; cloud computing
+ID socially assistive robotics; assessment moca; impairment; challenges
+AB Technological advances are increasing the range of applications for artificial intelligence, especially through its embodiment within humanoid robotics platforms. This promotes the development of novel systems for automated screening of neurological conditions to assist the clinical practitioners in the detection of early signs of mild cognitive impairments. This article presents the implementation and the experimental validation of the first robotic system for cognitive assessment, based on one of the most popular platforms for social robotics, Softbank Pepper, which administers and records a set of multi-modal interactive tasks to engage the user cognitive abilities. The robot intelligence is programmed using the state-of-the-art IBM Watson AI Cloud services, which provide the necessary capabilities for improving the social interaction and scoring the tests. The system has been tested by healthy adults (N = 35) and we found a significant correlation between the automated scoring and one of the most widely used Paper-and-Pencil tests. We conclude that the system can be considered as a screening instrument for cognitive assessment.
+C1 [Di Nuovo, Alessandro; Varrasi, Simone; Lucas, Alexandr; Conti, Daniela; Soranzo, Alessandro] Sheffield Hallam Univ, Sheffield S1 1WB, S Yorkshire, England.
+   [McNamara, John] IBM Hursley Lab, Winchester SO21 2JN, Hants, England.
+C3 Sheffield Hallam University; International Business Machines (IBM); IBM United Kingdom
+RP Di Nuovo, A (corresponding author), Sheffield Hallam Univ, Sheffield S1 1WB, S Yorkshire, England.
+EM a.dinuovo@shu.ac.uk
+FU European Union [703489]; EPSRC [EP/P030033/1]; EPSRC [EP/P030033/1] Funding Source: UKRI; Marie Curie Actions (MSCA) [703489] Funding Source: Marie Curie Actions (MSCA)
+NR 54
+TC 24
+Z9 25
+U1 3
+U2 27
+PU SPRINGER SINGAPORE PTE LTD
+PI SINGAPORE
+PA #04-01 CENCON I, 1 TANNERY RD, SINGAPORE 347719, SINGAPORE
+SN 1672-6529
+EI 2543-2141
+J9 J BIONIC ENG
+JI J. Bionic Eng.
+PD MAY 15
+PY 2019
+VL 16
+IS 3
+BP 526
+EP 539
+DI 10.1007/s42235-019-0043-2
+PG 14
+WC Engineering, Multidisciplinary; Materials Science, Biomaterials; Robotics
+SC Engineering; Materials Science; Robotics
+GA HZ5ZE
+UT WOS:000468930600013
+DA 2025-12-25
+ER
+
+PT J
+AU Ringdahl, O
+   Kurtser, P
+   Edan, Y
+AF Ringdahl, Ola
+   Kurtser, Polina
+   Edan, Yael
+TI Evaluation of approach strategies for harvesting robots: Case study of sweet pepper harvesting: Category: (5)
+SO JOURNAL OF INTELLIGENT & ROBOTIC SYSTEMS
+LA English
+DT Article
+DE Agricultural robotics; Robotic harvesting; Fruit approach; Human-robot collaboration
+ID fruit detection; gripper design; collaboration; localization; framework
+AB Robotic harvesters that use visual servoing must choose the best direction from which to approach the fruit to minimize occlusion and avoid obstacles that might interfere with the detection along the approach. This work proposes different approach strategies, compares them in terms of cycle times, and presents a failure analysis methodology of the different approach strategies. The different approach strategies are: in-field assessment by human observers, evaluation based on an overview image using advanced algorithms or remote human observers, or attempting multiple approach directions until the fruit is successfully reached. In the latter approach, each attempt costs time, which is a major bottleneck in bringing harvesting robots into the market. Alternatively, a single approach strategy that only attempts one direction can be applied if the best approach direction is known a-priori. The different approach strategies were evaluated for a case study of sweet pepper harvesting in laboratorial and greenhouse conditions. The first experiment, conducted in a commercial greenhouse, revealed that the fruit approach cycle time increased 8% and 116% for reachable and unreachable fruits respectively when the multiple approach strategy was applied, compared to the single approach strategy. The second experiment measured human observers' ability to provide insights to approach directions based on overview images taken in both greenhouse and laboratorial conditions. Results revealed that human observers are accurate in detecting unapproachable directions while they tend to miss approachable directions. By detecting fruits that are unreachable (via automatic algorithms or human operators), harvesting cycle times can be significantly shortened leading to improved commercial feasibility of harvesting robots.
+C1 [Ringdahl, Ola] Umea Univ, Dept Comp Sci, Umea, Sweden.
+   [Kurtser, Polina; Edan, Yael] Ben Gurion Univ Negev, Dept Ind Engn & Management, Beer Sheva, Israel.
+C3 Umea University; Ben-Gurion University of the Negev
+RP Ringdahl, O (corresponding author), Umea Univ, Dept Comp Sci, Umea, Sweden.; Kurtser, P (corresponding author), Ben Gurion Univ Negev, Dept Ind Engn & Management, Beer Sheva, Israel.
+EM ringdahl@cs.umu.se; kurtser@post.bgu.ac.il
+FU European Commission (SWEEPER GA) [644313]; Ben-Gurion University of the Negev through the Helmsley Charitable Trust; Agricultural, Biological and Cognitive Robotics Initiative; Marcus Endowment Fund; Rabbi W. Gunther Plaut Chair in Manufacturing Engineering
+NR 42
+TC 26
+Z9 31
+U1 4
+U2 51
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0921-0296
+EI 1573-0409
+J9 J INTELL ROBOT SYST
+JI J. Intell. Robot. Syst.
+PD JUL 15
+PY 2019
+VL 95
+IS 1
+BP 149
+EP 164
+DI 10.1007/s10846-018-0892-7
+PG 16
+WC Computer Science, Artificial Intelligence; Robotics
+SC Computer Science; Robotics
+GA IJ2VQ
+UT WOS:000475763400010
+DA 2025-12-25
+ER
+
+PT J
+AU Arad, B
+   Kurtser, P
+   Barnea, E
+   Harel, B
+   Edan, Y
+   Ben-Shahar, O
+AF Arad, Boaz
+   Kurtser, Polina
+   Barnea, Ehud
+   Harel, Ben
+   Edan, Yael
+   Ben-Shahar, Ohad
+TI Controlled Lighting and Illumination-Independent Target Detection for Real-Time Cost-Efficient Applications. The Case Study of Sweet Pepper Robotic Harvesting
+SO SENSORS
+LA English
+DT Article
+DE Flash-No-Flash; outdoor vision; fruit detection; autonomous harvesting
+ID segmentation; localization; agriculture; outdoor; color
+AB Current harvesting robots are limited by low detection rates due to the unstructured and dynamic nature of both the objects and the environment. State-of-the-art algorithms include color- and texture-based detection, which are highly sensitive to the illumination conditions. Deep learning algorithms promise robustness at the cost of significant computational resources and the requirement for intensive databases. In this paper we present a Flash-No-Flash (FNF) controlled illumination acquisition protocol that frees the system from most ambient illumination effects and facilitates robust target detection while using only modest computational resources and no supervised training. The approach relies on the simultaneous acquisition of two imageswith/without strong artificial lighting (Flash/no-Flash). The difference between these images represents the appearance of the target scene as if only the artificial light was present, allowing a tight control over ambient light for color-based detection. A performance evaluation database was acquired in greenhouse conditions using an eye-in-hand RGB camera mounted on a robotic manipulator. The database includes 156 scenes with 468 images containing a total of 344 yellow sweet peppers. Performance of both color blob and deep-learning detection algorithms are compared on Flash-only and FNF images. The collected database is made public.
+C1 [Arad, Boaz; Barnea, Ehud; Ben-Shahar, Ohad] Ben Gurion Univ Negev, Dept Comp Sci, IL-8410501 Beer Sheva, Israel.
+   [Kurtser, Polina; Harel, Ben; Edan, Yael] Ben Gurion Univ Negev, Dept Ind Engn & Management, IL-8410501 Beer Sheva, Israel.
+C3 Ben-Gurion University of the Negev; Ben-Gurion University of the Negev
+RP Arad, B (corresponding author), Ben Gurion Univ Negev, Dept Comp Sci, IL-8410501 Beer Sheva, Israel.; Kurtser, P (corresponding author), Ben Gurion Univ Negev, Dept Ind Engn & Management, IL-8410501 Beer Sheva, Israel.
+EM boazar@post.bgu.ac.il; kurtser@post.bgu.ac.il; ehud.barnea@gmail.com; benhare@post.bgu.ac.il; yael@bgu.ac.il; ben-shahar@cs.bgu.ac.il
+FU European Commission [644313]; Ben-Gurion University of the Negev through the Helmsley Charitable Trust; Agricultural, Biological and Cognitive Robotics Initiative; Marcus Endowment Fund; Rabbi W. Gunther Plaut Chair in Manufacturing Engineering; H2020 - Industrial Leadership [644313] Funding Source: H2020 - Industrial Leadership
+NR 32
+TC 47
+Z9 51
+U1 3
+U2 38
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 1424-8220
+J9 SENSORS-BASEL
+JI Sensors
+PD MAR 2
+PY 2019
+VL 19
+IS 6
+BP 
+EP 
+DI 10.3390/s19061390
+PG 15
+WC Chemistry, Analytical; Engineering, Electrical & Electronic; Instruments & Instrumentation
+SC Chemistry; Engineering; Instruments & Instrumentation
+GA HU8FG
+UT WOS:000465520200079
+PM 30901837
+DA 2025-12-25
+ER
+
+PT J
+AU Ji, W
+   Chen, GY
+   Xu, B
+   Meng, XL
+   Zhao, D
+AF Ji, Wei
+   Chen, Guangyu
+   Xu, Bo
+   Meng, Xiangli
+   Zhao, Dean
+TI Recognition Method of Green Pepper in Greenhouse Based on Least-Squares Support Vector Machine Optimized by the Improved Particle Swarm Optimization
+SO IEEE ACCESS
+LA English
+DT Article
+DE K-means segmentation; feature extraction; PSO; harvesting robot; LSSVM
+ID apple fruits; color; classification; segmentation; images; model
+AB In the green pepper harvesting robot, the color of green pepper is similar to that of leaves, which makes it difficult to recognize the green pepper target. In order to solve this problem, a green pepper recognition method based on least-squares support vector machine optimized by the improved particle swarm optimization (IPSO-LSSVM) is proposed in this paper. Firstly, the green pepper images are segmented by K-Means method under the Lab color space, and the segmentation images of the target and background are obtained. The processed green pepper image was divided into training and testing samples. Then, the shape and texture features of green pepper targets are extracted separately from the training sample using the hu invariant moment and Tamura texture feature. Meanwhile, in order to reduce the complexity of data calculations and improve the efficiency, the extracted feature vectors are normalized. The feature vector is used as the input eigenvector of the least-squares support vector machine (LSSVM). The particle swarm optimization algorithm is used to obtain the optimal regularization parameter and the kernel function width. In order to maintain the particle activity, the mutation strategy is introduced to improve the particle swarm optimization algorithm. The experimental results show that the recognition rate of IPSO-LSSVM is higher than that of other methods, and the recognition accuracy is 89.04%. It could meet the requirements of green pepper identification.
+C1 [Ji, Wei; Chen, Guangyu; Xu, Bo; Meng, Xiangli; Zhao, Dean] Jiangsu Univ, Sch Elect & Informat Engn, Zhenjiang 212013, Jiangsu, Peoples R China.
+   [Zhao, Dean] Jiangsu Univ, Key Lab Facil Agr Measurement & Control Technol &, Zhenjiang 212013, Jiangsu, Peoples R China.
+C3 Jiangsu University; Jiangsu University
+RP Ji, W (corresponding author), Jiangsu Univ, Sch Elect & Informat Engn, Zhenjiang 212013, Jiangsu, Peoples R China.
+EM jwhxb@163.com
+FU National Natural Science Foundation of China (NSFC) [61703186, 61973141]; Priority Academic Program Development of Jiangsu Higher Education Institutions (PAPD)
+NR 37
+TC 33
+Z9 38
+U1 1
+U2 31
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2169-3536
+EI 
+J9 IEEE ACCESS
+JI IEEE Access
+PD JUN 15
+PY 2019
+VL 7
+IS 
+BP 119742
+EP 119754
+DI 10.1109/ACCESS.2019.2937326
+PG 13
+WC Computer Science, Information Systems; Engineering, Electrical & Electronic; Telecommunications
+SC Computer Science; Engineering; Telecommunications
+GA JP9DU
+UT WOS:000498558400004
+DA 2025-12-25
+ER
+

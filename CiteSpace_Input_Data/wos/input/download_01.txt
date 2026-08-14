@@ -1,0 +1,656 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Niu, Q
+   Ma, WJ
+   Diao, RX
+   Yu, W
+   Wang, CL
+   Li, H
+   Wang, LH
+   Li, CS
+   Wang, P
+AF Niu, Qi
+   Ma, Wenjun
+   Diao, Rongxiang
+   Yu, Wei
+   Wang, Chunlei
+   Li, Hui
+   Wang, Lihong
+   Li, Chengsong
+   Wang, Pei
+TI Research on Recognition of Green Sichuan Pepper Clusters and
+   Cutting-Point Localization in Complex Environments
+SO AGRICULTURE-BASEL
+LA English
+DT Article
+DE green Sichuan pepper; YOLO; k-means++; cutting-point localization;
+   cluster object detection
+AB The harvesting of green Sichuan pepper remains heavily reliant on manual field operations, but automation can enhance the efficiency, quality, and sustainability of the process. However, challenges such as intertwined branches, dense foliage, and overlapping pepper clusters hinder intelligent harvesting by causing inaccuracies in target recognition and localization. This study compared the performance of multiple You Only Look Once (YOLO) algorithms for recognition and proposed a cluster segmentation method based on K-means++ and a cutting-point localization strategy using geometry-based iterative optimization. A dataset containing 14,504 training images under diverse lighting and occlusion scenarios was constructed. Comparative experiments on YOLOv5s, YOLOv8s, and YOLOv11s models revealed that YOLOv11s achieved a recall of 0.91 in leaf-occluded environments, marking a 21.3% improvement over YOLOv5s, with a detection speed of 28 Frames Per Second(FPS). A K-means++-based cluster separation algorithm (K = 1 similar to 10, optimized via the elbow method) was developed and was combined with OpenCV to iteratively solve the minimum circumscribed triangle vertices. The longest median extension line of the triangle was dynamically determined to be the cutting point. The experimental results demonstrated an average cutting-point deviation of 20 mm and a valid cutting-point ratio of 69.23%. This research provides a robust visual solution for intelligent green Sichuan pepper harvesting equipment, offering both theoretical and engineering significance for advancing the automated harvesting of Sichuan pepper (Zanthoxylum schinifolium) as a specialty economic crop.
+C1 [Niu, Qi; Ma, Wenjun; Diao, Rongxiang; Yu, Wei; Wang, Chunlei; Li, Hui; Wang, Lihong; Li, Chengsong; Wang, Pei] Southwest Univ, Coll Engn & Technol, Chongqing 400715, Peoples R China.
+   [Niu, Qi; Li, Hui; Wang, Lihong; Li, Chengsong; Wang, Pei] Southwest Univ, Key Lab Agr Equipment Hilly & Mountainous Areas, Chongqing 400715, Peoples R China.
+C3 Southwest University - China; Southwest University - China
+RP Wang, P (corresponding author), Southwest Univ, Coll Engn & Technol, Chongqing 400715, Peoples R China.; Wang, P (corresponding author), Southwest Univ, Key Lab Agr Equipment Hilly & Mountainous Areas, Chongqing 400715, Peoples R China.
+EM niuqi2019@swu.edu.cn; m1143966120@email.swu.edu.cn;
+   drx0907@email.swu.edu.cn; y1262615309@email.swu.edu.cn;
+   wangchunlei@swu.edu.cn; leehui@swu.edu.cn; w20190305@swu.edu.cn;
+   l20190304@swu.edu.cn; peiwang@swu.edu.cn
+OI Niu, Qi/0009-0005-6852-6927; Wang, Pei/0000-0002-4825-1875
+FU National Undergraduate Innovation Training Program Supported Project
+   [202210635001]; National Undergraduate Innovation Training Program
+   [cstc2021jscx-gksbX0007]; Technology Innovation and Application
+   Development Special Project of Chongqing [SWU-KQ24001]; Fundamental
+   Research Funds for the Central Universities
+FX This work was supported by the National Undergraduate Innovation
+   Training Program Supported Project (202210635001), the Technology
+   Innovation and Application Development Special Project of Chongqing
+   (cstc2021jscx-gksbX0007), and Fundamental Research Funds for the Central
+   Universities (SWU-KQ24001).
+NR 24
+TC 0
+Z9 0
+U1 11
+U2 13
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+EI 2077-0472
+J9 AGRICULTURE-BASEL
+JI Agriculture-Basel
+PD MAY 16
+PY 2025
+VL 15
+IS 10
+AR 1079
+DI 10.3390/agriculture15101079
+PG 15
+WC Agronomy
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Agriculture
+GA 3BN4D
+UT WOS:001496399700001
+OA gold
+DA 2025-12-25
+ER
+
+PT J
+AU Du, PC
+   Chen, S
+   Li, X
+   Hu, WW
+   Lan, N
+   Lei, XM
+   Xiang, Y
+AF Du, Pengcheng
+   Chen, Shang
+   Li, Xu
+   Hu, Wenwu
+   Lan, Nan
+   Lei, Xiangming
+   Xiang, Yang
+TI Green pepper fruits counting based on improved DeepSort and optimized
+   Yolov5s
+SO FRONTIERS IN PLANT SCIENCE
+LA English
+DT Article
+DE DeepSORT; deep learning; green pepper; fruit counting; track tracking
+ID YIELD
+AB Introduction Green pepper yield estimation is crucial for establishing harvest and storage strategies.Method This paper proposes an automatic counting method for green pepper fruits based on object detection and multi-object tracking algorithm. Green pepper fruits have colors similar to leaves and are often occluded by each other, posing challenges for detection. Based on the YOLOv5s, the CS_YOLOv5s model is specifically designed for green pepper fruit detection. In the CS_YOLOv5s model, a Slim-Nick combined with GSConv structure is utilized in the Neck to reduce model parameters while enhancing detection speed. Additionally, the CBAM attention mechanism is integrated into the Neck to enhance the feature perception of green peppers at various locations and enhance the feature extraction capabilities of the model.Result According to the test results, the CS_YOLOv5s model of mAP, Precision and Recall, and Detection time of a single image are 98.96%, 95%, 97.3%, and 6.3 ms respectively. Compared to the YOLOv5s model, the Detection time of a single image is reduced by 34.4%, while Recall and mAP values are improved. Additionally, for green pepper fruit tracking, this paper combines appearance matching algorithms and track optimization algorithms from SportsTrack to optimize the DeepSort algorithm. Considering three different scenarios of tracking, the MOTA and MOTP are stable, but the ID switch is reduced by 29.41%. Based on the CS_YOLOv5s model, the counting performance before and after DeepSort optimization is compared. For green pepper counting in videos, the optimized DeepSort algorithm achieves ACP (Average Counting Precision), MAE (Mean Absolute Error), and RMSE (Root Mean Squared Error) values of 95.33%, 3.33, and 3.74, respectively. Compared to the original algorithm, ACP increases by 7.2%, while MAE and RMSE decrease by 6.67 and 6.94, respectively. Additionally, Based on the optimized DeepSort, the fruit counting results using YOLOv5s model and CS_YOLOv5s model were compared, and the results show that using the better object detector CS_YOLOv5s has better counting accuracy and robustness.
+C1 [Du, Pengcheng; Chen, Shang; Li, Xu; Hu, Wenwu; Lan, Nan; Lei, Xiangming; Xiang, Yang] Hunan Agr Univ, Coll Mech & Elect Engn, Changsha, Peoples R China.
+C3 Hunan Agricultural University
+RP Xiang, Y (corresponding author), Hunan Agr Univ, Coll Mech & Elect Engn, Changsha, Peoples R China.
+EM xy1608@126.com
+OI , Wenwu Hu/0000-0002-0887-2052
+FU National Key Research and Development Program of
+   China10.13039/501100012166
+FX No Statement Available
+NR 42
+TC 10
+Z9 10
+U1 4
+U2 31
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN 1664-462X
+J9 FRONT PLANT SCI
+JI Front. Plant Sci.
+PD JUL 16
+PY 2024
+VL 15
+AR 1417682
+DI 10.3389/fpls.2024.1417682
+PG 18
+WC Plant Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Plant Sciences
+GA ZZ4M6
+UT WOS:001279094600001
+PM 39081526
+OA Green Submitted, gold
+DA 2025-12-25
+ER
+
+PT J
+AU Ci, JC
+   Wang, X
+   Rapado-Rincón, D
+   Burusa, AK
+   Kootstra, G
+AF Ci, Jianchao
+   Wang, Xin
+   Rapado-Rincon, David
+   Burusa, Akshay K.
+   Kootstra, Gert
+TI 3D pose estimation of tomato peduncle nodes using deep keypoint
+   detection and point cloud
+SO BIOSYSTEMS ENGINEERING
+LA English
+DT Article
+DE Deep learning; Peduncle; Keypoint detection; Point cloud; Detectron2;
+   Pose estimation
+ID FRUIT
+AB Greenhouse production of fruits and vegetables in developed countries is challenged by labour scarcity and high labour costs. Robots offer a good solution for sustainable and cost-effective production. Acquiring accurate spatial information about relevant plant parts is vital for successful robot operation. Robot perception in greenhouses is challenging due to variations in plant appearance, viewpoints, and illumination. This paper proposes a keypoint-detection-based method using data from an RGB-D camera to estimate the 3D pose of peduncle nodes, which provides essential information to harvest the tomato bunches. Specifically, this paper proposes a method that detects four anatomical landmarks in the colour image and then integrates 3D pointcloud information to determine the 3D pose. A comprehensive evaluation was conducted in a commercial greenhouse to gain insight into the performance of different parts of the method. The results showed: (1) high accuracy in object detection, achieving an Average Precision (AP) of AP@0.5=0.96; (2) an average Percentage of Detected Joints (PDJ) of the keypoints of PhDJ@0.2 = 94.31%; and (3) 3D pose estimation accuracy with mean absolute errors (MAE) of 11o and 10o for the relative upper and lower angles between the peduncle and main stem, respectively. Furthermore, the capability to handle variations in viewpoint was investigated, demonstrating the method was robust to view changes. However, canonical and higher views resulted in slightly higher performance compared to other views. Although tomato was selected as a use case, the proposed method has the potential to be applied to other greenhouse crops, such as pepper, after fine-tuning.
+C1 [Ci, Jianchao; Wang, Xin; Rapado-Rincon, David; Burusa, Akshay K.; Kootstra, Gert] Wageningen Univ & Res, Dept Plant Sci, Agr Biosyst Engn Grp, POB 16, NL-6700 AA Wageningen, Netherlands.
+C3 Wageningen University & Research
+RP Ci, JC (corresponding author), Wageningen Univ & Res, Dept Plant Sci, Agr Biosyst Engn Grp, POB 16, NL-6700 AA Wageningen, Netherlands.
+EM jianchao.ci@wur.nl
+OI Ci, Jianchao/0000-0001-5804-2615; Kootstra, Gert/0000-0002-2579-4324;
+   Burusa, Akshay Kumar/0000-0001-7278-5829
+FU Netherlands Organisation for Scientific Research (NWO) project Cognitive
+   Robots for Flexible Agro-Food Technology (FlexCRAFT) [P17-01]
+FX This research is funded by the Netherlands Organisation for Scientific
+   Research (NWO) project Cognitive Robots for Flexible Agro-Food
+   Technology (FlexCRAFT) , grant P17-01.
+NR 52
+TC 13
+Z9 14
+U1 25
+U2 84
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 1537-5110
+EI 1537-5129
+J9 BIOSYST ENG
+JI Biosyst. Eng.
+PD JUL
+PY 2024
+VL 243
+BP 57
+EP 69
+DI 10.1016/j.biosystemseng.2024.04.017
+EA MAY 2024
+PG 13
+WC Agricultural Engineering; Agriculture, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Agriculture
+GA TN2X7
+UT WOS:001241888600001
+OA Green Submitted, hybrid
+DA 2025-12-25
+ER
+
+PT J
+AU Liu, SX
+   Liu, MM
+   Chai, Y
+   Li, S
+   Miao, H
+AF Liu, Sixing
+   Liu, Mingmiao
+   Chai, Yan
+   Li, Shuang
+   Miao, Hong
+TI RECOGNITION AND LOCATION OF PEPPER PICKING BASED ON IMPROVED YOLOV5S AND
+   DEPTH CAMERA
+SO APPLIED ENGINEERING IN AGRICULTURE
+LA English
+DT Article
+DE Different scenes; Pepper recognition and location; Picking operation;
+   YOLOv5s
+AB In order to investigate the impact of different scenes on the recognition performance and obtain the location information of picking targets, the recognition and location system based on improved YOLOv5s network and RealSense depth camera was constructed in this study. An image database in different scenes was established including light intensity, occlusion and overlap degree of pepper. An improved YOLOv5s deep learning model with bidirectional feature pyramid network (BiFPN) was used for the deep feature extraction and high-precision detection of pepper, and the effects of different scenes on recognition accuracy of the model were studied. The results showed that mean average precision (mAP) of YOLOv5s model reached 0.956, which was respectively 6.1%, 9.3%, 44.4%, and 8.2% higher than that of YOLOv4, YOLOv3, YOLOv2, and Faster R-CNN model. The model had good robustness under daytime and evening scenes with the mAP value higher than 0.9. The detection accuracy of the model in the leaf occlusion scenes was better than that of fruit overlap. The detection error was 0.001m which could not affect the picking positioning precision when the Z value of three-dimensional coordinates (O-XYZ) of pepper was 0.2 m. The improved algorithm can accurately recognize and extract three-dimensional coordinates of pepper, which reduces the calculations by eliminating lots of duplicate and redundant prediction boxes and provides a reference for trajectory planning of pepper picking operation.
+C1 [Liu, Sixing; Liu, Mingmiao; Chai, Yan; Li, Shuang; Miao, Hong] Yangzhou Univ, Coll Mech Engn, Yangzhou, Jiangsu, Peoples R China.
+C3 Yangzhou University
+RP Liu, SX; Miao, H (corresponding author), Yangzhou Univ, Coll Mech Engn, Yangzhou, Jiangsu, Peoples R China.
+EM meesxliu@163.com; mh0514@163.com
+FU Natural Science Foundation of Jiangsu Province [BK20190876, BK20170500];
+   Na-tional Characteristic vegetable Industrial technology system Post
+   expert Project [CARS-24-D-03]; Natural Science Foundation of the Jiangsu
+   Higher Education Institutions [19KJB520063]; China Scholarship Council
+   Fund [201808320163]
+FX The authors gratefully acknowledge the financial support of this
+   research by The Natural Science Foundation of Jiangsu Province (No.
+   BK20190876, BK20170500) , Na-tional Characteristic vegetable Industrial
+   technology system Post expert Project (CARS-24-D-03) , the Natural
+   Science Foundation of the Jiangsu Higher Education Institutions (No.
+   19KJB520063) , China Scholarship Council Fund (No. 201808320163) .
+NR 24
+TC 5
+Z9 6
+U1 3
+U2 59
+PU AMER SOC AGRICULTURAL & BIOLOGICAL ENGINEERS
+PI ST JOSEPH
+PA 2950 NILES RD, ST JOSEPH, MI 49085-9659 USA
+SN 0883-8542
+EI 1943-7838
+J9 APPL ENG AGRIC
+JI Appl. Eng. Agric.
+PY 2023
+VL 39
+IS 2
+BP 179
+EP 185
+DI 10.13031/aea.15347
+PG 7
+WC Agricultural Engineering
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Agriculture
+GA F4CD6
+UT WOS:000981831400005
+DA 2025-12-25
+ER
+
+PT J
+AU Gavini, V
+   Lakshmi, GRJ
+AF Gavini, Venkateswarlu
+   Lakshmi, Gurusamy Ramasamy Jothi
+TI CT Image Denoising Model Using Image Segmentation for Image Quality
+   Enhancement for Liver Tumor Detection Using CNN
+SO TRAITEMENT DU SIGNAL
+LA English
+DT Article
+DE liver tumor; CT images; image denoising; image segmentation; convolution
+   neural networks; edge segmentation
+AB Image denoising is an important concept in image processing for improving the image quality. It is difficult to remove noise from images because of the various causes of noise. Imaging noise is made up of many different types of noise, including Gaussian, impulse, salt, pepper, and speckle noise. Increasing emphasis has been paid to Convolution Neural Networks (CNNs) in image denoising. Image denoising has been researched using a variety of CNN approaches. For the evaluation of these methods, various datasets were utilized. Liver Tumor is the leading cause of cancer-related death worldwide. By using Computed Tomography (CT) to detect liver tumor early, millions of patients could be spared from death each year. Denoising a picture means cleaning up an image that has been corrupted by unwanted noise. Due to the fact that noise, edge, and texture are all high frequency components, denoising can be tricky, and the resulting images may be missing some finer features. Applications where recovering the original image content is vital for good performance benefit greatly from image denoising, including image reconstruction, activity recognition, image restoration, segmentation techniques, and image classification. Tumors of this type are difficult to detect and are almost always discovered at an advanced stage, posing a serious threat to the patient's life. As a result, finding a tumour at an early stage is critical. Tumors can be detected non-invasively using medical image processing. There is a pressing need for software that can automatically read, detect, and evaluate CT scans by removing noise from the images. As a result, any system must deal with a bottleneck in liver segmentation and extraction from CT scans. To segment and classify liver CT images after denoising images, a deep CNN technique is proposed in this research. An Image Quality Enhancement model with Image Denoising and Edge based Segmentation (IQE-ID-EbS) is proposed in this research that effectively reduces noise levels in the image and then performs edge based segmentation for feature extraction from the CT images. The proposed model is compared with the traditional models and the results represent that the proposed model performance is better.
+C1 [Gavini, Venkateswarlu; Lakshmi, Gurusamy Ramasamy Jothi] Vels Inst Sci Technol & Adv Studies, Dept ECE, Chennai 600117, Tamil Nadu, India.
+C3 Vels Institute of Science, Technology & Advanced Studies
+RP Gavini, V (corresponding author), Vels Inst Sci Technol & Adv Studies, Dept ECE, Chennai 600117, Tamil Nadu, India.
+EM venkateswarlugavini46@gmail.com
+RI Gavini, Venkateswarlu/HGE-4877-2022
+NR 26
+TC 7
+Z9 7
+U1 3
+U2 14
+PU INT INFORMATION & ENGINEERING TECHNOLOGY ASSOC
+PI EDMONTON
+PA #2020, SCOTIA PLACE TOWER ONE, 10060 JASPER AVE, EDMONTON, AB T5J 3R8,
+   CANADA
+SN 0765-0019
+EI 1958-5608
+J9 TRAIT SIGNAL
+JI Trait. Signal
+PD OCT
+PY 2022
+VL 39
+IS 5
+BP 1807
+EP 1814
+DI 10.18280/ts.390540
+PG 8
+WC Computer Science, Artificial Intelligence; Engineering, Electrical &
+   Electronic
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering
+GA 7N9BT
+UT WOS:000907630800035
+OA Bronze
+DA 2025-12-25
+ER
+
+PT J
+AU Zhu, WD
+   Sun, J
+   Wang, SM
+   Yang, KF
+   Shen, JF
+   Zhou, X
+AF Zhu, Weidong
+   Sun, Jun
+   Wang, Simin
+   Yang, Kaifeng
+   Shen, Jifeng
+   Zhou, Xin
+TI Segmentation and recognition of filed sweet pepper based on improved
+   self-attention convolutional neural networks
+SO MULTIMEDIA SYSTEMS
+LA English
+DT Article
+DE Sweet pepper; Semantic segmentation; Recognition; Convolutional neural
+   networks; Machine vision
+AB Automatic and accurate recognition of the parts to be picked is the key to realize the intelligent picking of sweet pepper. However, pepper fruits are always covered by other organs, and small objects such as stems and shoots are difficult to be recognized by machines or cameras under certain extreme conditions. To accurately segment and recognize all kinds of objects in sweet pepper images captured at night, three experiments were performed in this paper, and an enhanced model based on convolutional neural networks was eventually achieved. In experiment I, several semantic segmentation networks were trained on a small data set, and the full-resolution residual network (FRRN) was taken as a primary network. Then, the impact of resolution of input images on the segmentation effect was investigated in experiment II. To strengthen the feature presentation of inconspicuous objects, the position attention module was appended on top of the FRRN in experiment III. This architecture was further trained to provide more precise segmentation results. The experimental result shows that the mean intersection over union is 78.88%, which is at least 1.94% points higher than other models, and the mean pixel accuracy is 97.94% on the test set. The proposed method has higher generalization performance when facing unforeseen picking situations; meanwhile, it is generic and can be applied to other fruits and vegetables.
+C1 [Zhu, Weidong; Sun, Jun; Wang, Simin; Yang, Kaifeng; Shen, Jifeng; Zhou, Xin] Jiangsu Univ, Sch Elect & Informat Engn, Zhenjiang 212013, Jiangsu, Peoples R China.
+C3 Jiangsu University
+RP Sun, J (corresponding author), Jiangsu Univ, Sch Elect & Informat Engn, Zhenjiang 212013, Jiangsu, Peoples R China.
+EM sun2000jun@sina.com
+RI Shen, Jifeng/GVS-6113-2022; Sun, Jun/HSD-4741-2023; xin,
+   zhou/HTP-7186-2023
+FU Project of Faculty of Agricultural Equipment of Jiangsu University
+   [NZXB20210210]; Priority Academic Program Development of Jiangsu Higher
+   Education Institutions (PAPD); Jiangsu University undergraduate
+   scientific research project [20AB00]
+FX This work is partly supported by Project of Faculty of Agricultural
+   Equipment of Jiangsu University (NZXB20210210), a project funded by the
+   Priority Academic Program Development of Jiangsu Higher Education
+   Institutions (PAPD), and Jiangsu University undergraduate scientific
+   research project (20AB00).
+NR 40
+TC 4
+Z9 6
+U1 4
+U2 35
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN 0942-4962
+EI 1432-1882
+J9 MULTIMEDIA SYST
+JI Multimedia Syst.
+PD FEB
+PY 2023
+VL 29
+IS 1
+BP 223
+EP 234
+DI 10.1007/s00530-022-00990-y
+EA AUG 2022
+PG 12
+WC Computer Science, Information Systems; Computer Science, Theory &
+   Methods
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 8F3BX
+UT WOS:000847172000001
+DA 2025-12-25
+ER
+
+PT J
+AU Liu, XZ
+   Yu, J
+   Kurihara, T
+   Li, K
+   Niu, Z
+   Zhan, S
+AF Liu, Xinzhi
+   Yu, Jun
+   Kurihara, Toru
+   Li, Ke
+   Niu, Zhao
+   Zhan, Shu
+TI Learning an optical filter for green pepper automatic picking in
+   agriculture
+SO COMPUTERS AND ELECTRONICS IN AGRICULTURE
+LA English
+DT Article
+DE Hyperspectral imaging; Green pepper segmentation; Optical filter; U-net;
+   Generative adversarial network
+ID CLASSIFICATION; IMAGES
+AB Green pepper automatic picking has been a long-standing challenge in agriculture due to the similar color between green peppers and green leaves. To tackle this intractable problem, we tried to distinguish between them by using hyperspectral information as prior knowledge. As our core insight, a novel optical filter was designed as a pre-processing tool to find valuable wavelengths where peppers differ a lot from leaves. To this end, firstly, the parameters of the optical filter were learned by end-to-end training with a neural network for pixel-wise hyperspectral input. Secondly, the learned optical filter was applied to hyperspectral data to obtain filtering RGB images, which will be sent to further segmentation framework. Thereby, a two-stage method for green pepper segmentation was proposed, and promising results were achieved owing to the incorporation of the optical filter.
+C1 [Liu, Xinzhi; Niu, Zhao; Zhan, Shu] Hefei Univ Technol, Hefei, Peoples R China.
+   [Yu, Jun; Kurihara, Toru] Kochi Univ Technol, Kochi, Japan.
+   [Li, Ke] Anhui Agr Univ, Hefei, Peoples R China.
+C3 Hefei University of Technology; Kochi University Technology; Anhui
+   Agricultural University
+RP Zhan, S (corresponding author), Hefei Univ Technol, Hefei, Peoples R China.
+EM shu_zhan@hfut.edu.cn
+FU Anhui Province RD Key Project [JD2019XKJH0029]; Hefei Municipal Natural
+   Science Foundation [2021008]
+FX This work was supported by Anhui Province R&D Key Project(Grant No.
+   JD2019XKJH0029) and Hefei Municipal Natural Science Foundation (Grant
+   No. 2021008). The authors would like to thank the anonymous reviews for
+   their helpful and constructive comments and suggestions regarding this
+   manuscipt.
+NR 30
+TC 6
+Z9 6
+U1 1
+U2 23
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 0168-1699
+EI 1872-7107
+J9 COMPUT ELECTRON AGR
+JI Comput. Electron. Agric.
+PD DEC
+PY 2021
+VL 191
+AR 106521
+DI 10.1016/j.compag.2021.106521
+PG 11
+WC Agriculture, Multidisciplinary; Computer Science, Interdisciplinary
+   Applications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Agriculture; Computer Science
+GA ZE9BX
+UT WOS:000759173000023
+DA 2025-12-25
+ER
+
+PT J
+AU Ohashi, Y
+   Ishigami, Y
+   Goto, E
+AF Ohashi, Yuta
+   Ishigami, Yasuhiro
+   Goto, Eiji
+TI Monitoring the Growth and Yield of Fruit Vegetables in a Greenhouse
+   Using a Three-Dimensional Scanner
+SO SENSORS
+LA English
+DT Article
+DE canopy structure; Capsicum annuum; Cucumis sativus; dry matter; image
+   analysis; leaf are index; leaf area; plant height; Solanum lycopersicum;
+   yield
+ID LEAF-AREA; VOLUME ESTIMATION; RED; TOMATOES; IMAGES; TREE; PLANTS
+AB Monitoring the growth of fruit vegetables is essential for the automation of cultivation management, and harvest. The objective of this study is to demonstrate that the current sensor technology can monitor the growth and yield of fruit vegetables such as tomato, cucumber, and paprika. We estimated leaf area, leaf area index (LAI), and plant height using coordinates of polygon vertices from plant and canopy surface models constructed using a three-dimensional (3D) scanner. A significant correlation was observed between the measured and estimated leaf area, LAI, and plant height (R-2> 0.8, except for tomato LAI). The canopy structure of each fruit vegetable was predicted by integrating the estimated leaf area at each height of the canopy surface models. A linear relationship was observed between the measured total leaf area and the total dry weight of each fruit vegetable; thus, the dry weight of the plant can be predicted using the estimated leaf area. The fruit weights of tomato and paprika were estimated using the fruit solid model constructed by the fruit point cloud data extracted using the RGB value. A significant correlation was observed between the measured and estimated fruit weights (tomato: R-2= 0.739, paprika: R-2= 0.888). Therefore, it was possible to estimate the growth parameters (leaf area, plant height, canopy structure, and yield) of different fruit vegetables non-destructively using a 3D scanner.
+C1 [Ohashi, Yuta; Goto, Eiji] Chiba Univ, Grad Sch Hort, Matsudo, Chiba 2718510, Japan.
+   [Ishigami, Yasuhiro] Takasaki Univ Hlth & Welf, Fac Agr, Takasaki, Gunma 3700033, Japan.
+   [Goto, Eiji] Chiba Univ, Plant Mol Res Ctr, Chiba 2600856, Japan.
+C3 Chiba University; Chiba University
+RP Goto, E (corresponding author), Chiba Univ, Grad Sch Hort, Matsudo, Chiba 2718510, Japan.; Goto, E (corresponding author), Chiba Univ, Plant Mol Res Ctr, Chiba 2600856, Japan.
+EM y-ohashi@chiba-u.jp; ishigami@takasaki-u.ac.jp; goto@faculty.chiba-u.jp
+RI Goto, Eiji/AAY-5131-2020
+OI Goto, Eiji/0000-0003-1401-1985; ISHIGAMI, YASUHIRO/0000-0001-5062-1196
+FU Strategic Project Research Promotion Program from the Ministry of
+   Agriculture, Forestry and Fisheries of Japan
+FX This work was supported by a Strategic Project Research Promotion
+   Program from the Ministry of Agriculture, Forestry and Fisheries of
+   Japan.
+NR 44
+TC 14
+Z9 21
+U1 3
+U2 36
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 1424-8220
+J9 SENSORS-BASEL
+JI Sensors
+PD SEP
+PY 2020
+VL 20
+IS 18
+AR 5270
+DI 10.3390/s20185270
+PG 18
+WC Chemistry, Analytical; Engineering, Electrical & Electronic; Instruments
+   & Instrumentation
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Engineering; Instruments & Instrumentation
+GA OD9OB
+UT WOS:000580172500001
+PM 32942632
+OA Green Submitted, gold
+DA 2025-12-25
+ER
+
+PT J
+AU Barth, R
+   Hemming, J
+   Van Henten, EJ
+AF Barth, Ruud
+   Hemming, Jochen
+   Van Henten, Eldert J.
+TI Angle estimation between plant parts for grasp optimisation in harvest
+   robots
+SO BIOSYSTEMS ENGINEERING
+LA English
+DT Article
+DE Agriculture; Robotics; Computer vision; Semantic segmentation; Angle
+   estimation
+ID CLASSIFICATION; SEGMENTATION; NETWORKS
+AB For many robotic harvesting applications, position and angle between plant parts is required to optimally position the end-effector before attempting to approach, grasp and cut the product. A method for estimating the angle between plant parts, e.g. stem and fruit, is presented to support the optimisation of grasp pose for harvest robots. The hypothesis is that from colour images, this angle in the horizontal plane can be accurately derived under unmodified greenhouse conditions. It was hypothesised that the location of a fruit and stem could be inferred in the image plane from sparse semantic segmentations. The paper focussed on 4 sub-tasks for a sweet-pepper harvesting robot. Each task was evaluated under 3 conditions: laboratory, simplified greenhouse and unmodified greenhouse. The requirements for each task were based on the end-effector design that required a 25 positioning accuracy. In Task I, colour image segmentation for classes back-ground, fruit and stem plus wire was performed, meeting the requirement of an intersection-over-union > 0.58. In Task II, the stem pose was estimated from the segmentations. In Task III, centres of the fruit and stem were estimated from the output of previous tasks. Both centre estimations In Tasks II and III met the requirement of 25 pixel accuracy on average. In Task IV, the centres were used to estimate the angle between the fruit and stem, meeting the accuracy requirement of 25 for 73% of the cases. The work impacted on the harvest performance by increasing its success rate from 14% theoretically to 52% in practice under unmodified conditions. (C) 2019 Published by Elsevier Ltd on behalf of IAgrE.
+C1 [Barth, Ruud; Hemming, Jochen] Wageningen Univ & Res, Greenhouse Hort, POB 644, NL-6700 AP Wageningen, Netherlands.
+   [Van Henten, Eldert J.] Wageningen Univ & Res, Farm Technol Grp, POB 16, NL-6700 AA Wageningen, Netherlands.
+C3 Wageningen University & Research; Wageningen University & Research
+RP Barth, R (corresponding author), Wageningen Univ & Res, Greenhouse Hort, POB 644, NL-6700 AP Wageningen, Netherlands.
+EM ruud.barth@wur.nl; jochen.hemming@wur.nl; eldert.vanhenten@wur.nl
+RI van Henten, Eldert/K-8864-2019
+FU European Commission in the Horizon2020 Programme (SWEEPER GA) [644313];
+   H2020 - Industrial Leadership [644313] Funding Source: H2020 -
+   Industrial Leadership
+FX This research was partially funded by the European Commission in the
+   Horizon2020 Programme (SWEEPER GA no. 644313). We would like to thank
+   Joris IJselmuiden for his reflections on the experiments and Bart van
+   Tuijl and Toon Tielen for helping with the data collection.
+NR 36
+TC 37
+Z9 40
+U1 4
+U2 69
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 1537-5110
+EI 1537-5129
+J9 BIOSYST ENG
+JI Biosyst. Eng.
+PD JUL
+PY 2019
+VL 183
+BP 26
+EP 46
+DI 10.1016/j.biosystemseng.2019.04.006
+PG 21
+WC Agricultural Engineering; Agriculture, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Agriculture
+GA IH2KM
+UT WOS:000474323700003
+DA 2025-12-25
+ER
+
+PT J
+AU Ringdahl, O
+   Kurtser, P
+   Edan, Y
+AF Ringdahl, Ola
+   Kurtser, Polina
+   Edan, Yael
+TI Evaluation of approach strategies for harvesting robots: Case study of
+   sweet pepper harvesting: Category: (5)
+SO JOURNAL OF INTELLIGENT & ROBOTIC SYSTEMS
+LA English
+DT Article
+DE Agricultural robotics; Robotic harvesting; Fruit approach; Human-robot
+   collaboration
+ID FRUIT DETECTION; GRIPPER DESIGN; COLLABORATION; LOCALIZATION; FRAMEWORK
+AB Robotic harvesters that use visual servoing must choose the best direction from which to approach the fruit to minimize occlusion and avoid obstacles that might interfere with the detection along the approach. This work proposes different approach strategies, compares them in terms of cycle times, and presents a failure analysis methodology of the different approach strategies. The different approach strategies are: in-field assessment by human observers, evaluation based on an overview image using advanced algorithms or remote human observers, or attempting multiple approach directions until the fruit is successfully reached. In the latter approach, each attempt costs time, which is a major bottleneck in bringing harvesting robots into the market. Alternatively, a single approach strategy that only attempts one direction can be applied if the best approach direction is known a-priori. The different approach strategies were evaluated for a case study of sweet pepper harvesting in laboratorial and greenhouse conditions. The first experiment, conducted in a commercial greenhouse, revealed that the fruit approach cycle time increased 8% and 116% for reachable and unreachable fruits respectively when the multiple approach strategy was applied, compared to the single approach strategy. The second experiment measured human observers' ability to provide insights to approach directions based on overview images taken in both greenhouse and laboratorial conditions. Results revealed that human observers are accurate in detecting unapproachable directions while they tend to miss approachable directions. By detecting fruits that are unreachable (via automatic algorithms or human operators), harvesting cycle times can be significantly shortened leading to improved commercial feasibility of harvesting robots.
+C1 [Ringdahl, Ola] Umea Univ, Dept Comp Sci, Umea, Sweden.
+   [Kurtser, Polina; Edan, Yael] Ben Gurion Univ Negev, Dept Ind Engn & Management, Beer Sheva, Israel.
+C3 Umea University; Ben-Gurion University of the Negev
+RP Ringdahl, O (corresponding author), Umea Univ, Dept Comp Sci, Umea, Sweden.; Kurtser, P (corresponding author), Ben Gurion Univ Negev, Dept Ind Engn & Management, Beer Sheva, Israel.
+EM ringdahl@cs.umu.se; kurtser@post.bgu.ac.il
+RI ; EDAN, YAEL/F-2112-2012
+OI Kurtser, Polina/0000-0003-4685-379X; Ringdahl, Ola/0000-0002-4600-8652;
+   EDAN, YAEL/0000-0002-7430-8468
+FU European Commission (SWEEPER GA) [644313]; Ben-Gurion University of the
+   Negev through the Helmsley Charitable Trust; Agricultural, Biological
+   and Cognitive Robotics Initiative; Marcus Endowment Fund; Rabbi W.
+   Gunther Plaut Chair in Manufacturing Engineering
+FX This research was supported by the European Commission (SWEEPER GA no.
+   644313) and by Ben-Gurion University of the Negev through the Helmsley
+   Charitable Trust, the Agricultural, Biological and Cognitive Robotics
+   Initiative, the Marcus Endowment Fund and the Rabbi W. Gunther Plaut
+   Chair in Manufacturing Engineering.
+NR 42
+TC 26
+Z9 31
+U1 4
+U2 51
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0921-0296
+EI 1573-0409
+J9 J INTELL ROBOT SYST
+JI J. Intell. Robot. Syst.
+PD JUL
+PY 2019
+VL 95
+IS 1
+BP 149
+EP 164
+DI 10.1007/s10846-018-0892-7
+PG 16
+WC Computer Science, Artificial Intelligence; Robotics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Robotics
+GA IJ2VQ
+UT WOS:000475763400010
+OA Green Submitted, hybrid
+DA 2025-12-25
+ER
+
+PT J
+AU Eizentals, P
+   Oka, K
+AF Eizentals, Peteris
+   Oka, Koichi
+TI 3D pose estimation of green pepper fruit for automated harvesting
+SO COMPUTERS AND ELECTRONICS IN AGRICULTURE
+LA English
+DT Article
+DE Pose estimation; Automatic harvesting; Harvesting robot; Green pepper;
+   Point matching
+ID ROBOT
+AB This paper presents a novel pose estimation algorithm for stem position detection in Japanese green pepper automatic harvesting. When the available visual cues do not provide sufficient information to the harvesting robot, information about the pose of the fruit in space is necessary for accurate stem position detection. In the proposed method the orientation of a fruit in space is obtained by fitting a model to surface points of the fruit. These surface points are acquired using a Lidar type laser range finder, and the point matching is performed using a coherent point drift algorithm with two model transformation methods, rigid and affine. The performance of the proposed method was evaluated both under laboratory conditions and in a greenhouse. In the laboratory test, the mean total error for the affine transformation was less than 25 mm in 42 of 49 positions, less than 20 mm in 28 of 49 positions and less than 15 mm in 19 of 49 positions. For the rigid transformation, the same error was less than 25 mm in 39 of 49 positions, less than 20 mm in 31 of 49 positions and less than 15 mm in 11 of 49 positions. The total error of the affine transformation was found to be proportional to the inclination angle, as the mean error was 11 mm, 15 mm, and 23 mm for inclination angles of 15, 30 and 45 degrees, respectively. No relationship was found between the mean total error and the inclination angle for the rigid transformation, as the calculated mean total error was 20 mm, 18 mm, and 20 mm for inclination angles of 15, 30 and 45 degrees, respectively. In the greenhouse test, the stem was calculated to be within the cutting range for 81 of 107 instances for affine transformation and for 66 of 107 for rigid transformation. These results suggest that the proposed method is suitable for stem position detection in the automatic harvesting of green pepper, and could be adjusted for use with other fruits and vegetables. (C) 2016 Elsevier B.V. All rights reserved.
+C1 [Eizentals, Peteris; Oka, Koichi] Kochi Univ Technol, Dept Intelligent Mech Syst Engn, Kami City, Kochi 7828502, Japan.
+C3 Kochi University Technology
+RP Eizentals, P (corresponding author), Kochi Univ Technol, Dept Intelligent Mech Syst Engn, Kami City, Kochi 7828502, Japan.
+EM peteris.eizentals@gmail.com; oka.koichi@kochi-tech.ac.jp
+OI Eizentals, Peteris/0000-0002-5743-6329
+NR 17
+TC 50
+Z9 54
+U1 6
+U2 101
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0168-1699
+EI 1872-7107
+J9 COMPUT ELECTRON AGR
+JI Comput. Electron. Agric.
+PD OCT
+PY 2016
+VL 128
+BP 127
+EP 140
+DI 10.1016/j.compag.2016.08.024
+PG 14
+WC Agriculture, Multidisciplinary; Computer Science, Interdisciplinary
+   Applications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Agriculture; Computer Science
+GA DY9RR
+UT WOS:000385473300015
+DA 2025-12-25
+ER
+
+EF

@@ -1,0 +1,695 @@
+PT J
+AU Du, PC
+   Chen, S
+   Li, X
+   Hu, WW
+   Lan, N
+   Lei, XM
+   Xiang, Y
+AF Du, Pengcheng
+   Chen, Shang
+   Li, Xu
+   Hu, Wenwu
+   Lan, Nan
+   Lei, Xiangming
+   Xiang, Yang
+TI Green pepper fruits counting based on improved DeepSort and optimized Yolov5s
+SO FRONTIERS IN PLANT SCIENCE
+LA English
+DT Article
+DE DeepSORT; deep learning; green pepper; fruit counting; track tracking
+ID yield
+AB Introduction Green pepper yield estimation is crucial for establishing harvest and storage strategies.Method This paper proposes an automatic counting method for green pepper fruits based on object detection and multi-object tracking algorithm. Green pepper fruits have colors similar to leaves and are often occluded by each other, posing challenges for detection. Based on the YOLOv5s, the CS_YOLOv5s model is specifically designed for green pepper fruit detection. In the CS_YOLOv5s model, a Slim-Nick combined with GSConv structure is utilized in the Neck to reduce model parameters while enhancing detection speed. Additionally, the CBAM attention mechanism is integrated into the Neck to enhance the feature perception of green peppers at various locations and enhance the feature extraction capabilities of the model.Result According to the test results, the CS_YOLOv5s model of mAP, Precision and Recall, and Detection time of a single image are 98.96%, 95%, 97.3%, and 6.3 ms respectively. Compared to the YOLOv5s model, the Detection time of a single image is reduced by 34.4%, while Recall and mAP values are improved. Additionally, for green pepper fruit tracking, this paper combines appearance matching algorithms and track optimization algorithms from SportsTrack to optimize the DeepSort algorithm. Considering three different scenarios of tracking, the MOTA and MOTP are stable, but the ID switch is reduced by 29.41%. Based on the CS_YOLOv5s model, the counting performance before and after DeepSort optimization is compared. For green pepper counting in videos, the optimized DeepSort algorithm achieves ACP (Average Counting Precision), MAE (Mean Absolute Error), and RMSE (Root Mean Squared Error) values of 95.33%, 3.33, and 3.74, respectively. Compared to the original algorithm, ACP increases by 7.2%, while MAE and RMSE decrease by 6.67 and 6.94, respectively. Additionally, Based on the optimized DeepSort, the fruit counting results using YOLOv5s model and CS_YOLOv5s model were compared, and the results show that using the better object detector CS_YOLOv5s has better counting accuracy and robustness.
+C1 [Du, Pengcheng; Chen, Shang; Li, Xu; Hu, Wenwu; Lan, Nan; Lei, Xiangming; Xiang, Yang] Hunan Agr Univ, Coll Mech & Elect Engn, Changsha, Peoples R China.
+C3 Hunan Agricultural University
+RP Xiang, Y (corresponding author), Hunan Agr Univ, Coll Mech & Elect Engn, Changsha, Peoples R China.
+EM xy1608@126.com
+FU National Key Research and Development Program of China10.13039/501100012166
+NR 42
+TC 10
+Z9 10
+U1 4
+U2 31
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN 1664-462X
+EI 
+J9 FRONT PLANT SCI
+JI Front. Plant Sci.
+PD JUL 16
+PY 2024
+VL 15
+IS 
+BP 
+EP 
+DI 10.3389/fpls.2024.1417682
+PG 18
+WC Plant Sciences
+SC Plant Sciences
+GA ZZ4M6
+UT WOS:001279094600001
+PM 39081526
+DA 2025-12-25
+ER
+
+PT J
+AU Xiang, PJ
+   Pan, F
+   Duan, XL
+   Yang, DZ
+   Hu, MD
+   He, DW
+   Zhao, XY
+   Huang, F
+AF Xiang, Pengjun
+   Pan, Fei
+   Duan, Xuliang
+   Yang, Daizhuang
+   Hu, Mengdie
+   He, Dawei
+   Zhao, Xiaoyu
+   Huang, Fang
+TI A Method for Sorting High-Quality Fresh Sichuan Pepper Based on a Multi-Domain Multi-Scale Feature Fusion Algorithm
+SO FOODS
+LA English
+DT Article
+DE Sichuan pepper sorting; instance segmentation; maturity classification; machine vision; smart agriculture
+ID machine vision; segmentation
+AB Post-harvest selection of high-quality Sichuan pepper is a critical step in the production process. To achieve this, a visual system needs to analyze Sichuan pepper with varying postures and maturity levels. To quickly and accurately sort high-quality fresh Sichuan pepper, this study proposes a multi-scale frequency domain feature fusion module (MSF3M) and a multi-scale dual-domain feature fusion module (MS-DFFM) to construct a multi-scale, multi-domain fusion algorithm for feature fusion of Sichuan pepper images. The MultiDomain YOLOv8 Model network is then built to segment and classify the target Sichuan pepper, distinguishing the maturity level of individual Sichuan peppercorns. A selection method based on the average local pixel value difference is proposed for sorting high-quality fresh Sichuan pepper. Experimental results show that the MultiDomain YOLOv8-seg achieves an mAP50 of 88.8% for the segmentation of fresh Sichuan pepper, with a model size of only 5.84 MB. The MultiDomain YOLOv8-cls excels in Sichuan pepper maturity classification, with an accuracy of 98.34%. Compared to the YOLOv8 baseline model, the MultiDomain YOLOv8 model offers higher accuracy and a more lightweight structure, making it highly effective in reducing misjudgments and enhancing post-harvest processing efficiency in agricultural applications, ultimately increasing producer profits.
+C1 [Xiang, Pengjun; Pan, Fei; Duan, Xuliang; Yang, Daizhuang; Hu, Mengdie; He, Dawei; Zhao, Xiaoyu; Huang, Fang] Sichuan Agr Univ, Coll Informat Engn, Yaan 625014, Peoples R China.
+   [Xiang, Pengjun; Pan, Fei; Duan, Xuliang; Yang, Daizhuang; Hu, Mengdie; He, Dawei; Zhao, Xiaoyu; Huang, Fang] Yaan Digital Agr Engn Technol Res Ctr, Yaan 625014, Peoples R China.
+C3 Sichuan Agricultural University
+RP Duan, XL (corresponding author), Sichuan Agr Univ, Coll Informat Engn, Yaan 625014, Peoples R China.; Duan, XL (corresponding author), Yaan Digital Agr Engn Technol Res Ctr, Yaan 625014, Peoples R China.
+EM 2022219014@stu.sicau.edu.cn; fei.pan@sicau.edu.cn; duanxuliang@sicau.edu.cn
+FU Science and Technology Planning Project of Ya'an Science and Technology Bureau;  [22ZDYFZF0006]
+NR 38
+TC 1
+Z9 1
+U1 6
+U2 26
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 2304-8158
+J9 FOODS
+JI Foods
+PD SEP 15
+PY 2024
+VL 13
+IS 17
+BP 
+EP 
+DI 10.3390/foods13172776
+PG 27
+WC Food Science & Technology
+SC Food Science & Technology
+GA F6L2X
+UT WOS:001310908200001
+PM 39272541
+DA 2025-12-25
+ER
+
+PT J
+AU Duan, YC
+   Li, JN
+   Zou, C
+AF Duan, Yichu
+   Li, Jianing
+   Zou, Chi
+TI Research on Detection Method of Chaotian Pepper in Complex Field Environments Based on YOLOv8
+SO SENSORS
+LA English
+DT Article
+DE Chaotian pepper; intelligent detection; complex environment in the field; YOLOv8; backbone network
+AB The intelligent detection of chili peppers is crucial for achieving automated operations. In complex field environments, challenges such as overlapping plants, branch occlusions, and uneven lighting make detection difficult. This study conducted comparative experiments to select the optimal detection model based on YOLOv8 and further enhanced it. The model was optimized by incorporating BiFPN, LSKNet, and FasterNet modules, followed by the addition of attention and lightweight modules such as EMBC, EMSCP, DAttention, MSBlock, and Faster. Adjustments to CIoU, Inner CIoU, Inner GIoU, and inner_mpdiou loss functions and scaling factors further improved overall performance. After optimization, the YOLOv8 model achieved precision, recall, and mAP scores of 79.0%, 75.3%, and 83.2%, respectively, representing increases of 1.1, 4.3, and 1.6 percentage points over the base model. Additionally, GFLOPs were reduced by 13.6%, the model size decreased to 66.7% of the base model, and the FPS reached 301.4. This resulted in accurate and rapid detection of chili peppers in complex field environments, providing data support and experimental references for the development of intelligent picking equipment.
+C1 [Duan, Yichu; Li, Jianing; Zou, Chi] Shanxi Agr Univ, Coll Informat Sci & Engn, Jinzhong 030801, Peoples R China.
+C3 Shanxi Agricultural University
+RP Duan, YC (corresponding author), Shanxi Agr Univ, Coll Informat Sci & Engn, Jinzhong 030801, Peoples R China.
+EM 19510260343@163.com; ljnfighting206@163.com; 13967180135@163.com
+FU the Shanxi Province Basic Research Program Project (Free Exploration) [20210302124523, 202103021224149, 202103021223141]; Shanxi Province Basic Research Program Project (Free Exploration) [2020BQ14]; Doctor Scientific Research Foundation of Shanxi Agricultural University
+NR 41
+TC 4
+Z9 4
+U1 6
+U2 47
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 1424-8220
+J9 SENSORS-BASEL
+JI Sensors
+PD SEP 15
+PY 2024
+VL 24
+IS 17
+BP 
+EP 
+DI 10.3390/s24175632
+PG 27
+WC Chemistry, Analytical; Engineering, Electrical & Electronic; Instruments & Instrumentation
+SC Chemistry; Engineering; Instruments & Instrumentation
+GA F7I5H
+UT WOS:001311512700001
+PM 39275543
+DA 2025-12-25
+ER
+
+PT J
+AU Alaboudi, NAH
+   Hatamnia, AA
+   Mohammadi, M
+   Ranjbar, ME
+AF Alaboudi, Noor Abdelkarim Hashem
+   Hatamnia, Ali Asghar
+   Mohammadi, Meisam
+   Ranjbar, Mohammad Ebrahim
+TI Oxalic acid alleviates chilling injury and positively influences post-harvest parameters of sweet bell pepper by affecting glycine betaine accumulation, cells respiration rate and NADPH oxidase enzyme activity during cold storage
+SO POSTHARVEST BIOLOGY AND TECHNOLOGY
+LA English
+DT Article
+DE Oxalic acid; Antioxidant capacity; ATP content; Pre-harvest treatments
+ID cut flowers; fruit; quality; l.; peroxidase; preharvest; senescence; tolerance; stress
+AB Bell pepper as tropical crop and warm-season vegetable is sensitive to cold storage under temperatures below 7.5 degrees C. The purposes of the current study were to investigate the influence of pre-harvest treatment of oxalic acid (OA 0, 1, 5, 10, and 15 mM) on some of most important morphological, physiological and bio-chemical characteristics of red bell pepper cv. "2090 Westland" at post-harvest stage, and assessment of mechanisms and enzymatic pathways of crop response to OA treatments. OA treatments greatly reduced the chilling index, and the positive effects of treatments enhanced by increasing the concentration of OA. The energy level (ATP content) of pepper fruits decreased with extending storage duration, but OA treatment maintained the ATP content of fruits. On 24 d of storage, the highest and lowest activity rate of NADPH oxidase enzyme was recorded in control and 10 mM-treated fruits. Extending storage duration led to a significant increase in cells respiration rate, but this increase was more pronounced in control. Oxalic acid as low-risk and environmentally friendly compound could be an appropriate choice to apply as pre-harvest treatment in order to extend shelf-life of bell pepper fruits during cold storage under 4 degrees C. The most important mechanisms reaction of OA are enhancing of enzymatic and non-enzymatic antioxidant activities, increasing the accumulation rate of osmoprotectants and regulation of energy metabolism of cells. Pre-harvest treatment of OA 10 mM could be introduced as efficient technique to overcome adverse effects of chilling stress on post-harvest characteristics of bell pepper.
+C1 [Alaboudi, Noor Abdelkarim Hashem; Hatamnia, Ali Asghar] Ilam Univ, Fac Sci, Dept Biol, Ilam, Iran.
+   [Mohammadi, Meisam] Ilam Univ, Fac Agr, Dept Hort, Ilam, Iran.
+   [Ranjbar, Mohammad Ebrahim] Univ Zanjan, Fac Agr, Dept Hort, Zanjan, Iran.
+C3 Ilam University; Ilam University; University Zanjan
+RP Hatamnia, AA; Mohammadi, M (corresponding author), Ilam Univ, Pajuhesh Blvd, Ilam, Ilam, Iran.
+EM a.hatamnia@ilam.ac.ir; me.mohamadi@ilam.ac.ir
+NR 49
+TC 10
+Z9 10
+U1 10
+U2 26
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0925-5214
+EI 1873-2356
+J9 POSTHARVEST BIOL TEC
+JI Postharvest Biol. Technol.
+PD JUN 15
+PY 2024
+VL 212
+IS 
+BP 
+EP 
+DI 10.1016/j.postharvbio.2024.112905
+EA MAR 2024
+PG 12
+WC Agronomy; Food Science & Technology; Horticulture
+SC Agriculture; Food Science & Technology
+GA C5M3G
+UT WOS:001289800700001
+DA 2025-12-25
+ER
+
+PT J
+AU Zhou, LL
+   Hu, AQ
+   Cheng, YW
+   Zhang, WX
+   Zhang, BY
+   Lu, XY
+   Wu, Q
+   Ren, N
+AF Zhou, Lingli
+   Hu, Anqi
+   Cheng, Yawen
+   Zhang, Wenxiang
+   Zhang, Bingyuan
+   Lu, Xinyu
+   Wu, Qian
+   Ren, Ni
+TI Barrier-free tomato fruit selection and location based on optimized semantic segmentation and obstacle perception algorithm
+SO FRONTIERS IN PLANT SCIENCE
+LA English
+DT Article
+DE harvesting robot; image semantic segmentation; obstacle perception; deep learning; fruit selection; positioning; tomato
+ID vision
+AB With the advancement of computer vision technology, vision-based target perception has emerged as a predominant approach for harvesting robots to identify and locate fruits. However, little attention has been paid to the fact that fruits may be obscured by stems or other objects. In order to improve the vision detection ability of fruit harvesting robot, a fruit target selection and location approach considering obstacle perception was proposed. To enrich the dataset for tomato harvesting, synthetic data were generated by rendering a 3D simulated model of the tomato greenhouse environment, and automatically producing corresponding pixel-level semantic segmentation labels. An attention-based spatial-relationship feature extraction module (SFM) with lower computational complexity was designed to enhance the ability of semantic segmentation network DeepLab v3+ in accurately segmenting linear-structured obstructions such as stems and wires. An adaptive K-means clustering method was developed to distinguish individual instances of fruits. Furthermore, a barrier-free fruit selection algorithm that integrates information of obstacles and fruit instances was proposed to identify the closest and largest non-occluded fruit as the optimal picking target. The improved semantic segmentation network exhibited enhanced performance, achieving an accuracy of 96.75%. Notably, the Intersection-over-Union (IoU) of wire and stem classes was improved by 5.0% and 2.3%, respectively. Our target selection method demonstrated accurate identification of obstacle types (96.15%) and effectively excluding fruits obstructed by strongly resistant objects (86.67%). Compared to the fruit detection method without visual obstacle avoidance (Yolo v5), our approach exhibited an 18.9% increase in selection precision and a 1.3% reduction in location error. The improved semantic segmentation algorithm significantly increased the segmentation accuracy of linear-structured obstacles, and the obstacle perception algorithm effectively avoided occluded fruits. The proposed method demonstrated an appreciable ability in precisely selecting and locating barrier-free fruits within non-structural environments, especially avoiding fruits obscured by stems or wires. This approach provides a more reliable and practical solution for fruit selection and localization for harvesting robots, while also being applicable to other fruits and vegetables such as sweet peppers and kiwis.
+C1 [Zhou, Lingli; Hu, Anqi; Cheng, Yawen; Zhang, Wenxiang; Zhang, Bingyuan; Lu, Xinyu; Wu, Qian; Ren, Ni] Jiangsu Acad Agr Sci, Inst Agr Informat, Nanjing, Peoples R China.
+   [Zhou, Lingli; Hu, Anqi; Cheng, Yawen; Zhang, Wenxiang; Zhang, Bingyuan; Lu, Xinyu; Wu, Qian; Ren, Ni] Minist Agr & Rural Affairs, Key Lab Intelligent Agr Technol Changjiang Delta, Nanjing, Peoples R China.
+C3 Jiangsu Academy of Agricultural Sciences
+RP Wu, Q; Ren, N (corresponding author), Jiangsu Acad Agr Sci, Inst Agr Informat, Nanjing, Peoples R China.; Wu, Q; Ren, N (corresponding author), Minist Agr & Rural Affairs, Key Lab Intelligent Agr Technol Changjiang Delta, Nanjing, Peoples R China.
+EM wuqian@jaas.ac.cn; rn@jaas.ac.cn
+FU National Natural Science Foundation of China [32201644]; Jiangsu Agricultural Science and Technology Innovation Fund [CX(22)3110, CX(22)5009]; Natural Science Foundation of Jiangsu Province [BK20200277]; Suzhou Science and Technology Development Plan Project [SNG2023005]
+NR 49
+TC 1
+Z9 1
+U1 12
+U2 36
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN 1664-462X
+EI 
+J9 FRONT PLANT SCI
+JI Front. Plant Sci.
+PD OCT 31
+PY 2024
+VL 15
+IS 
+BP 
+EP 
+DI 10.3389/fpls.2024.1460060
+PG 18
+WC Plant Sciences
+SC Plant Sciences
+GA L9A6N
+UT WOS:001353578500001
+PM 39544532
+DA 2025-12-25
+ER
+
+PT J
+AU Ahamad, S
+   Asrey, R
+   Vinod, BR
+   Meena, NK
+   Menaka, M
+   Prajapati, U
+   Saurabh, V
+AF Ahamad, Sajeel
+   Asrey, Ram
+   Vinod, B. R.
+   Meena, Nirmal Kumar
+   Menaka, M.
+   Prajapati, Uma
+   Saurabh, Vivek
+TI Maintaining postharvest quality and enhancing shelf-life of bell pepper (Capsicum annuum L.) using brassinosteroids: A novel approach
+SO SOUTH AFRICAN JOURNAL OF BOTANY
+LA English
+DT Article
+DE Capsaicin; Superoxide dismutase; Peroxidase; Malondialdehyde; Chlorophyll; Sensory score
+ID 24-epibrassinolide treatment; exogenous 24-epibrassinolide; antioxidant system; fruit; metabolism; brassinolide; chitosan; extension
+AB Bell pepper is a major vegetable crop of global commercial interest, but the postharvest quality is constrained by faster deterioration and senescence. Brassinosteroids (BRs), are an emerging and novel biomolecule that delay ripening and senescence in various vegetables. Freshly harvested bell pepper fruit were immersed in an aqueous solution of BRs concentrations (0, 2, 5, 7 and 10mM) m M) for 20 min and subsequently stored for 20 d at 10 f 1 degrees C, 85-90% RH. The bell pepper treated with 10 m M BRs significantly reduced respiration rate ( 2.3 fold), delayed weight loss ( 2.2 fold), and retained higher firmness ( 2.5 fold), total phenolic ( 1.7 fold), flavonoid ( 1.7 fold), proline ( 2 fold) and ascorbic acid content ( 2 fold) over the control fruit at the end of cold storage. Also, it retained higher DPPH radical scavenging ( 1.8 fold) and antioxidant enzyme activity ( 1.5 fold) over the control at the end of cold storage. Moreover, BRs treated bell pepper exhibited reduced malondialdehyde accumulation and delayed capsaicin, and chlorophyll degradation. Remarkably, 10 m M BRs treatment prolonged the shelf-life of bell pepper up to 20 d (10 d extra over control) without compromising quality and sensory acceptability. (c) 2024 SAAB. Published by Elsevier B.V. All rights reserved.
+C1 [Ahamad, Sajeel; Asrey, Ram; Vinod, B. R.; Meena, Nirmal Kumar; Menaka, M.; Prajapati, Uma; Saurabh, Vivek] ICAR Indian Agr Res Inst, Div Food Sci & Postharvest Technol, New Delhi 110012, India.
+   [Meena, Nirmal Kumar] Coll Hort & Forestry, Kota 324001, Rajasthan, India.
+   [Prajapati, Uma] Maharana Pratap Hort Univ, Coll Hort, Karnal 132117, India.
+   [Saurabh, Vivek] Bihar Agr Univ, Bhagalpur 813210, Bihar, India.
+C3 Indian Council of Agricultural Research (ICAR); ICAR - Indian Agricultural Research Institute
+RP Asrey, R (corresponding author), ICAR Indian Agr Res Inst, Div Food Sci & Postharvest Technol, New Delhi 110012, India.
+EM ramu_211@yahoo.com
+NR 76
+TC 8
+Z9 8
+U1 1
+U2 10
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0254-6299
+EI 1727-9321
+J9 S AFR J BOT
+JI S. Afr. J. Bot.
+PD JUN 15
+PY 2024
+VL 169
+IS 
+BP 402
+EP 412
+DI 10.1016/j.sajb.2024.04.049
+EA MAY 2024
+PG 11
+WC Plant Sciences
+SC Plant Sciences
+GA C9H3K
+UT WOS:001292396000001
+DA 2025-12-25
+ER
+
+PT J
+AU Wei, LW
+   Yang, N
+   Xu, XM
+   Huang, H
+   Jin, YM
+AF Wei, Liwen
+   Yang, Na
+   Xu, Xueming
+   Huang, Hua
+   Jin, Yamei
+TI Application of magnetic field to delay the quality changes by regulating the homeostasis of energy metabolism in green chili during storage
+SO POSTHARVEST BIOLOGY AND TECHNOLOGY
+LA English
+DT Article
+DE Green chili; Postharvest quality; Physical preservation technology; Magnetic field; Energy mechanism
+ID chilling injury; nitric-oxide; peach fruit; postharvest; atp
+AB The effect of magnetic field (MF) on the postharvest quality and energy metabolism of green chili was investigated. An MF of 4 mT intensity was applied during the refrigeration of green chili pepper. Conventional refrigeration (CR) was used as a control, and the chili pepper fruit was stored at 10 degrees C and sampled at 1, 5, 10, 20, and 30 d after harvest. The results showed that MF inhibited the senescence of chili pepper and quality deterioration, as evidenced by higher water content, vitamin C (VC) and flesh firmness as well as lower weight loss and decay incidence. The decrease of hue angle values and the chlorophyll content were remarkably depressed by MF treatment, indicating an efficient delay in the yellowing of chili pepper. In terms of metabolism, MF sustained high adenosine triphosphate (ATP) content, energy charge (EC), and activities of key enzymes engaged in energy metabolism (H+-ATPase, Ca2+-ATPase, succinate dehydrogenase, and cytochrome C oxidase). Additionally, there was an increase in the concentration of major energy metabolites, including citric -acid, isocitricacid, D -Glucose -6 -phosphate, and D -Fructose -6 -phosphate. These results suggested that MF may be used as a promising strategy for preventing the decay of postharvest green chilies and prolonging their shelf life.
+C1 [Wei, Liwen; Yang, Na; Xu, Xueming; Huang, Hua; Jin, Yamei] Jiangnan Univ, Sch Food Sci & Technol, State Key Lab Food Sci & Resources, Int Joint Lab Food Safety Synergetie Innovat Ctr F, 1800 Lihu Rd, Wuxi 214122, Peoples R China.
+   [Huang, Hua] Inst Fruit Tree Res, Guangdong Acad Agr Sci,Minist Agr & Rural Affairs, Key Lab South Subtrop Fruit Biol & Genet Resource, Guangdong Prov Key Lab Trop & Subtrop Fruit Tree R, Guangzhou 510640, Peoples R China.
+C3 Jiangnan University; Guangdong Academy of Agricultural Sciences
+RP Huang, H; Jin, YM (corresponding author), Jiangnan Univ, Sch Food Sci & Technol, State Key Lab Food Sci & Resources, Int Joint Lab Food Safety Synergetie Innovat Ctr F, 1800 Lihu Rd, Wuxi 214122, Peoples R China.
+EM huangw0109@gmail.com; yameijin@jiangnan.edu.cn
+FU National Key Research and Development Program of China [2022YFD2100302]; Jiangsu Agriculture Science and Technology Innovation Fund [CX (22) 2041]; Jiangsu Key Research and Development Program [BE2023309]
+NR 48
+TC 13
+Z9 13
+U1 16
+U2 54
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0925-5214
+EI 1873-2356
+J9 POSTHARVEST BIOL TEC
+JI Postharvest Biol. Technol.
+PD JUL 15
+PY 2024
+VL 213
+IS 
+BP 
+EP 
+DI 10.1016/j.postharvbio.2024.112948
+EA APR 2024
+PG 11
+WC Agronomy; Food Science & Technology; Horticulture
+SC Agriculture; Food Science & Technology
+GA SQ1F2
+UT WOS:001235816900001
+DA 2025-12-25
+ER
+
+PT J
+AU Huang, YK
+   Zhong, YL
+   Zhong, DC
+   Yang, CC
+   Wei, LF
+   Zou, ZP
+   Chen, RQ
+AF Huang, Yikun
+   Zhong, Yulin
+   Zhong, Deci
+   Yang, Changcai
+   Wei, Lifang
+   Zou, Zhoupei
+   Chen, Riqing
+TI Pepper-YOLO: an lightweight model for green pepper detection and picking point localization in complex environments
+SO FRONTIERS IN PLANT SCIENCE
+LA English
+DT Article
+DE green pepper detection; Pepper-YOLO; picking point localization; lightweight model; picking robot
+AB In the cultivation of green chili peppers, the similarity between the fruit and background color, along with severe occlusion between fruits and leaves, significantly reduces the efficiency of harvesting robots. While increasing model depth can enhance detection accuracy, complex models are often difficult to deploy on low-cost agricultural devices. This paper presents an improved lightweight Pepper-YOLO model based on YOLOv8n-Pose, designed for simultaneous detection of green chili peppers and picking points. The proposed model introduces a reversible dual pyramid structure with cross-layer connections to enhance high-and low-level feature extraction while preventing feature loss, ensuring seamless information transfer between layers. Additionally, RepNCSPELAN4 is utilized for feature fusion, improving multi-scale feature representation. Finally, the C2fCIB module replaces the CIB module to further optimize the detection and localization of large-scale pepper features. Experimental results indicate that Pepper-YOLO achieves an object detection accuracy of 82.2% and a harvesting point localization accuracy of 88.1% in complex scenes, with a Euclidean distance error of less than 12.58 pixels. Additionally, the model reduces the number of parameters by 38.3% and lowers complexity by 28.9%, resulting in a final model size of 4.3MB. Compared to state-of-the-art methods, our approach demonstrates better parameter efficiency. In summary, Pepper-YOLO exhibits high precision and real-time performance in complex environments, with a lightweight design that makes it well-suited for deployment on low-cost devices.
+C1 [Huang, Yikun; Zhong, Yulin; Zhong, Deci; Yang, Changcai; Wei, Lifang; Zou, Zhoupei; Chen, Riqing] Fujian Agr & Forestry Univ, Sch Future Technol, Fuzhou, Peoples R China.
+   [Huang, Yikun] Fujian Normal Univ, Concord Univ Coll, Fuzhou, Peoples R China.
+   [Huang, Yikun; Zhong, Deci; Yang, Changcai; Wei, Lifang; Zou, Zhoupei; Chen, Riqing] Fujian Agr & Forestry Univ, Ctr Agroforestry Mega Data Sci, Fuzhou, Peoples R China.
+C3 Fujian Agriculture & Forestry University; Fujian Normal University; Fujian Agriculture & Forestry University
+RP Chen, RQ (corresponding author), Fujian Agr & Forestry Univ, Sch Future Technol, Fuzhou, Peoples R China.; Chen, RQ (corresponding author), Fujian Agr & Forestry Univ, Ctr Agroforestry Mega Data Sci, Fuzhou, Peoples R China.
+EM riqing.chen@fafu.edu.cn
+FU Natural Science Foundation of Fujian Province [2022J01644]; Fujian Agriculture and Forestry University Science and Technology Innovation Fund [KFB24043]; Fujian Forestry Science and Technology Promotion Project; Big Data in Agroforestry (Cross-Disciplinary) of Fujian Agriculture and Forestry University [712023030]; Sixth Batch of Funds for the Work of the Thousand Talents Program of Fujian Agriculture and Forestry University [660180020]; Fujian Agriculture and Forestry University Infrastructure Construction Fund [KXNDM0001]; Higher Education Scientific Research Planning Project [ZD202309]
+NR 39
+TC 8
+Z9 10
+U1 32
+U2 58
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN 1664-462X
+EI 
+J9 FRONT PLANT SCI
+JI Front. Plant Sci.
+PD DEC 31
+PY 2024
+VL 15
+IS 
+BP 
+EP 
+DI 10.3389/fpls.2024.1508258
+PG 14
+WC Plant Sciences
+SC Plant Sciences
+GA S0V2E
+UT WOS:001395501900001
+PM 39811717
+DA 2025-12-25
+ER
+
+PT J
+AU Liu, TH
+   Zhang, ZC
+   Liu, SX
+   Miao, H
+   Chai, Y
+   Li, S
+AF Liu, Tianhong
+   Zhang, Zechen
+   Liu, Sixing
+   Miao, Hong
+   Chai, Yan
+   Li, Shuang
+TI I DENTIFICATION L OCALIZATION AND G ATHERING OF P EPPER B ASED ON D EPTH C AMERA AND I NVERSE K INEMATICS
+SO APPLIED ENGINEERING IN AGRICULTURE
+LA English
+DT Article
+DE Robot gathering; Robotic arm inverse kinematics; Target detection; Trajectory planning
+AB To avoid mutation and interference with intelligent gathering, an autonomous gathering method is proposed in this paper. An improved YOLOv5 target detection algorithm is used to recognize peppers. The kinematics solution of the robotic arm is realized by using the disassembly method and the Euler-angle method. Simulating and modeling robotic arms is conducted by the Robotic Toolbox in Matlab. The robotic arm's spatial motion planning is controlled by the pentadic polynomial interpolation method. The feasibility of the inverse solution and planning is verified in Matlab. Different conditions' gathering experiments are conducted on the gathering platform. Experiments show that this method is smooth and interference-free, with a high gathering success rate, realizing the accurate gathering of single, small fruits in complex environments.
+C1 [Liu, Tianhong] Yangzhou Univ, Sch Informat Engn, Yangzhou, Jiangsu, Peoples R China.
+   [Zhang, Zechen; Liu, Sixing; Miao, Hong; Chai, Yan; Li, Shuang] Yangzhou Univ, Sch Mech Engn, Yangzhou, Jiangsu, Peoples R China.
+C3 Yangzhou University; Yangzhou University
+RP Liu, SX (corresponding author), Yangzhou Univ, Sch Mech Engn, Yangzhou, Jiangsu, Peoples R China.
+EM meesxliu@163.com
+FU Natural Science Foundation of Jiangsu Province [BK20190876, BK20170500]; Post-graduate Research & Practice Innovation Program of Jiangsu Province [KYCX23_3555]; National Characteristic vegetable Industrial technology system Post expert Project [CARS-24-D-03]; Modern Agriculture Key Support Program of Jiangsu Province [BE2022344]; China Postdoctoral Science Foundation [226209]
+NR 16
+TC 0
+Z9 0
+U1 3
+U2 10
+PU AMER SOC AGRICULTURAL & BIOLOGICAL ENGINEERS
+PI ST JOSEPH
+PA 2950 NILES RD, ST JOSEPH, MI 49085-9659 USA
+SN 0883-8542
+EI 1943-7838
+J9 APPL ENG AGRIC
+JI Appl. Eng. Agric.
+PD JUN 15
+PY 2024
+VL 40
+IS 3
+BP 285
+EP 291
+DI 10.13031/aea.15821
+PG 7
+WC Agricultural Engineering
+SC Agriculture
+GA I0H6O
+UT WOS:001327158500004
+DA 2025-12-25
+ER
+
+PT J
+AU Kusumiyati, K
+   Yuniati, N
+   Mubarok, S
+   Nurhadi, B
+   Hamdani, JS
+   Kadapi, M
+   Manikharda
+   Maulana, YE
+AF Kusumiyati, Kusumiyati
+   Yuniati, Nita
+   Mubarok, Syariful
+   Nurhadi, Bambang
+   Hamdani, Jajang Sauman
+   Kadapi, Muhamad
+   Manikharda, Yusuf Eka
+   Maulana, Yusuf Eka
+TI Physical and chemical properties of green chili pepper during storage in response to pre- and post-harvest application of moringa leaf extract
+SO CYTA-JOURNAL OF FOOD
+LA English
+DT Article
+DE Foliar spray; green chili; moringa leaf extract; post-harvest; quality
+ID performance liquid-chromatography; shelf-life extension; capsicum-annuum l.; strawberry fruit; quality; efficacy; acid; capsaicinoids; combination; chitosan
+AB The primary challenge encountered by marketers of green chili peppers is the rapid post-harvest deterioration. The application of pre- and post-harvest moringa leaf extract (MLE) is an effective approach to preserving the quality of fruits after being harvested. This study aimed to assess the effect of MLE application at pre- and post-harvest periods on physical and chemical properties of green chili during storage. For this purpose, a completely randomized design was arranged with nine replications. Pre-harvest MLE (seed soaking + foliar spraying with MLE) treatment showed a similar response to the control. Meanwhile, post-harvest MLE application on fruit by dipping method had better results on L*, a*, weight loss, firmness, and vitamin C after 7 d of storage compared to the control. These results suggested that post-harvest MLE application was more effective in prolonging the self-life of green chili, particularly in maintaining the physical attributes.
+C1 [Kusumiyati, Kusumiyati; Mubarok, Syariful; Hamdani, Jajang Sauman; Kadapi, Muhamad] Univ Padjadjaran, Dept Agron, Jalan Raya Bandung Sumedang KM 21, Sumedang 45363, Jawa Barat, Indonesia.
+   [Yuniati, Nita] Univ Padjadjaran, Doctoral Program Agr Sci, Sumedang, Indonesia.
+   [Nurhadi, Bambang] Univ Padjadjaran, Dept Food Ind Technol, Sumedang, Indonesia.
+   Univ Gadjah Mada, Dept Food & Agr Prod Technol, Yogyakarta, Indonesia.
+   [Manikharda, Yusuf Eka; Maulana, Yusuf Eka] Univ Padjadjaran, Lab Hort, Sumedang, Indonesia.
+C3 Universitas Padjadjaran; Universitas Padjadjaran; Universitas Padjadjaran; Gadjah Mada University; Universitas Padjadjaran
+RP Kusumiyati, K (corresponding author), Univ Padjadjaran, Dept Agron, Jalan Raya Bandung Sumedang KM 21, Sumedang 45363, Jawa Barat, Indonesia.
+EM kusumiyati@unpad.ac.id
+FU Ministry of Education, Culture, Research and Technology of Indonesia - Universitas Padjadjaran [094/E5/PG.02.00.PT/ 2022]
+NR 57
+TC 1
+Z9 1
+U1 2
+U2 16
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1947-6337
+EI 1947-6345
+J9 CYTA-J FOOD
+JI CyTA-J. Food
+PD DEC 31
+PY 2024
+VL 22
+IS 1
+BP 
+EP 
+DI 10.1080/19476337.2024.2381737
+PG 7
+WC Food Science & Technology
+SC Food Science & Technology
+GA C6Y5E
+UT WOS:001290807800001
+DA 2025-12-25
+ER
+
+PT J
+AU Paul, A
+   Machavaram, R
+   Ambuj
+   Kumar, D
+   Nagar, H
+AF Paul, Ayan
+   Machavaram, Rajendra
+   Ambuj
+   Kumar, Dheeraj
+   Nagar, Harsh
+TI Smart solutions for capsicum Harvesting: Unleashing the power of YOLO for Detection, Segmentation, growth stage Classification, Counting, and real-time mobile identification
+SO COMPUTERS AND ELECTRONICS IN AGRICULTURE
+LA English
+DT Article
+DE Capsicum harvesting; Growth stage determination; Peduncle detection; Precision localization; Agricultural robotics; Android application; Counting and tracking algorithm
+ID maturity
+AB This research paper explores a comprehensive approach to advancing capsicum harvesting by integrating cutting-edge technologies. The study addresses key objectives, including capsicum detection using various YOLO algorithms, peduncle detection through YOLO segmentation models in a proposed robotic harvester, laboratory testing of cutting target point coordinates using the Real Sense D455 RGB-D camera, growth stage determination, and capsicum counting/tracking with a supervision algorithm. The investigation highlights the YOLOv8s model as the most successful for capsicum detection, achieving a remarkable mean Average Precision (mAP) of 0.967 at a 0.5 Intersection over Union (IOU) threshold. As part of the growth stage determination task, YOLOv8s achieved a satisfactory mAP of 0.614 at the same IOU threshold. Additionally, the YOLOv8s-seg model demonstrated superior performance in peduncle detection, attaining a box mAP of 0.790 and a mask mAP of 0.771. The YOLOv8s-seg model excels in peduncle detection with a box mAP of 0.790 and a mask mAP of 0.771. Laboratory experiments using the Real Sense D455 RGB-D camera showcased its capability to localize the target point with a maximum error of 8 mm longitudinally, 9 mm vertically, and 12 mm laterally. The developed tracking and counting algorithm achieve a notable counting accuracy of 94.1 % during the third harvesting cycle in the greenhouse. The Android application developed demonstrated robust performance, achieving high accuracy (Mean IoU: 0.92), precise localization (Mean Euclidean Distance: 5 pixels), responsive user interface (Touch Response Time: 150 ms), and broad compatibility across Android versions and device types, with effective error handling (Success Rate: 95 %). The study not only advances capsicum harvesting techniques but also presents practical insights for the integration of advanced technologies, paving the way for efficient robotic harvesting systems in agriculture.
+C1 [Paul, Ayan; Machavaram, Rajendra; Ambuj; Kumar, Dheeraj; Nagar, Harsh] Indian Inst Technol Kharagpur, Kharagpur, India.
+C3 Indian Institute of Technology System (IIT System); Indian Institute of Technology (IIT) - Kharagpur
+RP Paul, A (corresponding author), Indian Inst Technol Kharagpur, Kharagpur, India.
+EM ayanpaul2210@gmail.com
+FU Indian Institute of Technology, Kharagpur, West Bengal, India
+NR 56
+TC 57
+Z9 69
+U1 28
+U2 61
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 0168-1699
+EI 1872-7107
+J9 COMPUT ELECTRON AGR
+JI Comput. Electron. Agric.
+PD APR 15
+PY 2024
+VL 219
+IS 
+BP 
+EP 
+DI 10.1016/j.compag.2024.108832
+EA MAR 2024
+PG 27
+WC Agriculture, Multidisciplinary; Computer Science, Interdisciplinary Applications
+SC Agriculture; Computer Science
+GA D9K9W
+UT WOS:001299310600001
+DA 2025-12-25
+ER
+
+PT J
+AU Ci, JC
+   Wang, X
+   Rapado-Rincón, D
+   Burusa, AK
+   Kootstra, G
+AF Ci, Jianchao
+   Wang, Xin
+   Rapado-Rincon, David
+   Burusa, Akshay K.
+   Kootstra, Gert
+TI 3D pose estimation of tomato peduncle nodes using deep keypoint detection and point cloud
+SO BIOSYSTEMS ENGINEERING
+LA English
+DT Article
+DE Deep learning; Peduncle; Keypoint detection; Point cloud; Detectron2; Pose estimation
+ID fruit
+AB Greenhouse production of fruits and vegetables in developed countries is challenged by labour scarcity and high labour costs. Robots offer a good solution for sustainable and cost-effective production. Acquiring accurate spatial information about relevant plant parts is vital for successful robot operation. Robot perception in greenhouses is challenging due to variations in plant appearance, viewpoints, and illumination. This paper proposes a keypoint-detection-based method using data from an RGB-D camera to estimate the 3D pose of peduncle nodes, which provides essential information to harvest the tomato bunches. Specifically, this paper proposes a method that detects four anatomical landmarks in the colour image and then integrates 3D pointcloud information to determine the 3D pose. A comprehensive evaluation was conducted in a commercial greenhouse to gain insight into the performance of different parts of the method. The results showed: (1) high accuracy in object detection, achieving an Average Precision (AP) of AP@0.5=0.96; (2) an average Percentage of Detected Joints (PDJ) of the keypoints of PhDJ@0.2 = 94.31%; and (3) 3D pose estimation accuracy with mean absolute errors (MAE) of 11o and 10o for the relative upper and lower angles between the peduncle and main stem, respectively. Furthermore, the capability to handle variations in viewpoint was investigated, demonstrating the method was robust to view changes. However, canonical and higher views resulted in slightly higher performance compared to other views. Although tomato was selected as a use case, the proposed method has the potential to be applied to other greenhouse crops, such as pepper, after fine-tuning.
+C1 [Ci, Jianchao; Wang, Xin; Rapado-Rincon, David; Burusa, Akshay K.; Kootstra, Gert] Wageningen Univ & Res, Dept Plant Sci, Agr Biosyst Engn Grp, POB 16, NL-6700 AA Wageningen, Netherlands.
+C3 Wageningen University & Research
+RP Ci, JC (corresponding author), Wageningen Univ & Res, Dept Plant Sci, Agr Biosyst Engn Grp, POB 16, NL-6700 AA Wageningen, Netherlands.
+EM jianchao.ci@wur.nl
+FU Netherlands Organisation for Scientific Research (NWO) project Cognitive Robots for Flexible Agro-Food Technology (FlexCRAFT) [P17-01]
+NR 52
+TC 13
+Z9 14
+U1 25
+U2 84
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 1537-5110
+EI 1537-5129
+J9 BIOSYST ENG
+JI Biosyst. Eng.
+PD JUL 15
+PY 2024
+VL 243
+IS 
+BP 57
+EP 69
+DI 10.1016/j.biosystemseng.2024.04.017
+EA MAY 2024
+PG 13
+WC Agricultural Engineering; Agriculture, Multidisciplinary
+SC Agriculture
+GA TN2X7
+UT WOS:001241888600001
+DA 2025-12-25
+ER
+
+PT J
+AU Liu, XY
+   Dong, DW
+   Luo, JQ
+   Li, BL
+AF Liu, Xueyin
+   Dong, Dawei
+   Luo, Jianqiao
+   Li, Bailin
+TI Calibrated Aleatoric Uncertainty-Based Adaptive Label Distribution Learning for Pose Estimation of Sichuan Peppers
+SO IEEE SENSORS JOURNAL
+LA English
+DT Article
+DE Gold; Pose estimation; Robots; Training; Loss measurement; Uncertainty; Sensors; Deep learning uncertainty; label distribution learning (LDL); pose estimation; robotic harvesting; Sichuan pepper
+AB Pose estimation is crucial to guide a visual harvesting robot to detach crops. In this article, pose estimation for Sichuan peppers is formulated as an ordinal classification problem by defining several pose labels. The shared appearance between neighboring poses results in label ambiguity; meanwhile, there exist obvious variations in ambiguity degrees across images. Conventional one-hot label representations neglect the ambiguity, suffering from overfitting problems. Contrastly, label distribution learning (LDL) methods can handle the pose ambiguity by smoothing a single label to a label distribution. Recent adaptive LDL (ALDL) attempts to construct instance-aware label distributions adaptive to changing ambiguity degrees. However, we find that the existing ALDL methods inevitably underestimate the ambiguity variations in pepper poses. In this article, we devise an ambiguity measure relying on aleatoric uncertainty (AU) and subsequently propose a calibrated AU-based ALDL method for pepper pose estimation. specifically, we start from quantifying AU values for training samples using Bayesian neural networks, where the AU expresses the inherent observation noise. Then, the AU values are calibrated to expected risks heuristically learned on validation sets, preventing AU overestimating the ambiguity. Afterward, the risks act as the ambiguity measure to construct instance-aware label distributions for network training. Experiments on real pepper images show that our method sufficiently captures the ambiguity variations in pepper poses and obtains 88% mean accuracy, outperforming current ALDL methods. Additionally, our method provides reliable assessment on the quality of pose predictions. Both the obtained accuracy and prediction quality are of great practical value to nondestructive harvesting.
+C1 [Liu, Xueyin; Dong, Dawei; Luo, Jianqiao; Li, Bailin] Southwest Jiaotong Univ, Coll Mech Engn, Chengdu 610031, Peoples R China.
+   [Liu, Xueyin] Sichuan Machinery Res & Design Inst, Chengdu 610063, Peoples R China.
+   [Luo, Jianqiao] Hunan Univ, Coll Elect & Informat Engn, Changsha 410082, Peoples R China.
+C3 Southwest Jiaotong University; Hunan University
+RP Luo, JQ (corresponding author), Southwest Jiaotong Univ, Coll Mech Engn, Chengdu 610031, Peoples R China.; Luo, JQ (corresponding author), Hunan Univ, Coll Elect & Informat Engn, Changsha 410082, Peoples R China.
+EM liuxueyin@my.swjtu.edu.cn; dwdong@swjtu.cn; luojianqiao@my.swjtu.edu.cn; blli62@swjtu.edu.cn
+FU Key Research and Development Project of Sichuan Province, China
+NR 63
+TC 1
+Z9 1
+U1 1
+U2 22
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 1530-437X
+EI 1558-1748
+J9 IEEE SENS J
+JI IEEE Sens. J.
+PD APR 1
+PY 2024
+VL 24
+IS 7
+BP 10727
+EP 10741
+DI 10.1109/JSEN.2024.3362996
+PG 15
+WC Engineering, Electrical & Electronic; Instruments & Instrumentation; Physics, Applied
+SC Engineering; Instruments & Instrumentation; Physics
+GA UB5S0
+UT WOS:001245620800063
+DA 2025-12-25
+ER
+

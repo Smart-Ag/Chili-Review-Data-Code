@@ -1,0 +1,260 @@
+PT J
+AU Barth, R
+   IJsselmuiden, J
+   Hemming, J
+   Van Henten, EJ
+AF Barth, R.
+   IJsselmuiden, J.
+   Hemming, J.
+   Van Henten, E. J.
+TI Data synthesis methods for semantic segmentation in agriculture: A Capsicum annuum dataset
+SO COMPUTERS AND ELECTRONICS IN AGRICULTURE
+LA English
+DT Article
+DE Synthetic dataset; Semantic segmentation; 3D modelling; Agriculture; Robotics
+ID pepper plants; image; localization; tool
+AB This paper provides synthesis methods for large-scale semantic image segmentation datasets of agricultural scenes with the objective to bridge the gap between state-of-the art computer vision performance and that of computer vision in the agricultural robotics domain. We propose a novel methodology to generate renders of random meshes of plants based on empirical measurements, including the automated generation per-pixel class and depth labels for multiple plant parts. A running example is given of Capsicum annuum (sweet or bell pepper) in a high-tech greenhouse. A synthetic dataset of 10,500 images was rendered through Blender, using scenes with 42 procedurally generated plant models with randomised plant parameters. These parameters were based on 21 empirically measured plant properties at 115 positions on 15 plant stems. Fruit models were obtained by 3D scanning and plant part textures were gathered photographically. As reference dataset for modelling and evaluate segmentation performance, 750 empirical images of 50 plants were collected in a greenhouse from multiple angles and distances using image acquisition hardware of a sweet pepper harvest robot prototype. We hypothesised high similarity between synthetic images and empirical images, which we showed by analysing and comparing both sets qualitatively and quantitatively. The sets and models are publicly released with the intention to allow performance comparisons between agricultural computer vision methods, to obtain feedback for modelling improvements and to gain further validations on usability of synthetic bootstrapping and empirical fine-tuning. Finally, we provide a brief perspective on our hypothesis that related synthetic dataset bootstrapping and empirical fine-tuning can be used for improved learning.
+C1 [Barth, R.; Hemming, J.] Wageningen Univ & Res, Greenhouse Hort, POB 644, NL-6700 AP Wageningen, Netherlands.
+   [IJsselmuiden, J.; Van Henten, E. J.] Wageningen Univ & Res, Farm Technol Grp, Droevendaalsesteeg 1, NL-6708 PB Wageningen, Netherlands.
+   [Barth, R.] Harvard Univ, Biorobot Lab, 60 Oxford Stree4, Cambridge, MA 02138 USA.
+C3 Wageningen University & Research; Wageningen University & Research; Harvard University
+RP Barth, R (corresponding author), Wageningen Univ & Res, Greenhouse Hort, POB 644, NL-6700 AP Wageningen, Netherlands.
+EM ruud.barth@wur.nl; joris.ijsselmuiden@wur.nl; jochen.hemming@wur.nl; eldert.vanhenten@wur.nl
+FU European Commission in the Horizon Programme (SWEEPER GA) [644313]; H2020 - Industrial Leadership [644313] Funding Source: H2020 - Industrial Leadership
+NR 49
+TC 127
+Z9 144
+U1 1
+U2 48
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 0168-1699
+EI 1872-7107
+J9 COMPUT ELECTRON AGR
+JI Comput. Electron. Agric.
+PD JAN 15
+PY 2018
+VL 144
+IS 
+BP 284
+EP 296
+DI 10.1016/j.compag.2017.12.001
+PG 13
+WC Agriculture, Multidisciplinary; Computer Science, Interdisciplinary Applications
+SC Agriculture; Computer Science
+GA FW1PR
+UT WOS:000425072400030
+DA 2025-12-25
+ER
+
+PT J
+AU Jimenez-Garcia, SN
+   Vázquez-Cruz, MA
+   Miranda-Lopez, R
+   Garcia-Mier, L
+   Guevara-González, RG
+   Feregrino-Perez, AA
+AF Jimenez-Garcia, Sandra N.
+   Vazquez-Cruz, Moises A.
+   Miranda-Lopez, Rita
+   Garcia-Mier, Lina
+   Guevara-Gonzalez, Ramon G.
+   Feregrino-Perez, Ana A.
+TI Effect of Elicitors as Stimulating Substances on Sensory Quality Traits in Color Sweet Bell Pepper (Capsicum annuum L. cv. Fascinato and Orangela) Grown under Greenhouse Conditions
+SO POLISH JOURNAL OF FOOD AND NUTRITION SCIENCES
+LA English
+DT Article
+DE Capsicum annuum; elicitors; sensory evaluation; flavor; principal component analysis (PCA); multiple linear regressions (MLR)
+ID hydrogen-peroxide; fruits; volatile; storage
+AB The effect of the application of salicylic acid (SA) and hydrogen peroxide (H2O2) was evaluated on sensory quality traits of two commercial sweet bell pepper varieties, Fascinato and Orangela, by descriptive sensory evaluation, principal component analysis (PCA), and Multivariate Analysis of Variance (MANOVA). A sensory descriptive lexicon was established for the sweet pepper and an intensity score was assigned for 25 sensory attributes in all the samples. Such intensity score was performed by twelve trained panelists. Among the results it was shown that foliar application of elicitors to pepper crop produced significant differences in sensory traits of the harvested fruits. MANOVA allowed detecting differences in aroma profile among treatments and varieties, showing important changes depending on the combination of elicitors applied on each variety. The principal component analysis (PCA), showed that the PC1 explained 81.02%. while PC2 explained 9.24% of the variance in the results. A strong correlation between varieties and treatments 2 (36 mM H2O2) and 4 (0.1 mM SA and 36 mM H2O2) with PC1 was observed. Reatments 2 and 4 were related to changes in aroma and flavor traits. Fascinato was more susceptible to the effect of elicitor than Orangela. Therefore. elicitor combinations used in this experiment were capable to improve sensory quality of peppers, and not only promote an increase in shelf life as previous studies have shown.
+C1 [Jimenez-Garcia, Sandra N.] Univ Guanajuato, Div Ciencias Salud & Ingn, Dept Enfermeria & Obstet, Campus Celaya Salvatierra, Guanajuato 38060, Mexico.
+   [Guevara-Gonzalez, Ramon G.; Feregrino-Perez, Ana A.] Univ Autonoma Queretaro, Fac Ingn, CA Ingn Biosisternas, Div Estudios Posgrad, CU Cerro de las Campanas S-N, Santiago De Queretaro 76010, Queretaro, Mexico.
+   [Miranda-Lopez, Rita] Inst Tecnol Celaya, Dept Ingn Bioquim, Av Tecnol Esq Garcia Cubas S-N, Guanajuato 38000, Mexico.
+   [Vazquez-Cruz, Moises A.; Garcia-Mier, Lina] Univ Valle Mexico, Dept Ciencias Salud, Campus Queretaro,Blvd Juriquilla 1000 A, Santiago De Queretaro 76230, Qro, Mexico.
+C3 Universidad de Guanajuato; Universidad Autonoma de Queretaro; Universidade del Valle de Mexico
+RP Feregrino-Perez, AA (corresponding author), Univ Autonoma Queretaro, Fac Ingn, CA Ingn Biosisternas, Div Estudios Posgrad, CU Cerro de las Campanas S-N, Santiago De Queretaro 76010, Queretaro, Mexico.
+EM feregrino.angge@hotmail.com
+FU Consejo Nacional de Ciencia y Tecnologia (CONACyT) [424202]; Fordecyt [193512]; FOFIUAQ; CB-2012 [179353]
+NR 33
+TC 7
+Z9 9
+U1 0
+U2 13
+PU DE GRUYTER POLAND SP ZOO
+PI WARSAW
+PA BOGUMILA ZUGA 32A STR., 01-811 WARSAW, POLAND
+SN 1230-0322
+EI 2083-6007
+J9 POL J FOOD NUTR SCI
+JI Pol. J. food Nutr. Sci.
+PD DEC 15
+PY 2018
+VL 68
+IS 4
+BP 359
+EP 365
+DI 10.2478/pjfns-2018-0003
+PG 7
+WC Food Science & Technology; Nutrition & Dietetics
+SC Food Science & Technology; Nutrition & Dietetics
+GA GW5SZ
+UT WOS:000446999400008
+DA 2025-12-25
+ER
+
+PT J
+AU Jia, WK
+   Zheng, YJ
+   Zhao, DA
+   Yin, X
+   Liu, XY
+   Du, RC
+AF Jia, Weikuan
+   Zheng, Yuanjie
+   Zhao, De'an
+   Yin, Xiang
+   Liu, Xiaoyang
+   Du, Ruicheng
+TI Preprocessing method of night vision image application in apple harvesting robot
+SO INTERNATIONAL JOURNAL OF AGRICULTURAL AND BIOLOGICAL ENGINEERING
+LA English
+DT Article
+DE apple harvesting robot; night vision image; preprocessing method; color analysis; noise analysis
+ID system; fruit; tomato; design
+AB Due to the low working efficiency of apple harvesting robots, there is still a long way to go for commercialization. The machine performance and extended operating time are the two research aspects for improving efficiencies of harvesting robots, this study focused on the extended operating time and proposed a round-the-clock operation mode. Due to the influences of light, temperature, humidity, etc., the working environment at night is relatively complex, and thus restricts the operating efficiency of the apple harvesting robot. Three different artificial light sources (incandescent lamp, fluorescent lamp, and LED lights) were selected for auxiliary light according to certain rules so that the apple night vision images could be captured. In addition, by color analysis, night and natural light images were compared to find out the color characteristics of the night vision images, and intuitive visual and difference image methods were used to analyze the noise characteristics. The results showed that the incandescent lamp is the best artificial auxiliary light for apple harvesting robots working at night, and the type of noise contained in apple night vision images is Gaussian noise mixed with some salt and pepper noise. The preprocessing method can provide a theoretical and technical reference for subsequent image processing.
+C1 [Jia, Weikuan; Zheng, Yuanjie] Shandong Normal Univ, Sch Informat Sci & Engn, 1 Daxue Rd, Jinan 250358, Shandong, Peoples R China.
+   [Zhao, De'an; Liu, Xiaoyang] Jiangsu Univ, Key Lab Facil Agr Measurement & Control Technol &, Zhenjiang 212013, Peoples R China.
+   [Jia, Weikuan; Yin, Xiang; Du, Ruicheng] Shandong Univ Technol, Sch Agr Engn & Food Sci, Zibo 255000, Peoples R China.
+   [Zheng, Yuanjie] Shandong Normal Univ, Inst Life Sci, Jinan 250014, Shandong, Peoples R China.
+   [Zheng, Yuanjie] Shandong Normal Univ, Key Lab Intelligent Informat Proc, Jinan 250014, Shandong, Peoples R China.
+C3 Shandong Normal University; Jiangsu University; Shandong University of Technology; Shandong Normal University; Shandong Normal University
+RP Zheng, YJ (corresponding author), Shandong Normal Univ, Sch Informat Sci & Engn, 1 Daxue Rd, Jinan 250358, Shandong, Peoples R China.
+EM jwk_1982@163.com; yjzheng@sdnu.edu.cn; dazhao@ujs.edu.cn; yinxiang2013@yahoo.co.jp; 774294228@qq.com; drc@sdut.edu.cn
+FU Natural Science Foundation of Shandong Province in China [ZR2017BC013, ZR2014FM001]; National Nature Science Foundation of China [31571571, 61572300]; Taishan Scholar Program of Shandong Province of China [TSHW201502038]; Priority Academic Program Development of Jiangsu Higher Education Institutions
+NR 30
+TC 29
+Z9 32
+U1 11
+U2 71
+PU CHINESE ACAD AGRICULTURAL ENGINEERING
+PI BEIJING
+PA RM 506, 41, MAIZIDIAN ST, CHAOYANG DISTRICT, BEIJING, 100125, PEOPLES R CHINA
+SN 1934-6344
+EI 1934-6352
+J9 INT J AGR BIOL ENG
+JI Int. J. Agric. Biol. Eng.
+PD MAR 15
+PY 2018
+VL 11
+IS 2
+BP 158
+EP 163
+DI 10.25165/j.ijabe.20181102.2822
+PG 6
+WC Agricultural Engineering
+SC Agriculture
+GA GB7GO
+UT WOS:000429243100021
+DA 2025-12-25
+ER
+
+PT J
+AU Wang, YX
+   Zhou, FH
+   Zuo, JH
+   Zheng, QL
+   Gao, LP
+   Wang, Q
+   Jiang, AL
+AF Wang, Yunxiang
+   Zhou, Fuhui
+   Zuo, Jinhua
+   Zheng, Qiuli
+   Gao, Lipu
+   Wang, Qing
+   Jiang, Aili
+TI Pre-storage treatment of mechanically-injured green pepper (Capsicum annuum L.) fruit with putrescine reduces adverse physiological responses
+SO POSTHARVEST BIOLOGY AND TECHNOLOGY
+LA English
+DT Article
+DE Color change; Antioxidant enzymes; Relative gene expression; Storage; Green pepper
+ID extending shelf-life; bioactive compounds; chilling tolerance; maintains quality; polyamines; plant; stress; tomato; infiltration; temperature
+AB Green peppers are vulnerable to mechanical damage during harvesting and postharvest storage and transportation that significantly decreases their quality and economic value. In the present study, the effects of a pre-storage exogenous application of 1 mmol L-1 putrescine (Put) was assessed by the postharvest physiology indicators of two cultivars of mechanically-injured green pepper ('Nongda 24' and 'Jingtian 3') stored at 20 degrees C. Results indicated that, compared to control, Put treatment effectively maintained the quality of the green peppers by suppressing the change in fruit color from green to red, maintaining higher fruit firmness, decreasing electrolyte leakage, reducing the degradation of vitamin C and chlorophyll, and inhibiting the accumulation of malondialdehyde. The relative gene expression and enzyme activity of peroxidase, catalase, and ascorbate peroxidase were enhanced by Put. The collective data indicates that Put reduces the adverse physiological changes in pepper fruits caused by mechanical injury. The use of Put may provide a method to reduce food wastage and economic losses in the production and marketing of green peppers.
+C1 [Wang, Yunxiang; Zhou, Fuhui; Zuo, Jinhua; Zheng, Qiuli; Gao, Lipu; Wang, Qing] Beijing Acad Agr & Forestry Sci, Beijing Vegetable Res Ctr, Beijing 100097, Peoples R China.
+   [Zhou, Fuhui; Jiang, Aili] Dalian Minzu Univ, Coll Life Sci, Dalian 116600, Peoples R China.
+C3 Beijing Academy of Agriculture & Forestry Sciences (BAAFS); Dalian Minzu University
+RP Wang, Q (corresponding author), Beijing Acad Agr & Forestry Sci, Beijing Vegetable Res Ctr, Beijing 100097, Peoples R China.; Jiang, AL (corresponding author), Dalian Minzu Univ, Coll Life Sci, Dalian 116600, Peoples R China.
+EM yunxiangjkkl@126.com; zhoufuhuihui@126.com; zuojinhua@126.com; wangqing@nercv.org; jal@dlnu.edu.cn
+FU National Key Research and Development Program of China [2016YFD0400901]; China Agriculture Research System Project [CARS-23]; Special innovation ability construction fund of Beijing Academy of Agricultural and Forestry Sciences [20180404]; Young Investigator Fund of Beijing Academy of Agricultural and Forestry Sciences [201709]
+NR 55
+TC 32
+Z9 38
+U1 6
+U2 93
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0925-5214
+EI 1873-2356
+J9 POSTHARVEST BIOL TEC
+JI Postharvest Biol. Technol.
+PD NOV 15
+PY 2018
+VL 145
+IS 
+BP 239
+EP 246
+DI 10.1016/j.postharvbio.2018.08.002
+PG 8
+WC Agronomy; Food Science & Technology; Horticulture
+SC Agriculture; Food Science & Technology
+GA GQ6YR
+UT WOS:000441877600029
+DA 2025-12-25
+ER
+
+PT J
+AU Kurtser, P
+   Edan, Y
+AF Kurtser, Polina
+   Edan, Yael
+TI Statistical models for fruit detectability: spatial and temporal analyses of sweet peppers
+SO BIOSYSTEMS ENGINEERING
+LA English
+DT Article
+DE Detectability modelling; Spatial viewpoints; Sweet pepper; Fruit detectability; Harvesting; Robotics
+ID localization; design
+AB Statistical models for fruit detectability were developed to provide insights into preferable variable configurations for better robotic harvesting performance. The methodology includes several steps: definition of controllable and measurable variables, data acquisition protocol design, data processing, definition of performance measures and statistical modelling procedures. Given the controllable and measurable variables, a data acquisition protocol is defined to allow adequate variation in the variables, and determine the dataset size to ensure significant statistical analyses. Performance measures are defined for each combination of controllable and measurable variables identified in the protocol. Descriptive statistics of the measures allow insights into preferable configurations of controllable variables given the measurable variables values. The statistical model is performed by back-elimination Poisson regression with a loglink function process. Spatial and temporal analyses are performed. The methodology was applied to develop statistical models for sweet pepper (Capsicum annuum) detectability and revealed best viewpoints. 1312 images acquired from 10 to 14 viewpoints for 56 scenes were collected in commercial greenhouses, using an eye-in-hand configuration of a 6 DOF manipulator equipped with a RGB sensor and an illumination rig. Three databases from different sweet-pepper varieties were collected along different growing seasons. Target detectability highly depends on the imaging acquisition distance and the sensing system tilt. A minimum of 12 training scenes are necessary to discover the statistically significant spatial variables. Better prediction was achieved at the beginning of the season with slightly better prediction achieved in a temporal split of training and testing sets. (C) 2018 IAgrE. Published by Elsevier Ltd. All rights reserved.
+C1 [Kurtser, Polina; Edan, Yael] Ben Gurion Univ Negev, Dept Ind Engn & Management, Beer Sheva, Israel.
+C3 Ben-Gurion University of the Negev
+RP Kurtser, P (corresponding author), Ben Gurion Univ Negev, POB 653, IL-8410501 Beer Sheva, Israel.
+EM kurtser@post.bgu.ac.il
+FU European Commission (SWEEPER) [644313]; Ben-Gurion University of the Negev through the Helmsley Charitable Trust [2012PG-ISL007]; Agricultural, Biological and Cognitive Robotics Initiative; Marcus Endowment Fund; Rabbi W. Gunther Plaut Chair in Manufacturing Engineering
+NR 51
+TC 22
+Z9 23
+U1 1
+U2 16
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 1537-5110
+EI 1537-5129
+J9 BIOSYST ENG
+JI Biosyst. Eng.
+PD JUL 15
+PY 2018
+VL 171
+IS 
+BP 272
+EP 289
+DI 10.1016/j.biosystemseng.2018.04.017
+PG 18
+WC Agricultural Engineering; Agriculture, Multidisciplinary
+SC Agriculture
+GA GL3YC
+UT WOS:000437080100021
+DA 2025-12-25
+ER
+

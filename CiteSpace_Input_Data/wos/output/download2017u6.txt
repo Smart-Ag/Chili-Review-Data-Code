@@ -1,0 +1,307 @@
+PT J
+AU Lehnert, C
+   English, A
+   McCool, C
+   Tow, AW
+   Perez, T
+AF Lehnert, Christopher
+   English, Andrew
+   McCool, Christopher
+   Tow, Adam W.
+   Perez, Tristan
+TI Autonomous Sweet Pepper Harvesting for Protected Cropping Systems
+SO IEEE ROBOTICS AND AUTOMATION LETTERS
+LA English
+DT Article
+DE Agricultural automation; dexterous manipulation; mechanism design of manipulators
+ID robot
+AB In this letter, we present a new robotic harvester (Harvey) that can autonomously harvest sweet pepper in protected cropping environments. Our approach combines effective vision algorithms with a novel end-effector design to enable successful harvesting of sweet peppers. Initial field trials in protected cropping environments, with two cultivar, demonstrate the efficacy of this approach achieving a 46% success rate for unmodified crop, and 58% for modified crop. Furthermore, for the more favourable cultivar we were also able to detach 90% of sweet peppers, indicating that improvements in the grasping success rate would result in greatly improved harvesting performance.
+C1 [Lehnert, Christopher; English, Andrew; McCool, Christopher; Tow, Adam W.; Perez, Tristan] Queensland Univ Technol, Sch Elect Engn & Comp Sci, Brisbane, Qld 4001, Australia.
+C3 Queensland University of Technology (QUT)
+RP Lehnert, C (corresponding author), Queensland Univ Technol, Sch Elect Engn & Comp Sci, Brisbane, Qld 4001, Australia.
+EM c.lehnert@qut.edu.au; a.english@qut.edu.au; c.mccool@qut.edu.au; adam.tow@qut.edu.au; tristan.perez@qut.edu.au
+FU Department of Agriculture and Fisheries of the Queensland Government, Australia
+NR 27
+TC 170
+Z9 199
+U1 3
+U2 94
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2377-3766
+EI 
+J9 IEEE ROBOT AUTOM LET
+JI IEEE Robot. Autom. Lett.
+PD APR 15
+PY 2017
+VL 2
+IS 2
+BP 872
+EP 879
+DI 10.1109/LRA.2017.2655622
+PG 8
+WC Robotics
+SC Robotics
+GA FK8DB
+UT WOS:000413736600065
+DA 2025-12-25
+ER
+
+PT J
+AU Sa, I
+   Lehnert, C
+   English, A
+   McCool, C
+   Dayoub, F
+   Upcroft, B
+   Perez, T
+AF Sa, Inkyu
+   Lehnert, Chris
+   English, Andrew
+   McCool, Chris
+   Dayoub, Feras
+   Upcroft, Ben
+   Perez, Tristan
+TI Peduncle Detection of Sweet Pepper for Autonomous Crop Harvesting-Combined Color and 3-D Information
+SO IEEE ROBOTICS AND AUTOMATION LETTERS
+LA English
+DT Article
+DE Agricultural automation; computer vision for automation; RGB-D perception; robotics in agriculture and forestry
+AB This letter presents a three-dimensional (3-D) visual detection method for the challenging task of detecting peduncles of sweet peppers (Capsicum annuum) in the field. Cutting the peduncle cleanly is one of the most difficult stages of the harvesting process, where the peduncle is the part of the crop that attaches it to the main stem of the plant. Accurate peduncle detection in 3-D space is, therefore, a vital step in reliable autonomous harvesting of sweet peppers, as this can lead to precise cutting while avoiding damage to the surrounding plant. This letter makes use of both color and geometry information acquired from an RGB-D sensor and utilizes a supervised-learning approach for the peduncle detection task. The performance of the proposed method is demonstrated and evaluated by using qualitative and quantitative results [the area-under-the-curve (AUC) of the detection precisionrecall curve]. We are able to achieve an AUC of 0.71 for peduncle detection on field-grown sweet peppers. We release a set of manually annotated 3-D sweet pepper and peduncle images to assist the research community in performing further research on this topic.
+C1 [Sa, Inkyu] Queensland Univ Technol, Brisbane, Qld 4000, Australia.
+   [Sa, Inkyu] Swiss Fed Inst Technol, Dept Mech & Proc Engn, Autonomous Syst Lab, CH-8092 Zurich, Switzerland.
+   [Lehnert, Chris; English, Andrew; McCool, Chris; Dayoub, Feras; Upcroft, Ben; Perez, Tristan] Queensland Univ Technol, Sci & Engn Fac, Brisbane, Qld 4000, Australia.
+C3 Queensland University of Technology (QUT); Swiss Federal Institutes of Technology Domain; ETH Zurich; Queensland University of Technology (QUT)
+RP Sa, I (corresponding author), Swiss Fed Inst Technol, Dept Mech & Proc Engn, Autonomous Syst Lab, CH-8092 Zurich, Switzerland.
+EM inkyu.sa@mavt.ethz.ch; c.lehnert@qut.edu.au; a.english@qut.edu.au; c.mccool@qut.edu.au; feras.dayou@qut.edu.au; ben.upcroft@qut.edu.au; tristan.perez@qut.edu.au
+FU Queensland Department of Agriculture and Fisheries; Queensland University of Technology Strategic Investment in Farm Robotics Program
+NR 29
+TC 89
+Z9 97
+U1 3
+U2 40
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2377-3766
+EI 
+J9 IEEE ROBOT AUTOM LET
+JI IEEE Robot. Autom. Lett.
+PD APR 15
+PY 2017
+VL 2
+IS 2
+BP 765
+EP 772
+DI 10.1109/LRA.2017.2651952
+PG 8
+WC Robotics
+SC Robotics
+GA FK8DB
+UT WOS:000413736600051
+DA 2025-12-25
+ER
+
+PT J
+AU Bac, CW
+   Hemming, J
+   van Tuijl, BAJ
+   Barth, R
+   Wais, E
+   van Henten, EJ
+AF Bac, C. Wouter
+   Hemming, Jochen
+   van Tuijl, B. A. J.
+   Barth, Ruud
+   Wais, Ehud
+   van Henten, Eldert J.
+TI Performance Evaluation of a Harvesting Robot for Sweet Pepper
+SO JOURNAL OF FIELD ROBOTICS
+LA English
+DT Article
+ID design; localization; framework
+AB This paper evaluates a robot developed for autonomous harvesting of sweet peppers in a commercial greenhouse. Objectives were to assess robot performance under unmodified and simplified crop conditions, using two types of end effectors (Fin Ray; Lip type), and to evaluate the performance contribution of stem-dependent determination of the grasp pose. We describe and discuss the performance of hardware and software components developed for fruit harvesting in a complex environment that includes lighting variation, occlusions, and densely spaced obstacles. After simplifying the crop, harvest success significantly improved from 6% to 26% (Fin Ray) and from 2% to 33% (Lip type). We observed a decrease in stem damage and an increase in grasp success after enabling stem-dependent determination of the grasp pose. Generally, the robot had difficulty in successfully picking sweet peppers and we discuss possible causes. The robot's novel capability of perceiving the stem of a plant may serve as useful functionality for future robots. (C) 2017 Wiley Periodicals, Inc.
+C1 [Bac, C. Wouter; Hemming, Jochen; van Tuijl, B. A. J.; Barth, Ruud] Wageningen Univ & Res, Wageningen Plant Res, Wageningen, Netherlands.
+   [Bac, C. Wouter; Wais, Ehud; van Henten, Eldert J.] Wageningen Univ & Res, Farm Technol Grp, Wageningen, Netherlands.
+C3 Wageningen University & Research; Wageningen University & Research
+RP Hemming, J (corresponding author), Wageningen Univ & Res, Wageningen Plant Res, Wageningen, Netherlands.
+EM jochen.hemming@wur.nl
+FU European Commission [246252]; Dutch horticultural product board [14555]
+NR 37
+TC 184
+Z9 210
+U1 14
+U2 277
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1556-4959
+EI 1556-4967
+J9 J FIELD ROBOT
+JI J. Field Robot.
+PD SEP 15
+PY 2017
+VL 34
+IS 6
+BP 1123
+EP 1139
+DI 10.1002/rob.21709
+PG 17
+WC Robotics
+SC Robotics
+GA FD6ZQ
+UT WOS:000407676800006
+DA 2025-12-25
+ER
+
+PT J
+AU Mahmood, N
+   Abbasi, NA
+   Hafiz, IA
+   Ali, I
+   Zakia, S
+AF Mahmood, Nasir
+   Abbasi, Nadeem Akhtar
+   Hafiz, Ishfaq Ahmad
+   Ali, Irfan
+   Zakia, Shehnaz
+TI EFFECT OF BIOSTIMULANTS ON GROWTH, YIELD AND QUALITY OF BELL PEPPER CV. YOLO WONDER
+SO PAKISTAN JOURNAL OF AGRICULTURAL SCIENCES
+LA English
+DT Article
+DE Capsicum annuum; GRAS chemicals; Productivity; physico-chemical characteristics; growth elicitor
+ID salicylic-acid; chilling injury; plant-growth; fruit; putrescine; polyamines; tomato; calcium; storage
+AB Bell pepper (Capsicum annuum) has been in high demand since ever. High quality of fruit and increased yield are desired characters both for the researchers and the growers. The impact of foliar application of chitosan (CHT), Salicylic Acid (SA) and Putrescine (PUT) on fruit yield and physico-chemical characteristics of "Yolo Wonder" bell pepper cultivar was studied for two consecutive years (2012 and 2013). Results indicate application of chitosan (0.5), putrescine (3 mM) and SA (3 mM) increased fruit weight, fruit diameter, and yield as compared to control and other treatments. Fruit firmness was increased in PUT (2 mM, 3 mM) and SA (3 mM) as compared to control. Furthermore, fruit harvested from these treated plants did not affect days to fruit maturity and number of fruits per plant. Higher PUT (3 mM) and SA (3 mM) concentration proved significantly better in reducing disease incidence. Present research proves SA and PUT sprays more effective than CHT for improving fruit physical and chemical characteristics such as fruit size, fruit weight, yield, fruit firmness, and vitamin C content. Finally, the biostimulants used in this study can easily be used to improve yield and quality of bell pepper without compromising the food safety standards.
+C1 [Mahmood, Nasir] Pakistan Sci Fdn, Islamabad, Pakistan.
+   [Abbasi, Nadeem Akhtar] Arid Agr Univ, PMAS, Fac Food & Crop Sci, Rawalpindi, Pakistan.
+   [Hafiz, Ishfaq Ahmad] Arid Agr Univ Rawalpindi, PMAS, Dept Hort, Rawalpindi, Pakistan.
+   [Ali, Irfan] Arid Agr Univ, PMAS, Dept Hort, Attock Campus, Rawalpindi, Pakistan.
+   [Zakia, Shehnaz] Pakistan Museum Nat Hist, Islamabad, Pakistan.
+C3 Pakistan Science Foundation; Arid Agriculture University; Arid Agriculture University; Arid Agriculture University; Pakistan Museum of Natural Historical
+RP Mahmood, N (corresponding author), Pakistan Sci Fdn, Islamabad, Pakistan.
+EM nadeemabbasi65@yahoo.com
+NR 47
+TC 23
+Z9 30
+U1 1
+U2 17
+PU UNIV AGRICULTURE, FAC VETERINARY SCIENCE
+PI FAISALABAD
+PA UNIV AGRICULTURE, FAC VETERINARY SCIENCE, FAISALABAD, 00000, PAKISTAN
+SN 0552-9034
+EI 2076-0906
+J9 PAK J AGR SCI
+JI Pak. J. Agric. Sci.
+PD JUN 15
+PY 2017
+VL 54
+IS 2
+BP 311
+EP 318
+DI 10.21162/PAKJAS/17.5653
+PG 8
+WC Agriculture, Multidisciplinary
+SC Agriculture
+GA FA7GZ
+UT WOS:000405615000008
+DA 2025-12-25
+ER
+
+PT J
+AU Xiang, R
+   Chen, Y
+   Shen, JW
+   Hu, S
+AF Xiang, Rong
+   Chen, Ying
+   Shen, Jia W.
+   Hu, Shuang
+TI Method for assessing the quality of data used in evaluating the performance of recognition algorithms for fruits and vegetables
+SO BIOSYSTEMS ENGINEERING
+LA English
+DT Article
+DE Recognition algorithm; Harvesting robot; Data quality; Measurement system analysis; Repeatability; Reproducibility
+ID harvesting robot; autonomous robot; machine vision; sweet-pepper; localization; design; robust; system
+AB In studies on agricultural robot vision systems, data used to evaluate algorithm performance, such as successful recognition rates, vary because of various factors. If the variation is too large, representation of the actual performance of algorithms by the data is bound to be poor. Here we present a method for analysing the quality of data used to evaluate the performance of a recognition algorithm for occluded tomatoes based on measurement system analysis. The measurement system included a soft measurement tool (a counting method for the number of successful recognitions), appraisers, measured objects (recognition results of 300 occluded tomato images), the usage method for the soft measurement tool and measurement environments. The measurement system was analysed on the basis of its repeatability and reproducibility. Repeatability and reproducibility were both evaluated based on Fleiss's Kappa values, free-marginal multirater Kappa values and Kendall coefficients. Test results showed that repeatability was excellent or fair to good based on Fleiss's Kappa values and excellent based on free-marginal multirater Kappa values and Kendall coefficients for the three appraisers. Further improvement in the soft type of measurement tool is necessary. Reproducibility was fair to good with Fleiss's Kappa values and free-marginal multirater Kappa values, and good with Kendall coefficients. Large values of measured feature resulted in inferior repeatability and reproducibility. (C) 2017 IAgrE. Published by Elsevier Ltd. All rights reserved.
+C1 [Xiang, Rong; Chen, Ying; Shen, Jia W.; Hu, Shuang] China Jiliang Univ, Coll Qual & Safety Engn, Hangzhou 310018, Zhejiang, Peoples R China.
+C3 China Jiliang University
+RP Xiang, R (corresponding author), China Jiliang Univ, Coll Qual & Safety Engn, Xiasha Higher Educ Dist, 258 Xueyuan St, Hangzhou 310018, Zhejiang, Peoples R China.
+EM xr_rongge@cjlu.edu.cn
+FU Zhejiang Provincial Natural Science Foundation of China [LY17C130006, 61105024]; National Natural Science Foundation of China
+NR 34
+TC 1
+Z9 1
+U1 3
+U2 28
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 1537-5110
+EI 1537-5129
+J9 BIOSYST ENG
+JI Biosyst. Eng.
+PD APR 15
+PY 2017
+VL 156
+IS 
+BP 27
+EP 37
+DI 10.1016/j.biosystemseng.2016.12.012
+PG 11
+WC Agricultural Engineering; Agriculture, Multidisciplinary
+SC Agriculture
+GA ES9CS
+UT WOS:000399854300005
+DA 2025-12-25
+ER
+
+PT J
+AU Shin, SY
+   Park, MH
+   Choi, JW
+   Kim, JG
+AF Shin, Sun-Young
+   Park, Me-Hea
+   Choi, Ji-Weon
+   Kim, Ji-Gang
+TI Gene network underlying the response of harvested pepper to chilling stress
+SO JOURNAL OF PLANT PHYSIOLOGY
+LA English
+DT Article
+DE Chilling injury; Ethylene signaling; Genetic control; Harvested pepper; Antioxidant capacity; Methyl jasmonate; Jasmonate
+ID capsicum-annuum l.; real-time pcr; methyl jasmonate; signaling pathways; banana fruit; 1-methylcyclopropene 1-mcp; transcription factors; arabidopsis-thaliana; cold tolerance; salt tolerance
+AB Cold storage is an effective postharvest control strategy to maintain the freshness of vegetables by suppressing respiration. However, subtropical plants including pepper (Capsicum annuum L.) undergo chilling injury. To better understand the molecular mechanisms involved in preventing chilling injury, transcriptome profiling analysis of peppers stored in a cold chamber and treated with 50 mu M methyl jasmonate (MeJA) and 1 mu L L-1 1-methylcyclopropene as an ethylene reaction inhibitor was performed. A total of 240, 470, and 290 genes were upregulated and 184, 291, and 219 genes down-regulated in cold-, MeJA- and 1-methylcyclopropene-treated peppers, respectively. MeJA-treated peppers had significant transcriptome changes compared to cold-and 1-MCP-treated peppers after 24 h of storage. MeJA treatment upregulated the genes for peroxidase and catalase related to stress responses, as well as the ethylene-responsive factor (ERF) family and MAP kinase involved in ethylene signaling factors in peppers. Functional analysis revealed that in comparison with wild type plants, ERF1-expressing plants showed a higher antioxidant capacity and enhanced expression levels of oxidative stress-related and jasmonic acid synthesis-related genes during chilling storage conditions. Additionally, ERFs and JA biosynthesis gene expression in peppers during long-term cold storage was upregulated by MeJA. Thus, MeJA enables peppers to respond to cold stress and ethylene signaling, and this could help to prevent chilling injury. Our results suggest that ethylene signaling and JA synthesis share the reactive oxygen species (ROS) scavenger-mediated stress adaption system during chilling stress in pepper. In addition, these findings provide a global insight into the genetic basis for preventing chilling injury in subtropical crops.
+C1 [Shin, Sun-Young; Park, Me-Hea; Choi, Ji-Weon; Kim, Ji-Gang] Natl Inst Hort & Herbal Sci, Postharvest Technol Div, Wanju Gun 55365, South Korea.
+C3 Rural Development Administration (RDA), Republic of Korea; National Institute of Horticultural & Herbal Science (NIHHS), Republic of Korea
+RP Park, MH (corresponding author), Natl Inst Hort & Herbal Sci, Postharvest Technol Div, Wanju Gun 55365, South Korea.
+EM poemmich@korea.kr
+FU Cooperative Research Program for Agriculture Science and Technology, Rural Development Administration, Republic of Korea [PJ00936203, PJ01135601]
+NR 67
+TC 23
+Z9 30
+U1 1
+U2 85
+PU ELSEVIER GMBH, URBAN & FISCHER VERLAG
+PI JENA
+PA OFFICE JENA, P O BOX 100537, 07705 JENA, GERMANY
+SN 0176-1617
+EI 1618-1328
+J9 J PLANT PHYSIOL
+JI J. Plant Physiol.
+PD DEC 15
+PY 2017
+VL 219
+IS 
+BP 112
+EP 122
+DI 10.1016/j.jplph.2017.10.002
+PG 11
+WC Plant Sciences
+SC Plant Sciences
+GA FN2MA
+UT WOS:000415825200012
+PM 29096083
+DA 2025-12-25
+ER
+

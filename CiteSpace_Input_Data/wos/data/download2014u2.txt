@@ -1,0 +1,96 @@
+PT J
+AU Bac, CW
+   Hemming, J
+   van Henten, EJ
+AF Bac, C. W.
+   Hemming, J.
+   van Henten, E. J.
+TI Stem localization of sweet-pepper plants using the support wire as a visual cue
+SO COMPUTERS AND ELECTRONICS IN AGRICULTURE
+LA English
+DT Article
+DE Stem localization; Small baseline stereo; Harvesting robots; Accuracy; Support wire
+ID autonomous robot; stereo; vision; images; system; rgb
+AB A robot arm should avoid collisions with the plant stem when it approaches a candidate sweet-pepper for harvesting. This study therefore aims at stem localization, a topic so far only studied under controlled lighting conditions. Objectives were to develop an algorithm capable of stem localization, using detection of the support wire that is twisted around the stem; to quantitatively evaluate performance of wire detection and stem localization under varying lighting conditions; to determine depth accuracy of stereo-vision under lab and greenhouse conditions. A single colour camera was mounted on a pneumatic slide to record image pairs with a small baseline of 1 cm. Artificial lighting was developed to mitigate disturbances caused by natural lighting conditions. An algorithm consisting of five steps was developed and includes novel components such as adaptive thresholding, use of support wires as a visual cue, use of object-based and 3D features and use of minimum expected stem distance. Wire detection rates (true-positive/scaled false-positive) were more favourable under moderate irradiance (94/5%) than under strong irradiance (74/26%). Error of stem localization was measured, in the horizontal plane, by Euclidean distance. Error was smaller for interpolated segments (0.8 cm), where a support wire was detected, than for extrapolated segments (1.5 cm), where a support wire was not detected. Error increased under strong irradiance. Accuracy of the stereo-vision system (+/- 0.4 cm) met the requirements (+/- 1 cm) in the lab, but not in the greenhouse (+/- 4.5 cm) due to plant movement during recording. The algorithm is probably capable to construct a useful collision map for robotic harvesting, if the issue of inaccurate stereo-vision can be resolved by directions proposed for future work. This is the first study regarding stem localization under varying lighting conditions, and can be useful for future applications in crops that grow along a support wire. (C) 2014 Elsevier B.V. All rights reserved.
+C1 [Bac, C. W.; Hemming, J.; van Henten, E. J.] Wageningen Univ & Res Ctr, Wageningen UR Greenhouse Hort, NL-6708 PB Wageningen, Netherlands.
+   [Bac, C. W.; van Henten, E. J.] Wageningen Univ & Res Ctr, Farm Technol Grp, NL-6708 PB Wageningen, Netherlands.
+C3 Wageningen University & Research; Wageningen University & Research
+RP Bac, CW (corresponding author), Wageningen Univ & Res Ctr, Wageningen UR Greenhouse Hort, Droevendaalsesteeg 1, NL-6708 PB Wageningen, Netherlands.
+EM wouter.bac@wur.nl
+FU European Commission in the 7th Framework Programme (CROPS GA) [246252]; Dutch Horticultural Product Board [14555]
+NR 31
+TC 75
+Z9 90
+U1 2
+U2 57
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0168-1699
+EI 1872-7107
+J9 COMPUT ELECTRON AGR
+JI Comput. Electron. Agric.
+PD JUL 15
+PY 2014
+VL 105
+IS 
+BP 111
+EP 120
+DI 10.1016/j.compag.2014.04.011
+PG 10
+WC Agriculture, Multidisciplinary; Computer Science, Interdisciplinary Applications
+SC Agriculture; Computer Science
+GA AK4OC
+UT WOS:000338403000012
+DA 2025-12-25
+ER
+
+PT J
+AU Hemming, J
+   Ruizendaal, J
+   Hofstee, JW
+   van Henten, EJ
+AF Hemming, Jochen
+   Ruizendaal, Jos
+   Hofstee, Jan Willem
+   van Henten, Eldert J.
+TI Fruit Detectability Analysis for Different Camera Positions in Sweet-Pepper
+SO SENSORS
+LA English
+DT Article
+DE fruit visibility; sweet-pepper; occlusion; harvesting; robotics
+AB For robotic harvesting of sweet-pepper fruits in greenhouses a sensor system is required to detect and localize the fruits on the plants. Due to the complex structure of the plant, most fruits are (partially) occluded when an image is taken from one viewpoint only. In this research the effect of multiple camera positions and viewing angles on fruit visibility and detectability was investigated. A recording device was built which allowed to place the camera under different azimuth and zenith angles and to move the camera horizontally along the crop row. Fourteen camera positions were chosen and the fruit visibility in the recorded images was manually determined for each position. For images taken from one position only with the criterion of maximum 50% occlusion per fruit, the fruit detectability (FD) was in no case higher than 69%. The best single positions were the front views and looking with a zenith angle of 60 degrees upwards. The FD increased when a combination was made of multiple viewpoint positions. With a combination of five favourite positions the maximum FD was 90%.
+C1 [Hemming, Jochen; van Henten, Eldert J.] Wageningen UR Greenhouse Hort, NL-6700 AP Wageningen, Netherlands.
+   [Ruizendaal, Jos; Hofstee, Jan Willem; van Henten, Eldert J.] Wageningen Univ, Farm Technol Grp, NL-6700 AH Wageningen, Netherlands.
+C3 Wageningen University & Research; Wageningen University & Research
+RP Hemming, J (corresponding author), Wageningen UR Greenhouse Hort, POB 644, NL-6700 AP Wageningen, Netherlands.
+EM jochen.hemming@wur.nl; josruizendaal@hotmail.com; janwillem.hofstee@wur.nl; eldert.vanhenten@wur.nl
+FU sweet-pepper growers Vollebregt (Bleiswijk, The Netherlands); Van Dijk Bedrijven (Harmelen, The Netherlands); European Commission in the 7th Framework Programme (CROPS GA) [246252]; Dutch Product Board for Horticulture (PT)
+NR 13
+TC 60
+Z9 72
+U1 3
+U2 30
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 1424-8220
+J9 SENSORS-BASEL
+JI Sensors
+PD APR 15
+PY 2014
+VL 14
+IS 4
+BP 6032
+EP 6044
+DI 10.3390/s140406032
+PG 13
+WC Chemistry, Analytical; Engineering, Electrical & Electronic; Instruments & Instrumentation
+SC Chemistry; Engineering; Instruments & Instrumentation
+GA AI3TB
+UT WOS:000336784600015
+PM 24681670
+DA 2025-12-25
+ER
+

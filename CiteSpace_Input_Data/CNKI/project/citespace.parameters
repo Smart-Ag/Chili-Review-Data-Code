@@ -1,0 +1,19 @@
+Date	January 28, 2026, 9:16:25 PM CST
+Project Home	D:\lajiao\1\1.new\CNKI\project
+Data Home	D:\lajiao\1\1.new\CNKI\data
+Data Source	CNKI
+Language	English
+From	2016-JAN
+To	2026-DEC
+Slice Length	1
+Title	true
+Abstract	true
+Descriptor	true
+Identifier	true
+Prune with PF	false
+Prune with MST	false
+Prune Slices	false
+Prune Merged	false
+Threshold Group 0	2, 2, 20
+Threshold Group 1	4, 3, 20
+Threshold Group 2	4, 3, 20

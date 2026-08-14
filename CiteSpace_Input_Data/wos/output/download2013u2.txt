@@ -1,0 +1,91 @@
+PT J
+AU Uchanski, ME
+   Blalock, A
+AF Uchanski, Mark E.
+   Blalock, Adam
+TI Ethephon Improved Pigmentation but Had No Effect on Cayenne Pepper Fruit Yield in Southern New Mexico
+SO HORTSCIENCE
+LA English
+DT Article
+DE Capsicum annuum; chile; controlled abscission; mechanical harvest; synchronize
+ID ethylene; cultivars
+AB In the desert southwest of the United States, cayenne pepper (Capsicum annuum L.) is an important crop. It is used in the production of hot sauce mash, the precursor to many hot sauces. Because hand harvest is currently required to accommodate staggered crop development, more uniform maturity is desired to facilitate mechanical harvest to decrease labor costs. This study was performed over 3 years (2009-11) and in two locations in southern New Mexico, resulting in five unique year/location scenarios (environments). Four timings of ethephon (0.56 kg a.i./ha) spray applications were evaluated for their potential to increase red cayenne cv. Mesilla yields and percentage of red pods. If yield increases and pigmentation improvements occur, ethephon may facilitate a once-over mechanical harvest. Ethephon was applied once at four key cayenne growth stages based on heat units accumulated after planting (HUAP): 1400 HUAP (late June to early July), 1800 HUAP (mid-July), 2800 HUAP (late August to early September), and 3100 HUAP (mid- to late September). Application timings corresponded to early bloom, peak bloom, late physiological maturity of plants, and preharvest, respectively. A non-sprayed control was also included. Fresh red, green, and non-marketable pod weights were recorded for each treatment in a once-over simulated machine harvest in October and analyzed for statistical differences. Mid- to late-season (2800-3100 HUAP) ethephon treatments significantly decreased undesirable green pod yield and, therefore, increased red pod percentage in four of five environments. Although a red pod yield increase was only observed in one environment (a drip-irrigated plot in 2010), there were no negative impacts on red pod yield in any environment resulting from ethephon application. In addition, pepper quality (yield of unmarketable pods) was not significantly reduced by ethephon. Previous work has focused on increasing red pod yields with mixed results. The results show that ethephon may synchronize cayenne pepper red fruit maturity necessary for mechanical harvest and reduce the labor involved in removing green pods before processing.
+C1 [Uchanski, Mark E.; Blalock, Adam] New Mexico State Univ, Dept Plant & Environm Sci, Las Cruces, NM 88003 USA.
+C3 New Mexico State University
+RP Uchanski, ME (corresponding author), New Mexico State Univ, Dept Plant & Environm Sci, POB 30003,MSC 3Q, Las Cruces, NM 88003 USA.
+EM uchanski@nmsu.edu
+FU New Mexico Chile Commission
+NR 18
+TC 4
+Z9 5
+U1 0
+U2 8
+PU AMER SOC HORTICULTURAL SCIENCE
+PI ALEXANDRIA
+PA 113 S WEST ST, STE 200, ALEXANDRIA, VA 22314-2851 USA
+SN 0018-5345
+EI 
+J9 HORTSCIENCE
+JI Hortscience
+PD JUN 15
+PY 2013
+VL 48
+IS 6
+BP 738
+EP 741
+DI 10.21273/HORTSCI.48.6.738
+PG 4
+WC Horticulture
+SC Agriculture
+GA 168BU
+UT WOS:000320681500011
+DA 2025-12-25
+ER
+
+PT J
+AU Bac, CW
+   Hemming, J
+   van Henten, EJ
+AF Bac, C. W.
+   Hemming, J.
+   van Henten, E. J.
+TI Robust pixel-based classification of obstacles for robotic harvesting of sweet-pepper
+SO COMPUTERS AND ELECTRONICS IN AGRICULTURE
+LA English
+DT Article
+DE Harvesting robots; Plant parts; Foliage detection; CART; Robust classification; Multi-spectral imaging
+ID machine vision; identification; selection; plants; parts
+AB Sweet-pepper plant parts should be distinguished to construct an obstacle map to plan collision-free motion for a harvesting manipulator. Objectives were to segment vegetation from the background; to segment non-vegetation objects; to construct a classifier robust to variation among scenes; and to classify vegetation primarily into soft (top of a leaf, bottom of leaf and petiole) and hard obstacles (stem and fruit) and secondarily into five plant parts: stem, top of a leaf, bottom of a leaf, fruit and petiole. A multi-spectral system with artificial lighting was developed to mitigate disturbances caused by natural lighting conditions. The background was successfully segmented from vegetation using a threshold in a near-infrared wavelength (>900 nm). Non-vegetation objects occurring in the scene, including drippers, pots, sticks, construction elements and support wires, were removed using a threshold in the blue wavelength (447 nm). Vegetation was classified, using a Classification and Regression Trees (CART) classifier trained with 46 pixel-based features. The Normalized Difference Index features were the strongest as selected by a Sequential Floating Forward Selection algorithm. A new robust-and-balanced accuracy performance measure P-Rob was introduced for CART pruning and feature selection. Use of P-Rob rendered the classifier more robust to variation among scenes because standard deviation among scenes reduced 59% for hard obstacles and 43% for soft obstacles compared with balanced accuracy. Two approaches were derived to classify vegetation: Approach A was based on hard vs. soft obstacle classification and Approach B was based on separability of classes. Approach A (P-Rob = 58.9) performed slightly better than Approach B (P-Rob = 56.1). For Approach A, mean true-positive detection rate (standard deviation) among scenes was 59.2 (7.1)% for hard obstacles, 91.5 (4.0)% for soft obstacles, 40.0 (12.4)% for stems, 78.7 (16.0)% for top of a leaf, 68.5 (11.4)% for bottom of a leaf, 54.5 (9.9)% for fruit and 49.5 (13.6)% for petiole. These results are insufficient to construct an accurate obstacle map and suggestions for improvements are described. Nevertheless, this is the first study that reports quantitative performance for classification of several plant parts under varying lighting conditions. (C) 2013 Elsevier B.V. All rights reserved.
+C1 [Bac, C. W.; Hemming, J.; van Henten, E. J.] Univ Wageningen & Res Ctr, Wageningen UR Greenhouse Hort, NL-6708 PB Wageningen, Netherlands.
+   [Bac, C. W.; van Henten, E. J.] Univ Wageningen & Res Ctr, Farm Technol Grp, NL-6708 PB Wageningen, Netherlands.
+C3 Wageningen University & Research; Wageningen University & Research
+RP Bac, CW (corresponding author), Univ Wageningen & Res Ctr, Wageningen UR Greenhouse Hort, Droevendaalsesteeg 1, NL-6708 PB Wageningen, Netherlands.
+EM wouter.bac@wur.nl
+FU European Commission [246252]; Dutch horticultural product board (PT) [14555]
+NR 36
+TC 83
+Z9 97
+U1 2
+U2 81
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 0168-1699
+EI 1872-7107
+J9 COMPUT ELECTRON AGR
+JI Comput. Electron. Agric.
+PD AUG 15
+PY 2013
+VL 96
+IS 
+BP 148
+EP 162
+DI 10.1016/j.compag.2013.05.004
+PG 15
+WC Agriculture, Multidisciplinary; Computer Science, Interdisciplinary Applications
+SC Agriculture; Computer Science
+GA 209YE
+UT WOS:000323795700014
+DA 2025-12-25
+ER
+

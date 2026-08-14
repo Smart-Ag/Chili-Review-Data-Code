@@ -1,0 +1,52 @@
+PT J
+AU Cefola, M
+   Pace, B
+   Buttaro, D
+   Santamaria, P
+   Serio, F
+AF Cefola, Maria
+   Pace, Bernardo
+   Buttaro, Donato
+   Santamaria, Pietro
+   Serio, Francesco
+TI Postharvest evaluation of soilless-grown table grape during storage in modified atmosphere
+SO JOURNAL OF THE SCIENCE OF FOOD AND AGRICULTURE
+LA English
+DT Article
+DE rachis browning; firmness; visual quality; antioxidant activity; phenol content
+ID fresh-cut cantaloupe; quality; salinity; peppers; rachis; green; yield; decay
+AB BACKGROUND: Soilless growth systems, developed mainly for vegetables and ornamental crops, have also been used recently as an alternative to soil culture for table grape in order to achieve optimal production performance. In this study, sensory, physical and chemical parameters were analysed in table grapes obtained from soil and soilless growth systems at harvest and during storage in air or modified atmosphere. RESULTS: At harvest, soilless-grown berries were 30% firmer than those grown in soil. Moreover, they showed 60% higher antioxidant activity and total phenol content than soil-grown fruits. Modified atmosphere storage resulted in a better quality of table grapes compared with those stored in air. Furthermore, soilless growth was more suitable than soil growth for preserving visual quality and controlling rachis browning and weight loss. CONCLUSION: Since the soilless system produces berries that are cleaner and of higher quality than those grown in soil, the implementation of soilless growth for the production of health-promoting and convenience fruits is suggested. (C) 2011 Society of Chemical Industry
+C1 [Cefola, Maria; Pace, Bernardo; Serio, Francesco] CNR, Inst Sci Food Prod, Natl Res Council Italy, I-70126 Bari, Italy.
+   [Buttaro, Donato; Santamaria, Pietro] Univ Bari Aldo Moro, Dept Agroenvironm & Territorial Sci, I-70126 Bari, Italy.
+C3 Consiglio Nazionale delle Ricerche (CNR); Istituto Scienze delle Produzioni Alimentari (ISPA-CNR); Universita degli Studi di Bari Aldo Moro
+RP Pace, B (corresponding author), CNR, Inst Sci Food Prod, Natl Res Council Italy, Via G Amendola 122-O, I-70126 Bari, Italy.
+EM bernardo.pace@ispa.cnr.it
+FU MiUR; MiPAF
+NR 44
+TC 29
+Z9 33
+U1 0
+U2 31
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0022-5142
+EI 1097-0010
+J9 J SCI FOOD AGR
+JI J. Sci. Food Agric.
+PD SEP 15
+PY 2011
+VL 91
+IS 12
+BP 2153
+EP 2159
+DI 10.1002/jsfa.4432
+PG 7
+WC Agriculture, Multidisciplinary; Chemistry, Applied; Food Science & Technology
+SC Agriculture; Chemistry; Food Science & Technology
+GA 818PS
+UT WOS:000294766900006
+PM 21538370
+DA 2025-12-25
+ER
+

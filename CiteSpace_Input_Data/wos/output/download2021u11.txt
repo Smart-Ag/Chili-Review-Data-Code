@@ -1,0 +1,552 @@
+PT J
+AU Halstead, M
+   Ahmadi, A
+   Smitt, C
+   Schmittmann, O
+   McCool, C
+AF Halstead, Michael
+   Ahmadi, Alireza
+   Smitt, Claus
+   Schmittmann, Oliver
+   McCool, Chris
+TI Crop Agnostic Monitoring Driven by Deep Learning
+SO FRONTIERS IN PLANT SCIENCE
+LA English
+DT Article
+DE plant classification; artificial intelligence; deep learning; convolutional neural network; image segmentation; field plant observation
+ID row weed-control
+AB Farmers require diverse and complex information to make agronomical decisions about crop management including intervention tasks. Generally, this information is gathered by farmers traversing their fields or glasshouses which is often a time consuming and potentially expensive process. In recent years, robotic platforms have gained significant traction due to advances in artificial intelligence. However, these platforms are usually tied to one setting (such as arable farmland), or algorithms are designed for a single platform. This creates a significant gap between available technology and farmer requirements. We propose a novel field agnostic monitoring technique that is able to operate on two different robots, in arable farmland or a glasshouse (horticultural setting). Instance segmentation forms the backbone of this approach from which object location and class, object area, and yield information can be obtained. In arable farmland, our segmentation network is able to estimate crop and weed at a species level and in a glasshouse we are able to estimate the sweet pepper and their ripeness. For yield information, we introduce a novel matching criterion that removes the pixel-wise constraints of previous versions. This approach is able to accurately estimate the number of fruit (sweet pepper) in a glasshouse with a normalized absolute error of 4.7% and an R-2 of 0.901 with the visual ground truth. When applied to cluttered arable farmland scenes it improves on the prior approach by 50%. Finally, a qualitative analysis shows the validity of this agnostic monitoring algorithm by supplying decision enabling information to the farmer such as the impact of a low level weeding intervention scheme.
+C1 [Halstead, Michael; Ahmadi, Alireza; Smitt, Claus; Schmittmann, Oliver; McCool, Chris] Univ Bonn, Inst Agr Engn, Agr Robot, Bonn, Germany.
+C3 University of Bonn
+RP Halstead, M (corresponding author), Univ Bonn, Inst Agr Engn, Agr Robot, Bonn, Germany.
+EM michael.halstead@uni-bonn.de
+FU Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany's Excellence Strategy [EXC-2070 - 390732324 - PhenoRob]
+NR 44
+TC 30
+Z9 30
+U1 0
+U2 11
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN 1664-462X
+EI 
+J9 FRONT PLANT SCI
+JI Front. Plant Sci.
+PD DEC 20
+PY 2021
+VL 12
+IS 
+BP 
+EP 
+DI 10.3389/fpls.2021.786702
+PG 16
+WC Plant Sciences
+SC Plant Sciences
+GA YB2XG
+UT WOS:000738881100001
+PM 34987534
+DA 2025-12-25
+ER
+
+PT J
+AU Yu, J
+   Kurihara, T
+   Zhan, S
+AF Yu, Jun
+   Kurihara, Toru
+   Zhan, Shu
+TI Color-Ratio Maps Enhanced Optical Filter Design and Its Application in Green Pepper Segmentation
+SO SENSORS
+LA English
+DT Article
+DE optical filter; color-ratio map; green pepper; segmentation; deep learning; precision agriculture
+ID net
+AB There is a growing demand for developing image sensor systems to aid fruit and vegetable harvesting, and crop growth prediction in precision agriculture. In this paper, we present an end-to-end optimization approach for the simultaneous design of optical filters and green pepper segmentation neural networks. Our optimization method modeled the optical filter as one learnable neural network layer and attached it to the subsequent camera spectral response (CSR) layer and segmentation neural network for green pepper segmentation. We used not only the standard red-green-blue output from the CSR layer but also the color-ratio maps as additional cues in the visible wavelength and to augment the feature maps as the input for segmentation. We evaluated how well our proposed color-ratio maps enhanced optical filter design methods in our collected dataset. We find that our proposed method can yield a better performance than both an optical filter RGB system without color-ratio maps and a raw RGB camera (without an optical filter) system. The proposed learning-based framework can potentially build better image sensor systems for green pepper segmentation.
+C1 [Yu, Jun] Kochi Univ Technol, Grad Sch Engn, Kochi 7828502, Japan.
+   [Kurihara, Toru] Kochi Univ Technol, Sch Informat, Kochi 7828502, Japan.
+   [Zhan, Shu] Hefei Univ Technol, Sch Comp Sci & Informat, Hefei 230601, Peoples R China.
+C3 Kochi University Technology; Kochi University Technology; Hefei University of Technology
+RP Kurihara, T (corresponding author), Kochi Univ Technol, Sch Informat, Kochi 7828502, Japan.
+EM 218005n@gs.kochi-tech.ac.jp; kurihara.toru@kochi-tech.ac.jp; shu_zhan@hfut.edu.cn
+FU Advanced Next-Generation Greenhouse Horticulture by Internet of Plants (IoP), Japan; Japan Society for the Promotion of Science (JSPS) KAKENHI [20K11870]; Grants-in-Aid for Scientific Research [20K11870] Funding Source: KAKEN
+NR 39
+TC 1
+Z9 1
+U1 0
+U2 18
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 1424-8220
+J9 SENSORS-BASEL
+JI Sensors
+PD OCT 15
+PY 2021
+VL 21
+IS 19
+BP 
+EP 
+DI 10.3390/s21196437
+PG 16
+WC Chemistry, Analytical; Engineering, Electrical & Electronic; Instruments & Instrumentation
+SC Chemistry; Engineering; Instruments & Instrumentation
+GA WG8GJ
+UT WOS:000707231100001
+PM 34640757
+DA 2025-12-25
+ER
+
+PT J
+AU Li, X
+   Pan, JD
+   Xie, FP
+   Zeng, JP
+   Li, Q
+   Huang, XJ
+   Liu, DW
+   Wang, XS
+AF Li, Xu
+   Pan, Jiandong
+   Xie, Fangping
+   Zeng, Jinping
+   Li, Qiao
+   Huang, Xiaojun
+   Liu, Dawei
+   Wang, Xiushan
+TI Fast and accurate green pepper detection in complex backgrounds via an improved Yolov4-tiny model
+SO COMPUTERS AND ELECTRONICS IN AGRICULTURE
+LA English
+DT Article
+DE Agriculture; Attention mechanism; Yolov4_tiny; Real-time detection
+AB In agricultural production, the branches and leaves of green peppers are severely blocked due to the dense plant distribution. This makes the identification of green peppers difficult. Traditional green pepper detection methods entail the problems of low accuracy and poor robustness. This paper introduces a deep learning target detection algorithm based on Yolov4_tiny for green pepper detection. The backbone network in the classic target detection algorithm model is used to ensure classification accuracy. This paper introduces an adaptive spatial feature pyramid method that combines an attention mechanism and the idea of multi-scale prediction to improve the recognition effect of occluded and small-target green peppers. Finally, the method was applied to a test set of 145 images (the target number of green peppers was 602). The AP value of green peppers reached 95.11%; the precision rate was 96.91%, and the recall rate was 93.85%. In order to verify the effectiveness of the module in improving detection performance, we conducted independent combined experiments on the improved module and compared the results with five classic target detection algorithms: SSD, Faster-RCNN, Yolov3, Yolov3_tiny, and Yolov4_tiny. The comparisons verified that the detection rate of the model reached that of the current state-of-the-art technology (SOTA) green pepper detection models. In addition, this green pepper detection model is suitable for real-time detection and embedded development needs of agricultural robots. Such new methods are key components of the technology for predicting green pepper parameters and intelligent picking in unmanned farms.
+C1 [Li, Xu] Hunan Agr Univ, Coll Mech & Elect Engn, Changsha 410128, Peoples R China.
+   Hunan Agr Univ, Key Lab Intelligent Agr Machinery Equipment Hunan, Changsha 410128, Peoples R China.
+C3 Hunan Agricultural University; Hunan Agricultural University
+RP Li, X (corresponding author), Hunan Agr Univ, Coll Mech & Elect Engn, Changsha 410128, Peoples R China.
+EM leexu@hunau.edu.cn
+FU National Key R&D Program of China [2020YFD1000300]
+NR 33
+TC 86
+Z9 101
+U1 7
+U2 116
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 0168-1699
+EI 1872-7107
+J9 COMPUT ELECTRON AGR
+JI Comput. Electron. Agric.
+PD DEC 15
+PY 2021
+VL 191
+IS 
+BP 
+EP 
+DI 10.1016/j.compag.2021.106503
+PG 10
+WC Agriculture, Multidisciplinary; Computer Science, Interdisciplinary Applications
+SC Agriculture; Computer Science
+GA ZE9BX
+UT WOS:000759173000008
+DA 2025-12-25
+ER
+
+PT J
+AU Habegger, R
+   Bergamo, E
+   Schwab, W
+   Berninger, T
+   Rixen, D
+AF Habegger, R.
+   Bergamo, E.
+   Schwab, W.
+   Berninger, T.
+   Rixen, D.
+TI Impact of intensive modification of sweet pepper plants on performance of end effectors for autonomous harvesting
+SO EUROPEAN JOURNAL OF HORTICULTURAL SCIENCE
+LA English
+DT Article
+DE blossom-end rot; Capsicum annuum L.; harvesting robot; marketable yield; physiological disorders; plant training system
+ID fruit-quality; yield; robot
+AB This paper evaluates an intensive modification of the sweet pepper crop with respect to the usage of autonomous harvesting by a robot. Objectives were to assess the productivity of the plants after longterm intensive training of the plants compared with standard training and to use end-effectors instead of manually harvesting. The performance of two types of end-effectors was calculated by marketable yield, which includes accessible fruits without physiological disorders like blossom-end rot and sunscald. The experiment was executed in a greenhouse under commercial-like conditions. The marketable yield was significantly reduced by end-effector harvesting compared to manually harvesting. There was a tendency that end-effector A could pick more fruits from intensive trained plants than from standard trained plants. The second type of end-effector B was able to cut the fruit peduncle even at a smaller angle compared to end-effector A. The effect of intensive modification of sweet pepper plants on total and marketable yield and on occurrence of physiological disorders is discussed.
+C1 [Habegger, R.; Bergamo, E.; Schwab, W.] Tech Univ Munich, Biotechnol Nat Prod, Liesel Beckmann Str 1, D-85354 Freising Weihenstephan, Germany.
+   [Berninger, T.; Rixen, D.] Tech Univ Munich, Chair Appl Mech, Boltzmannstr 15, D-85748 Garching, Germany.
+C3 Technical University of Munich; Technical University of Munich
+RP Habegger, R (corresponding author), Tech Univ Munich, Biotechnol Nat Prod, Liesel Beckmann Str 1, D-85354 Freising Weihenstephan, Germany.
+EM ruth.habegger@tum.de
+NR 16
+TC 4
+Z9 5
+U1 6
+U2 52
+PU CABI PUBLISHING
+PI WALLINGFORD
+PA C/O PUBLISHING DIVISION, NOSWORTHY WAY, WALLINGFORD OX10 8DE, OXON, ENGLAND
+SN 1611-4426
+EI 1611-4434
+J9 EUR J HORTIC SCI
+JI Eur. J. Hortic. Sci.
+PD AUG 15
+PY 2021
+VL 86
+IS 4
+BP 354
+EP 359
+DI 10.17660/eJHS.2021/86.4.2
+PG 6
+WC Horticulture
+SC Agriculture
+GA UL1TB
+UT WOS:000692440800002
+DA 2025-12-25
+ER
+
+PT J
+AU Althaus, B
+   Blanke, M
+AF Althaus, Bernhard
+   Blanke, Michael
+TI Development of a Freshness Index for Fruit Quality Assessment-Using Bell Pepper as a Case Study
+SO HORTICULTURAE
+LA English
+DT Article
+DE sweet pepper (Capsicum annum L.); consumer preference; freshness; fruit quality; glossiness; light reflection; non-invasive techniques; shrivel; sustainability; turgescence; wilting
+AB (1) Background: This special issue contains new developments in the field of fresh produce quality. Freshness provides the appeal for the consumer to purchase a particular horticultural produce. Freshness is a combination of size, colour, shape, flesh firmness, turgescence and glossiness without wilting, which imply that the produce has been picked only a short while ago and has not suffered any decay during harvest, transport or storage. (2) Objective: The objective of the present work was to develop potential freshness indices. The indices are based on non-invasive, real-time measurements, using changes in surface appearance after harvest, using Bell pepper as the most difficult model. (3) Methods: The selection criteria were a dramatic change in values over 14 days of storage at 17 degrees C, and either a consistent decrease or increase without peaks and troughs. Only two (out of five) non-invasive techniques were selected, i.e., surface glossiness, measured non-destructively using a luster sensor (type CZ-H72 from Keyence Co., Osaka, Japan) and light reflection spectra, recorded by a spectrometer, whereas the three techniques fruit firmness (penetrometer), colorimeter (e.g., Minolta) and false colour images (profilometer) were excluded. (4) Results: The first technique based on fruit glossiness provides luster values depending on fruit colour. Green Bell pepper fruit with a Fresh Index in excess of 463-490 a.i. can be classified as fresh, and similarly of 525-565 a.i. for yellow and 486-502 a.i. for red pepper fruit. This first Freshness index dropped, indicating a lesser freshness, to less than 100 a.i. after 14 days storage, irrespective of fruit colour, thereby providing a suitable wide, ca. 5-fold, range of parameterization. The second index is based on the difference between the light reflectance peaks at 630-633 nm and at 500 nm, also measured perpendicular to the convex fruit side. These percentage values decreased from > 40% with fresh red and yellow Bell pepper to ca. 20% after 14 days storage; similarly, these percentages decreased from ca. 16% to ca. 8% in green pepper fruit, in both cases by a twofold factor. Overall, a third Freshness index could be a combination of luster values larger than 470 a.u. and > 40% difference of the light reflectance between 630 nm and 500 nm. (5) Conclusions: Two viz three freshness indices are proposed and thresholds elaborated for Bell pepper fruit. The analysis showed that both indices viz technologies, luster and light reflection spectra, require colour differentiation, i.e., a specific index for yellow, red and green Bell pepper fruit.
+C1 [Althaus, Bernhard; Blanke, Michael] Univ Bonn, INRES, Hort Sci, D-53121 Bonn, Germany.
+C3 University of Bonn
+RP Blanke, M (corresponding author), Univ Bonn, INRES, Hort Sci, D-53121 Bonn, Germany.
+EM bernhard.50668@web.de; mmblanke@uni-bonn.de
+NR 16
+TC 8
+Z9 9
+U1 0
+U2 26
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 2311-7524
+J9 HORTICULTURAE
+JI Horticulturae
+PD OCT 15
+PY 2021
+VL 7
+IS 10
+BP 
+EP 
+DI 10.3390/horticulturae7100405
+PG 9
+WC Horticulture
+SC Agriculture
+GA WQ9NK
+UT WOS:000714136200001
+DA 2025-12-25
+ER
+
+PT J
+AU Dobon-Suarez, A
+   Gimenez, MJ
+   Garcia-Pastor, ME
+   Zapata, PJ
+AF Dobon-Suarez, Alicia
+   Gimenez, Maria J.
+   Garcia-Pastor, Maria E.
+   Zapata, Pedro J.
+TI Salicylic Acid Foliar Application Increases Crop Yield and Quality Parameters of Green Pepper Fruit during Postharvest Storage
+SO AGRONOMY-BASEL
+LA English
+DT Article
+DE average weight; decay incidence; firmness; SA; total phenolics
+ID antioxidant activity; shelf-life; sweet; growth; oxidase; expression; resistance; cultivars
+AB The main aim of this study was to evaluate the effect of salicylic acid (SA) as a preharvest treatment on crop yield throughout the crop cycle of green pepper fruit as well as on its quality parameters, including functional quality, at harvest and during 21 days of storage at 7 & DEG;C. Thus, 'Herminio' pepper plants were treated with SA at 0.5, 1 and 5 mM, and higher crop yield (kg per plant, number of fruits per plant and average fruit weight) and quality parameters (firmness, green color and total acidity) at harvest were obtained with the 0.5 mM dose, as well as greater phenolic compounds content and total antioxidant activity. These quality traits and functional quality were also maintained at higher levels for this treatment than in controls during postharvest storage, leading to a delay of fruit quality losses. In addition, the decay incidence for 0.5 mM SA-treated pepper fruits reached a ca. value of 2% at the end of the storage, which was lower than untreated fruits (16.6%). These results suggest that preharvest application of SA at low doses tested on pepper plants could be a useful tool to increase crop yield and fruit quality parameters at harvest and maintain them during storage, delaying quality losses and decay incidence.
+C1 [Dobon-Suarez, Alicia; Gimenez, Maria J.; Garcia-Pastor, Maria E.; Zapata, Pedro J.] Univ Miguel Hernandez, Dept Food Technol, EPSO, Ctra Beniel Km 3-2, Alicante 03312, Spain.
+C3 Universidad Miguel Hernandez de Elche
+RP Garcia-Pastor, ME (corresponding author), Univ Miguel Hernandez, Dept Food Technol, EPSO, Ctra Beniel Km 3-2, Alicante 03312, Spain.
+EM m.garciap@umh.es
+NR 52
+TC 21
+Z9 24
+U1 0
+U2 15
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 2073-4395
+J9 AGRONOMY-BASEL
+JI Agronomy-Basel
+PD NOV 15
+PY 2021
+VL 11
+IS 11
+BP 
+EP 
+DI 10.3390/agronomy11112263
+PG 16
+WC Agronomy; Plant Sciences
+SC Agriculture; Plant Sciences
+GA XJ6CZ
+UT WOS:000726874700001
+DA 2025-12-25
+ER
+
+PT J
+AU Liu, XZ
+   Yu, J
+   Kurihara, T
+   Li, K
+   Niu, Z
+   Zhan, S
+AF Liu, Xinzhi
+   Yu, Jun
+   Kurihara, Toru
+   Li, Ke
+   Niu, Zhao
+   Zhan, Shu
+TI Learning an optical filter for green pepper automatic picking in agriculture
+SO COMPUTERS AND ELECTRONICS IN AGRICULTURE
+LA English
+DT Article
+DE Hyperspectral imaging; Green pepper segmentation; Optical filter; U-net; Generative adversarial network
+ID classification; images
+AB Green pepper automatic picking has been a long-standing challenge in agriculture due to the similar color between green peppers and green leaves. To tackle this intractable problem, we tried to distinguish between them by using hyperspectral information as prior knowledge. As our core insight, a novel optical filter was designed as a pre-processing tool to find valuable wavelengths where peppers differ a lot from leaves. To this end, firstly, the parameters of the optical filter were learned by end-to-end training with a neural network for pixel-wise hyperspectral input. Secondly, the learned optical filter was applied to hyperspectral data to obtain filtering RGB images, which will be sent to further segmentation framework. Thereby, a two-stage method for green pepper segmentation was proposed, and promising results were achieved owing to the incorporation of the optical filter.
+C1 [Liu, Xinzhi; Niu, Zhao; Zhan, Shu] Hefei Univ Technol, Hefei, Peoples R China.
+   [Yu, Jun; Kurihara, Toru] Kochi Univ Technol, Kochi, Japan.
+   [Li, Ke] Anhui Agr Univ, Hefei, Peoples R China.
+C3 Hefei University of Technology; Kochi University Technology; Anhui Agricultural University
+RP Zhan, S (corresponding author), Hefei Univ Technol, Hefei, Peoples R China.
+EM shu_zhan@hfut.edu.cn
+FU Anhui Province RD Key Project [JD2019XKJH0029]; Hefei Municipal Natural Science Foundation [2021008]
+NR 30
+TC 6
+Z9 6
+U1 1
+U2 23
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 0168-1699
+EI 1872-7107
+J9 COMPUT ELECTRON AGR
+JI Comput. Electron. Agric.
+PD DEC 15
+PY 2021
+VL 191
+IS 
+BP 
+EP 
+DI 10.1016/j.compag.2021.106521
+PG 11
+WC Agriculture, Multidisciplinary; Computer Science, Interdisciplinary Applications
+SC Agriculture; Computer Science
+GA ZE9BX
+UT WOS:000759173000023
+DA 2025-12-25
+ER
+
+PT J
+AU Brown, J
+   Sukkarieh, S
+AF Brown, Jasper
+   Sukkarieh, Salah
+TI Design and evaluation of a modular robotic plum harvesting system utilizing soft components
+SO JOURNAL OF FIELD ROBOTICS
+LA English
+DT Article
+DE agriculture; harvesting; soft robotics; terrestrial robotics; tree crops
+ID field-evaluation; servo control; integration; motion
+AB The human labor required for tree crop harvesting is a major cost component in fruit production and is increasing. To address this, many existing research works have sought to demonstrate commercially viable robotic harvesting for tree crops, though successful commercial products resulting from these have been few and far between. Systems developed for specific crops such as sweet peppers or apples have shown promise, but the vast majority of cultivar types remain unaddressed, and developing a specific system for each one is inefficient. In this study, an easily modifiable development platform for robotic fruit harvesting is presented, this can be used to test specific design choices on different fruit and growing conditions. The system is evaluated in a commercial plum orchard, with no crop modifications. Both a hard and soft gripper are trialed, along with three object detector approaches and two picking motions. Some existing techniques are found to be counterproductive for plums, while soft robotics and persistent target tracking significantly improve performance. The best harvest success rate of 42%, was observed when using the soft gripper with complex motion. This is lower than expected based on prior testing with apples and indicates the difficulty in moving to new fruit types. Unique challenges specific to the plum type and growing style are examined in the context of system module design choices.
+C1 [Brown, Jasper; Sukkarieh, Salah] Univ Sydney, Fac Engn, Australian Ctr Field Robot, Sydney, NSW 2006, Australia.
+C3 University of Sydney
+RP Brown, J (corresponding author), Univ Sydney, Fac Engn, Australian Ctr Field Robot, Sydney, NSW 2006, Australia.
+EM j.brown@acfr.usyd.edu.au
+NR 46
+TC 53
+Z9 59
+U1 4
+U2 86
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1556-4959
+EI 1556-4967
+J9 J FIELD ROBOT
+JI J. Field Robot.
+PD MAR 15
+PY 2021
+VL 38
+IS 2
+BP 289
+EP 306
+DI 10.1002/rob.21987
+EA SEP 2020
+PG 18
+WC Robotics
+SC Robotics
+GA QB4MR
+UT WOS:000572552700001
+DA 2025-12-25
+ER
+
+PT J
+AU Moon, T
+   Park, J
+   Son, JE
+AF Moon, Taewon
+   Park, Junyoung
+   Son, Jung Eek
+TI Prediction of the fruit development stage of sweet pepper (Capsicum annum var. annuum) by an ensemble model of convolutional and multilayer perceptron
+SO BIOSYSTEMS ENGINEERING
+LA English
+DT Article
+DE Deep learning; Harvest prediction; Labour allocation; Machine learning; Precise management
+ID biosynthesis; apple; yield
+AB An ensemble model of convolutional neural network (CNN) and multilayer perceptron (MLP) models was developed to detect sweet pepper (Capsicum annuum var. annuum) fruits in images and predict their development stages. The plants were grown in four rows in a greenhouse, and images were collected from each row. Plant environment and growth data were collected every minute and month, respectively. The fruit development stage was classified into immature, breaking, and mature stages with a CNN using images. The immature stage was internally divided into four stages with an MLP, so a total of six stages were classified using the CNN-MLP ensemble model. The plant growth and environmental data and the information from the CNN output were used for the MLP input. The average accuracy of the six stages was F1 score = 0.77 and IoU = 0.86. The ensemble model showed acceptable performance in predicting fruit development stages. The CNN-only model could classify the mature and breaking stages well, but the immature stages were not distinguished, while the MLP-only model could hardly classify the fruit stage except the immature stages. The most influential factors in classification were the data obtained from CNN and the plant growth and environment data. The ensemble models could help in appropriate labour allocation and strategic management by detecting individual fruits in images and predicting precise fruit development stages. (c) 2021 IAgrE. Published by Elsevier Ltd. All rights reserved.
+C1 [Moon, Taewon; Park, Junyoung; Son, Jung Eek] Seoul Natl Univ, Dept Agr Forestry & Bioresources, Seoul 08826, South Korea.
+   [Son, Jung Eek] Seoul Natl Univ, Res Inst Agr & Life Sci, Seoul 08826, South Korea.
+C3 Seoul National University (SNU); Seoul National University (SNU)
+RP Son, JE (corresponding author), Seoul Natl Univ, Dept Agr Forestry & Bioresources, Seoul 08826, South Korea.
+EM ataraxno@snu.ac.kr; sjeenv@snu.ac.kr
+FU MSIT (Ministry of Science and ICT) , Korea [IITP-2020-0-01489]
+NR 45
+TC 17
+Z9 19
+U1 1
+U2 28
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 1537-5110
+EI 1537-5129
+J9 BIOSYST ENG
+JI Biosyst. Eng.
+PD OCT 15
+PY 2021
+VL 210
+IS 
+BP 171
+EP 180
+DI 10.1016/j.biosystemseng.2021.08.017
+EA SEP 2021
+PG 10
+WC Agricultural Engineering; Agriculture, Multidisciplinary
+SC Agriculture
+GA US8TJ
+UT WOS:000697698700016
+DA 2025-12-25
+ER
+
+PT J
+AU Fiorini, L
+   Loizzo, FGC
+   Sorrentino, A
+   Kim, J
+   Rovini, E
+   Di Nuovo, A
+   Cavallo, F
+AF Fiorini, Laura
+   Loizzo, Federica G. Cornacchia
+   Sorrentino, Alessandra
+   Kim, Jaeseok
+   Rovini, Erika
+   Di Nuovo, Alessandro
+   Cavallo, Filippo
+TI Daily Gesture Recognition During Human-Robot Interaction Combining Vision and Wearable Systems
+SO IEEE SENSORS JOURNAL
+LA English
+DT Article
+DE Sensors; Cameras; Robots; Inertial sensors; Wrist; Support vector machines; Robot vision systems; Gesture recognition; human-robot interaction; inertial sensor; social robot
+ID learning-methods
+AB The recognition of human gestures is crucial for improving the quality of human-robot cooperation. This article presents a system composed of a Pepper robot that mounts an RGB-D camera and an inertial device called SensHand. The system acquired data from twenty people who performed five daily living activities (i.e., Having Lunch, Personal Hygiene, Working, House Cleaning, Relax). The activities were composed of at least two "basic" gestures for a total of 10 gestures. The data acquisition was performed by two cameras positioned laterally and frontally to mimic the real conditions. The acquired data were off-line classified considering different combinations of sensors to evaluate how the sensor fusion approach improves the recognition abilities. Specifically, the article presents an experimental study that evaluated four algorithms often used in computer vision, i.e., three classical machine learning and one belonging to the field of deep learning, namely Support Vector Machine, Random Forest, K-Nearest Neighbor and Long Short-Term Memory Recurrent Neural Network. The comparative analysis of the results shows a significant improvement of the accuracy when fusing camera and sensors data, i.e., 0.81 for the whole system configuration when the robot is in a frontal position with respect to the user (0.79 if we consider only the index finger sensors) and equal to 0.75 when the robot is in a lateral position. Interestingly, the system performs well in recognising the transitions between gestures when these are presented one after the other, a common event in the real-life that was often neglected in the previous studies.
+C1 [Fiorini, Laura; Rovini, Erika; Cavallo, Filippo] Univ Florence, Dept Ind Engn, I-50139 Florence, Italy.
+   [Loizzo, Federica G. Cornacchia; Sorrentino, Alessandra; Kim, Jaeseok; Cavallo, Filippo] BioRobot Inst, Scuola Super St Anna, I-56025 Pisa, Italy.
+   [Loizzo, Federica G. Cornacchia; Sorrentino, Alessandra; Kim, Jaeseok; Cavallo, Filippo] Dept Excellence Robot & AI, Scuola Super St Anna, I-56127 Pisa, Italy.
+   [Di Nuovo, Alessandro] Sheffield Robot, Sheffield S1 1WB, S Yorkshire, England.
+   [Di Nuovo, Alessandro] Sheffield Hallam Univ, Dept Comp, Sheffield S1 1WB, S Yorkshire, England.
+C3 University of Florence; Scuola Superiore Sant'Anna; Scuola Superiore Sant'Anna; Sheffield Hallam University
+RP Fiorini, L (corresponding author), Univ Florence, Dept Ind Engn, I-50139 Florence, Italy.
+EM laura.fiorini@unifi.it; f.cornacchialoizzo@santannapisa.it; alessandra.sorrentino@santannapisa.it; j.kim@santannapisa.it; erika.rovini@santannapisa.it; a.dinuovo@shu.ac.uk
+FU Co-Founding of European Union-Fondo Europeo di Sviluppo Regionale (FESR) o FSE, Programma Operativo Nazionale (PON) Research and Innovation 2014-2020 Project through SI-ROBOTICS-"Healthy and active ageing through SocIal ROBOTICS" [ARS01_01120]
+NR 29
+TC 20
+Z9 22
+U1 0
+U2 27
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 1530-437X
+EI 1558-1748
+J9 IEEE SENS J
+JI IEEE Sens. J.
+PD OCT 15
+PY 2021
+VL 21
+IS 20
+BP 23568
+EP 23577
+DI 10.1109/JSEN.2021.3108011
+PG 10
+WC Engineering, Electrical & Electronic; Instruments & Instrumentation; Physics, Applied
+SC Engineering; Instruments & Instrumentation; Physics
+GA WJ6BS
+UT WOS:000709128900145
+DA 2025-12-25
+ER
+
+PT J
+AU Kabir, MSN
+   Ali, M
+   Lee, WH
+   Cho, SI
+   Chung, SO
+AF Kabir, M. S. N.
+   Ali, M.
+   Lee, W. H.
+   Cho, S., I
+   Chung, S. O.
+TI Analysis of quality changes in bell pepper cultivars in response to delayed cooling in a controlled chamber
+SO INTERNATIONAL FOOD RESEARCH JOURNAL
+LA English
+DT Article
+DE bell pepper; delayed cooling; post-harvest handling; storage; the quality parameter
+ID water-stress; storage; fruit
+AB The effect of 24-h greenhouse cooling delay on the quality characteristics of four bell pepper cultivars during storage in a controlled chamber was investigated. Four bell pepper cultivars (Ferrari-red, Ferrari-yellow, Vine sweet-mini, and Raon-mini) were immediately transferred to storage after harvest (IS), delayed storage without cover (DS), and delayed storage with cover (DSC). In both delayed conditions, bell pepper cultivars were left separately in a greenhouse for 1 d. In all treatments, the bell pepper cultivars were stored in a controlled chamber. Vine sweet-mini treated with DS showed the greatest loss in weight and firmness, with losses of 21.4 and 64.1%, respectively, after 15 d of storage. Vine sweet-mini treated with DS also showed the greatest change in total soluble solids content (10.9 to 13.7 degrees Bx) over the storage period. Less degradation in the lightness (L*), hue angle (h degrees), and chroma (C*) values was observed in Ferrari-red treated with IS during storage for 15 d. Overall, the changes were smaller in the bell pepper cultivars treated with IS than in those treated with the delayed-cooling treatments. Results revealed that minimising delays from harvest to cooling could reduce the quality loss and improve the storage life of harvested bell peppers. (C) All Rights Reserved
+C1 [Kabir, M. S. N.] Hajee Mohammad Danesh Sci & Technol Univ, Fac Engn, Dept Agr & Ind Engn, Dinajpur 5200, Bangladesh.
+   [Ali, M.; Lee, W. H.; Chung, S. O.] Chungnam Natl Univ, Grad Sch, Dept Agr Machinery Engn, Daejeon 34134, South Korea.
+   [Ali, M.; Lee, W. H.; Chung, S. O.] Chungnam Natl Univ, Grad Sch, Dept Smart Agr Syst, Daejeon 34134, South Korea.
+   [Cho, S., I] Seoul Natl Univ, Coll Agr & Life Sci, Dept Biosyst & Biomat Sci & Engn, Seoul 08826, South Korea.
+C3 Chungnam National University; Chungnam National University; Seoul National University (SNU)
+RP Chung, SO (corresponding author), Chungnam Natl Univ, Grad Sch, Dept Agr Machinery Engn, Daejeon 34134, South Korea.; Chung, SO (corresponding author), Chungnam Natl Univ, Grad Sch, Dept Smart Agr Syst, Daejeon 34134, South Korea.
+EM sochung@cnu.ac.kr
+FU Korea Institute of Planning and Evaluation for Technology in Food, Agriculture and Forestry (IPET) - Ministry of Agriculture, Food and Rural Affairs (MAFRA), Republic of Korea [320001-4]; Academy of Finland (AKA) [320001] Funding Source: Academy of Finland (AKA)
+NR 39
+TC 1
+Z9 1
+U1 1
+U2 4
+PU UNIV PUTRA MALAYSIA PRESS
+PI SELANGOR
+PA SERDANG, SELANGOR, 00000, MALAYSIA
+SN 1985-4668
+EI 2231-7546
+J9 INT FOOD RES J
+JI Int. Food Res. J.
+PD APR 15
+PY 2021
+VL 28
+IS 2
+BP 350
+EP 358
+DI 
+PG 9
+WC Food Science & Technology
+SC Food Science & Technology
+GA RT9ZV
+UT WOS:000644812900016
+DA 2025-12-25
+ER
+

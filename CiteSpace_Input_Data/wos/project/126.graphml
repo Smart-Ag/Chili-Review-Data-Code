@@ -1,0 +1,2096 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key id="name" for="node" attr.name="name" attr.type="string"/>
+<key id="label" for="node" attr.name="label" attr.type="string"/>
+<key id="author" for="node" attr.name="author" attr.type="string"/>
+<key id="year" for="node" attr.name="year" attr.type="string"/>
+<key id="title" for="node" attr.name="title" attr.type="string"/>
+<key id="so" for="node" attr.name="so" attr.type="string"/>
+<key id="vol" for="node" attr.name="vol" attr.type="string"/>
+<key id="page" for="node" attr.name="pg" attr.type="string"/>
+<key id="ut" for="node" attr.name="ut" attr.type="string"/>
+<key id="freq" for="node" attr.name="freq" attr.type="integer"/>
+<key id="centrality" for="node" attr.name="centrality" attr.type="double"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="float"/>
+<key id="slice" for="edge" attr.name="slice" attr.type="integer"/>
+<key id="year" for="edge" attr.name="year" attr.type="string"/>
+<graph edgedefault="undirected">
+<node id="0">
+  <data key="name">Umea University</data>
+  <data key="label">Umea University</data>
+  <data key="author">Umea University</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="1">
+  <data key="name">Nanjing Institute of Agricultural Mechanization</data>
+  <data key="label">Nanjing Institute of Agricultural Mechanization</data>
+  <data key="author">Nanjing Institute of Agricultural Mechanization</data>
+  <data key="year">2025</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="2">
+  <data key="name">University of Maribor</data>
+  <data key="label">University of Maribor</data>
+  <data key="author">University of Maribor</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="3">
+  <data key="name">Nanjing Forestry University</data>
+  <data key="label">Nanjing Forestry University</data>
+  <data key="author">Nanjing Forestry University</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="4">
+  <data key="name">Nanjing Agricultural University</data>
+  <data key="label">Nanjing Agricultural University</data>
+  <data key="author">Nanjing Agricultural University</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="5">
+  <data key="name">Hunan University</data>
+  <data key="label">Hunan University</data>
+  <data key="author">Hunan University</data>
+  <data key="year">2024</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="6">
+  <data key="name">ICAR - ICAR Research Complex for NEH Region</data>
+  <data key="label">ICAR - ICAR Research Complex for NEH Region</data>
+  <data key="author">ICAR - ICAR Research Complex for NEH Region</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="7">
+  <data key="name">Universita degli Studi di Bari Aldo Moro</data>
+  <data key="label">Universita degli Studi di Bari Aldo Moro</data>
+  <data key="author">Universita degli Studi di Bari Aldo Moro</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="8">
+  <data key="name">Aristotle University of Thessaloniki</data>
+  <data key="label">Aristotle University of Thessaloniki</data>
+  <data key="author">Aristotle University of Thessaloniki</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="9">
+  <data key="name">Harvard University</data>
+  <data key="label">Harvard University</data>
+  <data key="author">Harvard University</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="10">
+  <data key="name">Council of Scientific  Industrial Research (CSIR) - India</data>
+  <data key="label">Council of Scientific  Industrial Research (CSIR) - India</data>
+  <data key="author">Council of Scientific  Industrial Research (CSIR) - India</data>
+  <data key="year">2025</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="11">
+  <data key="name">Ben-Gurion University of the Negev</data>
+  <data key="label">Ben-Gurion University of the Negev</data>
+  <data key="author">Ben-Gurion University of the Negev</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">8</data>
+</node>
+<node id="12">
+  <data key="name">New Mexico State University</data>
+  <data key="label">New Mexico State University</data>
+  <data key="author">New Mexico State University</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="13">
+  <data key="name">Vels Institute of Science</data>
+  <data key="label">Vels Institute of Science</data>
+  <data key="author">Vels Institute of Science</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="14">
+  <data key="name">Chuzhou University</data>
+  <data key="label">Chuzhou University</data>
+  <data key="author">Chuzhou University</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="15">
+  <data key="name">Beijing Technology  Business University</data>
+  <data key="label">Beijing Technology  Business University</data>
+  <data key="author">Beijing Technology  Business University</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="16">
+  <data key="name">Institute of Vegetables  Flowers</data>
+  <data key="label">Institute of Vegetables  Flowers</data>
+  <data key="author">Institute of Vegetables  Flowers</data>
+  <data key="year">2025</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="17">
+  <data key="name">Universidade do Porto</data>
+  <data key="label">Universidade do Porto</data>
+  <data key="author">Universidade do Porto</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="18">
+  <data key="name">International Centre of Insect Physiology  Ecology (ICIPE)</data>
+  <data key="label">International Centre of Insect Physiology  Ecology (ICIPE)</data>
+  <data key="author">International Centre of Insect Physiology  Ecology (ICIPE)</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="19">
+  <data key="name">University of Nebraska Lincoln</data>
+  <data key="label">University of Nebraska Lincoln</data>
+  <data key="author">University of Nebraska Lincoln</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="20">
+  <data key="name">Chungnam National University</data>
+  <data key="label">Chungnam National University</data>
+  <data key="author">Chungnam National University</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="21">
+  <data key="name">Xinjiang Academy of Agricultural  Reclamation Science</data>
+  <data key="label">Xinjiang Academy of Agricultural  Reclamation Science</data>
+  <data key="author">Xinjiang Academy of Agricultural  Reclamation Science</data>
+  <data key="year">2025</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="22">
+  <data key="name">University Zanjan</data>
+  <data key="label">University Zanjan</data>
+  <data key="author">University Zanjan</data>
+  <data key="year">2024</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="23">
+  <data key="name">Universidade del Valle de Mexico</data>
+  <data key="label">Universidade del Valle de Mexico</data>
+  <data key="author">Universidade del Valle de Mexico</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="24">
+  <data key="name">Academy of Scientific  Innovative Research (AcSIR)</data>
+  <data key="label">Academy of Scientific  Innovative Research (AcSIR)</data>
+  <data key="author">Academy of Scientific  Innovative Research (AcSIR)</data>
+  <data key="year">2025</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="25">
+  <data key="name">Centre for Research  Technology Hellas</data>
+  <data key="label">Centre for Research  Technology Hellas</data>
+  <data key="author">Centre for Research  Technology Hellas</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="26">
+  <data key="name">Jiangsu Academy of Agricultural Sciences</data>
+  <data key="label">Jiangsu Academy of Agricultural Sciences</data>
+  <data key="author">Jiangsu Academy of Agricultural Sciences</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="27">
+  <data key="name">University of Tennessee Knoxville</data>
+  <data key="label">University of Tennessee Knoxville</data>
+  <data key="author">University of Tennessee Knoxville</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="28">
+  <data key="name">Yangzhou University</data>
+  <data key="label">Yangzhou University</data>
+  <data key="author">Yangzhou University</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="29">
+  <data key="name">Anhui Agricultural University</data>
+  <data key="label">Anhui Agricultural University</data>
+  <data key="author">Anhui Agricultural University</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="30">
+  <data key="name">Sheffield Hallam University</data>
+  <data key="label">Sheffield Hallam University</data>
+  <data key="author">Sheffield Hallam University</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="31">
+  <data key="name">State University System of Florida</data>
+  <data key="label">State University System of Florida</data>
+  <data key="author">State University System of Florida</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="32">
+  <data key="name">IBM United Kingdom</data>
+  <data key="label">IBM United Kingdom</data>
+  <data key="author">IBM United Kingdom</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="33">
+  <data key="name">Scuola Superiore Sant apos;Anna</data>
+  <data key="label">Scuola Superiore Sant apos;Anna</data>
+  <data key="author">Scuola Superiore Sant'Anna</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="34">
+  <data key="name">University of Bonn</data>
+  <data key="label">University of Bonn</data>
+  <data key="author">University of Bonn</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="35">
+  <data key="name">Universitas Padjadjaran</data>
+  <data key="label">Universitas Padjadjaran</data>
+  <data key="author">Universitas Padjadjaran</data>
+  <data key="year">2024</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="36">
+  <data key="name">Foshan University</data>
+  <data key="label">Foshan University</data>
+  <data key="author">Foshan University</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="37">
+  <data key="name">UT Institute of Agriculture</data>
+  <data key="label">UT Institute of Agriculture</data>
+  <data key="author">UT Institute of Agriculture</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="38">
+  <data key="name">Mepco Schlenk Engineering College</data>
+  <data key="label">Mepco Schlenk Engineering College</data>
+  <data key="author">Mepco Schlenk Engineering College</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="39">
+  <data key="name">United States Department of Agriculture (USDA)</data>
+  <data key="label">United States Department of Agriculture (USDA)</data>
+  <data key="author">United States Department of Agriculture (USDA)</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="40">
+  <data key="name">University of Tennessee System</data>
+  <data key="label">University of Tennessee System</data>
+  <data key="author">University of Tennessee System</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="41">
+  <data key="name">Yancheng Institute of Technology</data>
+  <data key="label">Yancheng Institute of Technology</data>
+  <data key="author">Yancheng Institute of Technology</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="42">
+  <data key="name">Tongji University</data>
+  <data key="label">Tongji University</data>
+  <data key="author">Tongji University</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="43">
+  <data key="name">Chiba University</data>
+  <data key="label">Chiba University</data>
+  <data key="author">Chiba University</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="44">
+  <data key="name">SRM Institute of Science  Technology Chennai</data>
+  <data key="label">SRM Institute of Science  Technology Chennai</data>
+  <data key="author">SRM Institute of Science  Technology Chennai</data>
+  <data key="year">2025</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="45">
+  <data key="name">Istituto Scienze delle Produzioni Alimentari (ISPA-CNR)</data>
+  <data key="label">Istituto Scienze delle Produzioni Alimentari (ISPA-CNR)</data>
+  <data key="author">Istituto Scienze delle Produzioni Alimentari (ISPA-CNR)</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="46">
+  <data key="name">Swiss Federal Institutes of Technology Domain</data>
+  <data key="label">Swiss Federal Institutes of Technology Domain</data>
+  <data key="author">Swiss Federal Institutes of Technology Domain</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="47">
+  <data key="name">Technical University of Munich</data>
+  <data key="label">Technical University of Munich</data>
+  <data key="author">Technical University of Munich</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="48">
+  <data key="name">Zhejiang University of Technology</data>
+  <data key="label">Zhejiang University of Technology</data>
+  <data key="author">Zhejiang University of Technology</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="49">
+  <data key="name">Commonwealth Scientific  Industrial Research Organisation (CSIRO)</data>
+  <data key="label">Commonwealth Scientific  Industrial Research Organisation (CSIRO)</data>
+  <data key="author">Commonwealth Scientific  Industrial Research Organisation (CSIRO)</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="50">
+  <data key="name">INESC TEC</data>
+  <data key="label">INESC TEC</data>
+  <data key="author">INESC TEC</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="51">
+  <data key="name">University of Nebraska System</data>
+  <data key="label">University of Nebraska System</data>
+  <data key="author">University of Nebraska System</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="52">
+  <data key="name">Universidade de Coimbra</data>
+  <data key="label">Universidade de Coimbra</data>
+  <data key="author">Universidade de Coimbra</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="53">
+  <data key="name">Huzhou College</data>
+  <data key="label">Huzhou College</data>
+  <data key="author">Huzhou College</data>
+  <data key="year">2025</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="54">
+  <data key="name">South China Agricultural University</data>
+  <data key="label">South China Agricultural University</data>
+  <data key="author">South China Agricultural University</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="55">
+  <data key="name">Guizhou University</data>
+  <data key="label">Guizhou University</data>
+  <data key="author">Guizhou University</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="56">
+  <data key="name">Orebro University</data>
+  <data key="label">Orebro University</data>
+  <data key="author">Orebro University</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="57">
+  <data key="name">Indian Institute of Technology (IIT) - Kharagpur</data>
+  <data key="label">Indian Institute of Technology (IIT) - Kharagpur</data>
+  <data key="author">Indian Institute of Technology (IIT) - Kharagpur</data>
+  <data key="year">2024</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="58">
+  <data key="name">Gangneung-Wonju National University</data>
+  <data key="label">Gangneung-Wonju National University</data>
+  <data key="author">Gangneung-Wonju National University</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="59">
+  <data key="name">Kadir Has University</data>
+  <data key="label">Kadir Has University</data>
+  <data key="author">Kadir Has University</data>
+  <data key="year">2025</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="60">
+  <data key="name">Tezpur University</data>
+  <data key="label">Tezpur University</data>
+  <data key="author">Tezpur University</data>
+  <data key="year">2025</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="61">
+  <data key="name">Arid Agriculture University</data>
+  <data key="label">Arid Agriculture University</data>
+  <data key="author">Arid Agriculture University</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="62">
+  <data key="name">Southwest Jiaotong University</data>
+  <data key="label">Southwest Jiaotong University</data>
+  <data key="author">Southwest Jiaotong University</data>
+  <data key="year">2024</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="63">
+  <data key="name">Dalian Minzu University</data>
+  <data key="label">Dalian Minzu University</data>
+  <data key="author">Dalian Minzu University</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="64">
+  <data key="name">University of Tehran</data>
+  <data key="label">University of Tehran</data>
+  <data key="author">University of Tehran</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="65">
+  <data key="name">CSIR - Central Food Technological Research Institute (CFTRI)</data>
+  <data key="label">CSIR - Central Food Technological Research Institute (CFTRI)</data>
+  <data key="author">CSIR - Central Food Technological Research Institute (CFTRI)</data>
+  <data key="year">2025</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="66">
+  <data key="name">Hefei University of Technology</data>
+  <data key="label">Hefei University of Technology</data>
+  <data key="author">Hefei University of Technology</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="67">
+  <data key="name">Gadjah Mada University</data>
+  <data key="label">Gadjah Mada University</data>
+  <data key="author">Gadjah Mada University</data>
+  <data key="year">2024</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="68">
+  <data key="name">ICAR - Indian Agricultural Research Institute</data>
+  <data key="label">ICAR - Indian Agricultural Research Institute</data>
+  <data key="author">ICAR - Indian Agricultural Research Institute</data>
+  <data key="year">2024</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="69">
+  <data key="name">Sichuan Agricultural University</data>
+  <data key="label">Sichuan Agricultural University</data>
+  <data key="author">Sichuan Agricultural University</data>
+  <data key="year">2024</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="70">
+  <data key="name">Wageningen University  Research</data>
+  <data key="label">Wageningen University  Research</data>
+  <data key="author">Wageningen University  Research</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">12</data>
+</node>
+<node id="71">
+  <data key="name">Kunming University of Science  Technology</data>
+  <data key="label">Kunming University of Science  Technology</data>
+  <data key="author">Kunming University of Science  Technology</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="72">
+  <data key="name">Vilnius Gediminas Technical University</data>
+  <data key="label">Vilnius Gediminas Technical University</data>
+  <data key="author">Vilnius Gediminas Technical University</data>
+  <data key="year">2025</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="73">
+  <data key="name">Seoul National University (SNU)</data>
+  <data key="label">Seoul National University (SNU)</data>
+  <data key="author">Seoul National University (SNU)</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="74">
+  <data key="name">Univ Torbatheydarieh</data>
+  <data key="label">Univ Torbatheydarieh</data>
+  <data key="author">Univ Torbatheydarieh</data>
+  <data key="year">2025</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="75">
+  <data key="name">University of Florida</data>
+  <data key="label">University of Florida</data>
+  <data key="author">University of Florida</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="76">
+  <data key="name">Aligarh Muslim University</data>
+  <data key="label">Aligarh Muslim University</data>
+  <data key="author">Aligarh Muslim University</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="77">
+  <data key="name">Zhongkai University of Agriculture  Engineering</data>
+  <data key="label">Zhongkai University of Agriculture  Engineering</data>
+  <data key="author">Zhongkai University of Agriculture  Engineering</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="78">
+  <data key="name">University of Essex</data>
+  <data key="label">University of Essex</data>
+  <data key="author">University of Essex</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="79">
+  <data key="name">University of Sydney</data>
+  <data key="label">University of Sydney</data>
+  <data key="author">University of Sydney</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="80">
+  <data key="name">Guangdong Academy of Agricultural Sciences</data>
+  <data key="label">Guangdong Academy of Agricultural Sciences</data>
+  <data key="author">Guangdong Academy of Agricultural Sciences</data>
+  <data key="year">2024</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="81">
+  <data key="name">Ilam University</data>
+  <data key="label">Ilam University</data>
+  <data key="author">Ilam University</data>
+  <data key="year">2024</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="82">
+  <data key="name">Queensland University of Technology (QUT)</data>
+  <data key="label">Queensland University of Technology (QUT)</data>
+  <data key="author">Queensland University of Technology (QUT)</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="83">
+  <data key="name">Beijing Academy of Agriculture  Forestry Sciences (BAAFS)</data>
+  <data key="label">Beijing Academy of Agriculture  Forestry Sciences (BAAFS)</data>
+  <data key="author">Beijing Academy of Agriculture  Forestry Sciences (BAAFS)</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="84">
+  <data key="name">ETH Zurich</data>
+  <data key="label">ETH Zurich</data>
+  <data key="author">ETH Zurich</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="85">
+  <data key="name">Southwest University - China</data>
+  <data key="label">Southwest University - China</data>
+  <data key="author">Southwest University - China</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="86">
+  <data key="name">Kochi University Technology</data>
+  <data key="label">Kochi University Technology</data>
+  <data key="author">Kochi University Technology</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="87">
+  <data key="name">Jiangsu University</data>
+  <data key="label">Jiangsu University</data>
+  <data key="author">Jiangsu University</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="88">
+  <data key="name">Cornell University</data>
+  <data key="label">Cornell University</data>
+  <data key="author">Cornell University</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="89">
+  <data key="name">Norwegian University of Science  Technology (NTNU)</data>
+  <data key="label">Norwegian University of Science  Technology (NTNU)</data>
+  <data key="author">Norwegian University of Science  Technology (NTNU)</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="90">
+  <data key="name">Indian Institute of Technology System (IIT System)</data>
+  <data key="label">Indian Institute of Technology System (IIT System)</data>
+  <data key="author">Indian Institute of Technology System (IIT System)</data>
+  <data key="year">2024</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="91">
+  <data key="name">Washington State University</data>
+  <data key="label">Washington State University</data>
+  <data key="author">Washington State University</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="92">
+  <data key="name">Xihua University</data>
+  <data key="label">Xihua University</data>
+  <data key="author">Xihua University</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="93">
+  <data key="name">Hunan Agricultural University</data>
+  <data key="label">Hunan Agricultural University</data>
+  <data key="author">Hunan Agricultural University</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="94">
+  <data key="name">University of Florence</data>
+  <data key="label">University of Florence</data>
+  <data key="author">University of Florence</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="95">
+  <data key="name">Pakistan Museum of Natural Historical</data>
+  <data key="label">Pakistan Museum of Natural Historical</data>
+  <data key="author">Pakistan Museum of Natural Historical</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="96">
+  <data key="name">Punjab Agricultural University</data>
+  <data key="label">Punjab Agricultural University</data>
+  <data key="author">Punjab Agricultural University</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="97">
+  <data key="name">Qilu University of Technology</data>
+  <data key="label">Qilu University of Technology</data>
+  <data key="author">Qilu University of Technology</data>
+  <data key="year">2025</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="98">
+  <data key="name">Shandong University of Technology</data>
+  <data key="label">Shandong University of Technology</data>
+  <data key="author">Shandong University of Technology</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="99">
+  <data key="name">National Institute of Horticultural  Herbal Science (NIHHS)</data>
+  <data key="label">National Institute of Horticultural  Herbal Science (NIHHS)</data>
+  <data key="author">National Institute of Horticultural  Herbal Science (NIHHS)</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="100">
+  <data key="name">Universidad Autonoma de Queretaro</data>
+  <data key="label">Universidad Autonoma de Queretaro</data>
+  <data key="author">Universidad Autonoma de Queretaro</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="101">
+  <data key="name">Shandong Agriculture  Engineering University</data>
+  <data key="label">Shandong Agriculture  Engineering University</data>
+  <data key="author">Shandong Agriculture  Engineering University</data>
+  <data key="year">2025</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="102">
+  <data key="name">Rural Development Administration (RDA)</data>
+  <data key="label">Rural Development Administration (RDA)</data>
+  <data key="author">Rural Development Administration (RDA)</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="103">
+  <data key="name">Gansu Agricultural University</data>
+  <data key="label">Gansu Agricultural University</data>
+  <data key="author">Gansu Agricultural University</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="104">
+  <data key="name">Shanxi Agricultural University</data>
+  <data key="label">Shanxi Agricultural University</data>
+  <data key="author">Shanxi Agricultural University</data>
+  <data key="year">2024</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="105">
+  <data key="name">University of Zagreb</data>
+  <data key="label">University of Zagreb</data>
+  <data key="author">University of Zagreb</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="106">
+  <data key="name">Fujian Normal University</data>
+  <data key="label">Fujian Normal University</data>
+  <data key="author">Fujian Normal University</data>
+  <data key="year">2024</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="107">
+  <data key="name">Yibin University</data>
+  <data key="label">Yibin University</data>
+  <data key="author">Yibin University</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="108">
+  <data key="name">Jiangnan University</data>
+  <data key="label">Jiangnan University</data>
+  <data key="author">Jiangnan University</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="109">
+  <data key="name">Pakistan Science Foundation</data>
+  <data key="label">Pakistan Science Foundation</data>
+  <data key="author">Pakistan Science Foundation</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="110">
+  <data key="name">Universidad Miguel Hernandez de Elche</data>
+  <data key="label">Universidad Miguel Hernandez de Elche</data>
+  <data key="author">Universidad Miguel Hernandez de Elche</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="111">
+  <data key="name">Universidad de Guanajuato</data>
+  <data key="label">Universidad de Guanajuato</data>
+  <data key="author">Universidad de Guanajuato</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="112">
+  <data key="name">Indian Council of Agricultural Research (ICAR)</data>
+  <data key="label">Indian Council of Agricultural Research (ICAR)</data>
+  <data key="author">Indian Council of Agricultural Research (ICAR)</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="113">
+  <data key="name">Bohai University</data>
+  <data key="label">Bohai University</data>
+  <data key="author">Bohai University</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="114">
+  <data key="name">Korea Institute of Science  Technology (KIST)</data>
+  <data key="label">Korea Institute of Science  Technology (KIST)</data>
+  <data key="author">Korea Institute of Science  Technology (KIST)</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="115">
+  <data key="name">Shandong Normal University</data>
+  <data key="label">Shandong Normal University</data>
+  <data key="author">Shandong Normal University</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="116">
+  <data key="name">Fujian Agriculture  Forestry University</data>
+  <data key="label">Fujian Agriculture  Forestry University</data>
+  <data key="author">Fujian Agriculture  Forestry University</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="117">
+  <data key="name">Korea Food Research Institute (KFRI)</data>
+  <data key="label">Korea Food Research Institute (KFRI)</data>
+  <data key="author">Korea Food Research Institute (KFRI)</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="118">
+  <data key="name">International Hellenic University</data>
+  <data key="label">International Hellenic University</data>
+  <data key="author">International Hellenic University</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="119">
+  <data key="name">Koneru Lakshmaiah Education Foundation (K L Deemed to be University)</data>
+  <data key="label">Koneru Lakshmaiah Education Foundation (K L Deemed to be University)</data>
+  <data key="author">Koneru Lakshmaiah Education Foundation (K L Deemed to be University)</data>
+  <data key="year">2025</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="120">
+  <data key="name">Universidade Federal de Santa Maria (UFSM)</data>
+  <data key="label">Universidade Federal de Santa Maria (UFSM)</data>
+  <data key="author">Universidade Federal de Santa Maria (UFSM)</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="121">
+  <data key="name">International Business Machines (IBM)</data>
+  <data key="label">International Business Machines (IBM)</data>
+  <data key="author">International Business Machines (IBM)</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="122">
+  <data key="name">China Jiliang University</data>
+  <data key="label">China Jiliang University</data>
+  <data key="author">China Jiliang University</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="123">
+  <data key="name">Dalian University of Technology</data>
+  <data key="label">Dalian University of Technology</data>
+  <data key="author">Dalian University of Technology</data>
+  <data key="year">2025</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="124">
+  <data key="name">Chinese Academy of Agricultural Sciences</data>
+  <data key="label">Chinese Academy of Agricultural Sciences</data>
+  <data key="author">Chinese Academy of Agricultural Sciences</data>
+  <data key="year">2025</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="125">
+  <data key="name">Consiglio Nazionale delle Ricerche (CNR)</data>
+  <data key="label">Consiglio Nazionale delle Ricerche (CNR)</data>
+  <data key="author">Consiglio Nazionale delle Ricerche (CNR)</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<edge source="0" target="11">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">9</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="0" target="70">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">10</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="1" target="28">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">15</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="1" target="124">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">15</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="2" target="70">
+  <data key="weight">0.5</data>
+  <data key="slice">6</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="3" target="15">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">13</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="3" target="19">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">13</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="3" target="41">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">13</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="3" target="51">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">13</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="3" target="83">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">13</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="3" target="88">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">13</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="3" target="113">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">13</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="4" target="26">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">10</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="5" target="62">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">14</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="6" target="76">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">13</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="6" target="112">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">13</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="7" target="45">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">1</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="7" target="125">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">1</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="8" target="25">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">13</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="8" target="118">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">12</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="9" target="70">
+  <data key="weight">0.5</data>
+  <data key="slice">8</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="10" target="24">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">15</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="10" target="65">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">15</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="11" target="56">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">10</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="14" target="54">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">10</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="14" target="77">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">10</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="15" target="83">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">13</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="15" target="88">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">13</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="15" target="113">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">13</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="16" target="97">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">15</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="16" target="101">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">15</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="16" target="124">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">15</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="17" target="50">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">12</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="17" target="52">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">12</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="18" target="116">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">13</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="19" target="41">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">13</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="19" target="51">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">13</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="20" target="73">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">11</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="21" target="87">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">15</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="22" target="81">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">14</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="23" target="100">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">8</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="23" target="111">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">8</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="24" target="65">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">15</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="27" target="37">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">12</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="27" target="40">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">12</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="27" target="64">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">12</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="28" target="124">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">15</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="29" target="66">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">11</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="29" target="86">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">11</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="30" target="32">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">9</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="30" target="33">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">11</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="30" target="94">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">11</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="30" target="121">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">9</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="31" target="75">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">0</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="32" target="121">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">9</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="33" target="94">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">11</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="34" target="49">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">10</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="34" target="82">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">10</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="35" target="67">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">14</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="37" target="40">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">12</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="37" target="64">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">12</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="39" target="108">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">10</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="40" target="64">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">12</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="41" target="51">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">13</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="44" target="59">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">15</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="44" target="60">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">15</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="44" target="72">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">15</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="44" target="119">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">15</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="45" target="125">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">1</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="46" target="82">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">7</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="46" target="84">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">7</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="49" target="82">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">10</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="50" target="52">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">12</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="53" target="85">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">15</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="54" target="77">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">10</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="57" target="90">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">14</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="58" target="99">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">13</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="58" target="102">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">13</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="58" target="114">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">13</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="58" target="117">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">13</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="59" target="60">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">15</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="59" target="72">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">15</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="59" target="119">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">15</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="60" target="72">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">15</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="60" target="119">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">15</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="61" target="95">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">7</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="61" target="109">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">7</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="63" target="83">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">8</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="66" target="86">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">11</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="68" target="112">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">14</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="72" target="119">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">15</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="76" target="112">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">13</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="80" target="108">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">14</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="82" target="84">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">7</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="83" target="88">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">13</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="83" target="113">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">13</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="87" target="98">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">8</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="87" target="115">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">8</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="88" target="113">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">13</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="91" target="92">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">12</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="95" target="109">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">7</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="97" target="101">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">15</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="97" target="124">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">15</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="98" target="115">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">8</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="99" target="102">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">7</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="99" target="114">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">13</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="99" target="117">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">13</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="100" target="111">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">8</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="101" target="124">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">15</data>
+  <data key="year">2025</data>
+</edge>
+<edge source="102" target="114">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">13</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="102" target="117">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">13</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="106" target="116">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">14</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="114" target="117">
+  <data key="weight">0.9999990000000025</data>
+  <data key="slice">13</data>
+  <data key="year">2023</data>
+</edge>
+</graph>
+</graphml>

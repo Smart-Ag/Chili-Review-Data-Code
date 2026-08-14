@@ -1,0 +1,558 @@
+PT J
+AU Magalhaes, SA
+   Moreira, AP
+   dos Santos, FN
+   Dias, J
+AF Magalhaes, Sandro Augusto
+   Moreira, Antonio Paulo
+   dos Santos, Filipe Neves
+   Dias, Jorge
+TI Active Perception Fruit Harvesting Robots - A Systematic Review
+SO JOURNAL OF INTELLIGENT & ROBOTIC SYSTEMS
+LA English
+DT Review
+DE Active sensing; Active vision; Mobile manipulator; Fruit detection and segmentation; Robotic agriculture; Viewpoint selection; Survey
+ID visual servo control; faster r-cnn; sweet-pepper detection; apple detection; instance segmentation; image segmentation; detecting tomatoes; citrus detection; field-evaluation; litchi clusters
+AB This paper studies the state-of-the-art of active perception solutions for manipulation in agriculture and suggests a possible architecture for an active perception system for harvesting in agriculture. Research and developing robots for agricultural context is a challenge, particularly for harvesting and pruning context applications. These applications normally consider mobile manipulators and their cognitive part has many challenges. Active perception systems look reasonable approach for fruit assessment robustly and economically. This systematic literature review focus in the topic of active perception for fruits harvesting robots. The search was performed in five different databases. The search resumed into 1034 publications from which only 195 publications where considered for inclusion in this review after analysis. We conclude that the most of researches are mainly about fruit detection and segmentation in two-dimensional space using evenly classic computer vision strategies and deep learning models. For harvesting, multiple viewpoint and visual servoing are the most commonly used strategies. The research of these last topics does not look robust yet, and require further analysis and improvements for better results on fruit harvesting.
+C1 [Magalhaes, Sandro Augusto; Moreira, Antonio Paulo; dos Santos, Filipe Neves] CRIIS Ctr Ind Robot & Intelligent Syst, INESC TEC Inst Engn Sistemas & Comp Tecnol & Cien, Campus FEUP,Rua Dr Roberto Frias S-N, P-4200465 Porto, Portugal.
+   [Magalhaes, Sandro Augusto; Moreira, Antonio Paulo] Univ Porto, Fac Engn, Rua Dr Roberto Frias S-N, P-4200465 Porto, Portugal.
+   [Dias, Jorge] Univ Coimbra, Inst Syst & Robot, Dept Elect Engn & Comp, Rua Silvio Lima Polo 2, P-3030290 Coimbra, Portugal.
+   [Dias, Jorge] Khalifa Univ Sci Technol & Res KU, Khalifa Univ Ctr Autonomous Robot Syst KUCARS, Abu Dhabi 127788, U Arab Emirates.
+C3 INESC TEC; Universidade do Porto; Universidade do Porto; Universidade de Coimbra
+RP Magalhaes, SA; dos Santos, FN (corresponding author), CRIIS Ctr Ind Robot & Intelligent Syst, INESC TEC Inst Engn Sistemas & Comp Tecnol & Cien, Campus FEUP,Rua Dr Roberto Frias S-N, P-4200465 Porto, Portugal.; Magalhaes, SA (corresponding author), Univ Porto, Fac Engn, Rua Dr Roberto Frias S-N, P-4200465 Porto, Portugal.
+EM sandro.a.magalhaes@inesctec.pt; amoreira@fe.up.pt; filipe.n.santos@inesctec.pt; jorge.dias@ku.ac.ae
+FU Portuguese funding agency, FCT -Fundacao para a Ciencia e Tecnologia; European Social fund (FSE) [SFRH/BD/147117/2019]; European Union's Horizon 2020 -The EU Framework Programme for Research and Innovation 2014-2020 [857202]; Fundação para a Ciência e a Tecnologia [SFRH/BD/147117/2019] Funding Source: FCT; H2020 Societal Challenges Programme [857202] Funding Source: H2020 Societal Challenges Programme
+NR 251
+TC 26
+Z9 27
+U1 13
+U2 184
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0921-0296
+EI 1573-0409
+J9 J INTELL ROBOT SYST
+JI J. Intell. Robot. Syst.
+PD MAY 15
+PY 2022
+VL 105
+IS 1
+BP 
+EP 
+DI 10.1007/s10846-022-01595-3
+PG 22
+WC Computer Science, Artificial Intelligence; Robotics
+SC Computer Science; Robotics
+GA 0X6TA
+UT WOS:000789835000001
+DA 2025-12-25
+ER
+
+PT J
+AU Wang, FH
+   Sun, ZX
+   Chen, Y
+   Zheng, H
+   Jiang, J
+AF Wang, Fenghua
+   Sun, Zhexing
+   Chen, Yu
+   Zheng, Hao
+   Jiang, Jin
+TI Xiaomila Green Pepper Target Detection Method under Complex Environment Based on Improved YOLOv5s
+SO AGRONOMY-BASEL
+LA English
+DT Article
+DE Capsicum frutescens L.; improved YOLOv5; target detection; orchard
+ID recognition; fruits; color
+AB Real-time detection of fruit targets is a key technology of the Xiaomila green pepper (Capsicum frutescens L.) picking robot. The complex conditions of orchards make it difficult to achieve accurate detection. However, most of the existing deep learning network detection algorithms cannot effectively detect Xiaomila green pepper fruits covered by leaves, branches, and other fruits in natural scenes. As detailed in this paper, the Red, Green, Blue (RGB) images of Xiaomila green pepper in the green and mature stage were collected under natural light conditions for building the dataset and an improved YOLOv5s model (YOLOv5s-CFL) is proposed to improve the efficiency and adaptability of picking robots in the natural environment. First, the convolutional layer in the Cross Stage Partial (CSP) is replaced with GhostConv, the detection speed is improved through a lightweight structure, and the detection accuracy is enhanced by adding a Coordinate Attention (CA) layer and replacing Path Aggregation Network (PANet) in the neck with Bidirectional Feature Pyramid Network (BiFPN). In the experiment, the YOLOv5s-CFL model was used to detect the Xiaomila, and the detection results were analyzed and compared with those of the original YOLOv5s, YOLOv4-tiny, and YOLOv3-tiny models. With these improvements, the Mean Average Precision (mAP) of YOLOv5s-CFL is 1.1%, 6.8%, and 8.9% higher than original YOLOv5s, YOLOv4-tiny, and YOLOv3-tiny, respectively. Compared with the original YOLOv5 model, the model size is reduced from 14.4 MB to 13.8 MB, and the running speed is reduced from 15.8 to 13.9 Gflops. The experimental results indicate that the lightweight model improves the detection accuracy and has good real-time performance and application prospects in the field of picking robots.
+C1 [Wang, Fenghua; Sun, Zhexing; Chen, Yu; Zheng, Hao; Jiang, Jin] Kunming Univ Sci & Technol, Fac Modern Agr Engn, Kunming 650500, Yunnan, Peoples R China.
+C3 Kunming University of Science & Technology
+RP Wang, FH (corresponding author), Kunming Univ Sci & Technol, Fac Modern Agr Engn, Kunming 650500, Yunnan, Peoples R China.
+EM 20090099@kust.edu.cn; 20202214032@stu.kust.edu.cn; 20212214020@stu.kust.edu.cn; 20202214008@stu.kust.edu.cn; 20212214025@stu.kust.edu.cn
+FU National Key Research and Development Program [2017YFD0700600-2017YFD0700604]; Yunnan Major Science and Technology Special Program [2018ZC001-1, 2018ZC001-3, 2018ZC001-4, 2018ZC001-5]; National Natural Science Foundation of China [51975265]
+NR 33
+TC 18
+Z9 20
+U1 2
+U2 144
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 2073-4395
+J9 AGRONOMY-BASEL
+JI Agronomy-Basel
+PD JUN 15
+PY 2022
+VL 12
+IS 6
+BP 
+EP 
+DI 10.3390/agronomy12061477
+PG 16
+WC Agronomy; Plant Sciences
+SC Agriculture; Plant Sciences
+GA 2L9PJ
+UT WOS:000817345000001
+DA 2025-12-25
+ER
+
+PT J
+AU Li, YX
+   Li, BJ
+   Jiang, YY
+   Xu, CR
+   Zhou, BD
+   Niu, Q
+   Li, CS
+AF Li, Yexin
+   Li, Binjie
+   Jiang, Yiyao
+   Xu, Chengrui
+   Zhou, Baidong
+   Niu, Qi
+   Li, Chengsong
+TI Study on the Dynamic Cutting Mechanism of Green Pepper (Zanthoxylum armatum) Branches under Optimal Tool Parameters
+SO AGRICULTURE-BASEL
+LA English
+DT Article
+DE green pepper branches; response surface parameter optimization; monitoring comparison model; mechanism revealing
+ID finite-element simulation; optimization
+AB In order to design a branch-cutting type green pepper harvesting device, we firstly study the whole process of straight knife green pepper cutting to reveal the cutting mechanism and provide theoretical guidance to the design. A finite element model was established for the cutting of pepper branches across the distance, and single-factor and multi-factor finite element simulation tests were conducted on the knife feed angle, tool edge angle, and knife feed speed of the working parts of the pepper cutting and harvesting device. The results of the experiment were analyzed by ANOVA, which showed the different degrees of importance of these factors, and the optimal parameters were obtained by response surface methodology (RSM). With the optimal parameters selected, the predicted maximum cutting force and cutting completion were 803.35 N and 98.58%, respectively, this satisfies the efficiency and economy requirements of agricultural machinery design. In addition, the cutting force of green pepper branches was analyzed and a theoretical mechanical model was developed to help us understand the variation of cutting force numerically. The stress-strain system, high-speed photography system and numerical prediction were innovatively combined to observe and measure the stress and other key state variables in the cutting process in detail, summarize their changing trend, and establish a time-based monitoring and comparison model. The above research results can provide a reference for the design of green pepper branch cutting and harvesting devices, such as direct guidance on the selection of working parameters, materials, etc., and guidance on the operation in actual work.
+C1 [Li, Yexin; Li, Binjie; Jiang, Yiyao; Xu, Chengrui; Zhou, Baidong; Niu, Qi; Li, Chengsong] Southwest Univ, Coll Engn & Technol, Chongqing 400715, Peoples R China.
+   [Li, Yexin; Li, Chengsong] Southwest Univ, Key Lab Agr Equipment Hilly & Mt Areas, Chongqing 400715, Peoples R China.
+C3 Southwest University - China; Southwest University - China
+RP Li, CS (corresponding author), Southwest Univ, Coll Engn & Technol, Chongqing 400715, Peoples R China.; Li, CS (corresponding author), Southwest Univ, Key Lab Agr Equipment Hilly & Mt Areas, Chongqing 400715, Peoples R China.
+EM 120190304@swu.edu.cn
+FU Fundamental Research Funds for central Universities [SWU120004]
+NR 41
+TC 8
+Z9 8
+U1 5
+U2 44
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 2077-0472
+J9 AGRICULTURE-BASEL
+JI Agriculture-Basel
+PD AUG 15
+PY 2022
+VL 12
+IS 8
+BP 
+EP 
+DI 10.3390/agriculture12081165
+PG 22
+WC Agronomy
+SC Agriculture
+GA 4C4GI
+UT WOS:000846413700001
+DA 2025-12-25
+ER
+
+PT J
+AU Gavini, V
+   Lakshmi, GRJ
+AF Gavini, Venkateswarlu
+   Lakshmi, Gurusamy Ramasamy Jothi
+TI CT Image Denoising Model Using Image Segmentation for Image Quality Enhancement for Liver Tumor Detection Using CNN
+SO TRAITEMENT DU SIGNAL
+LA English
+DT Article
+DE liver tumor; CT images; image denoising; image segmentation; convolution neural networks; edge segmentation
+AB Image denoising is an important concept in image processing for improving the image quality. It is difficult to remove noise from images because of the various causes of noise. Imaging noise is made up of many different types of noise, including Gaussian, impulse, salt, pepper, and speckle noise. Increasing emphasis has been paid to Convolution Neural Networks (CNNs) in image denoising. Image denoising has been researched using a variety of CNN approaches. For the evaluation of these methods, various datasets were utilized. Liver Tumor is the leading cause of cancer-related death worldwide. By using Computed Tomography (CT) to detect liver tumor early, millions of patients could be spared from death each year. Denoising a picture means cleaning up an image that has been corrupted by unwanted noise. Due to the fact that noise, edge, and texture are all high frequency components, denoising can be tricky, and the resulting images may be missing some finer features. Applications where recovering the original image content is vital for good performance benefit greatly from image denoising, including image reconstruction, activity recognition, image restoration, segmentation techniques, and image classification. Tumors of this type are difficult to detect and are almost always discovered at an advanced stage, posing a serious threat to the patient's life. As a result, finding a tumour at an early stage is critical. Tumors can be detected non-invasively using medical image processing. There is a pressing need for software that can automatically read, detect, and evaluate CT scans by removing noise from the images. As a result, any system must deal with a bottleneck in liver segmentation and extraction from CT scans. To segment and classify liver CT images after denoising images, a deep CNN technique is proposed in this research. An Image Quality Enhancement model with Image Denoising and Edge based Segmentation (IQE-ID-EbS) is proposed in this research that effectively reduces noise levels in the image and then performs edge based segmentation for feature extraction from the CT images. The proposed model is compared with the traditional models and the results represent that the proposed model performance is better.
+C1 [Gavini, Venkateswarlu; Lakshmi, Gurusamy Ramasamy Jothi] Vels Inst Sci Technol & Adv Studies, Dept ECE, Chennai 600117, Tamil Nadu, India.
+C3 Vels Institute of Science, Technology & Advanced Studies
+RP Gavini, V (corresponding author), Vels Inst Sci Technol & Adv Studies, Dept ECE, Chennai 600117, Tamil Nadu, India.
+EM venkateswarlugavini46@gmail.com
+NR 26
+TC 7
+Z9 7
+U1 3
+U2 14
+PU INT INFORMATION & ENGINEERING TECHNOLOGY ASSOC
+PI EDMONTON
+PA #2020, SCOTIA PLACE TOWER ONE, 10060 JASPER AVE, EDMONTON, AB T5J 3R8, CANADA
+SN 0765-0019
+EI 1958-5608
+J9 TRAIT SIGNAL
+JI Trait. Signal
+PD OCT 15
+PY 2022
+VL 39
+IS 5
+BP 1807
+EP 1814
+DI 10.18280/ts.390540
+PG 8
+WC Computer Science, Artificial Intelligence; Engineering, Electrical & Electronic
+SC Computer Science; Engineering
+GA 7N9BT
+UT WOS:000907630800035
+DA 2025-12-25
+ER
+
+PT J
+AU Ning, ZT
+   Luo, LF
+   Ding, XM
+   Dong, ZQ
+   Yang, BF
+   Cai, JH
+   Chen, WL
+   Lu, QH
+AF Ning, Zhengtong
+   Luo, Lufeng
+   Ding, XinMing
+   Dong, Zhiqiang
+   Yang, Bofeng
+   Cai, Jinghui
+   Chen, Weilin
+   Lu, Qinghua
+TI Recognition of sweet peppers and planning the robotic picking sequence in high-density orchards
+SO COMPUTERS AND ELECTRONICS IN AGRICULTURE
+LA English
+DT Article
+DE Sweet pepper; Sequence planning; Robotic picking; Anti-collision picking; Multi-target picking
+ID vision
+AB To improve the operational efficiency of and to prevent possible collision damage in the near-neighbor multi target picking of sweet peppers by robots in densely planted complex orchards, this study proposes an algorithm for recognizing sweet peppers and planning a picking sequence called AYDY. First, the convolutional block attention module is embedded into the you only look once model (YOLO-V4), and this combined model is used to recognize and localize sweet peppers. Then, the clustering algorithm for the fast search-and-find of density peaks is improved based on the inflection points and gaps of a decision graph. Sweet peppers with multiple near neighbor targets are automatically partitioned into picking clusters. An anti-collision picking sequence for a picking cluster is determined based on the experience of experts. The algorithm combines Gaussian distance weights with the winner-takes-all approach as an optic neural filter. In tests, the F1-score of this method for sweet peppers in a densely planted environment was 91.84%, which is a 9.14% improvement compared to YOLO-V4. The average localization accuracy and collision-free harvesting success rate were 89.55% and 90.04%, respectively. The recognition and localization time for a single image was 0.3033 s. The time to plan a picking sequence for a single image was 0.283 s. When the robotic arm harvested 22 and 24 sweet peppers, compared to sequential and stochastic planning, the proposed method had higher collision-free picking rates by 18.18, 18.18, 16.67, and 25 percentage points, respectively. This method can accurately detect sweet peppers, reduce collision damage, and improve picking efficiency in high-density orchard environments. This study may provide technical support for anti-collision picking of sweet peppers by robots.
+C1 [Ning, Zhengtong; Luo, Lufeng; Ding, XinMing; Dong, Zhiqiang; Yang, Bofeng; Cai, Jinghui; Chen, Weilin; Lu, Qinghua] Foshan Univ, Sch Mechatron Engn & Automat, Foshan 528000, Guangdong, Peoples R China.
+C3 Foshan University
+RP Luo, LF (corresponding author), Foshan Univ, Sch Mechatron Engn & Automat, Foshan 528000, Guangdong, Peoples R China.
+EM ning_zt@163.com; luolufeng@fosu.edu.cn
+FU National Natural Science Foundation of China [32171909, 51705365]; Guangdong Basic and Applied Basic Research Foundation [2020B1515120050, 2020B1515120070]; Scientific Research Projects of Universities in Guangdong Province [2019KTSCX197, 2018KZDXM074, 2020KCXTD015]; Special Funding Project for Guangdong Province University Students for Science and Technology Innovation and Cultivation [pdjh2021b0521]
+NR 29
+TC 43
+Z9 49
+U1 22
+U2 183
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 0168-1699
+EI 1872-7107
+J9 COMPUT ELECTRON AGR
+JI Comput. Electron. Agric.
+PD MAY 15
+PY 2022
+VL 196
+IS 
+BP 
+EP 
+DI 10.1016/j.compag.2022.106878
+EA MAR 2022
+PG 8
+WC Agriculture, Multidisciplinary; Computer Science, Interdisciplinary Applications
+SC Agriculture; Computer Science
+GA 1C9TC
+UT WOS:000793453900001
+DA 2025-12-25
+ER
+
+PT J
+AU Wang, ZH
+   Xun, Y
+   Wang, YK
+   Yang, QH
+AF Wang, Zhiheng
+   Xun, Yi
+   Wang, Yingkuan
+   Yang, Qinghua
+TI Review of smart robots for fruit and vegetable picking in agriculture
+SO INTERNATIONAL JOURNAL OF AGRICULTURAL AND BIOLOGICAL ENGINEERING
+LA English
+DT Review
+DE potential picking robot; agricultural robot; robot; precision agriculture; harvest; computer vision
+ID strawberry-harvesting robot; faster r-cnn; machine vision; segmentation algorithm; end-effector; design; system; images; performance; pepper
+AB The fruit and vegetable picking has posed a great challenge on the production and markets during the harvest season. Manual picking cannot fully meet the rapid requirements of each market, mainly due to the high labor-intensive and time-consuming tasks, even the aging and shortage of agricultural labor force in recent years. Alternatively, smart robotics can be an efficient solution to increase the planting areas for the markets in combination with changes in cultivation, preservation, and processing technology. However, some improvements still need to be performed on these picking robots. To document the progress in and current status of this field, this study performed a bibliometric analysis. This analysis evaluated the current performance characteristics of various fruit and vegetable picking robots for better prospects in the future. Five perspectives were proposed covering the robotic arms, end effectors, vision systems, picking environments, and picking performance for the large-scale mechanized production of fruits and vegetables in modern agriculture. The current problems of fruit and vegetable picking robots were summarized. Finally, the outlook of the fruit and vegetable picking robots prospected from four aspects: structured environment for fruit planting, the algorithm of recognition and positioning, picking efficiency, and cost-saving picking robots. This study comprehensively assesses the current research status, thus helping researchers steer their projects or locate potential collaborators.
+C1 [Wang, Zhiheng; Xun, Yi; Yang, Qinghua] Zhejiang Univ Technol, Coll Mech Engn, Key Lab Special Purpose Equipment & Adv Proc Tech, Minist Educ & Zhejiang Prov, Hangzhou 310023, Peoples R China.
+   [Wang, Yingkuan] Acad Agr Planning & Engn, Minist Agr & Rural Affairs, Beijing 100125, Peoples R China.
+   [Wang, Yingkuan] Chinese Soc Agr Engn, Beijing 100125, Peoples R China.
+C3 Zhejiang University of Technology
+RP Yang, QH (corresponding author), Zhejiang Univ Technol, Hangzhou 310023, Peoples R China.; Wang, YK (corresponding author), Acad Agr Planning & Engn, 41 Maizidian St, Beijing 100125, Peoples R China.
+EM wzh232@zjut.edu.cn; xunyi@zjut.edu.cn; wangyingkuan@163.com; robot@zjut.edu.cn
+FU Basic Public Welfare Research Project of Zhejiang Province [LGN20E050007, LGG19E050023]; Xinjiang Boshiran Intelligent Agricultural Machinery Co., Ltd.
+NR 135
+TC 105
+Z9 115
+U1 103
+U2 1412
+PU CHINESE ACAD AGRICULTURAL ENGINEERING
+PI BEIJING
+PA RM 506, NO 41, MAIZIDIAN ST, CHAOYANG DISTRICT, BEIJING, 100125, PEOPLES R CHINA
+SN 1934-6344
+EI 1934-6352
+J9 INT J AGR BIOL ENG
+JI Int. J. Agric. Biol. Eng.
+PD JAN 15
+PY 2022
+VL 15
+IS 1
+BP 33
+EP 54
+DI 10.25165/j.ijabe.20221501.7232
+PG 22
+WC Agricultural Engineering
+SC Agriculture
+GA ZP7NB
+UT WOS:000766605700001
+DA 2025-12-25
+ER
+
+PT J
+AU Mohi-Alden, K
+   Omid, M
+   Firouz, MS
+   Nasiri, A
+AF Mohi-Alden, Khaled
+   Omid, Mahmoud
+   Firouz, Mahmoud Soltani
+   Nasiri, Amin
+TI Design and evaluation of an intelligent sorting system for bell pepper using deep convolutional neural networks
+SO JOURNAL OF FOOD SCIENCE
+LA English
+DT Article
+DE bell pepper; classification; convolutional neural network; deep learning; machine vision; residual network
+ID fruit
+AB Homogeneity of appearance attributes of bell peppers is essential for consumers and food industries. This research aimed to develop an in-line sorting system using a deep convolutional neural network (DCNN) which is considered the state-of-the-art in the field of machine vision-based classifications, for grading bell peppers into five classes. According to export standards, the crop should be graded based on maturity stage and size. For that, the fully connected layer in the ResNet50 architecture of DCNN was replaced with a developed classifier block, including a global average-pooling layer, dense layers, batch normalization, and dropout layer. The developed model was trained and evaluated through the five-fold cross-validation method. The required processing time to classify each sample in the proposed model was estimated as 4 ms which is fast enough for real-time applications. Accordingly, the DCNN model was integrated with a machine vision-based designed sorting machine. Then, the developed system was evaluated in the in-line phase. The performance parameters in the in-line phase include accuracy, precision, sensitivity, specificity, F1-score, and overall accuracies were 98.7%, 97%, 96.9%, 99%, 96.9%, and 96.9%, respectively. The total rate of sorting the bell pepper was also measured as approximately 3000 sample/h with one sorting line. The proposed sorting system demonstrates a very good capability that allows it to be used in industrial applications. Practical Application A developed intelligent model was integrated with a machine vision-based designed sorting machine for bell peppers. The developed system can sort the crop according to export criteria with an accuracy of 96.9%. The proposed sorting system demonstrated a very good capability that allows it to be used in industrial applications.
+C1 [Mohi-Alden, Khaled; Omid, Mahmoud; Firouz, Mahmoud Soltani] Univ Tehran, Fac Agr Engn & Technol, Dept Agr Machinery Engn, Tehran, Iran.
+   [Nasiri, Amin] Univ Tennessee, Dept Biosyst Engn & Soil Sci, Knoxville, TN USA.
+C3 University of Tehran; University of Tennessee System; University of Tennessee Knoxville; UT Institute of Agriculture
+RP Mohi-Alden, K; Omid, M (corresponding author), Univ Tehran, Dept Agr Machinery Engn, Fac Agr Engn & Technol, Karaj 3158777871, Iran.
+EM mohialdin@ut.ac.ir; omid@ut.ac.ir
+FU University of Tehran (UT)
+NR 37
+TC 14
+Z9 14
+U1 3
+U2 60
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0022-1147
+EI 1750-3841
+J9 J FOOD SCI
+JI J. Food Sci.
+PD JAN 15
+PY 2022
+VL 87
+IS 1
+BP 289
+EP 301
+DI 10.1111/1750-3841.15995
+EA DEC 2021
+PG 13
+WC Food Science & Technology
+SC Food Science & Technology
+GA YH9HF
+UT WOS:000733432900001
+PM 34940977
+DA 2025-12-25
+ER
+
+PT J
+AU Lu, JZ
+   Xiang, JC
+   Liu, T
+   Gao, ZM
+   Liao, M
+AF Lu, Jinzhu
+   Xiang, Juncheng
+   Liu, Ting
+   Gao, Zongmei
+   Liao, Min
+TI Sichuan Pepper Recognition in Complex Environments: A Comparison Study of Traditional Segmentation versus Deep Learning Methods
+SO AGRICULTURE-BASEL
+LA English
+DT Article
+DE Sichuan pepper; traditional segmentation; deep learning; picking robot
+ID network
+AB At present, picking Sichuan pepper is mainly undertaken by people, which is inefficient and presents the possibility of workers getting hurt. It is necessary to develop an intelligent robot for picking Sichuan peppers in which the key technology is accurate segmentation by means of mechanical vision. In this study, we first took images of Sichuan peppers (Hanyuan variety) in an orchard under various conditions of light intensity, cluster numbers, and image occlusion by other elements such as leaves. Under these various image conditions, we compared the ability of different technologies to segment the images, examining both traditional image segmentation methods (RGB color space, HSV color space, k-means clustering algorithm) and deep learning algorithms (U-Net convolutional network, Pyramid Scene Parsing Network, DeeplabV3+ convolutional network). After the images had been segmented, we compared the effectiveness of each algorithm at identifying Sichuan peppers in the various types of image, using the Intersection Over Union(IOU) and Mean Pixel Accuracy(MPA) indexes to measure success. The results showed that the U-Net algorithm was the most effective in the case of single front-lit clusters light without occlusion, with an IOU of 87.23% and an MPA of 95.95%. In multiple front-lit clusters without occlusion, its IOU was 76.52% and its MPA was 94.33%. Based on these results, we propose applicable segmentation methods for an intelligent Sichuan pepper-picking robot which can identify the fruit in images from various growing environments. The research showed good accuracy for the recognition and segmentation of Sichuan peppers, which suggests that this method can provide technical support for the visual recognition of a pepper-picking robot in the field.
+C1 [Lu, Jinzhu; Xiang, Juncheng; Liu, Ting; Liao, Min] Xihua Univ, Modern Agr Equipment Res Inst, Chengdu 610039, Peoples R China.
+   [Lu, Jinzhu; Xiang, Juncheng; Liu, Ting; Liao, Min] Xihua Univ, Sch Mech Engn, Chengdu 610000, Peoples R China.
+   [Gao, Zongmei] Washington State Univ, Ctr Precis & Automated Agr Syst, Dept Biol Syst Engn, Prosser, WA 99350 USA.
+C3 Xihua University; Xihua University; Washington State University
+RP Lu, JZ (corresponding author), Xihua Univ, Modern Agr Equipment Res Inst, Chengdu 610039, Peoples R China.; Lu, JZ (corresponding author), Xihua Univ, Sch Mech Engn, Chengdu 610000, Peoples R China.
+EM lujinzhu@mail.xhu.edu.cn
+FU Sichuan Provincial Science and Technology Department [2021YFN0020]
+NR 30
+TC 9
+Z9 10
+U1 4
+U2 83
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 2077-0472
+J9 AGRICULTURE-BASEL
+JI Agriculture-Basel
+PD OCT 15
+PY 2022
+VL 12
+IS 10
+BP 
+EP 
+DI 10.3390/agriculture12101631
+PG 16
+WC Agronomy
+SC Agriculture
+GA 5N9JD
+UT WOS:000872101400001
+DA 2025-12-25
+ER
+
+PT J
+AU Vrochidou, E
+   Tsakalidou, VN
+   Kalathas, I
+   Gkrimpizis, T
+   Pachidis, T
+   Kaburlasos, VG
+AF Vrochidou, Eleni
+   Tsakalidou, Viktoria Nikoleta
+   Kalathas, Ioannis
+   Gkrimpizis, Theodoros
+   Pachidis, Theodore
+   Kaburlasos, Vassilis G.
+TI An Overview of End Effectors in Agricultural Robotic Harvesting Systems
+SO AGRICULTURE-BASEL
+LA English
+DT Review
+DE end effector; manipulation; harvesting robots; agrobots; gripper
+ID field-evaluation; design; arm; gripper; performance; fruit
+AB In recent years, the agricultural sector has turned to robotic automation to deal with the growing demand for food. Harvesting fruits and vegetables is the most labor-intensive and time-consuming among the main agricultural tasks. However, seasonal labor shortage of experienced workers results in low efficiency of harvesting, food losses, and quality deterioration. Therefore, research efforts focus on the automation of manual harvesting operations. Robotic manipulation of delicate products in unstructured environments is challenging. The development of suitable end effectors that meet manipulation requirements is necessary. To that end, this work reviews the state-of-the-art robotic end effectors for harvesting applications. Detachment methods, types of end effectors, and additional sensors are discussed. Performance measures are included to evaluate technologies and determine optimal end effectors for specific crops. Challenges and potential future trends of end effectors in agricultural robotic systems are reported. Research has shown that contact-grasping grippers for fruit holding are the most common type of end effectors. Furthermore, most research is concerned with tomato, apple, and sweet pepper harvesting applications. This work can be used as a guide for up-to-date technology for the selection of suitable end effectors for harvesting robots.
+C1 [Vrochidou, Eleni; Tsakalidou, Viktoria Nikoleta; Kalathas, Ioannis; Pachidis, Theodore; Kaburlasos, Vassilis G.] Int Hellen Univ IHU, Sch Sci, Dept Comp Sci, HUMAIN Lab, Kavala 65404, Greece.
+   [Gkrimpizis, Theodoros] Aristotle Univ Thessaloniki AUTh, Fac Agr Forestry & Nat Environm, Sch Agr, Lab Viticulture, Thessaloniki 54124, Greece.
+C3 International Hellenic University; Aristotle University of Thessaloniki
+RP Kaburlasos, VG (corresponding author), Int Hellen Univ IHU, Sch Sci, Dept Comp Sci, HUMAIN Lab, Kavala 65404, Greece.
+EM vgkabs@teiemt.gr
+FU operational program "Competitiveness, Entrepreneurship and Innovation" (NSRF 2014-2020) [MIS 5046047]; European Union (European Regional Development Fund)
+NR 97
+TC 84
+Z9 90
+U1 28
+U2 262
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 2077-0472
+J9 AGRICULTURE-BASEL
+JI Agriculture-Basel
+PD AUG 15
+PY 2022
+VL 12
+IS 8
+BP 
+EP 
+DI 10.3390/agriculture12081240
+PG 35
+WC Agronomy
+SC Agriculture
+GA 4C1SA
+UT WOS:000846241300001
+DA 2025-12-25
+ER
+
+PT J
+AU Xu, ZB
+   Huang, XP
+   Huang, Y
+   Sun, HB
+   Wan, FX
+AF Xu, Zhibo
+   Huang, Xiaopeng
+   Huang, Yuan
+   Sun, Haobo
+   Wan, Fangxin
+TI A Real-Time Zanthoxylum Target Detection Method for an Intelligent Picking Robot under a Complex Background, Based on an Improved YOLOv5s Architecture
+SO SENSORS
+LA English
+DT Article
+DE Zanthoxylum; artificial intelligence; YOLOv5; target detection; picking robot
+ID vision system
+AB The target recognition algorithm is one of the core technologies of Zanthoxylum pepper-picking robots. However, most existing detection algorithms cannot effectively detect Zanthoxylum fruit covered by branches, leaves and other fruits in natural scenes. To improve the work efficiency and adaptability of the Zanthoxylum-picking robot in natural environments, and to recognize and detect fruits in complex environments under different lighting conditions, this paper presents a Zanthoxylum-picking-robot target detection method based on improved YOLOv5s. Firstly, an improved CBF module based on the CBH module in the backbone is raised to improve the detection accuracy. Secondly, the Specter module based on CBF is presented to replace the bottleneck CSP module, which improves the speed of detection with a lightweight structure. Finally, the Zanthoxylum fruit algorithm is checked by the improved YOLOv5 framework, and the differences in detection between YOLOv3, YOLOv4 and YOLOv5 are analyzed and evaluated. Through these improvements, the recall rate, recognition accuracy and mAP of the YOLOv5s are 4.19%, 28.7% and 14.8% higher than those of the original YOLOv5s, YOLOv3 and YOLOv4 models, respectively. Furthermore, the model is transferred to the computing platform of the robot with the cutting-edge NVIDIA Jetson TX2 device. Several experiments are implemented on the TX2, yielding an average time of inference of 0.072, with an average GPU load in 30 s of 20.11%. This method can provide technical support for pepper-picking robots to detect multiple pepper fruits in real time.
+C1 [Xu, Zhibo; Huang, Xiaopeng; Huang, Yuan; Sun, Haobo; Wan, Fangxin] Gansu Agr Univ, Coll Mech & Elect Engn, Lanzhou 730070, Peoples R China.
+C3 Gansu Agricultural University
+RP Wan, FX (corresponding author), Gansu Agr Univ, Coll Mech & Elect Engn, Lanzhou 730070, Peoples R China.
+EM xuzb@st.gsau.edu.cn; huangxp@gsau.edu.cn; huangy@st.gsau.edu.cn; sunhb@st.gsau.edu.cn; wanfx@gsau.edu.cn
+FU National Natural Science Foundation of China [51765003, 32160426]
+NR 37
+TC 27
+Z9 36
+U1 9
+U2 175
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 1424-8220
+J9 SENSORS-BASEL
+JI Sensors
+PD JAN 15
+PY 2022
+VL 22
+IS 2
+BP 
+EP 
+DI 10.3390/s22020682
+PG 15
+WC Chemistry, Analytical; Engineering, Electrical & Electronic; Instruments & Instrumentation
+SC Chemistry; Engineering; Instruments & Instrumentation
+GA ZB7JP
+UT WOS:000757014400001
+PM 35062643
+DA 2025-12-25
+ER
+
+PT J
+AU Polic, M
+   Tabak, J
+   Orsag, M
+AF Polic, Marsela
+   Tabak, Jelena
+   Orsag, Matko
+TI Pepper to fall: a perception method for sweet pepper robotic harvesting
+SO INTELLIGENT SERVICE ROBOTICS
+LA English
+DT Article
+DE Robotic harvesting; Transfer learning; RGB-D; Convolutional neural networks; Depth camera; Sim2real
+AB In this paper we propose a robotic system for picking peppers in a structured robotic greenhouse environment. A commercially available robotic manipulator is equipped with an RGB-D camera used to detect a correct pose to grasp peppers. The detection algorithm uses the state-of-the-art pretrained CNN architecture. The system was trained using transfer learning on a synthetic dataset made with a 3D modeling software, Blender. Point cloud data are used to detect the pepper's 6DOF pose through geometric model fitting, which is used to plan the manipulator motion. On top of that, a state machine is derived to control the system workflow. We report the results of a series of experiments conducted to test the precision and the robustness of detection, as well as the success rate of the harvesting procedure.
+C1 [Polic, Marsela; Tabak, Jelena; Orsag, Matko] Univ Zagreb, Fac Elect Engn & Comp, Unska 3, Zagreb 10000, Croatia.
+C3 University of Zagreb
+RP Polic, M (corresponding author), Univ Zagreb, Fac Elect Engn & Comp, Unska 3, Zagreb 10000, Croatia.
+EM marsela.polic@fer.hr; jelena.tabak@fer.hr; matko.orsag@fer.hr
+FU Croatian Science Foundation [UIP-2017-05-4042 [1]]
+NR 28
+TC 19
+Z9 22
+U1 9
+U2 45
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 1861-2776
+EI 1861-2784
+J9 INTEL SERV ROBOT
+JI Intell. Serv. Robot.
+PD APR 15
+PY 2022
+VL 15
+IS 2
+BP 193
+EP 201
+DI 10.1007/s11370-021-00401-7
+EA DEC 2021
+PG 9
+WC Robotics
+SC Robotics
+GA 1M7RM
+UT WOS:000724622300001
+DA 2025-12-25
+ER
+
