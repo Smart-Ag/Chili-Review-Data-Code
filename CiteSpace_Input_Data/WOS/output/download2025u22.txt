@@ -1,0 +1,1196 @@
+PT J
+AU Lin, ZH
+   Li, X
+   Sun, H
+   Zhou, ML
+   Yin, JJ
+   He, JJ
+   Yin, DQ
+AF Lin, Zhenhua
+   Li, Xiao
+   Sun, Hao
+   Zhou, Maile
+   Yin, Jianjun
+   He, Jijia
+   Yin, Daqing
+TI Design and Experimental Validation of Stem-Clamping-and-Pull-Out-Type Pepper Plug Seedling-Picking Mechanism
+SO AGRICULTURE-BASEL
+LA English
+DT Article
+DE transplanting machinery; seedling-picking mechanism; pepper plug seedlings; stem clamping and pulling; seedling-picking posture
+AB As a core component of a fully automatic pepper transplanter, the performance of the seedling-picking mechanism is of particular significance. However, existing seedling-picking mechanisms have problems such as being prone to damaging the seedling roots and substrate, as well as having poor stability. To develop a highly efficient, stable, and minimally damaging seedling-picking mechanism, this study proposed a design scheme for a stem-clamping-and-pulling-out-type seedling-picking end actuator driven by a non-circular gear system. The specific methods and objectives include the following: (1) designing a differential non-circular gear system to replicate a manual picking trajectory accurately; (2) establishing a kinematic model and developing optimization software to determine the optimal parameter combination; (3) experimentally validating the mechanism's performance through virtual simulations and bench tests. The bench tests showed that the mechanism could complete two seedling-picking operations per rotation, extracting an entire row (eight plants) in a single rotation at a speed of 30 r/min. The measured angles of the end effector at four key postures were highly consistent with simulation and high-speed camera data, with all key posture errors less than 1 degrees. These results demonstrate the mechanism's high accuracy, efficiency, and reliability.
+C1 [Lin, Zhenhua; Li, Xiao; Sun, Hao; Zhou, Maile; Yin, Jianjun; He, Jijia] Jiangsu Univ, Sch Agr Engn, Zhenjiang 212013, Peoples R China.
+   [Yin, Daqing] Northeast Agr Univ, Coll Engn, Harbin 150030, Peoples R China.
+C3 Jiangsu University; Northeast Agricultural University - China
+RP Zhou, ML (corresponding author), Jiangsu Univ, Sch Agr Engn, Zhenjiang 212013, Peoples R China.
+EM 2222416004@stmail.ujs.edu.cn; 3240306088@stmail.ujs.edu.cn; 2222216061@stmail.ujs.edu.cn; zhoumaile@126.com; yinjianjun@ujs.edu.cn; 2222416061@stmail.ujs.edu.cn; yindaqing@neau.edu.cn
+FU Key R&D Plan of Zhenjiang City-Modern Agriculture; Jiangsu Province Young Scientific and Technological Talents Promotion Plan [JSTJ-2024-613]; Natural Science Foundation of Jiangsu Province; Key Laboratory of Modern Agricultural Equipment and Technology; High-Tech Key Laboratory of Agricultural Equipment and Intelligence of Jiangsu Province - Priority Academic Program Development of Jiangsu Higher Education Institutions [PAPD 2023-87];  [NY2023003]
+NR 27
+TC 6
+Z9 6
+U1 11
+U2 42
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 2077-0472
+J9 AGRICULTURE-BASEL
+JI Agriculture-Basel
+PD JUL 21
+PY 2025
+VL 15
+IS 14
+BP 
+EP 
+DI 10.3390/agriculture15141563
+PG 18
+WC Agronomy
+SC Agriculture
+GA 6BJ2A
+UT WOS:001549313800001
+DA 2026-10-09
+ER
+
+PT J
+AU Han, WK
+   Luo, JL
+   Wang, JT
+   Gu, QH
+   Lin, LJ
+   Gao, Y
+   Chen, HR
+   Luo, KY
+   Zeng, ZX
+   He, J
+AF Han, Weikang
+   Luo, Jialong
+   Wang, Jiatao
+   Gu, Qihang
+   Lin, Liujun
+   Gao, Yuan
+   Chen, Hongru
+   Luo, Kangya
+   Zeng, Zhixiong
+   He, Jie
+TI Design of a Chili Pepper Harvesting Device for Hilly Chili Fields
+SO AGRONOMY-BASEL
+LA English
+DT Article
+DE chili pepper; LiDAR; 3D point cloud reconstruction; adaptive leveling platform; end effector
+ID platform
+AB To address issues such as leaf occlusion, misalignment of the harvesting robotic arm, and limited harvesting range in hillside chili fields, this paper designs an intelligent harvesting system based on 3D point cloud reconstruction and multi-mechanism collaborative leveling. The system integrates real-time data from a LiDAR and IMU inertial navigation system to reconstruct the chili point cloud occluded by leaves from multiple perspectives. To address issues such as misalignment of the robotic arm caused by terrain undulations, the system integrates an adaptive leveling platform and an H-shaped planar slide, combined with a gyroscope to dynamically adjust the arm's posture in real time, ensuring arm stability while expanding its workspace. In addition, to ensure harvesting efficiency and pepper integrity, an integrated cutting-gripping flexible end effector is designed to achieve synchronized cutting and collection operations. The experiment shows that the system achieves recognition accuracy of 81.95% for occluded chili peppers and 89.04% for non-occluded chili peppers. The harvesting success rate is 86.33%, with a single harvesting operation taking 13.17 s. During prolonged operation, the harvesting success rate can be maintained at approximately 85.1%. In summary, the intelligent harvesting system based on 3D point cloud reconstruction and multi-mechanism collaborative leveling provides a feasible solution for automated pepper harvesting.
+C1 [Han, Weikang; Luo, Jialong; Wang, Jiatao; Gu, Qihang; Gao, Yuan; Luo, Kangya; Zeng, Zhixiong] South China Agr Univ, Coll Engn, Guangzhou 510642, Peoples R China.
+   [Han, Weikang] Guangdong Prov Key Lab Agr Artificial Intelligence, Guangzhou 510642, Peoples R China.
+   [Lin, Liujun; Chen, Hongru] South China Agr Univ, Coll Math & Informat, Guangzhou 510642, Peoples R China.
+   [He, Jie] South China Agr Univ, Huangpu Innovat Res Inst, Guangzhou 510642, Peoples R China.
+C3 South China Agricultural University; South China Agricultural University; South China Agricultural University
+RP Zeng, ZX (corresponding author), South China Agr Univ, Coll Engn, Guangzhou 510642, Peoples R China.; He, J (corresponding author), South China Agr Univ, Huangpu Innovat Res Inst, Guangzhou 510642, Peoples R China.
+EM hanweikang@stu.scau.edu.cn; luo_jialong@stu.scau.edu.cn; 202221510423@stu.scau.edu.cn; 775845468@stu.scau.edu.cn; 12031203@stu.scau.edu.cn; 202021110109@stu.scau.edu.cn; 202328110603@stu.scau.edu.cn; 612116@stu.scau.edu.cn; zhixzeng@scau.edu.cn; hooget@scau.edu.cn
+FU Precision Farming Technology-Expert Scientist Project of Guangdong Modern Agricultural Industry System [2024CXTD28]; Scientific research projects of the Huangpu Innovation Research Institute, South China Agricultural University [2023GG004]; Special Fund for the Rural Revitalization Strategy of Guangdong [2024TS-3, 2025TS-3]; Project of Innovation Team Construction of Guangdong Agriculture Research System [2024CXTD02]; Guangzhou Key Research and Development Project [2023B03J1363]; Shanwei City Science and Technology Program Project [2023A009]; Maoming Laboratory Independent Research and Development Project [2021ZZ003, 2021TDQD002]; Guangdong Province Agricultural Science and Technology Social Service Achievement Integration Demonstration Project [20230201]
+NR 37
+TC 2
+Z9 2
+U1 6
+U2 35
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 2073-4395
+J9 AGRONOMY-BASEL
+JI Agronomy-Basel
+PD APR 30
+PY 2025
+VL 15
+IS 5
+BP 
+EP 
+DI 10.3390/agronomy15051118
+PG 20
+WC Agronomy; Plant Sciences
+SC Agriculture; Plant Sciences
+GA 3AR9I
+UT WOS:001495840200001
+DA 2026-10-09
+ER
+
+PT J
+AU Liu, XY
+   Li, YR
+   Chen, P
+   Wan, ZY
+   Song, D
+   Fu, Y
+AF Liu, Xueyin
+   Li, Yanrun
+   Chen, Peng
+   Wan, Ziyang
+   Song, Di
+   Fu, Yao
+TI FA-CGI-Net: A Network With Feature-Based Attention Mechanism Joint by Co-Coding Color-Geometric Information for Pepper Point Cloud Segmentation
+SO JOURNAL OF SENSORS
+LA English
+DT Article
+DE attention mechanism; deep learning; pepper point cloud; semantic segmentation
+AB Agriculture has benefited significantly from the development of AI technology in recent investigations, particularly promoted by deep learning. Feature-based attention mechanism and color-geometric information co-coding network (FA-CGI-Net) is proposed in this study to overcome the shortcomings of the current deep learning network for pepper point cloud segmentation. Considering the sparsity and occlusion of branches and leaves of pepper point clouds, FA module is established at the front of the network to enhance the extraction of point features. Meanwhile, by encoding local spatial geometric features and color information separately, the capability of the network for processing pepper point cloud information is improved. The experiment results indicate that the proposed FA-CGI-Net achieves the performance target, with over 94% accuracy on both the self-built pepper and public datasets. The results of our research suggest a potential for the advancement of automated pepper harvesting technology.
+C1 [Liu, Xueyin; Li, Yanrun; Chen, Peng] Southwest Jiaotong Univ, Sch Mech Engn, Chengdu, Peoples R China.
+   [Liu, Xueyin] Sichuan Inst Machinery Res & Design Grp Co Ltd, Chengdu, Peoples R China.
+   [Wan, Ziyang; Song, Di] Univ Elect Sci & Technol China, Sch Mech & Elect Engn, Chengdu, Peoples R China.
+   [Fu, Yao] Sichuan Ctr Patent Examinat Cooperat Patent Off St, Chengdu, Peoples R China.
+C3 Southwest Jiaotong University; University of Electronic Science & Technology of China
+RP Chen, P (corresponding author), Southwest Jiaotong Univ, Sch Mech Engn, Chengdu, Peoples R China.
+EM chenpeng@swjtu.edu.cn
+FU Sichuan Province Science and Technology Support Program
+NR 36
+TC 0
+Z9 0
+U1 0
+U2 6
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1687-725X
+EI 1687-7268
+J9 J SENSORS
+JI J. Sens.
+PD JUN 15
+PY 2025
+VL 2025
+IS 1
+BP 
+EP 
+DI 10.1155/js/6006309
+PG 12
+WC Engineering, Electrical & Electronic; Instruments & Instrumentation
+SC Engineering; Instruments & Instrumentation
+GA 2BE3I
+UT WOS:001478485400001
+DA 2026-10-09
+ER
+
+PT J
+AU Mendez, E
+   Cabello, JAE
+   Gomez-Espinosa, A
+   Cantoral-Ceballos, JA
+   Ochoa, O
+AF Mendez, Enrico
+   Escobedo Cabello, Jesus Arturo
+   Gomez-Espinosa, Alfonso
+   Cantoral-Ceballos, Jose Antonio
+   Ochoa, Oscar
+TI Capsicum Counting Algorithm Using Infrared Imaging and YOLO11
+SO AGRICULTURE-BASEL
+LA English
+DT Article
+DE infrared imaging; capsicum counting; YOLO11 object detection; Bot-SORT; precision agriculture; sweet peppers
+ID agriculture
+AB Fruit detection and counting is a key component of data-driven resource management and yield estimation in greenhouses. This work presents a novel infrared-based approach to capsicum counting in greenhouses that takes advantage of the light penetration of infrared (IR) imaging to enhance detection under challenging lighting conditions. The proposed capsicum counting pipeline integrates the YOLO11 detection model for capsicum identification and the BoT-SORT multi-object tracker to track detections across a video stream, enabling accurate fruit counting. The detector model is trained on a dataset of 1000 images, with 11,916 labeled capsicums, captured with an OAK-D pro camera mounted on a mobile robot inside a capsicum greenhouse. On the IR test set, the YOLO11m model achieved an F1-score of 0.82, while the tracker obtained a multiple object tracking accuracy (MOTA) of 0.85, correctly counting 67 of 70 capsicums in a representative greenhouse row. The results demonstrate the effectiveness of this IR-based approach in automating fruit counting in greenhouse environments, offering potential applications in yield estimation.
+C1 [Mendez, Enrico; Escobedo Cabello, Jesus Arturo; Gomez-Espinosa, Alfonso; Cantoral-Ceballos, Jose Antonio; Ochoa, Oscar] Tecnol Monterrey, Sch Engn & Sci, Monterrey 64700, NL, Mexico.
+C3 Tecnologico de Monterrey
+RP Cabello, JAE (corresponding author), Tecnol Monterrey, Sch Engn & Sci, Monterrey 64700, NL, Mexico.
+EM a01705682@tec.mx; arturo.escobedo@tec.mx; agomeze@tec.mx; joseantonio.cantoral@tec.mx; a01705715@tec.mx
+FU SECIHTI; NVIDIA Corporation through the NVIDIA Academic Grant Program
+NR 59
+TC 3
+Z9 3
+U1 8
+U2 11
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 2077-0472
+J9 AGRICULTURE-BASEL
+JI Agriculture-Basel
+PD DEC 12
+PY 2025
+VL 15
+IS 24
+BP 
+EP 
+DI 10.3390/agriculture15242574
+PG 19
+WC Agronomy
+SC Agriculture
+GA AE1VW
+UT WOS:001646006800001
+DA 2026-10-09
+ER
+
+PT J
+AU Barbosa, MD
+   Aguiar, FPL
+   Sousa, SD
+   Cordeiro, LD
+   Nääs, ID
+   Okano, MT
+AF Barbosa, Madalena de Oliveira
+   Aguiar, Fernanda Pereira Leite
+   Sousa, Suely dos Santos
+   Cordeiro, Luana dos Santos
+   Naas, Irenilza de Alencar
+   Okano, Marcelo Tsuguio
+TI YOLOv8m for Automated Pepper Variety Identification: Improving Accuracy with Data Augmentation
+SO APPLIED SCIENCES-BASEL
+LA English
+DT Article
+DE pepper classification; YOLOv8m; computer vision in food supply; deep learning; object detection
+ID vision
+AB Featured Application The study indicates the practical application of YOLOv8m, a deep learning architecture, for real-time identification and classification of pepper varieties, providing a practical solution for automating quality control and post-harvest sorting processes in food supply chains.Abstract This research addresses the critical need for an efficient and precise identification of Capsicum spp. fruit varieties within the post-harvest contexts to enhance quality control and ensure consumer satisfaction. Employing the YOLOv8m convolutional neural network, the study identified eight distinct pepper varieties: Pimento, Bode, Cambuci, Chilli, Fidalga, Habanero, Jalapeno, and Scotch Bonnet. A dataset comprising 1476 annotated images was utilized and significantly expanded through data augmentation techniques, including rotation, flipping, and contrast adjustments. Comparative analysis reveals that training with the augmented dataset yielded significant improvements across key performance indicators, particularly in box precision, recall, and mean average precision (mAP50 and mAP95), underscoring the effectiveness of data augmentation. These findings underscore the considerable potential of CNNs to advance the AgriFood sector through increased automation and efficiency. While acknowledging the constraints of a controlled image dataset, subsequent research should prioritize expanding the dataset and conducting real-world testing to confirm the model's robustness across various environmental factors. This study contributes to the field by illustrating the application of deep learning methodologies to enhance agricultural productivity and inform decision-making.
+C1 [Barbosa, Madalena de Oliveira; Aguiar, Fernanda Pereira Leite; Sousa, Suely dos Santos; Cordeiro, Luana dos Santos; Naas, Irenilza de Alencar; Okano, Marcelo Tsuguio] Univ Paulista, Grad Program Prod Engn, Rus Dr Bacelar 1212, BR-04026002 Sao Paulo, SP, Brazil.
+C3 Universidade Paulista
+RP Nääs, ID (corresponding author), Univ Paulista, Grad Program Prod Engn, Rus Dr Bacelar 1212, BR-04026002 Sao Paulo, SP, Brazil.
+EM madalena.divino@etec.sp.gov.br; fernanda.p.aaguiar@gmail.com; suely.sousa2@etec.sp.gov.br; profluana.lourenco@gmail.com; irenilza.naas@docente.unip.br; marcelo.okano1@docente.unip.br
+FU Coordination for the Advancement of Higher Education-CAPES
+NR 43
+TC 4
+Z9 5
+U1 1
+U2 8
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 2076-3417
+J9 APPL SCI-BASEL
+JI Appl. Sci.-Basel
+PD JUN 22
+PY 2025
+VL 15
+IS 13
+BP 
+EP 
+DI 10.3390/app15137024
+PG 19
+WC Chemistry, Multidisciplinary; Engineering, Multidisciplinary; Materials Science, Multidisciplinary; Physics, Applied
+SC Chemistry; Engineering; Materials Science; Physics
+GA 4TJ9A
+UT WOS:001526224000001
+DA 2026-10-09
+ER
+
+PT J
+AU Zhang, SW
+   Li, SW
+   Dai, M
+   Lu, EH
+   Liu, SX
+   Ge, LQ
+   Zhang, YJ
+   Guan, CS
+   Xv, B
+   Su, W
+   Miao, H
+AF Zhang, Shanwen
+   Li, Shaowen
+   Dai, Min
+   Lu, Enhui
+   Liu, Sixing
+   Ge, Linquan
+   Zhang, Yongji
+   Guan, Chunsong
+   Xv, Binxing
+   Su, Wei
+   Miao, Hong
+TI Mechanical and biological evaluation of two fresh pepper varieties
+SO FRONTIERS IN PLANT SCIENCE
+LA English
+DT Article
+DE pepper biological parameters; pepper mechanical properties; fresh pepper; mechanical harvesting; mechanization-adapted variety
+AB The operation of roller-type pepper harvesters involves striking and pulling the peppers, which may result in incomplete detachment from their stems or cause surface damage or breakage of the peppers. The quality of the harvested peppers is directly influenced by the forces applied during striking and pulling. Therefore, the physical and mechanical properties of peppers are crucial for determining the structural and dynamic parameters of the screw rollers. This study selected Round peppers and the 'Bo 15' line pepper as experimental subjects. Growth parameters such as main stem diameter and fruit diameter were measured. And mechanical properties including tensile, bending, compressive, and shear strength were tested. Results showed that: two pepper varieties had a moisture content of 90% +/- 1%. The main stem diameters of Round pepper and 'Bo 15' line pepper were 10.196 +/- 1.508 mm and 13.44 +/- 0.769 mm. The average diameter of round pepper was greater than that of 'Bo 15' line pepper. For mechanical stress, the 'Bo 15' line pepper exhibited stronger resistance, and the mechanical properties were as follows: tensile strength was 0.83 MPa, bending strength was 0.58 MPa, radial compressive strength was 0.25 MPa, and shear strength was 0.28 MPa. This study provides a basis for the design of low damage harvesting device for fresh peppers and the selection of varieties suitable for mechanical harvesting.
+C1 [Zhang, Shanwen; Li, Shaowen; Dai, Min; Lu, Enhui; Liu, Sixing; Miao, Hong] Yangzhou Univ, Coll Mech Engn, Yangzhou, Peoples R China.
+   [Zhang, Shanwen; Li, Shaowen; Dai, Min; Lu, Enhui; Liu, Sixing; Miao, Hong] Minist Agr & Rural Affairs, Vegetable Root Vegetable Fully Mechanized Res Base, Yangzhou, Peoples R China.
+   [Ge, Linquan] Yangzhou Univ, Coll Plant Protect, Yangzhou, Peoples R China.
+   [Zhang, Yongji] Lixiahe Agr Res Inst Jiangsu Prov, Cash Crops Res Dept, Yangzhou, Peoples R China.
+   [Guan, Chunsong; Xv, Binxing] Minist Agr & Rural Affairs, Nanjing Inst Agr Mechanizat, Nanjing, Peoples R China.
+   [Su, Wei] Yangzhou Bur Agr & Rural Affairs, Agr Technol Integrated Serv Ctr, Yangzhou, Peoples R China.
+C3 Yangzhou University; Yangzhou University; Chinese Academy of Agricultural Sciences; Nanjing Institute of Agricultural Mechanization, CAAS
+RP Miao, H (corresponding author), Yangzhou Univ, Coll Mech Engn, Yangzhou, Peoples R China.; Miao, H (corresponding author), Minist Agr & Rural Affairs, Vegetable Root Vegetable Fully Mechanized Res Base, Yangzhou, Peoples R China.
+EM mh0514@163.com
+FU National Key Research and Development Program of China [2023YFD2001200]; Key Research and Development Plan of Jiangsu Province [BE2021330, BE2022345]; Jiangsu provincial policy guidance program [BZ2021079]; National Characteristic Vegetable Industry Technology System Mechanization Research Laboratory Intelligent Technology Application Project [CARS-24-D-03]; Collaborative Education Project of Industry and Education Cooperation of the Higher Education Department of the Ministry of Education [230903844281653]
+NR 37
+TC 1
+Z9 1
+U1 3
+U2 22
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN 1664-462X
+EI 
+J9 FRONT PLANT SCI
+JI Front. Plant Sci.
+PD APR 2
+PY 2025
+VL 16
+IS 
+BP 
+EP 
+DI 10.3389/fpls.2025.1542262
+PG 10
+WC Plant Sciences
+SC Plant Sciences
+GA 1KA6D
+UT WOS:001466866900001
+DA 2026-10-09
+ER
+
+PT J
+AU Chen, Y
+   Wang, XY
+   Yang, WZ
+   Peng, GH
+   Chen, J
+   Yin, Y
+   Yan, J
+AF Chen, Yong
+   Wang, Xueya
+   Yang, Wenzheng
+   Peng, Guihua
+   Chen, Ju
+   Yin, Yong
+   Yan, Jia
+TI An efficient method for chili pepper variety classification and origin tracing based on an electronic nose and deep learning
+SO FOOD CHEMISTRY
+LA English
+DT Article
+DE Chili pepper; Variety classification; Origin traceability; Deep learning; Electronic nose; Machine olfaction; Gas recognition
+ID neural-network; lightweight
+AB The quality of chili peppers is closely related to their variety and geographical origin. The market often substitutes high-quality chili peppers with inferior ones, and cross-contamination occurs during processing. The existing methods cannot quickly and conveniently distinguish between different chili varieties or origins, which require expensive experimental equipment and professional skills. Techniques such as energy-dispersive X-ray fluorescence and inductively coupled plasma spectroscopy have been used for chili pepper classification and origin tracing, but these methods are either costly or destructive. To address the challenges of accurately identifying chili pepper varieties and origin tracing of chili peppers, this paper presents a sensor-aware convolutional network (SACNet) integrated with an electronic nose (e-nose) for accurate variety classification and origin traceability of chili peppers. The e-nose system collects gas samples from various chili peppers. We introduce a sensor attention module that adaptively focuses on the importance of each sensor in gathering gas information. Additionally, we introduce a local sensing and wide-area sensing structure to specifically capture gas information features, enabling high-precision identification of chili pepper gases. In comparative experiments with other networks, SACNet demonstrated excellent performance in both variety classification and origin traceability, and it showed significant advantages in terms of parameter quantity. Specifically, SACNet achieved 98.56 % accuracy in variety classification with Dataset A, 97.43 % accuracy in origin traceability with Dataset B, and 99.31 % accuracy with Dataset C. In summary, the combination of SACNet and an e-nose provides an effective strategy for identifying the varieties and origins of chili peppers.
+C1 [Chen, Yong; Yang, Wenzheng; Yan, Jia] Southwest Univ, Coll Artificial Intelligence, Chongqing 400715, Peoples R China.
+   [Wang, Xueya; Peng, Guihua; Chen, Ju; Yin, Yong] Guizhou Acad Agr Sci, Chili Pepper Res Inst, Guiyang 550006, Peoples R China.
+   [Yan, Jia] Southwest Univ, Key Lab Luminescence Anal & Mol Sensing, Minist Educ, Chongqing 400715, Peoples R China.
+   [Yan, Jia] Chongqing Key Lab Brain inspired Comp & Intelligen, Chongqing 400715, Peoples R China.
+C3 Southwest University - China; Guizhou Academy of Agricultural Sciences; Southwest University - China
+RP Yan, J (corresponding author), Southwest Univ, Coll Artificial Intelligence, Chongqing 400715, Peoples R China.
+EM yanjia119@swu.edu.cn
+FU Fundamental Research Funds for the Central Universities [SWU-XDJH202319]; Guizhou Provincial Key Technology RD Program [Qiankehe Support [2022] Key 016]
+NR 46
+TC 18
+Z9 19
+U1 17
+U2 81
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 0308-8146
+EI 1873-7072
+J9 FOOD CHEM
+JI Food Chem.
+PD JUL 1
+PY 2025
+VL 479
+IS 
+BP 
+EP 
+DI 10.1016/j.foodchem.2025.143850
+EA MAR 2025
+PG 12
+WC Chemistry, Applied; Food Science & Technology; Nutrition & Dietetics
+SC Chemistry; Food Science & Technology; Nutrition & Dietetics
+GA 0PK5U
+UT WOS:001452870200001
+PM 40101378
+DA 2026-10-09
+ER
+
+PT J
+AU Zhang, J
+   He, ZQ
+   Xia, WH
+   Ma, HF
+   Hu, DL
+   Liu, HJ
+   Ma, C
+   Niu, Q
+   Li, CS
+   Wang, LH
+AF Zhang, Jian
+   He, Zhiqiang
+   Xia, Weihai
+   Ma, Haifang
+   Hu, Daili
+   Liu, Haijun
+   Ma, Chen
+   Niu, Qi
+   Li, Chengsong
+   Wang, Lihong
+TI Characterization of green pepper distribution on a spiral curved surface
+SO LWT-FOOD SCIENCE AND TECHNOLOGY
+LA English
+DT Article
+DE Green pepper particles; Spiral curved surface; Distribution characteristics; Discrete element method; Action mechanism model
+ID particle separation; simulation; performance; flow
+AB Green pepper (Zanthoxylum armatum) has significant culinary value, but its high separation costs limits industry development. This study developed a cost-effective method for separating green pepper particles using a spiral curved surface, demonstrating significant economic advantages compared to manual and color sorting approaches. Through dynamic analysis, Discrete Element Method (DEM) simulations, and laboratory experiments, the distribution of particles along the spiral surface was studied. Results indicated that feeding velocity, position, helix angle, and radial inclination are key factors affecting particle movement. An equilibrium velocity model was developed to determine the feeding velocity, while an action mechanism model was used to examine the impact of these factors on separation efficiency. The optimal separation parameters were identified and experimentally validated as a helix angle (alpha) of 60 degrees, a radial inclination angle (beta) of 20 degrees, and a feeding radius (r) of 70 mm. The findings of this investigation, may provide a theoretical basis for the creation of low-cost separation technologies and equipment prototypes for granular materials, particularly green pepper, with potential benefits for global food safety.
+C1 [Zhang, Jian; He, Zhiqiang; Xia, Weihai; Ma, Haifang; Hu, Daili; Liu, Haijun] Huzhou Coll, Sch Intelligent Mfg, Huzhou 313000, Peoples R China.
+   [Zhang, Jian; Ma, Chen; Niu, Qi; Li, Chengsong; Wang, Lihong] Southwest Univ, Coll Engn & Technol, Chongqing 400715, Peoples R China.
+C3 Huzhou College; Southwest University - China
+RP Zhang, J (corresponding author), Huzhou Coll, Sch Intelligent Mfg, Huzhou 313000, Peoples R China.; Zhang, J; Wang, LH (corresponding author), Southwest Univ, Coll Engn & Technol, Chongqing 400715, Peoples R China.
+EM jianzhang_edu@163.com; wlh_shz@163.com
+FU Talent introduction program of Huzhou College [RK65026]; Key scientific research project of Huzhou College [2024HXKM01]; Natural science foundation of Chongqing, China [cstc2021jcyj-msxmX1178]
+NR 43
+TC 0
+Z9 0
+U1 2
+U2 19
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0023-6438
+EI 1096-1127
+J9 LWT-FOOD SCI TECHNOL
+JI LWT-Food Sci. Technol.
+PD MAY 1
+PY 2025
+VL 223
+IS 
+BP 
+EP 
+DI 10.1016/j.lwt.2025.117698
+EA MAR 2025
+PG 11
+WC Food Science & Technology
+SC Food Science & Technology
+GA 1AS7F
+UT WOS:001460553600001
+DA 2026-10-09
+ER
+
+PT J
+AU Tai, S
+   Tang, Z
+   Li, B
+   Wang, SG
+   Guo, XH
+AF Tai, Sheng
+   Tang, Zhong
+   Li, Bin
+   Wang, Shiguo
+   Guo, Xiaohu
+TI Intelligent Recognition and Automated Production of Chili Peppers: A Review Addressing Varietal Diversity and Technological Requirements
+SO AGRICULTURE-BASEL
+LA English
+DT Review
+DE computer vision; robotic harvesting; agricultural automation; deep learning
+ID capsicum-chinense; grain; performance; system; simulation; vibration; density; harvest; model; l.
+AB Chili pepper (Capsicum annuum L.), a globally important economic crop, faces production challenges characterized by high labor intensity, cost, and inefficiency. Intelligent technologies offer key opportunities for sector transformation. This review begins by outlining the diversity of major chili pepper cultivars, differences in key quality indicators, and the resulting specific harvesting needs. It then reviews recent progress in intelligent perception, recognition, and automation within the chili pepper industry. For perception and recognition, the review covers the evolution from traditional image processing to deep learning-based methods (e.g., YOLO and Mask R-CNN achieving a mAP > 90% in specific studies) for pepper detection, segmentation, and fine-grained cultivar identification, analyzing the performance and optimization in complex environments. In terms of automation, we systematically discuss the principles and feasibility of different mechanized harvesting machines, consider the potential of vision-based keypoint detection for the point localization of picking, and explore motion planning and control for harvesting robots (e.g., robotic systems incorporating diverse end-effectors like soft grippers or cutting mechanisms and motion planning algorithms such as RRT) as well as seed cleaning/separation techniques and simulations (e.g., CFD and DEM) for equipment optimization. The main current research challenges are listed including the environmental adaptability/robustness, efficiency/real-time performance, multi-cultivar adaptability/flexibility, system integration, and cost-effectiveness. Finally, future directions are given (e.g., multimodal sensor fusion, lightweight models, and edge computing applications) in the hope of guiding the intelligent growth of the chili pepper industry.
+C1 [Tai, Sheng; Tang, Zhong; Guo, Xiaohu] Jiangsu Univ, Coll Agr Engn, Zhenjiang 212013, Peoples R China.
+   [Tang, Zhong] Jiangsu Univ, Minist Educ, Key Lab Equipment Modern Agr Equipment & Technol, Zhenjiang 212013, Peoples R China.
+   [Li, Bin; Wang, Shiguo] Xinjiang Acad Agr & Reclamat Sci, Shihezi 832000, Peoples R China.
+C3 Jiangsu University; Jiangsu University; Xinjiang Academy of Agricultural & Reclamation Science
+RP Tang, Z (corresponding author), Jiangsu Univ, Coll Agr Engn, Zhenjiang 212013, Peoples R China.; Tang, Z (corresponding author), Jiangsu Univ, Minist Educ, Key Lab Equipment Modern Agr Equipment & Technol, Zhenjiang 212013, Peoples R China.; Li, B (corresponding author), Xinjiang Acad Agr & Reclamat Sci, Shihezi 832000, Peoples R China.
+EM 2222316031@stmail.ujs.edu.cn; zht@ujs.edu.cn; bin175337620@shzu.edu.cn; wansg@163.com; 2222216058@stmail.ujs.edu.cn
+FU Key Laboratory Equipment of Modern Agricultural Equipment and Technology (Jiangsu University), Ministry of Education; Xinjiang Production and Construction Corps Youth Talent Development Program; Science and Technology Project of the Xinjiang Production [2025CYL07];  [MAET202306]
+NR 167
+TC 20
+Z9 21
+U1 22
+U2 68
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 2077-0472
+J9 AGRICULTURE-BASEL
+JI Agriculture-Basel
+PD MAY 31
+PY 2025
+VL 15
+IS 11
+BP 
+EP 
+DI 10.3390/agriculture15111200
+PG 26
+WC Agronomy
+SC Agriculture
+GA 3QI8C
+UT WOS:001506492400001
+DA 2026-10-09
+ER
+
+PT J
+AU Wang, BP
+   Qin, XY
+   Lei, J
+   Yang, JX
+   Zhang, JL
+   Lu, LJ
+   Wang, Z
+AF Wang, Bingpeng
+   Qin, Xinyan
+   Lei, Jin
+   Yang, Jiaxuan
+   Zhang, Jianglong
+   Lu, Lijian
+   Wang, Zhi
+TI Parameter Optimization and Experimental Study of Drum with Elastic Tooth Type Loss-Reducing Picking Mechanism of Pepper Harvester
+SO AGRICULTURE-BASEL
+LA English
+DT Article
+DE harvester; pepper; picking mechanism; finite element simulation; RSM; AHP; loss-reducing
+AB To reduce harvest losses of a pepper harvester with a drum of elastic tooth type picking mechanism, this paper proposes an optimization method using AHP (Analytic Hierarchy Process) and RSM (Response Surface Methodology), thereby identifying the optimal harvesting parameters. Based on Hertz's contact theory and projectile motion theory, dynamic and kinematic models were established for the picking and casting stage. Key parameters influencing harvest loss were identified as drum rotational speed, operating speed, and tooth spacing. A simulation model was constructed, and solved within LS-DYNA of ANSYS Workbench. A Box-Behnken design in RSM was employed to investigate the effects of drum rotational speed, operating speed, and tooth spacing on the picking rate, breakage rate, and loss rate. The optimal parameters, obtained through RSM optimization after AHP weighting, were determined to be a drum rotational speed of 182 r/min, an operating speed of 0.42 m/s, and a tooth spacing of 40 mm. A test bench was designed for validation, with simulation results deviating from experimental results by less than 5%. With optimized parameters, the picking rate increases from 89.73% to 95.13%, the breakage rate decreases from 3.21% to 2.66%, and the loss rate decreases from 5.16% to 3.95%. This study provides a theoretical foundation and practical reference for optimizing the drum with elastic tooth type picking mechanism in pepper harvesters.
+C1 [Wang, Bingpeng; Qin, Xinyan; Lei, Jin; Yang, Jiaxuan; Zhang, Jianglong; Lu, Lijian; Wang, Zhi] Shihezi Univ, Coll Mech & Elect Engn, Shihezi 832003, Peoples R China.
+C3 Shihezi University
+RP Lei, J (corresponding author), Shihezi Univ, Coll Mech & Elect Engn, Shihezi 832003, Peoples R China.
+EM wangbingpeng@stu.shzu.edu.cn; qinxy@shzu.edu.cn; jinlei@shzu.edu.cn; yangjiaxuan@xjshzu.com; zhangjianglong@stu.shzu.edu.cn; lulijian@xjshzu.com; 20232109044@stu.shzu.edu.cn
+FU National Natural Science Foundation of China; Financial Science and Technology Program of the XPCC [2024AB043, 2022CB011]; Project of Achievement Transformation and Technology Extension of Shihezi University [CGZH202306];  [62163032]
+NR 44
+TC 2
+Z9 2
+U1 6
+U2 35
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 2077-0472
+J9 AGRICULTURE-BASEL
+JI Agriculture-Basel
+PD MAR 11
+PY 2025
+VL 15
+IS 6
+BP 
+EP 
+DI 10.3390/agriculture15060600
+PG 34
+WC Agronomy
+SC Agriculture
+GA 0QL2V
+UT WOS:001453566900001
+DA 2026-10-09
+ER
+
+PT J
+AU Xiang, PJ
+   Pan, F
+   Liu, T
+   Zhao, XY
+   Hu, MD
+   He, DW
+   Zhang, BD
+AF Xiang, Pengjun
+   Pan, Fei
+   Liu, Tao
+   Zhao, Xiaoyu
+   Hu, Mengdie
+   He, Dawei
+   Zhang, Boda
+TI MixSegNext: A CNN-Transformer hybrid model for semantic segmentation and picking point localization algorithm of Sichuan pepper in natural environments
+SO COMPUTERS AND ELECTRONICS IN AGRICULTURE
+LA English
+DT Article
+DE Sichuan pepper harvest; Picking point localization; Semantic segmentation; Machine vision; Intelligent agriculture
+AB Precise identification of Sichuan pepper picking points is a prerequisite for the robotic harvesting of the crop. Picking robots typically operate in open, dynamic natural environments, which demands robustness in the Sichuan pepper picking point localization algorithm. Generally, the growth environment of Sichuan pepper is complex, and the growth posture varies. The branches of the pepper clusters are similar to the pepper branches, which can easily lead to misjudgment and omission in the localization process, making accurate visual picking point localization challenging. To rapidly and accurately locate target Sichuan pepper picking points in natural environments, this paper proposes a Sichuan pepper segmentation model and picking point localization algorithm based on MixSegNext. The algorithm is divided into three main parts. First, the MixSegNext network performs semantic segmentation on Sichuan pepper clusters and fruits to extract the picking targets. Then, by subtracting the extracted pepper fruit mask from the pepper cluster mask, the Sichuan pepper branch mask is obtained, and the main pepper branch mask is acquired through morphological operations and maximal connectivity analysis. Finally, edge extraction is performed on the main pepper branch mask, and the picking point is determined by finding the intersection between the central line of the contour and the edge. This paper compares MixSegNext with typical semantic segmentation networks and conducts picking point localization experiments. The results show that the network has better segmentation precision and high picking point localization accuracy. Furthermore, this paper deploys the network on embedded devices to perform Sichuan pepper inference segmentation, verifying the application effect of the algorithm, which can provide a reference for the visual positioning system of Sichuan pepper-picking robots.
+C1 [Xiang, Pengjun; Pan, Fei; Liu, Tao; Zhao, Xiaoyu; Hu, Mengdie; He, Dawei; Zhang, Boda] Sichuan Agr Univ, Coll Informat Engn, Yaan 625014, Peoples R China.
+   [Xiang, Pengjun; Pan, Fei; Zhao, Xiaoyu; Hu, Mengdie; He, Dawei; Zhang, Boda] Yaan Digital Agr Engn Technol Res Ctr, Yaan 625014, Peoples R China.
+C3 Sichuan Agricultural University
+RP Pan, F (corresponding author), Sichuan Agr Univ, Coll Informat Engn, Yaan 625014, Peoples R China.; Pan, F (corresponding author), Yaan Digital Agr Engn Technol Res Ctr, Yaan 625014, Peoples R China.
+EM fei.pan@sicau.edu.cn
+FU National Natural Science Foundation of China [32271352]; Sichuan Agricultural University [2021996003]
+NR 48
+TC 4
+Z9 6
+U1 15
+U2 59
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 0168-1699
+EI 1872-7107
+J9 COMPUT ELECTRON AGR
+JI Comput. Electron. Agric.
+PD OCT 15
+PY 2025
+VL 237
+IS 
+BP 
+EP 
+DI 10.1016/j.compag.2025.110564
+EA MAY 2025
+PG 17
+WC Agriculture, Multidisciplinary; Computer Science, Interdisciplinary Applications
+SC Agriculture; Computer Science
+GA 3IS2I
+UT WOS:001501300400003
+DA 2026-10-09
+ER
+
+PT J
+AU Wang, Y
+   Ouyang, C
+   Peng, H
+   Deng, JT
+   Yang, L
+   Chen, HL
+   Luo, YH
+   Jiang, P
+AF Wang, Yi
+   Ouyang, Cheng
+   Peng, Hao
+   Deng, Jingtao
+   Yang, Lin
+   Chen, Hailin
+   Luo, Yahui
+   Jiang, Ping
+TI YOLO-ALW: An Enhanced High-Precision Model for Chili Maturity Detection
+SO SENSORS
+LA English
+DT Article
+DE deep learning; fruit detection; attention mechanism; pepper maturity recognition; YOLOv8n
+AB Chili pepper, a widely cultivated and consumed crop, faces challenges in accurately determining maturity due to issues such as occlusion, small target size, and similarity between fruit color and background. This study presents an enhanced YOLOv8n-based object detection model, YOLO-ALW, designed to address these challenges. The model introduces the AKConv (Alterable Kernel Convolution) module in the head section, which adaptively adjusts the convolution kernel shape and size based on the target and scene, improving detection performance under occlusion and dense environments. In the backbone, the SPPF_LSKA (Spatial Pyramid Pooling Fast-Large Separable Kernel Attention) module enhances the integration of multi-scale features, facilitating accurate differentiation of peppers at various maturity stages while maintaining low computational complexity. Additionally, the Wise-IoU (Wise Intersection over Union) loss function optimizes bounding box learning, further improving the detection of peppers in occluded or background-similar scenarios. Experimental results demonstrate that YOLO-ALW achieves a mean average precision (mAP0.5) of 99.1%, with precision and recall rates of 98.3% and 97.8%, respectively, outperforming the original YOLOv8n by 3.4%, 5.1%, and 9.0%, respectively. Grad-CAM feature visualization highlights the model's improved focus on key fruit features. YOLO-ALW shows significant promise for high-precision chili pepper detection and maturity recognition, offering valuable support for automated harvesting applications.
+C1 [Wang, Yi; Ouyang, Cheng; Peng, Hao; Deng, Jingtao; Yang, Lin; Chen, Hailin] Hunan Agr Univ, Coll Informat & Intelligence, Changsha 410128, Peoples R China.
+   [Luo, Yahui; Jiang, Ping] Hunan Agr Univ, Coll Mech & Elect Engn, Changsha 410128, Peoples R China.
+C3 Hunan Agricultural University; Hunan Agricultural University
+RP Jiang, P (corresponding author), Hunan Agr Univ, Coll Mech & Elect Engn, Changsha 410128, Peoples R China.
+EM wangyi@hunau.edu.cn; ouyang@stu.hunau.edu.cn; sx20230201@stu.hunau.edu.cn; 984711035@stu.hunau.edu.cn; 2767959117@stu.hunau.edu.cn; 1152400900@stu.hunau.edu.cn; luoyh@hunau.edu.cn; 1233032@hunau.edu.cn
+FU National Key Research and Development Program of China [2022YFD2002001]; Key project of "Research on Key Common Technology and System Development for Intelligent Harvesting of Specialty Cash Crops". under the key project "Research and System Development of Key Common Technology for Intelligent Harvesting of Specialized Cash Cro
+NR 41
+TC 15
+Z9 16
+U1 15
+U2 61
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 1424-8220
+J9 SENSORS-BASEL
+JI Sensors
+PD MAR 15
+PY 2025
+VL 25
+IS 5
+BP 
+EP 
+DI 10.3390/s25051405
+PG 21
+WC Chemistry, Analytical; Engineering, Electrical & Electronic; Instruments & Instrumentation
+SC Chemistry; Engineering; Instruments & Instrumentation
+GA 0CP0M
+UT WOS:001444163700001
+PM 40096232
+DA 2026-10-09
+ER
+
+PT J
+AU Xing, JJ
+   Hou, Y
+   Li, ZT
+   Zhu, JK
+   Zhang, L
+   Zhang, LN
+AF Xing, Jiejie
+   Hou, Yan
+   Li, Zhengtao
+   Zhu, Jiankun
+   Zhang, Ling
+   Zhang, Lina
+TI Yolov8n-RCP: An Improved Algorithm for Small-Target Detection in Complex Crop Environments
+SO ELECTRONICS
+LA English
+DT Article
+DE Yolov8n; deep learning; convolutional layer; pepper detection
+AB Traditional methods for picking small-target crops like pepper are time-consuming, labor-intensive, and costly, whereas deep learning-based object detection algorithms can rapidly identify mature peppers and guide mechanical arms for automated picking. Aiming at the low detection accuracy of peppers in natural field environments (due to small target size and complex backgrounds), this study proposes an improved Yolov8n-based algorithm (named Yolov8n-RCP, where RCP stands for RVB-CA-Pepper) for accurate mature pepper detection. The acronym directly reflects the algorithm's core design: integrating the Reverse Bottleneck (RVB) module for lightweight feature extraction and the Coordinate Attention (CA) mechanism for background noise suppression, dedicated to mature pepper detection in complex crop environments. Three key optimizations are implemented: (1) The proposed C2F_RVB module enhances the model's comprehension of input positional structure while maintaining the same parameter count (3.46 M) as the baseline. By fusing RepViTBlocks (for structural reparameterization) and EMA multi-scale attention (for color feature optimization), it improves feature extraction efficiency-specifically, reducing small target-related redundant FLOPs by 18% and achieving a small-pepper edge IoU of 92% (evaluated via standard edge matching with ground-truth annotations)-thus avoiding the precision-complexity trade-off. (2) The feature extraction network is optimized to retain a lightweight architecture (suitable for real-time deployment) while boosting precision. (3) The Coordinate Attention (CA) mechanism is integrated into the feature extraction network to suppress low-level feature noise. Experimental results show that Yolov8n-RCP achieves 96.4% precision (P), 91.1% recall (R), 96.2% mAP0.5, 84.7% mAP0.5:0.95, and 90.74 FPS-representing increases of 3.5%, 6.1%, 4.4%, 8.1%, and 11.58FPS, respectively, compared to the Yolov8n baseline. With high detection precision and fast recognition speed, this method enables accurate mature pepper detection in natural environments, thereby providing technical support for electrically driven automated pepper-picking systems-a critical application scenario in agricultural electrification.
+C1 [Xing, Jiejie; Hou, Yan; Zhang, Ling; Zhang, Lina] Hainan Univ, Coll Mech & Elect Engn, Haikou 570228, Peoples R China.
+   [Li, Zhengtao; Zhu, Jiankun] Hainan Qicai Technol Co Ltd, Haikou 570100, Peoples R China.
+C3 Hainan University
+RP Zhang, LN (corresponding author), Hainan Univ, Coll Mech & Elect Engn, Haikou 570228, Peoples R China.
+EM 994199@hainanu.edu.cn; 23220854060015@hainanu.edu.cn; litao25806754@gmail.com; 19074516014@163.com; 992715@hainanu.edu.cn; 996965@hainanu.edu.cn
+FU Hainan Province Key Research and Development Project [ZDYF2023GXJS148]
+NR 31
+TC 0
+Z9 0
+U1 2
+U2 5
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN 2079-9292
+EI 
+J9 ELECTRONICS-SWITZ
+JI Electronics
+PD DEC 5
+PY 2025
+VL 14
+IS 24
+BP 
+EP 
+DI 10.3390/electronics14244795
+PG 26
+WC Computer Science, Information Systems; Engineering, Electrical & Electronic; Physics, Applied
+SC Computer Science; Engineering; Physics
+GA AE8BN
+UT WOS:001646427100001
+DA 2026-10-09
+ER
+
+PT J
+AU Han, YK
+   Ren, GF
+   Zhang, JR
+   Du, YX
+   Bao, GQ
+   Cheng, LJ
+   Yan, HW
+AF Han, Yukuan
+   Ren, Gaifeng
+   Zhang, Jiarui
+   Du, Yuxin
+   Bao, Guoqiang
+   Cheng, Lijun
+   Yan, Hongwen
+TI DSW-YOLO-Based Green Pepper Detection Method Under Complex Environments
+SO AGRONOMY-BASEL
+LA English
+DT Article
+DE smart agriculture; green pepper object detection; YOLOv10; <italic>SimAM</italic>
+AB In this paper, a lightweight detection model DSW-YOLO based on improved YOLOv10n is proposed. After comparing mainstream lightweight models (YOLOv5n, YOLOv6n, YOLOv8n, YOLOv9t and YOLOv10n), YOLOv10n with the best performance was selected as the baseline. The DWRR block was then designed and integrated with the C2f module to form C2f-DWRR, replacing the original C2f blocks in the backbone. Consequently, the model's P, R, mAP50, and mAP50-95 increased by 2.3%, 2.1%, 1.8%, and 3.4%, respectively, while the parameter count dropped by 0.16 M and the model size was reduced by 0.25 MB. A SimAM parameter-free attention mechanism was added to the last layer of the backbone, boosting P, R, mAP50, and mAP50-95 to 90.6%, 84.0%, 91.8%, and 68.5%, and reducing average detection time to 1.1 ms. The CIOU function was replaced with WIOUv3 to accelerate convergence, decrease loss, and significantly enhance detection performance. Experimental results show that on a custom green pepper dataset, DSW-YOLO outperformed the baseline by achieving gains of 2.9%, 2.7%, 2.2%, and 3.4% in P, R, mAP50, and mAP50-95, reducing parameters by 1.6 M, cutting inference time by 0.7 ms, and shrinking the model size to 5.31 MB. DSW-YOLO efficiently and accurately detects green peppers in complex field conditions, significantly improving detection accuracy while remaining lightweight, and provides theoretical and technical support for designing and optimizing pepper-picking robot vision systems.
+C1 [Han, Yukuan; Ren, Gaifeng; Du, Yuxin; Bao, Guoqiang; Yan, Hongwen] Shanxi Agr Univ, Coll Informat Sci & Engn, Jinzhong 030801, Peoples R China.
+   [Zhang, Jiarui; Cheng, Lijun] Shanxi Agr Univ, Coll Software, Jinzhong 030801, Peoples R China.
+C3 Shanxi Agricultural University; Shanxi Agricultural University
+RP Yan, HW (corresponding author), Shanxi Agr Univ, Coll Informat Sci & Engn, Jinzhong 030801, Peoples R China.; Cheng, LJ (corresponding author), Shanxi Agr Univ, Coll Software, Jinzhong 030801, Peoples R China.
+EM 20233761@stu.sxau.edu.cn; 20233008@stu.sxau.edu.cn; 20233019@stu.sxau.edu.cn; 202430001@stu.sxau.edu.cn; 202430797@stu.sxau.edu.cn; cljzyb@sxau.edu.cn; sxauyhw@sxau.edu.cn
+FU Shanxi Province Graduate Education Innovation Plan;  [2024SJ142]
+NR 46
+TC 3
+Z9 3
+U1 3
+U2 32
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 2073-4395
+J9 AGRONOMY-BASEL
+JI Agronomy-Basel
+PD APR 18
+PY 2025
+VL 15
+IS 4
+BP 
+EP 
+DI 10.3390/agronomy15040981
+PG 23
+WC Agronomy; Plant Sciences
+SC Agriculture; Plant Sciences
+GA 1VM3Z
+UT WOS:001474629700001
+DA 2026-10-09
+ER
+
+PT J
+AU Gelaye, Y
+AF Gelaye, Yohannes
+TI Intercropping of Pepper (Capsicum annuum L.) and Black Cumin (Nigella sativa L.) Optimize Crop Performance and System Productivity in Ethiopia: Systematic Review
+SO COGENT FOOD & AGRICULTURE
+LA English
+DT Review
+DE Indices; multiple cropping; sole cropping; spatial arrangement
+ID land equivalent ratio; species interactions; dynamics; competition; physiology; efficiency; advantages; impacts; index; quality
+AB Intercropping is an essential farming system that combines multiple crop species simultaneously. In Ethiopia, Pepper and Black cumin are interplanted with various crops, influenced by diverse environmental and agronomic factors. This review examines the impact of intercropping Pepper and Black cumin on the performance of component crops and system productivity in Ethiopia. Farmers in tropical regions practice intercropping widely to reduce dependence on monoculture, manage risks from pests, diseases, and climate variability, and enhance resilience. By integrating Pepper and Black cumin with other crops, small-scale farmers in developing countries like Ethiopia diversify crop production and improve yields. Most smallholder farmers in Ethiopia cultivate plots smaller than one hectare. The Land Equivalent Ratio is a key measure for evaluating intercropping efficiency. However, indices such as Relative Yield Total, Staple Land Equivalency Ratio, Area Time Equivalency Ratio, and Area Harvest Equivalency Ratio are also applied globally. These indices help assess the benefits of intercropping in terms of land use and time management. To maximize productivity, farmers must carefully select crops that balance resource competition, resist pests and diseases, and ensure yields with superior quality. Promoting sustainable intercropping practices can boost agricultural output and contribute to food security in Ethiopia and similar regions.
+C1 [Gelaye, Yohannes] Debre Markos Univ, Coll Agr & Nat Resources, Dept Hort, POB 269, Debre Markos, Amhara, Ethiopia.
+RP Gelaye, Y (corresponding author), Debre Markos Univ, Coll Agr & Nat Resources, Dept Hort, POB 269, Debre Markos, Amhara, Ethiopia.
+EM yohanes_gelaye@dmu.edu.et
+NR 98
+TC 5
+Z9 6
+U1 2
+U2 19
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 2331-1932
+EI 
+J9 COGENT FOOD AGR
+JI Cogent Food Agr.
+PD DEC 31
+PY 2025
+VL 11
+IS 1
+BP 
+EP 
+DI 10.1080/23311932.2025.2451057
+PG 11
+WC Agriculture, Multidisciplinary
+SC Agriculture
+GA S4M8K
+UT WOS:001397992200001
+DA 2026-10-09
+ER
+
+PT J
+AU Navas, E
+   Blanco, K
+   Rodriguez-Nieto, D
+   Fernández, R
+AF Navas, Eduardo
+   Blanco, Kai
+   Rodriguez-Nieto, Daniel
+   Fernandez, Roemi
+TI A Modular Soft Gripper with Embedded Force Sensing and an Iris-Type Cutting Mechanism for Harvesting Medium-Sized Crops
+SO ACTUATORS
+LA English
+DT Article
+DE selective harvesting; soft robotics; soft gripper; iris cutting mechanism; mechano-optical sensor; 3D-printed actuator; robotic manipulation; agricultural automation
+ID design; robot; actuators
+AB Agriculture is facing increasing challenges due to labor shortages, rising productivity demands, and the need to operate in unstructured environments. Robotics, particularly soft robotics, offers promising solutions for automating delicate tasks such as fruit harvesting. While numerous soft grippers have been proposed, most focus on grasping and lack the capability to detach fruits with rigid peduncles, which require cutting. This paper presents a novel modular hexagonal soft gripper that integrates soft pneumatic actuators, embedded mechano-optical force sensors for real-time contact monitoring, and a self-centering iris-type cutting mechanism. The entire system is 3D-printed, enabling low-cost fabrication and rapid customization. Experimental validation demonstrates successful harvesting of bell peppers and identifies cutting limitations in tougher crops such as aubergine, primarily due to material constraints in the actuation system. This dual-capability design contributes to the development of multifunctional robotic harvesters capable of adapting to a wide range of fruit types with minimal requirements for perception and mechanical reconfiguration.
+C1 [Navas, Eduardo; Blanco, Kai; Rodriguez-Nieto, Daniel; Fernandez, Roemi] UPM CSIC, Ctr Automat & Robot, Carretera CAMPO REAL Km 0-2, Madrid 28500, Spain.
+   [Rodriguez-Nieto, Daniel] Univ Politecn Madrid, Calle Jose Gutierrez Abascal 2, Madrid 28006, Spain.
+C3 Consejo Superior de Investigaciones Cientificas (CSIC); Universidad Politecnica de Madrid; CSIC-UPM - Centro de Automatica y Robotica; Universidad Politecnica de Madrid
+RP Navas, E; Fernández, R (corresponding author), UPM CSIC, Ctr Automat & Robot, Carretera CAMPO REAL Km 0-2, Madrid 28500, Spain.
+EM eduardo.navas@csic.es; kai.blanco@csic.es; daniel.r.nieto@csic.es; roemi.fernandez@car.upm-csic.es
+FU European Union NextGenerationEU/PRTR [TED2021-132710B-I00]; Programas de Actividades de I+D con referencia [TEC-2024/TEC-62, iRoboCity2030]; Investigacion e Innovacion Tecnologica a traves de la Orden [5696/2024]; CSIC [202350E072]; Proyecto Intramural IAMC-ROBI-II
+NR 63
+TC 3
+Z9 3
+U1 11
+U2 28
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 2076-0825
+J9 ACTUATORS
+JI Actuators
+PD SEP 2
+PY 2025
+VL 14
+IS 9
+BP 
+EP 
+DI 10.3390/act14090432
+PG 16
+WC Engineering, Mechanical; Instruments & Instrumentation
+SC Engineering; Instruments & Instrumentation
+GA 7TQ6E
+UT WOS:001579390900001
+DA 2026-10-09
+ER
+
+PT J
+AU Kim, CH
+   Silwal, A
+   Kantor, G
+AF Kim, Chung Hee
+   Silwal, Abhisesh
+   Kantor, George
+TI Autonomous Robotic Pepper Harvesting: Imitation Learning in Unstructured Agricultural Environments
+SO IEEE ROBOTICS AND AUTOMATION LETTERS
+LA English
+DT Article
+DE Robots; Imitation learning; Crops; Faces; Grippers; Cameras; Data collection; Training; Service robots; Robustness; Agricultural automation; robotics and automation in agriculture and forestry; learning from demonstration
+AB Automating tasks in outdoor agricultural fields poses significant challenges due to environmental variability, unstructured terrain, and diverse crop characteristics. We present a robotic system that leverages imitation learning for autonomous pepper harvesting designed to operate in these complex settings. Utilizing a custom handheld shear-gripper, we collected 300 demonstrations to train a visuomotor policy, enabling the system to adapt to varying field conditions and crop diversity. We achieved a success rate of 28.95% with a cycle time of 31.71 seconds, comparable to existing systems tested under more controlled conditions like greenhouses. Our system demonstrates the potential feasibility and effectiveness of employing imitation learning for automated harvesting in unstructured agricultural environments. This work aims to advance scalable, automated robotic solutions for agriculture in natural settings.
+C1 [Kim, Chung Hee; Silwal, Abhisesh; Kantor, George] Carnegie Mellon Univ, Robot Inst, Pittsburgh, PA 15213 USA.
+C3 Carnegie Mellon University
+RP Kim, CH (corresponding author), Carnegie Mellon Univ, Robot Inst, Pittsburgh, PA 15213 USA.
+EM chunghek@andrew.cmu.edu; asilwal@andrew.cmu.edu; gkantor@andrew.cmu.edu
+FU NSF Robust Intelligence [1956163]; NSF/USDA-NIFA AIIRA AI Research Institute [2021-67021-35329]; Bridges-2 at Pittsburgh Supercomputing Center from the ACCESS program [agr240003p]; NSF [2138259, 2138286, 2138307, 2137603, 2138296]
+NR 32
+TC 16
+Z9 16
+U1 10
+U2 31
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2377-3766
+EI 
+J9 IEEE ROBOT AUTOM LET
+JI IEEE Robot. Autom. Lett.
+PD APR 15
+PY 2025
+VL 10
+IS 4
+BP 3406
+EP 3413
+DI 10.1109/LRA.2025.3542322
+PG 8
+WC Robotics
+SC Robotics
+GA Y8S4X
+UT WOS:001434749300013
+DA 2026-10-09
+ER
+
+PT J
+AU Khokhar, ES
+   Lozada, DN
+   Khan, MI
+   Nourbakhsh, SS
+AF Khokhar, Ehtisham S.
+   Lozada, Dennis N.
+   Khan, Muhammad Ibrar
+   Nourbakhsh, Seyed Shahabeddin
+TI Phenotypic variability of plant architecture, easy destemming, and yield for accelerated selection for mechanical harvestability in chile pepper
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID heritability
+AB In recent years, chile pepper (Capsicum annuum L.) production in the US has shown a decline due to higher costs associated with manual harvesting and unavailability of skilled labor. Chile pepper breeding programs have incorporated mechanization as a long-term breeding objective alongside historically significant traits such as yield, disease resistance, and fruit quality. Nevertheless, information on the genetic landscape of traits crucial for chile pepper mechanization and their relationships with other agronomic traits remain limited. This study employed multivariate approaches, phenotypic and genetic correlations, hierarchical cluster analysis (HCA), and principal component analysis (PCA) to investigate the genetic architecture of mechanical harvestability traits using a diverse C. annuum L. population evaluated in field conditions in New Mexico, USA. Fruit morphology and fruit destemming force were the most discriminating traits that accounted for most of the observed phenotypic variation in the population. Medium to high narrow-sense heritability estimates (0.53-1.0) indicated the predominance of additive genetic effects for traits relevant for mechanical harvesting. Negative genetic correlations (rg; -0.28 to -0.67) were observed between fruit destemming force and plant architecture traits demonstrating the challenge in breeding New Mexican pod type chile peppers suitable for mechanical harvesting. Ten genotypes identified through HCA were further validated for mechanization potential using PCA. These genotypes could be used as potential parental lines in breeding programs aimed at developing chile pepper varieties amenable to mechanical harvest. The findings of the study provide valuable insights to breeders on the genetic architecture of traits critical for mechanization, thereby aiding informed decision-making and improving breeding and selection accuracy for the development of new mechanically harvestable chile pepper cultivars.
+C1 [Khokhar, Ehtisham S.; Lozada, Dennis N.; Khan, Muhammad Ibrar; Nourbakhsh, Seyed Shahabeddin] New Mexico State Univ, Dept Plant & Environm Sci, Las Cruces, NM 88003 USA.
+   [Lozada, Dennis N.] New Mexico State Univ, Chile Pepper Inst, Las Cruces, NM 88003 USA.
+C3 New Mexico State University; New Mexico State University
+RP Lozada, DN (corresponding author), New Mexico State Univ, Dept Plant & Environm Sci, Las Cruces, NM 88003 USA.; Lozada, DN (corresponding author), New Mexico State Univ, Chile Pepper Inst, Las Cruces, NM 88003 USA.
+EM dlozada@nmsu.edu
+FU New Mexico Chile Association [2021-2023]; New Mexico Chile Association Competitive Grants Program
+NR 48
+TC 3
+Z9 3
+U1 2
+U2 5
+PU NATURE PORTFOLIO
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, BERLIN, 14197, GERMANY
+SN 2045-2322
+EI 
+J9 SCI REP-UK
+JI Sci Rep
+PD APR 9
+PY 2025
+VL 15
+IS 1
+BP 
+EP 
+DI 10.1038/s41598-025-94819-z
+PG 16
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 1GG0L
+UT WOS:001464297900004
+PM 40204786
+DA 2026-10-09
+ER
+
+PT J
+AU Geng, YQ
+   Xia, K
+   Song, XD
+   Yan, P
+   He, XY
+   Wu, GX
+   Li, Y
+   Li, YM
+   Wang, F
+   Li, WY
+   Cui, DD
+   Li, SL
+AF Geng, Yongqi
+   Xia, Ke
+   Song, Xiangda
+   Yan, Pu
+   He, Xueying
+   Wu, Guoxiu
+   Li, Yang
+   Li, Yanman
+   Wang, Fan
+   Li, Wenyue
+   Cui, Dandan
+   Li, Shengli
+TI Prohexadione calcium and KH2PO4 synergy optimizes pod pepper plant architecture for mechanized harvesting and boosts yield and fruit quality
+SO BMC PLANT BIOLOGY
+LA English
+DT Article
+DE Foliar application; Prohexadione calcium; Plant architecture; Yield; Quality; Pod pepper
+ID foliar application; growth; chloride; ca; l.; paclobutrazol; gibberellins; metabolism; components; irrigation
+AB Labor shortages and rising high labor costs are primary drivers of increased production costs in pod pepper cultivation. While mechanization represents a viable solution, current incompatibility between agronomic practices and agricultural machinery constrains its efficiency. This underscores the critical need for plant architecture regulation technologies to enable effective mechanized production. This study evaluated the effects of foliar spraying of plant growth regulator prohexadione calcium (ProCa) combined with different substances on the plant architecture, yield and quality of pod peppers. Five treatments were set up in the experiment: (1) ProCa, (2) ProCa + KH2PO4 (ProCa + KDP), (3) ProCa + boron (ProCa + B), (4) ProCa + mepiquat chloride (ProCa + MC), (5) water (CK). The results demonstrated that all treatments significantly altered pod pepper plant architecture indices relative to CK. Specifically, treatments reduced plant height and width, while increasing branch number and decreasing branch angles, with ProCa + KDP treatment exhibiting the most pronounced effects. These effects led to a compact and multiple-branched architecture conductive to mechanical harvesting. Meanwhile, ProCa + KDP treatment enhanced root activity and leaf pigment content of pod pepper during initial and full fruit stages. All treatments except ProCa + B increased fruit dry matter accumulation. ProCa and ProCa + KDP evaluated fruit yield primarily through increased fruit number per plant and individual fruit dry weight. Furthermore, ProCa + KDP treatment significantly improved fruit quality parameters versus control, elevating soluble protein, vitamin C and capsaicin contents. These findings demonstrate that foliar application of ProCa + KDP represents a promising strategy for optimizing plant architecture to enhance mechanized production suitability while simultaneously boosting pod pepper yield and quality.
+C1 [Geng, Yongqi; Xia, Ke; Song, Xiangda; Yan, Pu; He, Xueying; Wu, Guoxiu; Li, Yang; Li, Yanman; Wang, Fan; Cui, Dandan; Li, Shengli] Henan Agr Univ, Coll Hort, 218 Pingan Ave, Zhengzhou 450002, Henan, Peoples R China.
+   [He, Xueying; Wu, Guoxiu; Li, Yang; Li, Yanman; Wang, Fan; Cui, Dandan; Li, Shengli] Henan Prov Facil Hort Engn Technol Res Ctr, Zhengzhou 450002, Henan, Peoples R China.
+   [Li, Wenyue] Henan Ouland Seed Ind Co LTD, Zhengzhou 450002, Henan, Peoples R China.
+C3 Henan Agricultural University
+RP Cui, DD; Li, SL (corresponding author), Henan Agr Univ, Coll Hort, 218 Pingan Ave, Zhengzhou 450002, Henan, Peoples R China.; Cui, DD; Li, SL (corresponding author), Henan Prov Facil Hort Engn Technol Res Ctr, Zhengzhou 450002, Henan, Peoples R China.
+EM cuidandan@henau.edu.cn; lishengli@henau.edu.cn
+FU Henan Province Agricultural Improved Seed Joint Research Project
+NR 85
+TC 5
+Z9 5
+U1 7
+U2 23
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1471-2229
+EI 
+J9 BMC PLANT BIOL
+JI BMC Plant Biol.
+PD JUL 28
+PY 2025
+VL 25
+IS 1
+BP 
+EP 
+DI 10.1186/s12870-025-06979-9
+PG 14
+WC Plant Sciences
+SC Plant Sciences
+GA 5MN6O
+UT WOS:001539226700003
+PM 40722057
+DA 2026-10-09
+ER
+
+PT J
+AU Han, DL
+   Wang, CX
+   Zhang, H
+   Pang, H
+   Wang, XZ
+   Chen, XG
+   Wen, XY
+AF Han, Dianlei
+   Wang, Congxu
+   Zhang, He
+   Pang, Hao
+   Wang, Xinzhong
+   Chen, Xuegeng
+   Wen, Xiangyu
+TI Advances in Mechanized Harvesting Technologies and Equipment for Chili Peppers
+SO AGRICULTURE-BASEL
+LA English
+DT Review
+DE chili pepper; harvesting machinery; picking technology and mechanisms; cleaning-separation technology and mechanisms; high-purity and low-damage technology
+ID card cleaner; rice; performance; system; sensor; flow
+AB Mechanized chili harvesting is essential for improving efficiency, reducing costs, and alleviating labor intensity in production. However, issues such as low harvesting efficiency, high rates of breakage, and contamination continue to severely hinder the development of mechanized chili harvesting. This study provides an overview of global chili production regions and varieties, examining three harvesting approaches: single-pass, multi-stage, and multi-pass approaches. It describes the operational principles of key harvesting mechanisms, including the helical spiral-type, drum finger-type, long-rod comb-type, and belt-mounted comb finger-type mechanisms, and summarizes research progress in major producing countries, such as the United States and China. The paper evaluates both airflow-based and mechanical cleaning-separation devices, highlighting the combined airflow mechanical systems as the most promising approach and reviews their current development status. It also addresses structural challenges in chassis, frameworks, and conveyance systems. Finally, the paper analyzes solutions to the existing challenges, emphasizing the integration of intelligent technologies to resolve mechanical issues, and outlines the future prospects of intelligent development in mechanized chili harvesting.
+C1 [Han, Dianlei; Wang, Congxu; Zhang, He; Wang, Xinzhong; Chen, Xuegeng] Jiangsu Univ, Sch Agr Engn, Zhenjiang 212013, Peoples R China.
+   [Han, Dianlei; Wang, Congxu; Zhang, He; Wang, Xinzhong; Chen, Xuegeng] Jiangsu Univ, Key Lab Modern Agr Equipment & Technol, Minist Educ, Zhenjiang 212013, Peoples R China.
+   [Pang, Hao] Jilin Univ, Sch Mech & Aerosp Engn, Changchun 130022, Peoples R China.
+   [Wen, Xiangyu] Guangdong Inst Modern Agr Equipment, Guangzhou 510630, Peoples R China.
+C3 Jiangsu University; Jiangsu University; Jilin University
+RP Pang, H (corresponding author), Jilin Univ, Sch Mech & Aerosp Engn, Changchun 130022, Peoples R China.
+EM handianlei@ujs.edu.cn; 2212416047@stmail.ujs.edu.cn; 2212316041@stmail.ujs.edu.cn; panghao@jlu.edu.cn; xzwang@ujs.edu.cn; 1000005204@ujs.edu.cn; wenxiangyu19920203@163.com
+FU Jiangsu University; Ministry of Education and High-tech Key Laboratory of Agricultural Equipment and Intelligence of Jiangsu Province [MAET202327]; Priority Academic Program Development of Jiangsu Higher Education Institutions [PAPD-2023-87]; Guangdong Modern Vegetable Industry Technology System Project [2024CXTD08]
+NR 117
+TC 13
+Z9 13
+U1 7
+U2 38
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 2077-0472
+J9 AGRICULTURE-BASEL
+JI Agriculture-Basel
+PD MAY 23
+PY 2025
+VL 15
+IS 11
+BP 
+EP 
+DI 10.3390/agriculture15111129
+PG 34
+WC Agronomy
+SC Agriculture
+GA 3WZ5M
+UT WOS:001511010900001
+DA 2026-10-09
+ER
+
+PT J
+AU Liu, N
+   Oka, K
+   Sun, F
+   Yuki, U
+AF Liu, Ning
+   Oka, Koichi
+   Sun, Feng
+   Yuki, Ueno
+TI Design and eye-hand coordination control of a horizontally driven parallel mechanism harvester
+SO INTERNATIONAL JOURNAL OF ADVANCED MANUFACTURING TECHNOLOGY
+LA English
+DT Article
+DE Sweet peppers; Harvesting robot; Lightweight; High efficiency
+ID servo control
+AB The decline in agricultural labor due to aging populations has increased the need for intelligent harvesting solutions. Picking robots must integrate robotics, sensing, and control while adapting to complex field conditions. However, current systems often suffer from inefficiency and bulky designs. Developing lightweight and precise manipulators remains a critical challenge. This study presents a novel horizontally driven parallel mechanism harvesting manipulator designed for improved mobility and precision in constrained agricultural environments. The harvesting manipulator adopts a parallel mechanism with horizontally oriented actuation to better accommodate fruit-picking operations. It has the characteristics of light weight, high speed, and high precision. A key innovation lies in optimizing the linkage ratio to minimize bending stress under horizontal loads. We evaluate three control strategies-local position control, angular velocity command, and routing control-via simulation and experiment. Results show that the angular velocity command achieves the best accuracy and convergence time, while local position control provides the highest speed. These findings offer practical insights for precision sweet pepper harvesting.
+C1 [Liu, Ning; Sun, Feng] Shenyang Univ Technol, Sch Mech Engn, Shenliao Rd, Shenyang 110870, Peoples R China.
+C3 Shenyang University of Technology
+RP Liu, N (corresponding author), Shenyang Univ Technol, Sch Mech Engn, Shenliao Rd, Shenyang 110870, Peoples R China.
+EM oka.koichi@kochi-tech.ac.jp
+FU Cabinet Office grant in aid, the Advanced Next-Greenhouse Horticulture by IoP (Internet of Plants), Japan
+NR 30
+TC 1
+Z9 1
+U1 3
+U2 13
+PU SPRINGER LONDON LTD
+PI LONDON
+PA 236 GRAYS INN RD, 6TH FLOOR, LONDON WC1X 8HL, ENGLAND
+SN 0268-3768
+EI 1433-3015
+J9 INT J ADV MANUF TECH
+JI Int. J. Adv. Manuf. Technol.
+PD SEP 15
+PY 2025
+VL 140
+IS 5-6
+BP 3279
+EP 3299
+DI 10.1007/s00170-025-16395-w
+EA SEP 2025
+PG 21
+WC Automation & Control Systems; Engineering, Manufacturing
+SC Automation & Control Systems; Engineering
+GA 8CI9Z
+UT WOS:001568099100001
+DA 2026-10-09
+ER
+
+PT J
+AU Pathare, AM
+   Pawase, PA
+   Bora, PP
+   Rout, S
+   Bashir, O
+   Sharma, E
+   Roy, S
+AF Pathare, Aniket M.
+   Pawase, Prashant Anil
+   Bora, Priya Pravin
+   Rout, Srutee
+   Bashir, Omar
+   Sharma, Esha
+   Roy, Swarup
+TI Advances in packaging technologies for capsicum: Enhancing shelf life and post-harvest quality through packaging film and coating technologies
+SO TRENDS IN FOOD SCIENCE & TECHNOLOGY
+LA English
+DT Article
+DE Capsicum annuum; Post-harvest losses; Film & coatings; Biopolymeric films; Sustainable packaging; Sustainable packaging
+ID annuum l.; green; extension; fruit; acid
+AB Background: Capsicum spp. species such as chili and bell peppers are popular sources of pungency, flavor, and nutrition across the globe. Despite the benefits of Capsicum, perishability, rapid physiological change at harvest, respiration rates, microbial spoilage, and storage upon post-harvesting can pose challenges. Due to its quick quality losses and limited shelf life, packaging could potentially mitigate these changes in quality. Conventional packaging materials like low-density polyethylene, high-density polyethylene, and polyvinyl chloride have limited capabilities for regulating gas permeation and moisture retention. Scope and approach: This study provides an overview of the state of art and challenges for packaging applications of Capsicum, using both conventional and novel technologies. We highlight important advances in biopolymer films, active packaging and edible coatings as well as evaluate how shelf-life benefits from these technologies by slowly respiration, limiting pathogen growth and reducing senescence. Moreover, study examine use of active and functionalized biopolymer films that contain bioactive components to improve shelf life. Key findings and conclusions: Novel stimulation in edible coatings and biodegradable packaging has provided limited solutions to challenges of traditional plastic films. The association of modified atmosphere packaging with active film technologies represents a multi-method approach. The implementation of multifunctional sustainable bio-composite films has potential benefits to the shelf life and safety of chilli while addressing ecosensitive concern with reducing plastic waste. The investigation of active, edible and sustainable packaging can provide an organic approach to hold the commercial value and safety of Capsicum species while building sustainable food systems.
+C1 [Pathare, Aniket M.] Inst Chem Technol, Dept Food Engn & Technol, Matunga, India.
+   [Pawase, Prashant Anil; Bora, Priya Pravin; Sharma, Esha] MIT Art Design Technol Univ, MIT Sch Food Technol, Pune, India.
+   [Rout, Srutee] Indian Inst Technol Kharagpur, Dept Agr & Food Engn, Kharagpur, India.
+   [Bashir, Omar; Roy, Swarup] Lovely Profess Univ, Dept Food Technol & Nutr, Phagwara, Punjab, India.
+C3 Institute of Chemical Technology - Mumbai; Indian Institute of Technology System (IIT System); Indian Institute of Technology (IIT) - Kharagpur; Lovely Professional University
+RP Pawase, PA (corresponding author), MIT Art Design Technol Univ, MIT Sch Food Technol, Pune, India.; Roy, S (corresponding author), Lovely Profess Univ, Dept Food Technol & Nutr, Phagwara, Punjab, India.
+EM prashantpawase4444@gmail.com; swaruproy20132013@gmail.com
+NR 97
+TC 11
+Z9 11
+U1 6
+U2 51
+PU ELSEVIER SCIENCE LONDON
+PI LONDON
+PA 84 THEOBALDS RD, LONDON WC1X 8RR, ENGLAND
+SN 0924-2244
+EI 1879-3053
+J9 TRENDS FOOD SCI TECH
+JI Trends Food Sci. Technol.
+PD SEP 15
+PY 2025
+VL 163
+IS 
+BP 
+EP 
+DI 10.1016/j.tifs.2025.105140
+EA JUN 2025
+PG 14
+WC Food Science & Technology
+SC Food Science & Technology
+GA 4CB4L
+UT WOS:001514455700003
+DA 2026-10-09
+ER
+

@@ -1,99 +1,154 @@
 PT J
-AU Maheswari, KU
-   Rajesh, S
-AF Maheswari, K.
-   Rajesh, S.
-TI A novel QIM-DCT based fusion approach for classification of remote sensing images via PSO and SVM models
-SO SOFT COMPUTING
+AU Harel, B
+   van Essen, R
+   Parmet, Y
+   Edan, Y
+AF Harel, Ben
+   van Essen, Rick
+   Parmet, Yisrael
+   Edan, Yael
+TI Viewpoint Analysis for Maturity Classification of Sweet Peppers
+SO SENSORS
 LA English
 DT Article
-DE Image fusion; Quantization index modulation with discrete contourlet transform; Bayesian filter with adaptive type-2 fuzzy system; Image classification and particle swarm optimization with support vector machine
-ID frame-based features; wavelet transform; accuracy; irs-p6
-AB Fusion of panchromatic and multispectral images has become a research interest for the classification of remote sensing images. The spectral and spatial resolutions of different images give better information with the aid of image classification. However, fusing pixels for various satellite images is difficult due to the nature of original image consists of complex information. Similarly, most of the existing fusion algorithms implement a unified processing over the whole part of the image, thereby leaving certain important needs out of consideration. The main aim of our proposed approach is to fuse the images by gathering all important information from multiple images with minimum errors. In this paper, we propose a novel quantization index modulation with discrete contourlet transform-based fusion approach for classification of remote sensing images (LISS IV sensor). In order to improve the image fusion performance, we eliminate certain noises (salt, pepper, and Gaussian) using Bayesian filter with Adaptive Type-2 Fuzzy System. After image fusion, we make image classification by two steps of processes including deep multi-feature extraction and feature selection. Multiple features such as spectral, shape, global and local features are extracted using Affine Transformation (0 degrees, 90 degrees, 180 degrees, and 270 degrees), and then the best set of features are chosen by mutual information and maximal information coefficients. Finally, the image is classified into seven classes using PSO and SVM namely Urban, Vegetation, Wetland, Tank, Water Area, Bare Land, and Roadways. MATLAB R2017b has been used for evaluation of the LISS IV images. Experimental results revealed that our proposed approach is very effective in terms of their classification accuracy.
-C1 [Maheswari, K.] Univ Coll Engn Ramanathapuram, Dept Comp Sci & Engn, Ramanathapuram, India.
-   [Rajesh, S.] MepcoSchlenk Engn Coll Autonomous, Dept Informat Technol, Sivakasi, India.
-C3 Mepco Schlenk Engineering College
-RP Maheswari, KU (corresponding author), Univ Coll Engn Ramanathapuram, Dept Comp Sci & Engn, Ramanathapuram, India.
-EM umamaheswari_kg@yahoo.co.in; srajesh@mepcoeng.ac.in
-NR 40
-TC 8
-Z9 8
+DE viewpoint analysis; camera position; maturity classification; machine vision; sweet pepper
+ID blueberry fruit; harvesting robot; tomato maturity; color; growth; agreement; quality; models; images; yield
+AB The effect of camera viewpoint and fruit orientation on the performance of a sweet pepper maturity level classification algorithm was evaluated. Image datasets of sweet peppers harvested from a commercial greenhouse were collected using two different methods, resulting in 789 RGB-Red Green Blue (images acquired in a photocell) and 417 RGB-D-Red Green Blue-Depth (images acquired by a robotic arm in the laboratory), which are published as part of this paper. Maturity level classification was performed using a random forest algorithm. Classifications of maturity level from different camera viewpoints, using a combination of viewpoints, and different fruit orientations on the plant were evaluated and compared to manual classification. Results revealed that: (1) the bottom viewpoint is the best single viewpoint for maturity level classification accuracy; (2) information from two viewpoints increases the classification by 25 and 15 percent compared to a single viewpoint for red and yellow peppers, respectively, and (3) classification performance is highly dependent on the fruit's orientation on the plant.
+C1 [Harel, Ben; van Essen, Rick; Parmet, Yisrael; Edan, Yael] Ben Gurion Univ Negev, Dept Ind Engn & Management, IL-8410501 Beer Sheva, Israel.
+   [van Essen, Rick] Wageningen Univ & Res, Farm Technol Grp, NL-6700 AA Wageningen, Netherlands.
+C3 Ben-Gurion University of the Negev; Wageningen University & Research
+RP Harel, B (corresponding author), Ben Gurion Univ Negev, Dept Ind Engn & Management, IL-8410501 Beer Sheva, Israel.
+EM benhare@post.bgu.ac.il; rick.vanessen@wur.nl; iparmet@gmail.com; yael@bgu.ac.il
+FU European Commission [66313]; Ben-Gurion University of the Negev through the Helmsley Charitable Trust; Agricultural, Biological, and Cognitive Robotics Initiative; Marcus Endowment Fund; Rabbi W. Gunther Plaut Chair in Manufacturing Engineering
+NR 67
+TC 16
+Z9 22
 U1 1
-U2 13
-PU SPRINGER
-PI NEW YORK
-PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
-SN 1432-7643
-EI 1433-7479
-J9 SOFT COMPUT
-JI Soft Comput.
-PD OCT 15
+U2 58
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 1424-8220
+J9 SENSORS-BASEL
+JI Sensors
+PD JUL 15
 PY 2020
-VL 24
-IS 20
-BP 15561
-EP 15576
-DI 10.1007/s00500-020-04884-x
-EA MAR 2020
-PG 16
-WC Computer Science, Artificial Intelligence; Computer Science, Interdisciplinary Applications
-SC Computer Science
-GA NQ3WS
-UT WOS:000522585900003
-DA 2025-12-25
+VL 20
+IS 13
+BP 
+EP 
+DI 10.3390/s20133783
+PG 22
+WC Chemistry, Analytical; Engineering, Electrical & Electronic; Instruments & Instrumentation
+SC Chemistry; Engineering; Instruments & Instrumentation
+GA MQ9GY
+UT WOS:000553200200001
+DA 2026-10-09
 ER
 
 PT J
-AU Zhao, XK
-   Li, H
-   Zhu, QB
-   Huang, M
-   Guo, Y
-   Qin, JW
-AF Zhao, Xiaokang
-   Li, Hao
-   Zhu, Qibing
-   Huang, Min
-   Guo, Ya
-   Qin, Jianwei
-TI Automatic sweet pepper detection based on point cloud images using subtractive clustering
-SO INTERNATIONAL JOURNAL OF AGRICULTURAL AND BIOLOGICAL ENGINEERING
+AU Kim, TH
+   Kim, DC
+   Cho, Y
+AF Kim, Tae-Hyeong
+   Kim, Dae-Cheol
+   Cho, Yongjin
+TI Performance Comparison and Evaluation of Two Small Chili Pepper Harvester Prototypes That Attach to Walking Cultivators
+SO APPLIED SCIENCES-BASEL
 LA English
 DT Article
-DE sweet pepper detection; point cloud; subtractive clustering; computer vision
-ID fruit detection; vision; color; recognition; machine
-AB Automatic identification and detection of fruit on trees by machine vision is the basis of developing automatic harvesting robots in agriculture. The occlusion of branches, leaves and other fruits in canopy images will affect the accuracy of fruit detection. To provide a scientific and reliable technical guidance for fruit harvesting robots, a method using point cloud images was proposed in this study to detect red fruits to overcome the impact of occlusion on detection. Firstly, the fruit regions were segmented from a tree's point cloud by applying the color threshold of red and green. Then, the noise in fruit point clouds was removed with sparse outlier removal. Finally, the point cloud of each fruit was detected and counted based on the subtractive clustering algorithm. For the sweet pepper dataset, the true positive rate (TPR) is 90.69% and the false positive rate (FPR) is 6.97% for all fruits that are at least partially visible in the scene.
-C1 [Zhao, Xiaokang; Li, Hao; Zhu, Qibing; Huang, Min; Guo, Ya] Jiangnan Univ, Minist Educ, Key Lab Adv Proc Control Light Ind, Wuxi 214122, Jiangsu, Peoples R China.
-   [Qin, Jianwei] USDA ARS, Environm Microbial & Food Safety Lab, Beltsville Agr Res Ctr, Bldg 303,BARC East,10300 Baltimore Ave, Beltsville, MD 20705 USA.
-C3 Jiangnan University; United States Department of Agriculture (USDA)
-RP Zhu, QB (corresponding author), Jiangnan Univ, Sch Internet Things, 1800 Lihu Ave, Wuxi 214122, Jiangsu, Peoples R China.
-EM zhaoxk0211@163.com; 422079638@qq.com; zhuqib@163.com; huangmzqb@163.com; guoya68@163.com; jianwei.qin@ars.usda.gov
-FU National Natural Science Foundation of China [61772240, 61775086]; Fundamental Research Funds for the Central Universities [JUSRP51730A]; 111 Project [B12018]
-NR 26
-TC 7
-Z9 11
-U1 6
-U2 60
-PU CHINESE ACAD AGRICULTURAL ENGINEERING
-PI BEIJING
-PA RM 506, NO 41, MAIZIDIAN ST, CHAOYANG DISTRICT, BEIJING, 100125, PEOPLES R CHINA
-SN 1934-6344
-EI 1934-6352
-J9 INT J AGR BIOL ENG
-JI Int. J. Agric. Biol. Eng.
-PD MAY 15
+DE chili pepper harvester; prototype; performance; evaluation; field test; walking cultivator
+ID card cleaner
+AB Two prototypes of small chili pepper harvesters that attach to walking cultivators were designed and manufactured before field performance tests were conducted. The two prototypes were designed and manufactured with different main frame materials, forms of divider, picking guides, and helix rotation speeds. The maximum helix speed of the first prototype was 500 rpm, and the helix rotation speeds of the second prototype were a minimum of 510 rpm and a maximum of 730 rpm. Field performance tests were conducted on two species of chili, the AR Legend and the Jeokyoung, to determine which was suitable for mechanization. The Jeokyoung species was found to be most suitable for mechanization as its harvest efficiency was higher and its pepper left on plant rate and ground fall loss rate were lower than AR Legend's. When the first and second prototypes were compared at helix rotation speeds of 500 to 510 rpm, in the case of the AR Legend, the average harvest efficiency of the second prototype was higher than the first prototype by 2.2%, the average pepper left on plant rate was lower by 2.1%, and the average ground fall loss rate was lower by 3.9%. In the case of the Jeokyoung, the performance of the second prototype was further improved over the first prototype as the average harvest efficiency increased to 5.2%, and the difference in average ground fall loss rate increased to 8.8%.
+C1 [Kim, Tae-Hyeong] Natl Acad Agr Sci, Dept Agr Engn, Rural Dev Adm, Jeonju 54875, South Korea.
+   [Kim, Dae-Cheol; Cho, Yongjin] Jeonbuk Natl Univ, Dept Bioind Machinery Engn, Jeonju 54896, South Korea.
+C3 Rural Development Administration (RDA), Republic of Korea; Jeonbuk National University
+RP Cho, Y (corresponding author), Jeonbuk Natl Univ, Dept Bioind Machinery Engn, Jeonju 54896, South Korea.
+EM cmhy1126@naver.com; dckim12@jbnu.ac.kr; choyj@jbnu.ac.kr
+FU Korea Institute of Planning and Evaluation for Technology in Food, Agriculture and Forestry (IPET) through Agriculture, Food and Rural Affairs Research Center Support Program - Ministry of Agriculture, Food and Rural Affairs (MAFRA) [716001-07]; Jeonbuk National University
+NR 15
+TC 12
+Z9 12
+U1 3
+U2 51
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 2076-3417
+J9 APPL SCI-BASEL
+JI Appl. Sci.-Basel
+PD APR 15
 PY 2020
-VL 13
-IS 3
-BP 154
-EP 160
-DI 10.25165/j.ijabe.20201303.5460
-PG 7
-WC Agricultural Engineering
-SC Agriculture
-GA MA2UP
-UT WOS:000541773500021
-DA 2025-12-25
+VL 10
+IS 7
+BP 
+EP 
+DI 10.3390/app10072570
+PG 11
+WC Chemistry, Multidisciplinary; Engineering, Multidisciplinary; Materials Science, Multidisciplinary; Physics, Applied
+SC Chemistry; Engineering; Materials Science; Physics
+GA LO0YT
+UT WOS:000533356200369
+DA 2026-10-09
+ER
+
+PT J
+AU Villaseñor-Aguilar, MJ
+   Bravo-Sánchez, MG
+   Padilla-Medina, JA
+   Vázquez-Vera, JL
+   Guevara-González, RG
+   García-Rodríguez, FJ
+   Barranco-Gutiérrez, AI
+AF Villasenor-Aguilar, Marcos-Jesus
+   Bravo-Sanchez, Micael-Gerardo
+   Padilla-Medina, Jose-Alfredo
+   Luis Vazquez-Vera, Jorge
+   Guevara-Gonzalez, Ramon-Gerardo
+   Garcia-Rodriguez, Francisco-Javier
+   Barranco-Gutierrez, Alejandro-Israel
+TI A Maturity Estimation of Bell Pepper (Capsicum annuumL.) by Artificial Vision System for Quality Control
+SO APPLIED SCIENCES-BASEL
+LA English
+DT Article
+DE bell pepper; maturity; fuzzy logic; computational vision
+ID total soluble solids; antioxidant activity; ascorbic-acid; fruit; color; paprika; red; carotenoids; prediction; tomato
+AB Sweet bell peppers are a Solanaceous fruit belonging to theCapsicum annuumL. species whose consumption is popular in world gastronomy due to its wide variety of colors (ranging green, yellow, orange, red, and purple), shapes, and sizes and the absence of spicy flavor. In addition, these fruits have a characteristic flavor and nutritional attributes that include ascorbic acid, polyphenols, and carotenoids. A quality criterion for the harvest of this fruit is maturity; this attribute is visually determined by the consumer when verifying the color of the fruit's pericarp. The present work proposes an artificial vision system that automatically describes ripeness levels of the bell pepper and compares the Fuzzy logic (FL) and Neuronal Networks for the classification stage. In this investigation, maturity stages of bell peppers were referenced by measuring total soluble solids (TSS), degrees Brix, using refractometry. The proposed method was integrated in four stages. The first one consists in the image acquisition of five views using the Raspberry Pi 5 Megapixel camera. The second one is the segmentation of acquired image samples, where background and noise are removed from each image. The third phase is the segmentation of the regions of interest (green, yellow, orange and red) using the connect components algorithm to select areas. The last phase is the classification, which outputs the maturity stage. The classificatory was designed using Matlab's Fuzzy Logic Toolbox and Deep Learning Toolbox. Its implementation was carried out onto Raspberry Pi platform. It tested the maturity classifier models using neural networks (RBF-ANN) and fuzzy logic models (ANFIS) with an accuracy of 100% and 88%, respectively. Finally, it was constructed with a content of degrees Brix prediction model with small improvements regarding the state of art.
+C1 [Villasenor-Aguilar, Marcos-Jesus; Bravo-Sanchez, Micael-Gerardo; Padilla-Medina, Jose-Alfredo; Luis Vazquez-Vera, Jorge; Garcia-Rodriguez, Francisco-Javier; Barranco-Gutierrez, Alejandro-Israel] Tecnol Nacl Mexico Celaya, Ciencias Ingn, Celaya 38010, Mexico.
+   [Villasenor-Aguilar, Marcos-Jesus] Tecnol Nacl Mexico Salvatierra, Dept Ingn Mecatron, Salvatierra 38933, Mexico.
+   [Guevara-Gonzalez, Ramon-Gerardo] Univ Autonoma Queretaro, Fac Ingn, Grp Bioingn Basica & Aplicada, El Marques 76265, Mexico.
+   [Barranco-Gutierrez, Alejandro-Israel] Catedras CONACyT, Garcia Cubas Esq Av Tecnol, Celaya 38010, Mexico.
+C3 Universidad Autonoma de Queretaro; Consejo Nacional de Ciencia y Tecnologia (CONACyT)
+RP Barranco-Gutiérrez, AI (corresponding author), Tecnol Nacl Mexico Celaya, Ciencias Ingn, Celaya 38010, Mexico.; Barranco-Gutiérrez, AI (corresponding author), Catedras CONACyT, Garcia Cubas Esq Av Tecnol, Celaya 38010, Mexico.
+EM mavillasenor@itess.edu.mx; gerardo.bravo@itcelaya.edu.mx; alfredo.padilla@itcelaya.edu.mx; m1903054@itcelaya.edu.mx; ramon.guevara@uaq.mx; francisco.garcia@itcelaya.edu.mx; israel.barranco@itcelaya.edu.mx
+FU CONACyT; Tecnologico Nacional de Mexico
+NR 47
+TC 35
+Z9 42
+U1 0
+U2 34
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 2076-3417
+J9 APPL SCI-BASEL
+JI Appl. Sci.-Basel
+PD AUG 15
+PY 2020
+VL 10
+IS 15
+BP 
+EP 
+DI 10.3390/app10155097
+PG 18
+WC Chemistry, Multidisciplinary; Engineering, Multidisciplinary; Materials Science, Multidisciplinary; Physics, Applied
+SC Chemistry; Engineering; Materials Science; Physics
+GA MZ5FP
+UT WOS:000559150300001
+DA 2026-10-09
 ER
 
 PT J
@@ -121,13 +176,13 @@ RP Ji, W (corresponding author), Jiangsu Univ, Sch Elect & Informat Engn, Zhenji
 EM jiwei@ujs.edu.cn
 FU National Natural Science Foundation of China (NSFC) [61703186, 61973141]; Priority Academic Program Development of JiangSu Higher Education Institutions [PAPD-2018-87]
 NR 32
-TC 33
-Z9 38
-U1 4
-U2 78
+TC 36
+Z9 41
+U1 0
+U2 79
 PU ELSEVIER SCI LTD
-PI OXFORD
-PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+PI London
+PA 125 London Wall, London, ENGLAND
 SN 0168-1699
 EI 1872-7107
 J9 COMPUT ELECTRON AGR
@@ -144,153 +199,58 @@ WC Agriculture, Multidisciplinary; Computer Science, Interdisciplinary Applicati
 SC Agriculture; Computer Science
 GA NR6JU
 UT WOS:000571669500008
-DA 2025-12-25
+DA 2026-10-09
 ER
 
 PT J
-AU Ohashi, Y
-   Ishigami, Y
-   Goto, E
-AF Ohashi, Yuta
-   Ishigami, Yasuhiro
-   Goto, Eiji
-TI Monitoring the Growth and Yield of Fruit Vegetables in a Greenhouse Using a Three-Dimensional Scanner
-SO SENSORS
+AU Lehnert, C
+   McCool, C
+   Sa, I
+   Perez, T
+AF Lehnert, Chris
+   McCool, Chris
+   Sa, Inkyu
+   Perez, Tristan
+TI Performance improvements of a sweet pepper harvesting robot in protected cropping environments
+SO JOURNAL OF FIELD ROBOTICS
 LA English
 DT Article
-DE canopy structure; Capsicum annuum; Cucumis sativus; dry matter; image analysis; leaf are index; leaf area; plant height; Solanum lycopersicum; yield
-ID leaf-area; volume estimation; red; tomatoes; images; tree; plants
-AB Monitoring the growth of fruit vegetables is essential for the automation of cultivation management, and harvest. The objective of this study is to demonstrate that the current sensor technology can monitor the growth and yield of fruit vegetables such as tomato, cucumber, and paprika. We estimated leaf area, leaf area index (LAI), and plant height using coordinates of polygon vertices from plant and canopy surface models constructed using a three-dimensional (3D) scanner. A significant correlation was observed between the measured and estimated leaf area, LAI, and plant height (R-2> 0.8, except for tomato LAI). The canopy structure of each fruit vegetable was predicted by integrating the estimated leaf area at each height of the canopy surface models. A linear relationship was observed between the measured total leaf area and the total dry weight of each fruit vegetable; thus, the dry weight of the plant can be predicted using the estimated leaf area. The fruit weights of tomato and paprika were estimated using the fruit solid model constructed by the fruit point cloud data extracted using the RGB value. A significant correlation was observed between the measured and estimated fruit weights (tomato: R-2= 0.739, paprika: R-2= 0.888). Therefore, it was possible to estimate the growth parameters (leaf area, plant height, canopy structure, and yield) of different fruit vegetables non-destructively using a 3D scanner.
-C1 [Ohashi, Yuta; Goto, Eiji] Chiba Univ, Grad Sch Hort, Matsudo, Chiba 2718510, Japan.
-   [Ishigami, Yasuhiro] Takasaki Univ Hlth & Welf, Fac Agr, Takasaki, Gunma 3700033, Japan.
-   [Goto, Eiji] Chiba Univ, Plant Mol Res Ctr, Chiba 2600856, Japan.
-C3 Chiba University; Chiba University
-RP Goto, E (corresponding author), Chiba Univ, Grad Sch Hort, Matsudo, Chiba 2718510, Japan.; Goto, E (corresponding author), Chiba Univ, Plant Mol Res Ctr, Chiba 2600856, Japan.
-EM y-ohashi@chiba-u.jp; ishigami@takasaki-u.ac.jp; goto@faculty.chiba-u.jp
-FU Strategic Project Research Promotion Program from the Ministry of Agriculture, Forestry and Fisheries of Japan
-NR 44
-TC 14
-Z9 21
-U1 3
-U2 36
-PU MDPI
-PI BASEL
-PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
-SN 
-EI 1424-8220
-J9 SENSORS-BASEL
-JI Sensors
-PD SEP 15
+DE agriculture; grasping; manipulators; perception; robotic harvesting
+ID machine; fruits
+AB Using robots to harvest sweet peppers in protected cropping environments has remained unsolved despite considerable effort by the research community over several decades. In this paper, we present the robotic harvester, Harvey, designed for sweet peppers in protected cropping environments that achieved a 76.5% success rate on 68 fruit (within a modified scenario) which improves upon our prior work which achieved 58% on 24 fruit and related sweet pepper harvesting work which achieved 33% on 39 fruit (for their best tool in a modified scenario). This improvement was primarily achieved through the introduction of a novel peduncle segmentation system using an efficient deep convolutional neural network, in conjunction with three-dimensional postfiltering to detect the critical cutting location. We benchmark the peduncle segmentation against prior art demonstrating an improvement in performance with aF1score of 0.564 compared to 0.302. The robotic harvester uses a perception pipeline to detect a target sweet pepper and an appropriate grasp and cutting pose used to determine the trajectory of a multimodal harvesting tool to grasp the sweet pepper and cut it from the plant. A novel decoupling mechanism enables the gripping and cutting operations to be performed independently. We perform an in-depth analysis of the full robotic harvesting system to highlight bottlenecks and failure points that future work could address.
+C1 [Lehnert, Chris; Perez, Tristan] Queensland Univ Technol, Sch Elect Engn & Robot, Brisbane, Qld 4000, Australia.
+   [McCool, Chris] Univ Bonn, Dept Agr Robot & Engn, Bonn, Germany.
+   [Sa, Inkyu] CSIRO, Dept Mech & Proc Engn, Pullenvale, Qld, Australia.
+C3 Queensland University of Technology (QUT); University of Bonn; Commonwealth Scientific & Industrial Research Organisation (CSIRO)
+RP Lehnert, C (corresponding author), Queensland Univ Technol, Sch Elect Engn & Robot, Brisbane, Qld 4000, Australia.
+EM c.lehnert@qut.edu.au
+FU Deutsche Forschungsgemeinschaft [390732324]
+NR 68
+TC 85
+Z9 101
+U1 12
+U2 128
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1556-4959
+EI 1556-4967
+J9 J FIELD ROBOT
+JI J. Field Robot.
+PD OCT 15
 PY 2020
-VL 20
-IS 18
-BP 
-EP 
-DI 10.3390/s20185270
-PG 18
-WC Chemistry, Analytical; Engineering, Electrical & Electronic; Instruments & Instrumentation
-SC Chemistry; Engineering; Instruments & Instrumentation
-GA OD9OB
-UT WOS:000580172500001
-PM 32942632
-DA 2025-12-25
-ER
-
-PT J
-AU Kurtser, P
-   Edan, Y
-AF Kurtser, Polina
-   Edan, Yael
-TI Planning the sequence of tasks for harvesting robots
-SO ROBOTICS AND AUTONOMOUS SYSTEMS
-LA English
-DT Article
-DE Harvesting robot; Task sequencing; Traveling salesman problem; Sweet pepper; Agriculture robotics
-ID agricultural robots; control framework
-AB A methodology for planning the sequence of tasks for a harvesting robot is presented. The fruit targets are situated at unknown locations and must be detected by the robot through a sequence of sensing tasks. Once the targets are detected, the robot must execute a harvest action at each target location. The traveling salesman paradigm (TSP) is used to plan the sequence of sensing and harvesting tasks taking into account the costs of the sensing and harvesting actions and the traveling times. Sensing is planned online. The methodology is validated and evaluated in both laboratory and greenhouse conditions for a case study of a sweet pepper harvesting robot. The results indicate that planning the sequence of tasks for a sweet pepper harvesting robot results in 12% cost reduction. Incorporating the sensing operation in the planning sequence for fruit harvesting is a new approach in fruit harvesting robots and is important for cycle time reduction. Furthermore, the sequence is re-planned as sensory information becomes available and the costs of these new sensing operations are also considered in the planning. (C) 2020 Elsevier B.V. All rights reserved.
-C1 [Kurtser, Polina; Edan, Yael] Ben Gurion Univ Negev, Dept Ind Engn & Management, POB 653, IL-8410501 Beer Sheva, Israel.
-   [Kurtser, Polina] Orebro Univ, Ctr Appl Autonomous Sensor Syst, Fak Gatan 1, S-70182 Orebro, Sweden.
-C3 Ben-Gurion University of the Negev; Orebro University
-RP Kurtser, P (corresponding author), Orebro Univ, Ctr Appl Autonomous Sensor Syst, Fak Gatan 1, S-70182 Orebro, Sweden.
-EM polina.kurtser@oru.se
-FU European Commission [644313]; Ben-Gurion University of the Negev through the Helmsley Charitable Trust; Ben-Gurion University of the Negev through the Agricultural, Biological and Cognitive Robotics Initiative; Ben-Gurion University of the Negev through the Marcus Endowment Fund; Ben-Gurion University of the Negev through the Rabbi W. Gunther Plaut Chair in Manufacturing Engineering; H2020 - Industrial Leadership [644313] Funding Source: H2020 - Industrial Leadership
-NR 58
-TC 48
-Z9 50
-U1 4
-U2 105
-PU ELSEVIER
-PI AMSTERDAM
-PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
-SN 0921-8890
-EI 1872-793X
-J9 ROBOT AUTON SYST
-JI Robot. Auton. Syst.
-PD SEP 15
-PY 2020
-VL 131
-IS 
-BP 
-EP 
-DI 10.1016/j.robot.2020.103591
-PG 12
-WC Automation & Control Systems; Computer Science, Artificial Intelligence; Robotics
-SC Automation & Control Systems; Computer Science; Robotics
-GA MW7BZ
-UT WOS:000557188600020
-DA 2025-12-25
-ER
-
-PT J
-AU Lin, GH
-   Tang, YH
-   Zou, XJ
-   Xiong, JT
-   Fang, YM
-AF Lin, Guichao
-   Tang, Yunchao
-   Zou, Xiangjun
-   Xiong, Juntao
-   Fang, Yamei
-TI Color-, depth-, and shape-based 3D fruit detection
-SO PRECISION AGRICULTURE
-LA English
-DT Article
-DE Fruit detection; Image segmentation; M-estimator sample consensus; Support vector machine; Region growing
-ID recognition; framework; algorithm; apples
-AB A novel detection algorithm based on color, depth, and shape information is proposed for detecting spherical or cylindrical fruits on plants in natural environments and thus guiding harvesting robots to pick them automatically. A probabilistic image segmentation method is first presented to segment a red-green-blue image as a binary mask. Multiplied by this mask, a filtered depth image is obtained. Region growing, a region-based image segmentation method, is then applied to group the depth image into multiple clusters. Each cluster represents a fruit, leaf, or branch that is later transformed into a point cloud. Next, a 3D shape detection method based on M-estimator sample consensus, a model parameter estimator, is employed to detect potential fruits from each point cloud. Finally, an angle/color/shape-based global point cloud descriptor (GPCD) is developed to extract a feature vector for an entire point cloud, and a support vector machine classifier trained on the GPCD features is used to exclude false positives. Pepper, eggplant, and guava datasets were captured in the field. For the pepper, eggplant, and guava datasets, the detection precision was 0.864, 0.886, and 0.888, and the recall was 0.889, 0.762, and 0.812, respectively. Experiments revealed that the proposed algorithm was universal and robust and hence applicable to an agricultural harvesting robot.
-C1 [Lin, Guichao; Zou, Xiangjun; Xiong, Juntao; Fang, Yamei] South China Agr Univ, Key Lab Key Technol Agr Machine & Equipment, Minist Educ, 483 Wushan Rd, Guangzhou 510642, Peoples R China.
-   [Lin, Guichao] Chuzhou Univ, Coll Mech & Automot Engn, 1 Huifeng West Rd, Chuzhou 239000, Peoples R China.
-   [Tang, Yunchao] Zhongkai Univ Agr & Engn, Coll Urban & Rural Construct, Guangxin Rd, Guangzhou 510225, Peoples R China.
-C3 South China Agricultural University; Chuzhou University; Zhongkai University of Agriculture & Engineering
-RP Zou, XJ (corresponding author), South China Agr Univ, Key Lab Key Technol Agr Machine & Equipment, Minist Educ, 483 Wushan Rd, Guangzhou 510642, Peoples R China.; Tang, YH (corresponding author), Zhongkai Univ Agr & Engn, Coll Urban & Rural Construct, Guangxin Rd, Guangzhou 510225, Peoples R China.
-EM ryan.twain@gmail.com; xjzou1@163.com
-FU National Natural Science Foundation of China [31571568]; National Key Research and Development Program of China [2017YFD0700103]
-NR 37
-TC 132
-Z9 145
-U1 4
-U2 255
-PU SPRINGER
-PI DORDRECHT
-PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
-SN 1385-2256
-EI 1573-1618
-J9 PRECIS AGRIC
-JI Precis. Agric.
-PD FEB 15
-PY 2020
-VL 21
-IS 1
-BP 1
-EP 17
-DI 10.1007/s11119-019-09654-w
-PG 17
-WC Agriculture, Multidisciplinary
-SC Agriculture
-GA KJ4SU
-UT WOS:000512049800001
-DA 2025-12-25
+VL 37
+IS 7
+BP 1197
+EP 1223
+DI 10.1002/rob.21973
+EA JUN 2020
+PG 27
+WC Robotics
+SC Robotics
+GA NN7SU
+UT WOS:000541406500001
+DA 2026-10-09
 ER
 
 PT J
@@ -332,10 +292,10 @@ RP Ringdahl, O (corresponding author), Umea Univ, Dept Comp Sci, S-90187 Umea, S
 EM ringdahl@cs.umu.se
 FU Horizon 2020 Framework Program [644313]
 NR 65
-TC 318
-Z9 363
-U1 73
-U2 733
+TC 365
+Z9 432
+U1 44
+U2 840
 PU WILEY
 PI HOBOKEN
 PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
@@ -356,89 +316,141 @@ WC Robotics
 SC Robotics
 GA MY8RD
 UT WOS:000509488400001
-DA 2025-12-25
+DA 2026-10-09
 ER
 
 PT J
-AU Lehnert, C
-   McCool, C
-   Sa, I
-   Perez, T
-AF Lehnert, Chris
-   McCool, Chris
-   Sa, Inkyu
-   Perez, Tristan
-TI Performance improvements of a sweet pepper harvesting robot in protected cropping environments
-SO JOURNAL OF FIELD ROBOTICS
+AU Lin, GH
+   Tang, YH
+   Zou, XJ
+   Xiong, JT
+   Fang, YM
+AF Lin, Guichao
+   Tang, Yunchao
+   Zou, Xiangjun
+   Xiong, Juntao
+   Fang, Yamei
+TI Color-, depth-, and shape-based 3D fruit detection
+SO PRECISION AGRICULTURE
 LA English
 DT Article
-DE agriculture; grasping; manipulators; perception; robotic harvesting
-ID machine; fruits
-AB Using robots to harvest sweet peppers in protected cropping environments has remained unsolved despite considerable effort by the research community over several decades. In this paper, we present the robotic harvester, Harvey, designed for sweet peppers in protected cropping environments that achieved a 76.5% success rate on 68 fruit (within a modified scenario) which improves upon our prior work which achieved 58% on 24 fruit and related sweet pepper harvesting work which achieved 33% on 39 fruit (for their best tool in a modified scenario). This improvement was primarily achieved through the introduction of a novel peduncle segmentation system using an efficient deep convolutional neural network, in conjunction with three-dimensional postfiltering to detect the critical cutting location. We benchmark the peduncle segmentation against prior art demonstrating an improvement in performance with aF1score of 0.564 compared to 0.302. The robotic harvester uses a perception pipeline to detect a target sweet pepper and an appropriate grasp and cutting pose used to determine the trajectory of a multimodal harvesting tool to grasp the sweet pepper and cut it from the plant. A novel decoupling mechanism enables the gripping and cutting operations to be performed independently. We perform an in-depth analysis of the full robotic harvesting system to highlight bottlenecks and failure points that future work could address.
-C1 [Lehnert, Chris; Perez, Tristan] Queensland Univ Technol, Sch Elect Engn & Robot, Brisbane, Qld 4000, Australia.
-   [McCool, Chris] Univ Bonn, Dept Agr Robot & Engn, Bonn, Germany.
-   [Sa, Inkyu] CSIRO, Dept Mech & Proc Engn, Pullenvale, Qld, Australia.
-C3 Queensland University of Technology (QUT); University of Bonn; Commonwealth Scientific & Industrial Research Organisation (CSIRO)
-RP Lehnert, C (corresponding author), Queensland Univ Technol, Sch Elect Engn & Robot, Brisbane, Qld 4000, Australia.
-EM c.lehnert@qut.edu.au
-FU Deutsche Forschungsgemeinschaft [390732324]
-NR 68
-TC 74
-Z9 86
-U1 9
-U2 107
-PU WILEY
-PI HOBOKEN
-PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
-SN 1556-4959
-EI 1556-4967
-J9 J FIELD ROBOT
-JI J. Field Robot.
-PD OCT 15
+DE Fruit detection; Image segmentation; M-estimator sample consensus; Support vector machine; Region growing
+ID recognition; framework; algorithm; apples
+AB A novel detection algorithm based on color, depth, and shape information is proposed for detecting spherical or cylindrical fruits on plants in natural environments and thus guiding harvesting robots to pick them automatically. A probabilistic image segmentation method is first presented to segment a red-green-blue image as a binary mask. Multiplied by this mask, a filtered depth image is obtained. Region growing, a region-based image segmentation method, is then applied to group the depth image into multiple clusters. Each cluster represents a fruit, leaf, or branch that is later transformed into a point cloud. Next, a 3D shape detection method based on M-estimator sample consensus, a model parameter estimator, is employed to detect potential fruits from each point cloud. Finally, an angle/color/shape-based global point cloud descriptor (GPCD) is developed to extract a feature vector for an entire point cloud, and a support vector machine classifier trained on the GPCD features is used to exclude false positives. Pepper, eggplant, and guava datasets were captured in the field. For the pepper, eggplant, and guava datasets, the detection precision was 0.864, 0.886, and 0.888, and the recall was 0.889, 0.762, and 0.812, respectively. Experiments revealed that the proposed algorithm was universal and robust and hence applicable to an agricultural harvesting robot.
+C1 [Lin, Guichao; Zou, Xiangjun; Xiong, Juntao; Fang, Yamei] South China Agr Univ, Key Lab Key Technol Agr Machine & Equipment, Minist Educ, 483 Wushan Rd, Guangzhou 510642, Peoples R China.
+   [Lin, Guichao] Chuzhou Univ, Coll Mech & Automot Engn, 1 Huifeng West Rd, Chuzhou 239000, Peoples R China.
+   [Tang, Yunchao] Zhongkai Univ Agr & Engn, Coll Urban & Rural Construct, Guangxin Rd, Guangzhou 510225, Peoples R China.
+C3 South China Agricultural University; Chuzhou University; Zhongkai University of Agriculture & Engineering
+RP Zou, XJ (corresponding author), South China Agr Univ, Key Lab Key Technol Agr Machine & Equipment, Minist Educ, 483 Wushan Rd, Guangzhou 510642, Peoples R China.; Tang, YH (corresponding author), Zhongkai Univ Agr & Engn, Coll Urban & Rural Construct, Guangxin Rd, Guangzhou 510225, Peoples R China.
+EM ryan.twain@gmail.com; xjzou1@163.com
+FU National Natural Science Foundation of China [31571568]; National Key Research and Development Program of China [2017YFD0700103]
+NR 37
+TC 149
+Z9 164
+U1 5
+U2 260
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 1385-2256
+EI 1573-1618
+J9 PRECIS AGRIC
+JI Precis. Agric.
+PD FEB 15
 PY 2020
-VL 37
-IS 7
-BP 1197
-EP 1223
-DI 10.1002/rob.21973
-EA JUN 2020
-PG 27
-WC Robotics
-SC Robotics
-GA NN7SU
-UT WOS:000541406500001
-DA 2025-12-25
+VL 21
+IS 1
+BP 1
+EP 17
+DI 10.1007/s11119-019-09654-w
+PG 17
+WC Agriculture, Multidisciplinary
+SC Agriculture
+GA KJ4SU
+UT WOS:000512049800001
+DA 2026-10-09
 ER
 
 PT J
-AU Chen, C
-   Li, B
-   Liu, JX
-   Bao, T
-   Ren, N
-AF Chen, Cheng
-   Li, Bo
-   Liu, Jiaxiang
-   Bao, Tong
-   Ren, Ni
-TI Monocular positioning of sweet peppers: An instance segmentation approach for harvest robots
+AU Zhao, XK
+   Li, H
+   Zhu, QB
+   Huang, M
+   Guo, Y
+   Qin, JW
+AF Zhao, Xiaokang
+   Li, Hao
+   Zhu, Qibing
+   Huang, Min
+   Guo, Ya
+   Qin, Jianwei
+TI Automatic sweet pepper detection based on point cloud images using subtractive clustering
+SO INTERNATIONAL JOURNAL OF AGRICULTURAL AND BIOLOGICAL ENGINEERING
+LA English
+DT Article
+DE sweet pepper detection; point cloud; subtractive clustering; computer vision
+ID fruit detection; vision; color; recognition; machine
+AB Automatic identification and detection of fruit on trees by machine vision is the basis of developing automatic harvesting robots in agriculture. The occlusion of branches, leaves and other fruits in canopy images will affect the accuracy of fruit detection. To provide a scientific and reliable technical guidance for fruit harvesting robots, a method using point cloud images was proposed in this study to detect red fruits to overcome the impact of occlusion on detection. Firstly, the fruit regions were segmented from a tree's point cloud by applying the color threshold of red and green. Then, the noise in fruit point clouds was removed with sparse outlier removal. Finally, the point cloud of each fruit was detected and counted based on the subtractive clustering algorithm. For the sweet pepper dataset, the true positive rate (TPR) is 90.69% and the false positive rate (FPR) is 6.97% for all fruits that are at least partially visible in the scene.
+C1 [Zhao, Xiaokang; Li, Hao; Zhu, Qibing; Huang, Min; Guo, Ya] Jiangnan Univ, Minist Educ, Key Lab Adv Proc Control Light Ind, Wuxi 214122, Jiangsu, Peoples R China.
+   [Qin, Jianwei] USDA ARS, Environm Microbial & Food Safety Lab, Beltsville Agr Res Ctr, Bldg 303,BARC East,10300 Baltimore Ave, Beltsville, MD 20705 USA.
+C3 Jiangnan University; United States Department of Agriculture (USDA)
+RP Zhu, QB (corresponding author), Jiangnan Univ, Sch Internet Things, 1800 Lihu Ave, Wuxi 214122, Jiangsu, Peoples R China.
+EM zhaoxk0211@163.com; 422079638@qq.com; zhuqib@163.com; huangmzqb@163.com; guoya68@163.com; jianwei.qin@ars.usda.gov
+FU National Natural Science Foundation of China [61772240, 61775086]; Fundamental Research Funds for the Central Universities [JUSRP51730A]; 111 Project [B12018]
+NR 26
+TC 9
+Z9 14
+U1 1
+U2 65
+PU CHINESE ACAD AGRICULTURAL ENGINEERING
+PI BEIJING
+PA RM 506, NO 41, MAIZIDIAN ST, CHAOYANG DISTRICT, BEIJING, 100125, PEOPLES R CHINA
+SN 1934-6344
+EI 1934-6352
+J9 INT J AGR BIOL ENG
+JI Int. J. Agric. Biol. Eng.
+PD MAY 15
+PY 2020
+VL 13
+IS 3
+BP 154
+EP 160
+DI 10.25165/j.ijabe.20201303.5460
+PG 7
+WC Agricultural Engineering
+SC Agriculture
+GA MA2UP
+UT WOS:000541773500021
+DA 2026-10-09
+ER
+
+PT J
+AU van Herck, L
+   Kurtser, P
+   Wittemans, L
+   Edan, Y
+AF van Herck, Liesbet
+   Kurtser, Polina
+   Wittemans, Lieve
+   Edan, Yael
+TI Crop design for improved robotic harvesting: A case study of sweet pepper harvesting
 SO BIOSYSTEMS ENGINEERING
 LA English
 DT Article
-DE Harvesting robots; Positioning; Instance segmentation; Multi-task network; Convolutional neural network
-ID machine vision; plant-parts; classification; images
-AB Accurate positioning of fruit is a key issue that has attracted much attention in the field of harvest robots. The complex environment and close proximity make the perception of dense crops in greenhouses a challenging problem. Different from various solutions proposed involving special equipment or other auxiliary information, we propose a novel positioning approach based on instance segmentation using a monocular RGB camera. To achieve high position accuracy, we first design a deep convolutional neural network (CNN) in a multi-task framework to export a binary segmentation map and an embedded feature map. To solve the problem of performance degradation in the intersection-over-union (IoU) for the binary segmentation task caused by multi-task optimisation, the encoder part of our network is redesigned on the basis of a Visual Geometry Group network with 16 convolutional layers (VGG-16). Then, mean-shift clustering is used to achieve instance segmentation. Finally, a contour-finding algorithm is presented for outlining fruit without the help of any contextual information. Based on these contours, the five fruits with the largest contour areas are selected as the targets for positioning. We verify our method on a public sweet pepper dataset and achieve competitive results. Divided by the radius of the fruit, the average position error for the first target in the harvesting order is 0.18, which shows that our method outperforms the semantic segmentation method. For the first five targets in the harvesting order, this index is less than 0.3 on average, similar to that of the semantic segmentation method with only one target output. (C) 2020 IAgrE. Published by Elsevier Ltd. All rights reserved.
-C1 [Chen, Cheng; Liu, Jiaxiang; Bao, Tong; Ren, Ni] Jiangsu Acad Agr Sci, Inst Informat, Nanjing 210031, Jiangsu, Peoples R China.
-   [Li, Bo] Nanjing Agr Univ, Coll Engn, Nanjing 210031, Jiangsu, Peoples R China.
-C3 Jiangsu Academy of Agricultural Sciences; Nanjing Agricultural University
-RP Ren, N (corresponding author), Jiangsu Acad Agr Sci, Inst Informat, Nanjing 210031, Jiangsu, Peoples R China.
-EM rn@jaas.ac.cn
-FU National Natural Science Foundation of China [61503187]; Jiangsu Agricultural Science and Technology Innovation Fund [CX(18)2029]
-NR 30
-TC 25
-Z9 29
-U1 3
-U2 89
+DE Crop design; Harvesting robot; Sweet pepper; Agricultural robotics; Crop engineering; Robot design
+ID optimal-control strategy; end-effector; perception capability; agricultural robot; gripper design; fruit-picking; optimization; methodology; cultivation; systems
+AB Current harvesting robots have limited performance, due to the unstructured and dynamic nature of both the target crops and their environment. Efforts to date focus on improving sensing and robotic systems. This paper presents a parallel approach, to 'design' the crop and its environment to best fit the robot, similar to robotic integration in industrial robot deployments. A systematic methodology to select and modify the crop 'design' (crop and environment) to improve robotic harvesting is presented. We define crop-dependent robotic features for successful harvesting (e.g., visibility, reachability), from which associated crop features are identified (e.g., crop density, internode length). Methods to influence the crop features are derived (e.g., cultivation practices, climate control) along with a methodological approach to evaluate the proposed designs. A case study of crop 'design' for robotic sweet pepper harvesting is presented, with statistical analyses of influential parameters. Since comparison of the multitude of existing crops and possible modifications is impossible due to complexity and time limitations, a sequential field experimental setup is planned. Experiments over three years, 10 cultivars, two climate control conditions, two cultivation techniques and two artificial illumination types were performed. Results showed how modifying the crop effects the crops characteristics influencing robotic harvesting by increased visibility and reachability. The systematic crop 'design' approach also led to robot design recommendations. The presented 'engineering' the crop 'design' framework highlights the importance of close synergy between crop and robot design achieved by strong collaboration between robotic and agronomy experts resulting in improved robotic harvesting performance. (C) 2020 IAgrE. Published by Elsevier Ltd. All rights reserved.
+C1 [van Herck, Liesbet; Wittemans, Lieve] Proefstn Groenteteelt PSKW, Duffelsesteenweg 101, B-2860 St Katelijne Waver, Belgium.
+   [Kurtser, Polina; Edan, Yael] Ben Gurion Univ Negev, Dept Ind Engn & Management, Ben Gurion Ave 1, Beer Sheva, Israel.
+C3 Ben-Gurion University of the Negev
+RP van Herck, L (corresponding author), Proefstn Groenteteelt PSKW, Duffelsesteenweg 101, B-2860 St Katelijne Waver, Belgium.; Kurtser, P (corresponding author), Ben Gurion Univ Negev, Dept Ind Engn & Management, Ben Gurion Ave 1, Beer Sheva, Israel.
+EM liesbet.van.herck@proefstation.be; kurtser@post.bgu.ac.il
+FU European Commission (SWEEPER GA) [644313]; Ben-Gurion University of the Negev through the Helmsley Charitable Trust; Agricultural, Biological and Cognitive Robotics Initiative; Marcus Endowment Fund; Rabbi W. Gunther Plaut Chair in Manufacturing Engineering
+NR 65
+TC 27
+Z9 30
+U1 9
+U2 114
 PU ACADEMIC PRESS INC ELSEVIER SCIENCE
 PI SAN DIEGO
 PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
@@ -446,18 +458,18 @@ SN 1537-5110
 EI 1537-5129
 J9 BIOSYST ENG
 JI Biosyst. Eng.
-PD AUG 15
+PD APR 15
 PY 2020
-VL 196
+VL 192
 IS 
-BP 15
-EP 28
-DI 10.1016/j.biosystemseng.2020.05.005
-PG 14
+BP 294
+EP 308
+DI 10.1016/j.biosystemseng.2020.01.021
+PG 15
 WC Agricultural Engineering; Agriculture, Multidisciplinary
 SC Agriculture
-GA MK4FC
-UT WOS:000548740100002
-DA 2025-12-25
+GA LD6AQ
+UT WOS:000526112100021
+DA 2026-10-09
 ER
 

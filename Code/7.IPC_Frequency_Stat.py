@@ -18,7 +18,7 @@ import pandas as pd
 # ===================== Path Configuration =====================
 SCRIPT_DIR = Path(__file__).resolve().parent
 DATA_DIR = SCRIPT_DIR.parent / "Patent_Data"
-INPUT_FILE = DATA_DIR / "1.Raw_787_Patents.xlsx"
+INPUT_FILE = DATA_DIR / "1.Raw_883_Patents.xlsx"
 OUTPUT_TXT = DATA_DIR / "IPC_Frequency_Report.txt"
 
 

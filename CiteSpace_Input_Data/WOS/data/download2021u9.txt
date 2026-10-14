@@ -1,0 +1,454 @@
+PT J
+AU Huynh, QK
+   Nguyen, CN
+   Vo-Nguyen, HP
+   Tran-Nguyen, PL
+   Le, PH
+   Le, DKL
+   Nguyen, VC
+AF Huynh, Quoc-Khanh
+   Nguyen, Chi-Ngon
+   Vo-Nguyen, Hong-Phuc
+   Tran-Nguyen, Phuong Lan
+   Le, Phan-Hung
+   Le, Dang-Khanh-Linh
+   Nguyen, Van-Cuong
+TI Crack Identification on the Fresh Chilli (Capsicum) Fruit Destemmed System
+SO JOURNAL OF SENSORS
+LA English
+DT Article
+ID localization; defects
+AB Destemming fresh chilli fruit (Capsicum) in large productivity is necessary, especially in the Mekong Delta region. Several studies have been done to solve this problem with high applicability, but a certain percentage of the output consisted of cracked fruits, thus reducing the quality of the system. The manual sorting results in high costs and low quality, so it is necessary that automatic grading is performed after destemming. This research focused on developing a method to identify and classify cracked chilli fruits caused by the destemming process. The convolution neural network (CNN) model was built and trained to identify cracks; then, appropriate control signals were sent to the actuator for classification. Image processing operations are supported by the OpenCV library, while the TensorFlow data structure is used as a database and the Keras application programming interface supports the construction and training of neural network models. Experiments were carried out in both the static and working conditions, which, respectively, achieved an accurate identification rate of 97 and 95.3%. In addition, a success rate of 93% was found even when the chilli body is wrinkled due to drying after storage time at 120 hours. Practical results demonstrate that the reliability of the model was useful and acceptable.
+C1 [Huynh, Quoc-Khanh; Nguyen, Chi-Ngon; Tran-Nguyen, Phuong Lan; Nguyen, Van-Cuong] Can Tho Univ, Coll Engn Technol, Can Tho, Vietnam.
+   [Vo-Nguyen, Hong-Phuc] Can Tho Univ Med & Pharm, Can Tho, Vietnam.
+   [Le, Phan-Hung] Univ Tech Educ, Fac Mech Engn, Ho Chi Minh City, Vietnam.
+   [Le, Dang-Khanh-Linh] Natl Sun Yat Sen Univ, Dept Mech & Electromech Engn, Kaohsiung, Taiwan.
+C3 Can Tho University; Can Tho University of Medicine & Pharmacy (CTUMP); Ho Chi Minh City University of Technology & Engineering (HCM-UTE); National Sun Yat Sen University
+RP Huynh, QK (corresponding author), Can Tho Univ, Coll Engn Technol, Can Tho, Vietnam.
+EM hqkhanh@ctu.edu.vn; ncngon@ctu.edu.vn; vnhphuc@ctump.edu.vn; tnplan@ctu.edu.vn; hunglp@hcmute.edu.vn; lelinhkd1995@gmail.com; nvcuong@ctu.edu.vn
+FU Vingroup Joint Stock Company; Domestic Master/Ph.D. Scholarship Programme of Vingroup Innovation Foundation (VINIF); Vingroup Big Data Institute (VINBIGDATA)
+NR 52
+TC 12
+Z9 14
+U1 1
+U2 21
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1687-725X
+EI 1687-7268
+J9 J SENSORS
+JI J. Sens.
+PD FEB 4
+PY 2021
+VL 2021
+IS 
+BP 
+EP 
+DI 10.1155/2021/8838247
+PG 10
+WC Engineering, Electrical & Electronic; Instruments & Instrumentation
+SC Engineering; Instruments & Instrumentation
+GA QK3CZ
+UT WOS:000620259800001
+DA 2026-10-09
+ER
+
+PT J
+AU Mason, TJ
+   Bettenhausen, HM
+   Chaparro, JM
+   Uchanski, ME
+   Prenni, JE
+AF Mason, Tyler J.
+   Bettenhausen, Harmonie M.
+   Chaparro, Jacqueline M.
+   Uchanski, Mark E.
+   Prenni, Jessica E.
+TI Evaluation of ambient mass spectrometry tools for assessing inherent postharvest pepper quality
+SO HORTICULTURE RESEARCH
+LA English
+DT Article
+ID volatile compounds; gas-chromatography; capsicum-annuum; hs-spme; maturity; fraction; spp.; ms
+AB Horticulturists are interested in evaluating how cultivar, environment, or production system inputs can affect postharvest quality. Ambient mass spectrometry approaches enable analysis of minimally processed samples under ambient conditions and offer an attractive high-throughput alternative for assessing quality characteristics in plant products. Here, we evaluate direct analysis in real time (DART-MS) mass spectrometry and rapid evaporative ionization-mass spectrometry (REIMS) to assess quality characteristics in various pepper (Capsicum annuum L.) cultivars. DART-MS exhibited the ability to discriminate between pod colors and pungency based on chemical fingerprints, while REIMS could distinguish pepper market class (e.g., bell, lunchbox, and popper). Furthermore, DART-MS analysis resulted in the putative detection of important bioactive compounds in human diet such as vitamin C, p-coumaric acid, and capsaicin. The results of this study demonstrate the potential for these approaches as accessible and reliable tools for high throughput screening of pepper quality.
+C1 [Mason, Tyler J.; Bettenhausen, Harmonie M.; Chaparro, Jacqueline M.; Uchanski, Mark E.; Prenni, Jessica E.] Colorado State Univ, Dept Hort & Landscape Architecture, Ft Collins, CO 80524 USA.
+C3 Colorado State University System; Colorado State University Fort Collins
+RP Prenni, JE (corresponding author), Colorado State Univ, Dept Hort & Landscape Architecture, Ft Collins, CO 80524 USA.
+EM jessica.prenni@colostate.edu
+FU Northern Organic Vegetable Improvement Collaborative (NOVIC); Department of Horticulture and Landscape Architecture (Colorado State University); College of Agricultural Sciences: Agriculture Experiment Station (Colorado State University)
+NR 32
+TC 12
+Z9 15
+U1 2
+U2 16
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 2662-6810
+EI 2052-7276
+J9 HORTIC RES-ENGLAND
+JI Hortic. Res.-England
+PD JUL 1
+PY 2021
+VL 8
+IS 1
+BP 
+EP 
+DI 10.1038/s41438-021-00596-x
+PG 8
+WC Plant Sciences; Genetics & Heredity; Horticulture
+SC Plant Sciences; Genetics & Heredity; Agriculture
+GA TF4II
+UT WOS:000670681900019
+DA 2026-10-09
+ER
+
+PT J
+AU Li, X
+   Pan, JD
+   Xie, FP
+   Zeng, JP
+   Li, Q
+   Huang, XJ
+   Liu, DW
+   Wang, XS
+AF Li, Xu
+   Pan, Jiandong
+   Xie, Fangping
+   Zeng, Jinping
+   Li, Qiao
+   Huang, Xiaojun
+   Liu, Dawei
+   Wang, Xiushan
+TI Fast and accurate green pepper detection in complex backgrounds via an improved Yolov4-tiny model
+SO COMPUTERS AND ELECTRONICS IN AGRICULTURE
+LA English
+DT Article
+DE Agriculture; Attention mechanism; Yolov4_tiny; Real-time detection
+AB In agricultural production, the branches and leaves of green peppers are severely blocked due to the dense plant distribution. This makes the identification of green peppers difficult. Traditional green pepper detection methods entail the problems of low accuracy and poor robustness. This paper introduces a deep learning target detection algorithm based on Yolov4_tiny for green pepper detection. The backbone network in the classic target detection algorithm model is used to ensure classification accuracy. This paper introduces an adaptive spatial feature pyramid method that combines an attention mechanism and the idea of multi-scale prediction to improve the recognition effect of occluded and small-target green peppers. Finally, the method was applied to a test set of 145 images (the target number of green peppers was 602). The AP value of green peppers reached 95.11%; the precision rate was 96.91%, and the recall rate was 93.85%. In order to verify the effectiveness of the module in improving detection performance, we conducted independent combined experiments on the improved module and compared the results with five classic target detection algorithms: SSD, Faster-RCNN, Yolov3, Yolov3_tiny, and Yolov4_tiny. The comparisons verified that the detection rate of the model reached that of the current state-of-the-art technology (SOTA) green pepper detection models. In addition, this green pepper detection model is suitable for real-time detection and embedded development needs of agricultural robots. Such new methods are key components of the technology for predicting green pepper parameters and intelligent picking in unmanned farms.
+C1 [Li, Xu] Hunan Agr Univ, Coll Mech & Elect Engn, Changsha 410128, Peoples R China.
+   Hunan Agr Univ, Key Lab Intelligent Agr Machinery Equipment Hunan, Changsha 410128, Peoples R China.
+C3 Hunan Agricultural University; Hunan Agricultural University
+RP Li, X (corresponding author), Hunan Agr Univ, Coll Mech & Elect Engn, Changsha 410128, Peoples R China.
+EM leexu@hunau.edu.cn
+FU National Key R&D Program of China [2020YFD1000300]
+NR 32
+TC 97
+Z9 115
+U1 3
+U2 124
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 0168-1699
+EI 1872-7107
+J9 COMPUT ELECTRON AGR
+JI Comput. Electron. Agric.
+PD DEC 15
+PY 2021
+VL 191
+IS 
+BP 
+EP 
+DI 10.1016/j.compag.2021.106503
+PG 10
+WC Agriculture, Multidisciplinary; Computer Science, Interdisciplinary Applications
+SC Agriculture; Computer Science
+GA ZE9BX
+UT WOS:000759173000008
+DA 2026-10-09
+ER
+
+PT J
+AU Althaus, B
+   Blanke, M
+AF Althaus, Bernhard
+   Blanke, Michael
+TI Development of a Freshness Index for Fruit Quality Assessment-Using Bell Pepper as a Case Study
+SO HORTICULTURAE
+LA English
+DT Article
+DE sweet pepper (Capsicum annum L.); consumer preference; freshness; fruit quality; glossiness; light reflection; non-invasive techniques; shrivel; sustainability; turgescence; wilting
+AB (1) Background: This special issue contains new developments in the field of fresh produce quality. Freshness provides the appeal for the consumer to purchase a particular horticultural produce. Freshness is a combination of size, colour, shape, flesh firmness, turgescence and glossiness without wilting, which imply that the produce has been picked only a short while ago and has not suffered any decay during harvest, transport or storage. (2) Objective: The objective of the present work was to develop potential freshness indices. The indices are based on non-invasive, real-time measurements, using changes in surface appearance after harvest, using Bell pepper as the most difficult model. (3) Methods: The selection criteria were a dramatic change in values over 14 days of storage at 17 degrees C, and either a consistent decrease or increase without peaks and troughs. Only two (out of five) non-invasive techniques were selected, i.e., surface glossiness, measured non-destructively using a luster sensor (type CZ-H72 from Keyence Co., Osaka, Japan) and light reflection spectra, recorded by a spectrometer, whereas the three techniques fruit firmness (penetrometer), colorimeter (e.g., Minolta) and false colour images (profilometer) were excluded. (4) Results: The first technique based on fruit glossiness provides luster values depending on fruit colour. Green Bell pepper fruit with a Fresh Index in excess of 463-490 a.i. can be classified as fresh, and similarly of 525-565 a.i. for yellow and 486-502 a.i. for red pepper fruit. This first Freshness index dropped, indicating a lesser freshness, to less than 100 a.i. after 14 days storage, irrespective of fruit colour, thereby providing a suitable wide, ca. 5-fold, range of parameterization. The second index is based on the difference between the light reflectance peaks at 630-633 nm and at 500 nm, also measured perpendicular to the convex fruit side. These percentage values decreased from > 40% with fresh red and yellow Bell pepper to ca. 20% after 14 days storage; similarly, these percentages decreased from ca. 16% to ca. 8% in green pepper fruit, in both cases by a twofold factor. Overall, a third Freshness index could be a combination of luster values larger than 470 a.u. and > 40% difference of the light reflectance between 630 nm and 500 nm. (5) Conclusions: Two viz three freshness indices are proposed and thresholds elaborated for Bell pepper fruit. The analysis showed that both indices viz technologies, luster and light reflection spectra, require colour differentiation, i.e., a specific index for yellow, red and green Bell pepper fruit.
+C1 [Althaus, Bernhard; Blanke, Michael] Univ Bonn, INRES, Hort Sci, D-53121 Bonn, Germany.
+C3 University of Bonn
+RP Blanke, M (corresponding author), Univ Bonn, INRES, Hort Sci, D-53121 Bonn, Germany.
+EM bernhard.50668@web.de; mmblanke@uni-bonn.de
+NR 16
+TC 10
+Z9 11
+U1 1
+U2 28
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 2311-7524
+J9 HORTICULTURAE
+JI Horticulturae
+PD OCT 15
+PY 2021
+VL 7
+IS 10
+BP 
+EP 
+DI 10.3390/horticulturae7100405
+PG 9
+WC Horticulture
+SC Agriculture
+GA WQ9NK
+UT WOS:000714136200001
+DA 2026-10-09
+ER
+
+PT J
+AU Kasampalis, DS
+   Tsouvaltzis, P
+   Ntouros, K
+   Gertsis, A
+   Gitas, I
+   Siomos, AS
+AF Kasampalis, Dimitrios S.
+   Tsouvaltzis, Pavlos
+   Ntouros, Konstantinos
+   Gertsis, Athanasios
+   Gitas, Ioannis
+   Siomos, Anastasios S.
+TI The use of digital imaging, chlorophyll fluorescence and Vis/NIR spectroscopy in assessing the ripening stage and freshness status of bell pepper fruit
+SO COMPUTERS AND ELECTRONICS IN AGRICULTURE
+LA English
+DT Article
+DE Chemometrics; PLS; PCA; SVM; A*/b*; Spectroscopy; Chlorophyll fluorescence; Postharvest storage life; Non-destructive techniques
+ID a fluorescence; nondestructive measurement; lycopersicon-esculentum; maturity prediction; color; tomato; selection; vine; tool; nir
+AB The optimal quality, the marketability and the shelf-life of pepper fruit often depend on the ripening stage at harvest. Moreover, it is necessary to estimate the process of ripening in various steps of the supply chain. The potential of four non-destructive techniques as rapid tools for discriminating the process of ripening was investigated. Chlorophyll fluorescence, Vis/NIR spectroscopy, two commercial digital imaging cameras- one R-G-B dslr and a modified R-G-NIR compact camera were assessed as alternatives to color measurements in classifying pepper fruit according to their ripening stage. Freshly harvested mature bell pepper fruit 'cv. Denver' were sorted in six distinct ripening stages (S1-S6), from green to full red (mature green 100% green-S1, green to brown-S2, brown-S3, orange-S4, red-S5 and full red-S6 stage), by visually assessing their color. From the results, it is concluded that the a* /b* color parameter that was determined using a colorimeter was proven to be the most accurate descriptor in ripening stage classification, either at harvest or during storage, as confirmed by che-mometrics, such as principal component (PCA), partial least square (PLS) and support vector machine (SVM) analyses and mean comparisons, as well. Therefore, the increase of a* /b* ratio can be used as an indicator to estimate the degree of fruit ripeness. The a* /b* ratio was strongly correlated with fruit spectral reflectance and chlorophyll fluorescence data, as well as with two imaging indices generated by digital R-G-B and R-G-NIR imaging techniques that are reported for the first time on fruit in this study. The above results indicate that it is possible to estimate the a* /b* ratio and simultaneously the ripening stage of pepper fruit with high accuracy and consistency, by using individually several non-destructive techniques. However, freshness status of bell pepper fruit can be reliably assessed, irrespectively of the ripening stage at harvest, only by spectral reflectance data and indeed even by processing only specific wavelengths that were identified after implementing the genetic algorithm.
+C1 [Kasampalis, Dimitrios S.; Tsouvaltzis, Pavlos; Siomos, Anastasios S.] Aristotle Univ Thessaloniki, Dept Hort, Vegetable Crops Lab, Thessaloniki 54124, Greece.
+   [Ntouros, Konstantinos] Int Hellen Univ, Dept Surveying Engn Geoinformat, Serres 62124, Greece.
+   [Ntouros, Konstantinos] NubiGrp Geoserv & Res Private Co, Thessaloniki 54453, Greece.
+   [Gertsis, Athanasios] Amer Farm Sch, Dept Agroenvironm Syst Management, Perrotis Coll, Precis Agr Pathway, Thermi 57001, Greece.
+   [Gitas, Ioannis] Aristotle Univ Thessaloniki, Dept Planning & Dev Nat Resources, Lab Forest Management & Remote Sensing, Thessaloniki 54124, Greece.
+C3 Aristotle University of Thessaloniki; International Hellenic University; Aristotle University of Thessaloniki
+RP Tsouvaltzis, P (corresponding author), Aristotle Univ Thessaloniki, Dept Hort, Vegetable Crops Lab, Thessaloniki 54124, Greece.
+EM ptsouv@agro.auth.gr
+NR 33
+TC 50
+Z9 54
+U1 1
+U2 52
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 0168-1699
+EI 1872-7107
+J9 COMPUT ELECTRON AGR
+JI Comput. Electron. Agric.
+PD AUG 15
+PY 2021
+VL 187
+IS 
+BP 
+EP 
+DI 10.1016/j.compag.2021.106265
+EA JUN 2021
+PG 11
+WC Agriculture, Multidisciplinary; Computer Science, Interdisciplinary Applications
+SC Agriculture; Computer Science
+GA UR5CG
+UT WOS:000696766600005
+DA 2026-10-09
+ER
+
+PT J
+AU Shin, SY
+   Kim, MH
+   Cho, YJ
+   Kim, DC
+AF Shin, Seo-Yong
+   Kim, Myoung-Ho
+   Cho, Yongjin
+   Kim, Dae-Cheol
+TI Performance Testing and Evaluation of Drum-Type Stem-Separation Device for Pepper Harvester
+SO APPLIED SCIENCES-BASEL
+LA English
+DT Article
+DE chili pepper harvester; drum type separating system; prototype; stem-separation of foreign materials; performance; evaluation; field test
+ID card cleaner; fruits; system
+AB The chili pepper harvester has shown potential problems of low pepper stem separation and a high pepper damage rate. The low pepper stem separation has required additional labor, which consists of separating the pepper and stem after pepper harvesting. To improve the stem separation and sorting function of pepper harvesters, three-shaft and four-shaft drum-type stem-separation devices were manufactured, and performance tests were conducted to assess these devices. In an attempt to reduce the damage rate, a brush was used as the teeth in the drum-type stem-separation device. In the factor test, the rotational speeds of shaft 1(A), shaft 2(B), shaft 3(C), and the conveyor for the three-shaft drum were 0.9, 2.7, 1.3, and 0.5 m/s, respectively. The rotational speed of the four-shaft drum was the same as that of the three-shaft drum except for shaft 4(D), and the rotational speed of this additional D was set to 1.3 m/s, which was the same as that of C. In the non-moving status during the non-picking operation of the pepper harvester, the average stem-separation efficiency (SSE) of the four-shaft drum increased by 1.2%, the average pepper with twig rate (PTR) decreased by 5.9%, and the average damage rate (DR) increased by 3.7% compared to the three-shaft drum. In the moving status during the picking operation of the pepper harvester, the SSE of the four-shaft drum increased by 3.6%, the PTR decreased by 9.1%, and the DR increased by 3.8% compared to the three-shaft drum, so an improvement in the pepper stem-separation capacity was observed.
+C1 [Shin, Seo-Yong; Kim, Myoung-Ho; Cho, Yongjin; Kim, Dae-Cheol] Jeonbuk Natl Univ, Dept Bioind Machinery Engn, Jeonju 54896, South Korea.
+   [Kim, Myoung-Ho; Cho, Yongjin; Kim, Dae-Cheol] Jeonbuk Natl Univ, Inst Agr Machinery & ICT Convergence, Jeonju 54896, South Korea.
+C3 Jeonbuk National University; Jeonbuk National University
+RP Cho, YJ; Kim, DC (corresponding author), Jeonbuk Natl Univ, Dept Bioind Machinery Engn, Jeonju 54896, South Korea.; Cho, YJ; Kim, DC (corresponding author), Jeonbuk Natl Univ, Inst Agr Machinery & ICT Convergence, Jeonju 54896, South Korea.
+EM ssy9970@naver.com; myoung59@jbnu.ac.kr; choyj@jbnu.ac.kr; dckim12@jbnu.ac.kr
+FU Korea Institute of Planning and Evaluation for Technology in Food, Agriculture and Forestry (IPET) through the Agriculture, Food and Rural Affairs Convergence Technologies Program for Educating Creative Global Leader Program - Ministry of Agriculture, Food [716001-7]; Ministry of Agriculture, Food and Rural Affairs (MAFRA) [320018-2]
+NR 43
+TC 8
+Z9 9
+U1 5
+U2 94
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 2076-3417
+J9 APPL SCI-BASEL
+JI Appl. Sci.-Basel
+PD OCT 15
+PY 2021
+VL 11
+IS 19
+BP 
+EP 
+DI 10.3390/app11199225
+PG 12
+WC Chemistry, Multidisciplinary; Engineering, Multidisciplinary; Materials Science, Multidisciplinary; Physics, Applied
+SC Chemistry; Engineering; Materials Science; Physics
+GA WG5DQ
+UT WOS:000707015600001
+DA 2026-10-09
+ER
+
+PT J
+AU Habegger, R
+   Bergamo, E
+   Schwab, W
+   Berninger, T
+   Rixen, D
+AF Habegger, R.
+   Bergamo, E.
+   Schwab, W.
+   Berninger, T.
+   Rixen, D.
+TI Impact of intensive modification of sweet pepper plants on performance of end effectors for autonomous harvesting
+SO EUROPEAN JOURNAL OF HORTICULTURAL SCIENCE
+LA English
+DT Article
+DE blossom-end rot; Capsicum annuum L.; harvesting robot; marketable yield; physiological disorders; plant training system
+ID fruit-quality; yield; robot
+AB This paper evaluates an intensive modification of the sweet pepper crop with respect to the usage of autonomous harvesting by a robot. Objectives were to assess the productivity of the plants after longterm intensive training of the plants compared with standard training and to use end-effectors instead of manually harvesting. The performance of two types of end-effectors was calculated by marketable yield, which includes accessible fruits without physiological disorders like blossom-end rot and sunscald. The experiment was executed in a greenhouse under commercial-like conditions. The marketable yield was significantly reduced by end-effector harvesting compared to manually harvesting. There was a tendency that end-effector A could pick more fruits from intensive trained plants than from standard trained plants. The second type of end-effector B was able to cut the fruit peduncle even at a smaller angle compared to end-effector A. The effect of intensive modification of sweet pepper plants on total and marketable yield and on occurrence of physiological disorders is discussed.
+C1 [Habegger, R.; Bergamo, E.; Schwab, W.] Tech Univ Munich, Biotechnol Nat Prod, Liesel Beckmann Str 1, D-85354 Freising Weihenstephan, Germany.
+   [Berninger, T.; Rixen, D.] Tech Univ Munich, Chair Appl Mech, Boltzmannstr 15, D-85748 Garching, Germany.
+C3 Technical University of Munich; Technical University of Munich
+RP Habegger, R (corresponding author), Tech Univ Munich, Biotechnol Nat Prod, Liesel Beckmann Str 1, D-85354 Freising Weihenstephan, Germany.
+EM ruth.habegger@tum.de
+NR 16
+TC 5
+Z9 6
+U1 7
+U2 68
+PU CABI PUBLISHING
+PI WALLINGFORD
+PA C/O PUBLISHING DIVISION, NOSWORTHY WAY, WALLINGFORD OX10 8DE, OXON, ENGLAND
+SN 1611-4426
+EI 1611-4434
+J9 EUR J HORTIC SCI
+JI Eur. J. Hortic. Sci.
+PD AUG 15
+PY 2021
+VL 86
+IS 4
+BP 354
+EP 359
+DI 10.17660/eJHS.2021/86.4.2
+PG 6
+WC Horticulture
+SC Agriculture
+GA UL1TB
+UT WOS:000692440800002
+DA 2026-10-09
+ER
+
+PT J
+AU Brown, J
+   Sukkarieh, S
+AF Brown, Jasper
+   Sukkarieh, Salah
+TI Design and evaluation of a modular robotic plum harvesting system utilizing soft components
+SO JOURNAL OF FIELD ROBOTICS
+LA English
+DT Article
+DE agriculture; harvesting; soft robotics; terrestrial robotics; tree crops
+ID field-evaluation; servo control; integration; motion
+AB The human labor required for tree crop harvesting is a major cost component in fruit production and is increasing. To address this, many existing research works have sought to demonstrate commercially viable robotic harvesting for tree crops, though successful commercial products resulting from these have been few and far between. Systems developed for specific crops such as sweet peppers or apples have shown promise, but the vast majority of cultivar types remain unaddressed, and developing a specific system for each one is inefficient. In this study, an easily modifiable development platform for robotic fruit harvesting is presented, this can be used to test specific design choices on different fruit and growing conditions. The system is evaluated in a commercial plum orchard, with no crop modifications. Both a hard and soft gripper are trialed, along with three object detector approaches and two picking motions. Some existing techniques are found to be counterproductive for plums, while soft robotics and persistent target tracking significantly improve performance. The best harvest success rate of 42%, was observed when using the soft gripper with complex motion. This is lower than expected based on prior testing with apples and indicates the difficulty in moving to new fruit types. Unique challenges specific to the plum type and growing style are examined in the context of system module design choices.
+C1 [Brown, Jasper; Sukkarieh, Salah] Univ Sydney, Fac Engn, Australian Ctr Field Robot, Sydney, NSW 2006, Australia.
+C3 University of Sydney
+RP Brown, J (corresponding author), Univ Sydney, Fac Engn, Australian Ctr Field Robot, Sydney, NSW 2006, Australia.
+EM j.brown@acfr.usyd.edu.au
+NR 46
+TC 57
+Z9 65
+U1 1
+U2 91
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1556-4959
+EI 1556-4967
+J9 J FIELD ROBOT
+JI J. Field Robot.
+PD MAR 15
+PY 2021
+VL 38
+IS 2
+BP 289
+EP 306
+DI 10.1002/rob.21987
+EA SEP 2020
+PG 18
+WC Robotics
+SC Robotics
+GA QB4MR
+UT WOS:000572552700001
+DA 2026-10-09
+ER
+
+PT J
+AU Kang, S
+   Kim, Y
+   Park, H
+   Woo, S
+   Uyeh, DD
+   Ha, Y
+AF Kang, Seokho
+   Kim, Yeongsu
+   Park, Hyunggyu
+   Woo, Seungmin
+   Uyeh, Daniel Dooyum
+   Ha, Yushin
+TI Effect of Planting Distance on the Mechanical Harvesting of Hot Pepper
+SO AGRICULTURE-BASEL
+LA English
+DT Article
+DE Capsicum annuum L.; hot pepper harvester; machinery harvest efficiency; planting distance
+ID jalapeno pepper; yield; growth; density; fruits; l.
+AB Hot peppers are well known for being spicy and also have a high nutrient content. Human resources have formerly been used to harvest hot peppers; however, a high level of musculoskeletal risk to the human workforce has been reported. Therefore, to reduce the risk to farmers and replace the human workforce, the mechanical harvesting of hot pepper and steps to improve the harvesting efficiency of farmers were conducted. To achieve this, the effect of planting distance on the mechanical harvesting of hot peppers was analyzed at three planting distances (30, 40, and 50 cm) with several cultivars. Subsequently, machine-harvested hot peppers were classified into five groups (marketable, damaged, lost, unharvested, and twigged hot pepper), depending on their postharvest status. The average weight ratio of each group was then calculated, after which statistical analyses were conducted. The effect of planting distance on mechanical harvesting was then analyzed by comparing the differences between each group's average weight ratio and the total weight of hot pepper, which was simultaneously harvested mechanically at each planting distance. Results showed that the average weight ratio of marketable, unharvested, and twigged hot pepper improved as the planting distance increased. However, no effect on the average weight ratio of damaged and lost hot pepper was observed. The highest yield of marketable hot pepper was found at a planting distance of 40 cm, and the average weight ratio to the whole was lower than at 50 cm of planting distance. Thus, the most suitable planting distance for mechanical harvesting was 40 cm.
+C1 [Kang, Seokho; Kim, Yeongsu; Park, Hyunggyu; Woo, Seungmin; Uyeh, Daniel Dooyum; Ha, Yushin] Kyungpook Natl Univ, Coll Agr & Life Sci, Dept Bioind Machinery Engn, Daehak Ro 80, Daegu 41566, South Korea.
+C3 Kyungpook National University (KNU)
+RP Ha, Y (corresponding author), Kyungpook Natl Univ, Coll Agr & Life Sci, Dept Bioind Machinery Engn, Daehak Ro 80, Daegu 41566, South Korea.
+EM deshshk@knu.ac.kr; mvio9256@knu.ac.kr; pyd4796@knu.ac.kr; kooger7571@naver.com; Uyehdooyum@knu.ac.kr; yushin72@knu.ac.kr
+FU Technology Innovation Program [2003975]; Ministry of Trade, Industry& Energy (MOTIE, Korea)
+NR 36
+TC 3
+Z9 4
+U1 3
+U2 47
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 2077-0472
+J9 AGRICULTURE-BASEL
+JI Agriculture-Basel
+PD OCT 15
+PY 2021
+VL 11
+IS 10
+BP 
+EP 
+DI 10.3390/agriculture11100945
+PG 11
+WC Agronomy
+SC Agriculture
+GA WV1RR
+UT WOS:000717015500001
+DA 2026-10-09
+ER
+

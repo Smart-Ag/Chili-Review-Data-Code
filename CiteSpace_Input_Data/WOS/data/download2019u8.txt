@@ -1,0 +1,425 @@
+PT J
+AU Ragassi, CF
+   Zucolotto, J
+   Gomes, LM
+   Ribeiro, CSC
+   Madeira, NR
+   Reifschneider, FJB
+AF Ragassi, Carlos Francisco
+   Zucolotto, Juliana
+   Gomes, Lucas M.
+   Ribeiro, Claudia S. C.
+   Madeira, Nuno Rodrigo
+   Reifschneider, Francisco Jose B.
+TI Productivity, quality of fruits and architecture of Jalapeno pepper at different planting densities
+SO HORTICULTURA BRASILEIRA
+LA English
+DT Article
+DE Capsicum annuum; mechanized harvesting; crop management; processing
+ID affects growth; yield; harvest
+AB Mechanizing the harvest of Jalapeno pepper involves changes in the production system. Spacings between plants in rows (10 to 40 cm; 60 cm fixed between rows) were evaluated in relation to plant architecture, productivity and fruit quality of cultivar BRS Sarakura during three years, in a randomized complete block design with five replicates. Productivity (41.9 to 78.8 t ha(-1)) and plant height (40.1 to 47.3 cm) responded linearly to density; on the other hand, productivity per plant responded negatively (0.48 to 1.04 kg plant(-1)). The stem first bifurcation height was little influenced. Fruit chemical analyses were carried out in the second year of the experiment; spacing significantly influenced pH (5.36 to 4.84), total titratable acidity (TTA) (0.48 to 0.36%) and total soluble solids (TSS)/TTA ratio (11.5 to 15.6); no influence on TSS (5.65%) was noticed, though. The increase of plant population provided an increase in productivity without affecting fruit quality; the highest height of the first bifurcation achieved may not be enough to enable mechanized harvesting of the cultivar BRS Sarakura.
+C1 [Ragassi, Carlos Francisco; Ribeiro, Claudia S. C.; Madeira, Nuno Rodrigo] Embrapa Hortal, Brasilia, DF, Brazil.
+   [Zucolotto, Juliana] ESALQ, Piracicaba, SP, Brazil.
+   [Gomes, Lucas M.] Univ Fed Goias, Goiania, Go, Brazil.
+   [Reifschneider, Francisco Jose B.] Embrapa Secretaria Inteligencia & Relacoes Estrat, Brasilia, DF, Brazil.
+C3 Empresa Brasileira de Pesquisa Agropecuaria (EMBRAPA); EMBRAPA Hortal; Universidade de Sao Paulo; Universidade Federal de Goias
+RP Ragassi, CF (corresponding author), Embrapa Hortal, Brasilia, DF, Brazil.
+EM carlos.ragassi@embrapa.br; julianazucolotto@gmail.com; lucasmatyasgomes@gmail.com; claudia.ribeiro@embrapa.br; nuno.madeira@embrapa.br; francisco.reifschneider@embrapa.br
+FU National Council for Scientific and Technological Development (CNPq)
+NR 31
+TC 2
+Z9 2
+U1 0
+U2 6
+PU ASSOC BRASILEIRA HORTICULTURA
+PI CAMPINAS
+PA IAC-CENTRO HORTICULTURA, CAIXA POSTAL 28, CAMPINAS, SP 13012-970, BRAZIL
+SN 0102-0536
+EI 1806-9991
+J9 HORTIC BRAS
+JI Hortic. Bras.
+PD JUL-SEP 15
+PY 2019
+VL 37
+IS 3
+BP 331
+EP 337
+DI 10.1590/S0102-053620190312
+PG 7
+WC Horticulture
+SC Agriculture
+GA JM0FF
+UT WOS:000495899100012
+DA 2026-10-09
+ER
+
+PT J
+AU Dalal, A
+   Bourstein, R
+   Haish, N
+   Shenhar, I
+   Wallach, R
+   Moshelion, M
+AF Dalal, Ahan
+   Bourstein, Ronny
+   Haish, Nadav
+   Shenhar, Itamer
+   Wallach, Rony
+   Moshelion, Menachem
+TI Dynamic Physiological Phenotyping of Drought-Stressed Pepper Plants Treated With "Productivity-Enhancing" and "Survivability-Enhancing" Biostimulants
+SO FRONTIERS IN PLANT SCIENCE
+LA English
+DT Article
+DE biostimulant; critical soil water availability (theta c); drought resilience; night water reabsorption; physiological phenotyping; physiological trait correlation; productivity- resilience trade-off
+ID cycle impact assessment; high-throughput; tonoplast aquaporin; kappaphycus-alvarezii; tolerance; field; phenomics
+AB The improvement of crop productivity under abiotic stress is one of the biggest challenges faced by the agricultural scientific community. Despite extensive research, the research-to-commercial transfer rate of abiotic stress-resistant crops remains very low. This is mainly due to the complexity of genotype x environment interactions and in particular, the ability to quantify the dynamic plant physiological response profile to a dynamic environment. Most existing phenotyping facilities collect information using robotics and automated image acquisition and analysis. However, their ability to directly measure the physiological properties of the whole plant is limited. We demonstrate a high-throughput functional phenotyping system (HFPS) that enables comparing plants' dynamic responses to different ambient conditions in dynamic environments due to its direct and simultaneous measurement of yield-related physiological traits of plants under several treatments. The system is designed as one-to-one (1:1) plant-[sensors+controller] units, i.e., each individual plant has its own personalized sensor, controller and irrigation valves that enable (i) monitoring water-relation kinetics of each plant-environment response throughout the plant's life cycle with high spatiotemporal resolution, (ii) a truly randomized experimental design due to multiple independent treatment scenarios for every plant, and (iii) reduction of artificial ambient perturbations due to the immobility of the plants or other objects. In addition, we propose two new resilience-quantifying-related traits that can also be phenotyped using the HFPS: transpiration recovery rate and night water reabsorption. We use the HFPS to screen the effects of two commercial biostimulants (a seaweed extract -ICL-SW, and a metabolite formula - ICL-NewFo1) on Capsicum annuum under different irrigation regimes. Biostimulants are considered an alternative approach to improving crop productivity. However, their complex mode of action necessitates cost-effective pre-field phenotyping. The combination of two types of treatment (biostimulants and drought) enabled us to evaluate the precision and resolution of the system in investigating the effect of biostimulants on drought tolerance. We analyze and discuss plant behavior at different stages, and assess the penalty and trade-off between productivity and resilience. In this test case, we suggest a protocol for the screening of biostimulants' physiological mechanisms of action.
+C1 [Dalal, Ahan; Bourstein, Ronny; Haish, Nadav; Shenhar, Itamer; Moshelion, Menachem] Hebrew Univ Jerusalem, Inst Plant Sci & Genet Agr, Robert H Smith Fac Agr Food & Environm, Rehovot, Israel.
+   [Bourstein, Ronny; Wallach, Rony] Hebrew Univ Jerusalem, Dept Soil & Water Sci, Robert H Smith Fac Agr Food & Environm, Rehovot, Israel.
+C3 Hebrew University of Jerusalem; Hebrew University of Jerusalem
+RP Moshelion, M (corresponding author), Hebrew Univ Jerusalem, Inst Plant Sci & Genet Agr, Robert H Smith Fac Agr Food & Environm, Rehovot, Israel.
+EM menachem.moshelion@mail.huji.ac.il
+FU Israel Chemicals Ltd. [0336396]
+NR 53
+TC 67
+Z9 75
+U1 0
+U2 35
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN 1664-462X
+EI 
+J9 FRONT PLANT SCI
+JI Front. Plant Sci.
+PD JUL 17
+PY 2019
+VL 10
+IS 
+BP 
+EP 
+DI 10.3389/fpls.2019.00905
+PG 14
+WC Plant Sciences
+SC Plant Sciences
+GA IJ4FL
+UT WOS:000475859800001
+DA 2026-10-09
+ER
+
+PT J
+AU Gomes, LM
+   Ribeiro, CSDC
+   Ragassi, CF
+   Silva, LS
+   Reifschneider, FJB
+AF Gomes, Lucas Matias
+   da Costa Ribeiro, Claudia Silva
+   Ragassi, Carlos Francisco
+   Silva, Lorena Sousa
+   Becker Reifschneider, Francisco Jose
+TI Advanced lines of Jalapeno pepper with potential for mechanical harvesting
+SO CIENCIA RURAL
+LA English
+DT Article
+DE Capsicum annuum L.; capsaicinoids; breeding; earliness; processing; soluble solids
+ID yield
+AB The objective of this study was to evaluate the plant and fruit characteristics in advanced lines of Jalapeno pepper for mechanical harvesting. Thus, two experiments were carried out in the field. Experiment I (2015) was conducted as a randomized block design (three replications and eight plants per plot) and Experiment II (2016) in a completely randomized design (five replications and ten plants per plot). In 2015, lines CNPH 30,112, CNPH 30,118, CNPH 30,147, CNPH 30,159, CNPH 30,183, and CNPH 30,245 were evaluated, together with the control 'BRS Sarakura'. Significant differences were detected for fruit and plant characteristics (P < 0.05). Lines CNPH 30,118, CNPH 30,147, CNPH 30,159, and CNPH 30,245 were selected based on plant height and height of the first bifurcation, earliness, and yield. They were evaluated again in 2016, together with 'BRS Sarakura' and 'Jalapeno Plus F-1' as controls. In 2016, CNPH 30,159 and CNPH 30,118 were selected due to their potential for mechanical harvesting. They were evaluated for height of the first bifurcation (> 10cm), large fruits (11 cm x 4 cm), high pulp firmness (11 N), wall thickness (about 5mm), and content of capsaicinoid substances (> 50,000 SHU). Selected lines are undergoing additional field evaluation for mechanical harvesting with the Etgar Moses 1010 pepper harvester.
+C1 [Gomes, Lucas Matias] Univ Fed Goias, Dept Genet & Melhoramento Plantas, Av Esperanca, BR-74690900 Goiania, Go, Brazil.
+   [da Costa Ribeiro, Claudia Silva; Ragassi, Carlos Francisco] Embrapa Hortalicas, Brasilia, DF, Brazil.
+   [Becker Reifschneider, Francisco Jose] Empresa Brasileira Pesquisa Agr, Secretaria Relacoes Int, Brasilia, DF, Brazil.
+   [Silva, Lorena Sousa] Fac Integradas ICESP Promove, Curso Agron, Brasilia, DF, Brazil.
+C3 Universidade Federal de Goias; Empresa Brasileira de Pesquisa Agropecuaria (EMBRAPA); EMBRAPA Hortal; Empresa Brasileira de Pesquisa Agropecuaria (EMBRAPA)
+RP Gomes, LM (corresponding author), Univ Fed Goias, Dept Genet & Melhoramento Plantas, Av Esperanca, BR-74690900 Goiania, Go, Brazil.
+EM lucasmatyasgomes@gmail.com
+FU Sakura Nakaya Alimentos Ltda.; Conselho Nacional de Desenvolvimento Cientifico e Tecnologico (CNPq); CNPq [800574/2014-1, 800629/2016-7]
+NR 16
+TC 1
+Z9 2
+U1 0
+U2 9
+PU UNIV FEDERAL SANTA MARIA
+PI SANTA MARIA
+PA CIDADE UNIV, BAIRRO CAMOBI, SANTA MARIA, RS 97105-900, BRAZIL
+SN 0103-8478
+EI 1678-4596
+J9 CIENC RURAL
+JI Cienc. Rural
+PD JUN 15
+PY 2019
+VL 49
+IS 2
+BP 
+EP 
+DI 10.1590/0103-8478cr20180222
+PG 6
+WC Agronomy
+SC Agriculture
+GA HO6WD
+UT WOS:000461073000001
+DA 2026-10-09
+ER
+
+PT J
+AU Sánchez, MT
+   Torres, I
+   de la Haba, MJ
+   Chamorro, A
+   Garrido-Varo, A
+   Pérez-Marín, D
+AF Sanchez, Maria-Teresa
+   Torres, Irina
+   de la Haba, Maria-Jose
+   Chamorro, Ana
+   Garrido-Varo, Ana
+   Perez-Marin, Dolores
+TI Rapid, simultaneous, and in situ authentication and quality assessment of intact bell peppers using near-infrared spectroscopy technology
+SO JOURNAL OF THE SCIENCE OF FOOD AND AGRICULTURE
+LA English
+DT Article
+DE NIR spectroscopy; bell pepper; in situ authentication; quality; portable NIR device
+ID nondestructive measurement; adulteration
+AB BACKGROUND The ability of near-infrared (NIR) spectroscopy to authenticate individual bell peppers as a function of the growing system (outdoor or greenhouse) was tested using partial least squares discriminant analysis. Bell peppers grown outdoors (130 samples) or in a greenhouse (264 samples) during the 2015 and 2016 seasons were selected for this purpose and analysed using a portable, handheld, microelectromechanical system (MEMS) instrument MicroPhazir (spectral range 1600-2400 nm), working in reflectance. Subsequently, the potential of NIR spectroscopy as a non-destructive sensor for in situ quality (dry matter and soluble solid content) measurements, was investigated. RESULTS The models correctly classified 89.73% and 88.00% of the samples by growing system, when trained with unbalanced and balanced sets respectively, mainly due to the differences in physical-chemical attributes between bell peppers cultivated in the two growing systems. Separate classification models for bell peppers grouped by ripeness (judged by the colour), allowed the classification of 88.28-91.37% of the samples correctly. The standard error of cross-validation values for the quantitative models were 0.66% fresh weight and 0.75 degrees Brix for dry matter and soluble solid content, respectively. CONCLUSIONS The results showed that NIR spectroscopy can be used successfully for predicting the growing systems used in bell pepper production, which is of particular value to guarantee the authentication of outdoor-grown peppers. Additionally, the results showed that NIR spectroscopy can be used simultaneously as a rapid preliminary screening technique to measure quality. (c) 2018 Society of Chemical Industry
+C1 [Sanchez, Maria-Teresa; Torres, Irina; de la Haba, Maria-Jose; Chamorro, Ana] Univ Cordoba, Dept Bromathol & Food Technol, Campus Rabanales, E-14071 Cordoba, Spain.
+   [Garrido-Varo, Ana; Perez-Marin, Dolores] Univ Cordoba, Dept Anim Prod, Campus Rabanales, E-14071 Cordoba, Spain.
+C3 Universidad de Cordoba; Universidad de Cordoba
+RP Sánchez, MT (corresponding author), Univ Cordoba, Dept Bromathol & Food Technol, Campus Rabanales, E-14071 Cordoba, Spain.; Pérez-Marín, D (corresponding author), Univ Cordoba, Dept Anim Prod, Campus Rabanales, E-14071 Cordoba, Spain.
+EM teresa.sanchez@uco.es; dcperez@uco.es
+FU Spanish Ministry of Education, Culture and Sports; Gelagri Iberica, S.L.
+NR 33
+TC 17
+Z9 22
+U1 0
+U2 37
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0022-5142
+EI 1097-0010
+J9 J SCI FOOD AGR
+JI J. Sci. Food Agric.
+PD MAR 15
+PY 2019
+VL 99
+IS 4
+BP 1613
+EP 1622
+DI 10.1002/jsfa.9342
+PG 10
+WC Agriculture, Multidisciplinary; Chemistry, Applied; Food Science & Technology
+SC Agriculture; Chemistry; Food Science & Technology
+GA HK9HE
+UT WOS:000458300500019
+PM 30191575
+DA 2026-10-09
+ER
+
+PT J
+AU Lee, B
+   Kam, D
+   Min, B
+   Hwa, J
+   Oh, S
+AF Lee, BongKi
+   Kam, DongHwan
+   Min, ByeongRo
+   Hwa, JiHo
+   Oh, SeBu
+TI A Vision Servo System for Automated Harvest of Sweet Pepper in Korean Greenhouse Environment
+SO APPLIED SCIENCES-BASEL
+LA English
+DT Article
+DE sweet pepper harvesting automation; cylindrical robot; vision servo system; image processing-based; momentum backpropagation
+AB Recently, farmers of sweet pepper suffer from the increase of its unit production costs due to the rise of labor costs. The rise of unit production costs of sweet pepper, on the other hand, decreases its productivity and causes the lack of its farming expertise, thus resulting in the quality degradation of products. In this regard, it is necessary to introduce an automated robot harvest system into the farming of sweet pepper. In this study, the authors developed an image-based closed-loop control system (a vision servo system) and an automated sweet pepper harvesting robot system and then carried out experiments to verify its efficiency. The working area of the manipulator that detects products through an imaging sensor in the farming environment of sweet pepper, decides whether to harvest it or not, and then informs the location of the product to the control center, which is set up at the distance scope of 350 similar to 600 mm from the center of the system and 1000 mm vertically. In order to confirm the performance of the sweet pepper recognition in this study, 269 sweet pepper images were used to extract fruits. Of 269 sweet pepper images, 82.16% were recognized successfully. The harvesting experiment of the system developed in this study was carried out with 100 sweet peppers. The result of experiment with 100 sweet peppers presents the fact that its approach rate to peduncle is about 86.7%, and via four sessions of repetitive harvest experiment it achieves a maximal 70% harvest rate, and its average time of harvest is 51.1 s.
+C1 [Lee, BongKi; Kam, DongHwan; Min, ByeongRo] Sungkyunkwan Univ, Inst Biotechnol & Bioengn, Suwon 16419, South Korea.
+   [Hwa, JiHo] LS Mtron, Mfg Technol Ctr, Gunpo Si 15845, South Korea.
+   [Oh, SeBu] Chung Ang Univ, Dept Mech Engn, Seoul Si 06974, South Korea.
+C3 Sungkyunkwan University (SKKU); Chung Ang University
+RP Min, B (corresponding author), Sungkyunkwan Univ, Inst Biotechnol & Bioengn, Suwon 16419, South Korea.; Oh, S (corresponding author), Chung Ang Univ, Dept Mech Engn, Seoul Si 06974, South Korea.
+EM dkways@skku.edu; kamdh@skku.edu; min7887@skku.edu; Youniri@nate.com; ok777@cau.ac.kr
+FU Korea Institute of Planning and Evaluation for Technology in Food, Agriculture, Forestry and Fisheries, Ministry of Agriculture, Food and Rural Affairs (MAFRA) [114046-3]
+NR 31
+TC 20
+Z9 28
+U1 2
+U2 59
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 2076-3417
+J9 APPL SCI-BASEL
+JI Appl. Sci.-Basel
+PD JUN 2
+PY 2019
+VL 9
+IS 12
+BP 
+EP 
+DI 10.3390/app9122395
+PG 23
+WC Chemistry, Multidisciplinary; Engineering, Multidisciplinary; Materials Science, Multidisciplinary; Physics, Applied
+SC Chemistry; Engineering; Materials Science; Physics
+GA IG4DR
+UT WOS:000473754800004
+DA 2026-10-09
+ER
+
+PT J
+AU Velázquez, R
+   Casquete, R
+   Hernández, A
+   Martín, A
+   Córdoba, MG
+   Coleto, JM
+   Bartolomé, T
+AF Velazquez, Rocio
+   Casquete, Rocio
+   Hernandez, Alejandro
+   Martin, Alberto
+   Cordoba, Maria G.
+   Miguel Coleto, Jose
+   Bartolome, Teresa
+TI Effect of plant density and harvesting type on yield and quality of fresh and dried peppers and paprika
+SO JOURNAL OF THE SCIENCE OF FOOD AND AGRICULTURE
+LA English
+DT Article
+DE Capsicum annuum; paprika; harvesting methods; plant density; yield; colour; carotenoids
+ID capsicum-annuum l.; affects growth; fruit-quality; carotenoids; color; bola
+AB BACKGROUND Traditionally, peppers (Capsicum annuum L.) of Jaranda variety used for the production of smoked paprika are harvested manually in the north of Extremadura (Spain). Mechanical harvesting is necessary to improve the profitability of this crop. The present study aimed to evaluate the effect of plant density (D1 = 36 765 and D2 = 73 530 plants ha(-1)) and harvesting type (manual or mechanical) on the yield and quality of fresh, dried and powdered peppers. RESULTS CONCLUSION The increase in plant density increased marketable yield per hectare, although the yield per plant decreased. With mechanical harvesting, the optimal density was D2 (15 151 kg ha(-1)) over D1 (12 493 kg ha(-1)). After processing the fruits, the application of D2 and mechanical harvesting significantly improved quality parameters, such as a*, ASTA (American Spice Trade Association) units and carotenoide concentration, primarily capsanthin. The cultural practices tested provided an adequate productivity of fresh pepper and a better quality of the final product. According to the results of the present study, the increase in plant density and the substitution of manual harvesting by mechanical harvesting could be profitable practices with respect to the Jaranda variety of pepper used for the manufacture of smoked paprika. These practices maintain the main quality parameters of dried peppers and paprika. (c) 2018 Society of Chemical Industry
+C1 [Velazquez, Rocio; Miguel Coleto, Jose; Bartolome, Teresa] Univ Extremadura, Invest Aplicada Hortofruticultura & Jardineria, Inst Univ Invest Recursos Agr INURA, Escuela Ingn Agr, Badajoz, Spain.
+   [Casquete, Rocio; Hernandez, Alejandro; Martin, Alberto; Cordoba, Maria G.] Univ Extremadura, Nutr & Bromatol, Inst Univ Invest Recursos Agr INURA, Escuela Ingn Agr, Badajoz, Spain.
+C3 Universidad de Extremadura; Universidad de Extremadura
+RP Casquete, R (corresponding author), Univ Extremadura, Dept Anim Prod & Food Sci, Badajoz, Spain.
+EM rociocp@unex.es
+NR 42
+TC 9
+Z9 9
+U1 1
+U2 36
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0022-5142
+EI 1097-0010
+J9 J SCI FOOD AGR
+JI J. Sci. Food Agric.
+PD JAN 15
+PY 2019
+VL 99
+IS 1
+BP 400
+EP 408
+DI 10.1002/jsfa.9201
+PG 9
+WC Agriculture, Multidisciplinary; Chemistry, Applied; Food Science & Technology
+SC Agriculture; Chemistry; Food Science & Technology
+GA HC8KJ
+UT WOS:000452051200045
+PM 29888500
+DA 2026-10-09
+ER
+
+PT J
+AU Ji, W
+   Chen, GY
+   Xu, B
+   Meng, XL
+   Zhao, D
+AF Ji, Wei
+   Chen, Guangyu
+   Xu, Bo
+   Meng, Xiangli
+   Zhao, Dean
+TI Recognition Method of Green Pepper in Greenhouse Based on Least-Squares Support Vector Machine Optimized by the Improved Particle Swarm Optimization
+SO IEEE ACCESS
+LA English
+DT Article
+DE K-means segmentation; feature extraction; PSO; harvesting robot; LSSVM
+ID apple fruits; color; classification; segmentation; images; model
+AB In the green pepper harvesting robot, the color of green pepper is similar to that of leaves, which makes it difficult to recognize the green pepper target. In order to solve this problem, a green pepper recognition method based on least-squares support vector machine optimized by the improved particle swarm optimization (IPSO-LSSVM) is proposed in this paper. Firstly, the green pepper images are segmented by K-Means method under the Lab color space, and the segmentation images of the target and background are obtained. The processed green pepper image was divided into training and testing samples. Then, the shape and texture features of green pepper targets are extracted separately from the training sample using the hu invariant moment and Tamura texture feature. Meanwhile, in order to reduce the complexity of data calculations and improve the efficiency, the extracted feature vectors are normalized. The feature vector is used as the input eigenvector of the least-squares support vector machine (LSSVM). The particle swarm optimization algorithm is used to obtain the optimal regularization parameter and the kernel function width. In order to maintain the particle activity, the mutation strategy is introduced to improve the particle swarm optimization algorithm. The experimental results show that the recognition rate of IPSO-LSSVM is higher than that of other methods, and the recognition accuracy is 89.04%. It could meet the requirements of green pepper identification.
+C1 [Ji, Wei; Chen, Guangyu; Xu, Bo; Meng, Xiangli; Zhao, Dean] Jiangsu Univ, Sch Elect & Informat Engn, Zhenjiang 212013, Jiangsu, Peoples R China.
+   [Zhao, Dean] Jiangsu Univ, Key Lab Facil Agr Measurement & Control Technol &, Zhenjiang 212013, Jiangsu, Peoples R China.
+C3 Jiangsu University; Jiangsu University
+RP Ji, W (corresponding author), Jiangsu Univ, Sch Elect & Informat Engn, Zhenjiang 212013, Jiangsu, Peoples R China.
+EM jwhxb@163.com
+FU National Natural Science Foundation of China (NSFC) [61703186, 61973141]; Priority Academic Program Development of Jiangsu Higher Education Institutions (PAPD)
+NR 37
+TC 34
+Z9 38
+U1 0
+U2 31
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2169-3536
+EI 
+J9 IEEE ACCESS
+JI IEEE Access
+PD JUN 15
+PY 2019
+VL 7
+IS 
+BP 119742
+EP 119754
+DI 10.1109/ACCESS.2019.2937326
+PG 13
+WC Computer Science, Information Systems; Engineering, Electrical & Electronic; Telecommunications
+SC Computer Science; Engineering; Telecommunications
+GA JP9DU
+UT WOS:000498558400004
+DA 2026-10-09
+ER
+
+PT J
+AU Arad, B
+   Kurtser, P
+   Barnea, E
+   Harel, B
+   Edan, Y
+   Ben-Shahar, O
+AF Arad, Boaz
+   Kurtser, Polina
+   Barnea, Ehud
+   Harel, Ben
+   Edan, Yael
+   Ben-Shahar, Ohad
+TI Controlled Lighting and Illumination-Independent Target Detection for Real-Time Cost-Efficient Applications. The Case Study of Sweet Pepper Robotic Harvesting
+SO SENSORS
+LA English
+DT Article
+DE Flash-No-Flash; outdoor vision; fruit detection; autonomous harvesting
+ID segmentation; localization; agriculture; outdoor; color
+AB Current harvesting robots are limited by low detection rates due to the unstructured and dynamic nature of both the objects and the environment. State-of-the-art algorithms include color- and texture-based detection, which are highly sensitive to the illumination conditions. Deep learning algorithms promise robustness at the cost of significant computational resources and the requirement for intensive databases. In this paper we present a Flash-No-Flash (FNF) controlled illumination acquisition protocol that frees the system from most ambient illumination effects and facilitates robust target detection while using only modest computational resources and no supervised training. The approach relies on the simultaneous acquisition of two imageswith/without strong artificial lighting (Flash/no-Flash). The difference between these images represents the appearance of the target scene as if only the artificial light was present, allowing a tight control over ambient light for color-based detection. A performance evaluation database was acquired in greenhouse conditions using an eye-in-hand RGB camera mounted on a robotic manipulator. The database includes 156 scenes with 468 images containing a total of 344 yellow sweet peppers. Performance of both color blob and deep-learning detection algorithms are compared on Flash-only and FNF images. The collected database is made public.
+C1 [Arad, Boaz; Barnea, Ehud; Ben-Shahar, Ohad] Ben Gurion Univ Negev, Dept Comp Sci, IL-8410501 Beer Sheva, Israel.
+   [Kurtser, Polina; Harel, Ben; Edan, Yael] Ben Gurion Univ Negev, Dept Ind Engn & Management, IL-8410501 Beer Sheva, Israel.
+C3 Ben-Gurion University of the Negev; Ben-Gurion University of the Negev
+RP Arad, B (corresponding author), Ben Gurion Univ Negev, Dept Comp Sci, IL-8410501 Beer Sheva, Israel.; Kurtser, P (corresponding author), Ben Gurion Univ Negev, Dept Ind Engn & Management, IL-8410501 Beer Sheva, Israel.
+EM boazar@post.bgu.ac.il; kurtser@post.bgu.ac.il; ehud.barnea@gmail.com; benhare@post.bgu.ac.il; yael@bgu.ac.il; ben-shahar@cs.bgu.ac.il
+FU European Commission [644313]; Ben-Gurion University of the Negev through the Helmsley Charitable Trust; Agricultural, Biological and Cognitive Robotics Initiative; Marcus Endowment Fund; Rabbi W. Gunther Plaut Chair in Manufacturing Engineering; H2020 - Industrial Leadership [644313] Funding Source: H2020 - Industrial Leadership
+NR 32
+TC 52
+Z9 58
+U1 3
+U2 41
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 1424-8220
+J9 SENSORS-BASEL
+JI Sensors
+PD MAR 2
+PY 2019
+VL 19
+IS 6
+BP 
+EP 
+DI 10.3390/s19061390
+PG 15
+WC Chemistry, Analytical; Engineering, Electrical & Electronic; Instruments & Instrumentation
+SC Chemistry; Engineering; Instruments & Instrumentation
+GA HU8FG
+UT WOS:000465520200079
+DA 2026-10-09
+ER
+

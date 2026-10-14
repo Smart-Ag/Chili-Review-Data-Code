@@ -154,6 +154,6 @@ plt.close()
 print(f"Chart saved to: {SAVE_PIC}")
 
 # ===================== Journal Figure Caption =====================
-print("\n===== Figure caption for Biosystems Engineering =====")
+print("\n===== Figure =====")
 print(f"Stacked percentage bar chart showing annual proportion of six chili patent technical dimensions from {year_min} to {year_max}. Symbol definitions: A = mechanical harvesting only, A∩C = harvesting with intelligent modules, A∩B = mechanical harvesting-cleaning integrated devices, A∩B∩C = harvesting-cleaning with intelligent functions, B∩C = intelligent sorting/cleaning equipment, B = mechanical cleaning only. Each vertical bar sums to 100% representing all patents filed in that corresponding year.")
 print("======================================================")

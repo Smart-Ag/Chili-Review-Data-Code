@@ -1,5 +1,5 @@
 {
-  "NounPhraseWordsMax": 4,
+  "NounPhraseWordsMax": 100,
   "Description": "How did you create the dataset?",
   "MaximumGMLNodeLabelLength": 8,
   "FilterByIntrinsicCitations": true,
@@ -12,7 +12,7 @@
   "ExclusionList": true,
   "ExportMatrix": false,
   "minimumThresholdValue": 1,
-  "AliasList": true,
+  "AliasList": false,
   "PercentageNodesToLabel": 1,
   "BurstWeight": 0,
   "UseAuthorFullname": true,

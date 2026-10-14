@@ -1,0 +1,201 @@
+PT J
+AU Sa, I
+   Lehnert, C
+   English, A
+   McCool, C
+   Dayoub, F
+   Upcroft, B
+   Perez, T
+AF Sa, Inkyu
+   Lehnert, Chris
+   English, Andrew
+   McCool, Chris
+   Dayoub, Feras
+   Upcroft, Ben
+   Perez, Tristan
+TI Peduncle Detection of Sweet Pepper for Autonomous Crop Harvesting-Combined Color and 3-D Information
+SO IEEE ROBOTICS AND AUTOMATION LETTERS
+LA English
+DT Article
+DE Agricultural automation; computer vision for automation; RGB-D perception; robotics in agriculture and forestry
+AB This letter presents a three-dimensional (3-D) visual detection method for the challenging task of detecting peduncles of sweet peppers (Capsicum annuum) in the field. Cutting the peduncle cleanly is one of the most difficult stages of the harvesting process, where the peduncle is the part of the crop that attaches it to the main stem of the plant. Accurate peduncle detection in 3-D space is, therefore, a vital step in reliable autonomous harvesting of sweet peppers, as this can lead to precise cutting while avoiding damage to the surrounding plant. This letter makes use of both color and geometry information acquired from an RGB-D sensor and utilizes a supervised-learning approach for the peduncle detection task. The performance of the proposed method is demonstrated and evaluated by using qualitative and quantitative results [the area-under-the-curve (AUC) of the detection precisionrecall curve]. We are able to achieve an AUC of 0.71 for peduncle detection on field-grown sweet peppers. We release a set of manually annotated 3-D sweet pepper and peduncle images to assist the research community in performing further research on this topic.
+C1 [Sa, Inkyu] Queensland Univ Technol, Brisbane, Qld 4000, Australia.
+   [Sa, Inkyu] Swiss Fed Inst Technol, Dept Mech & Proc Engn, Autonomous Syst Lab, CH-8092 Zurich, Switzerland.
+   [Lehnert, Chris; English, Andrew; McCool, Chris; Dayoub, Feras; Upcroft, Ben; Perez, Tristan] Queensland Univ Technol, Sci & Engn Fac, Brisbane, Qld 4000, Australia.
+C3 Queensland University of Technology (QUT); Swiss Federal Institutes of Technology Domain; ETH Zurich; Queensland University of Technology (QUT)
+RP Sa, I (corresponding author), Swiss Fed Inst Technol, Dept Mech & Proc Engn, Autonomous Syst Lab, CH-8092 Zurich, Switzerland.
+EM inkyu.sa@mavt.ethz.ch; c.lehnert@qut.edu.au; a.english@qut.edu.au; c.mccool@qut.edu.au; feras.dayou@qut.edu.au; ben.upcroft@qut.edu.au; tristan.perez@qut.edu.au
+FU Queensland Department of Agriculture and Fisheries; Queensland University of Technology Strategic Investment in Farm Robotics Program
+NR 29
+TC 98
+Z9 110
+U1 9
+U2 51
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2377-3766
+EI 
+J9 IEEE ROBOT AUTOM LET
+JI IEEE Robot. Autom. Lett.
+PD APR 15
+PY 2017
+VL 2
+IS 2
+BP 765
+EP 772
+DI 10.1109/LRA.2017.2651952
+PG 8
+WC Robotics
+SC Robotics
+GA FK8DB
+UT WOS:000413736600051
+DA 2026-10-09
+ER
+
+PT J
+AU Lehnert, C
+   English, A
+   McCool, C
+   Tow, AW
+   Perez, T
+AF Lehnert, Christopher
+   English, Andrew
+   McCool, Christopher
+   Tow, Adam W.
+   Perez, Tristan
+TI Autonomous Sweet Pepper Harvesting for Protected Cropping Systems
+SO IEEE ROBOTICS AND AUTOMATION LETTERS
+LA English
+DT Article
+DE Agricultural automation; dexterous manipulation; mechanism design of manipulators
+ID robot
+AB In this letter, we present a new robotic harvester (Harvey) that can autonomously harvest sweet pepper in protected cropping environments. Our approach combines effective vision algorithms with a novel end-effector design to enable successful harvesting of sweet peppers. Initial field trials in protected cropping environments, with two cultivar, demonstrate the efficacy of this approach achieving a 46% success rate for unmodified crop, and 58% for modified crop. Furthermore, for the more favourable cultivar we were also able to detach 90% of sweet peppers, indicating that improvements in the grasping success rate would result in greatly improved harvesting performance.
+C1 [Lehnert, Christopher; English, Andrew; McCool, Christopher; Tow, Adam W.; Perez, Tristan] Queensland Univ Technol, Sch Elect Engn & Comp Sci, Brisbane, Qld 4001, Australia.
+C3 Queensland University of Technology (QUT)
+RP Lehnert, C (corresponding author), Queensland Univ Technol, Sch Elect Engn & Comp Sci, Brisbane, Qld 4001, Australia.
+EM c.lehnert@qut.edu.au; a.english@qut.edu.au; c.mccool@qut.edu.au; adam.tow@qut.edu.au; tristan.perez@qut.edu.au
+FU Department of Agriculture and Fisheries of the Queensland Government, Australia
+NR 27
+TC 192
+Z9 226
+U1 7
+U2 108
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2377-3766
+EI 
+J9 IEEE ROBOT AUTOM LET
+JI IEEE Robot. Autom. Lett.
+PD APR 15
+PY 2017
+VL 2
+IS 2
+BP 872
+EP 879
+DI 10.1109/LRA.2017.2655622
+PG 8
+WC Robotics
+SC Robotics
+GA FK8DB
+UT WOS:000413736600065
+DA 2026-10-09
+ER
+
+PT J
+AU Xiang, R
+   Chen, Y
+   Shen, JW
+   Hu, S
+AF Xiang, Rong
+   Chen, Ying
+   Shen, Jia W.
+   Hu, Shuang
+TI Method for assessing the quality of data used in evaluating the performance of recognition algorithms for fruits and vegetables
+SO BIOSYSTEMS ENGINEERING
+LA English
+DT Article
+DE Recognition algorithm; Harvesting robot; Data quality; Measurement system analysis; Repeatability; Reproducibility
+ID harvesting robot; autonomous robot; machine vision; sweet-pepper; localization; design; robust; system
+AB In studies on agricultural robot vision systems, data used to evaluate algorithm performance, such as successful recognition rates, vary because of various factors. If the variation is too large, representation of the actual performance of algorithms by the data is bound to be poor. Here we present a method for analysing the quality of data used to evaluate the performance of a recognition algorithm for occluded tomatoes based on measurement system analysis. The measurement system included a soft measurement tool (a counting method for the number of successful recognitions), appraisers, measured objects (recognition results of 300 occluded tomato images), the usage method for the soft measurement tool and measurement environments. The measurement system was analysed on the basis of its repeatability and reproducibility. Repeatability and reproducibility were both evaluated based on Fleiss's Kappa values, free-marginal multirater Kappa values and Kendall coefficients. Test results showed that repeatability was excellent or fair to good based on Fleiss's Kappa values and excellent based on free-marginal multirater Kappa values and Kendall coefficients for the three appraisers. Further improvement in the soft type of measurement tool is necessary. Reproducibility was fair to good with Fleiss's Kappa values and free-marginal multirater Kappa values, and good with Kendall coefficients. Large values of measured feature resulted in inferior repeatability and reproducibility. (C) 2017 IAgrE. Published by Elsevier Ltd. All rights reserved.
+C1 [Xiang, Rong; Chen, Ying; Shen, Jia W.; Hu, Shuang] China Jiliang Univ, Coll Qual & Safety Engn, Hangzhou 310018, Zhejiang, Peoples R China.
+C3 China Jiliang University
+RP Xiang, R (corresponding author), China Jiliang Univ, Coll Qual & Safety Engn, Xiasha Higher Educ Dist, 258 Xueyuan St, Hangzhou 310018, Zhejiang, Peoples R China.
+EM xr_rongge@cjlu.edu.cn
+FU Zhejiang Provincial Natural Science Foundation of China [LY17C130006, 61105024]; National Natural Science Foundation of China
+NR 34
+TC 1
+Z9 1
+U1 0
+U2 28
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 1537-5110
+EI 1537-5129
+J9 BIOSYST ENG
+JI Biosyst. Eng.
+PD APR 15
+PY 2017
+VL 156
+IS 
+BP 27
+EP 37
+DI 10.1016/j.biosystemseng.2016.12.012
+PG 11
+WC Agricultural Engineering; Agriculture, Multidisciplinary
+SC Agriculture
+GA ES9CS
+UT WOS:000399854300005
+DA 2026-10-09
+ER
+
+PT J
+AU Sánchez del Castillo, F
+   Moreno-Pérez, EC
+   Reséndiz-Melgar, RC
+   Colinas-León, MT
+   Rodríguez Pérez, JE
+AF Sanchez del Castillo, Felipe
+   Moreno-Perez, Esau C.
+   Clemente Resendiz-Melgar, R.
+   Teresa Colinas-Leon, M.
+   Rodriguez Perez, J. Enrique
+TI BELL PEPPER PRODUCTION (Capsicum annuum L.) IN SHORT CYCLES
+SO AGROCIENCIA
+LA English
+DT Article
+DE Capsicum annuum L.; pruning; population density; hydroponics; production systems; bell peppers
+ID greenhouse; flower
+AB Hydroponic production of bell peppers (Capsicum annuum L.) in greenhouses began in Mexico twenty years ago. Mexican producers have adopted production systems developed in other countries, principally those in Europe with different climatic and socioeconomic conditions. The purpose of this study was to evaluate the yield of the Orion and Triple star bell pepper varieties, in three established population densities (5, 6.5, and 8 plants m(-2)) in greenhouse conditions. The plants were trimmed at the height of the third or fourth branch in order to obtain short cultivation cycles from the transplant and a harvest of less than four months. The hydroponic cultivation included the use of volcanic tuff (tezontle, for its name in Spanish) as a substrate. The experimental design was random block in factorial arrangement with four repetitions. The morphological characters and yield variables were evaluated. With the exception of the fruit set percentage (%FS), the morphological and yield variables were greater in the plants that were trimmed at the fourth branch than those trimmed at the third. Even though there were no significant differences in the %FS and the number of fruits between varities, the yield per plant and per unit of area was greater in the Orion variety. With a density of 8 plants per m(-2), the yield decreased, a consequence of the significant reduction of %FS. In regards to the plants trimmed at the fourth branch, a result of 6.4 kg m(-2) was obtained, equivalent to 192 t ha(-1) ano(-1), in a cycle of four months from the transplant to the end of the harvest.
+C1 [Sanchez del Castillo, Felipe; Moreno-Perez, Esau C.; Teresa Colinas-Leon, M.; Rodriguez Perez, J. Enrique] Univ Autonoma Chapingo, Fitotecnia, Chapingo 56230, Estado De Mexic, Mexico.
+   [Clemente Resendiz-Melgar, R.] CBTA, 76,Km 115 Carretera Mexico Tellixtlahuaca, Santa Maria Tecomovaca 68590, Oaxaca, Mexico.
+RP Moreno-Pérez, EC (corresponding author), Univ Autonoma Chapingo, Fitotecnia, Chapingo 56230, Estado De Mexic, Mexico.
+NR 15
+TC 4
+Z9 4
+U1 1
+U2 22
+PU COLEGIO POSTGRADUADOS
+PI MONTECILLO
+PA CARRETERA MEXICO TEXCOCO KM 36 5, MONTECILLO 56230, ESTADO MEXICO, MEXICO
+SN 1405-3195
+EI 
+J9 AGROCIENCIA-MEXICO
+JI Agrociencia
+PD MAY-JUN 15
+PY 2017
+VL 51
+IS 4
+BP 437
+EP 446
+DI 
+PG 10
+WC Agriculture, Multidisciplinary
+SC Agriculture
+GA EZ0GG
+UT WOS:000404378900006
+DA 2026-10-09
+ER
+

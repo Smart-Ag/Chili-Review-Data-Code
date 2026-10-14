@@ -1,0 +1,48 @@
+PT J
+AU Barth, R
+   Hemming, J
+   van Henten, EJ
+AF Barth, Ruud
+   Hemming, Jochen
+   van Henten, Eldert J.
+TI Design of an eye-in-hand sensing and servo control framework for harvesting robotics in dense vegetation
+SO BIOSYSTEMS ENGINEERING
+LA English
+DT Article
+DE Framework; Harvest robots; Visual servo control; ROS; SLAM
+ID localization
+AB A modular software framework design that allows flexible implementation of eye-in-hand sensing and motion control for agricultural robotics in dense vegetation is reported. Harvesting robots in cultivars with dense vegetation require multiple viewpoints and on-line trajectory adjustments in order to reduce the amount of false negatives and correct for fruit movement. In contrast to specialised software, the framework proposed aims to support a wide variety of agricultural use cases, hardware and extensions. A set of Robotic Operating System (ROS) nodes was created to ensure modularity and separation of concems, implementing functionalities for application control, robot motion control, image acquisition, fruit detection, visual servo control and simultaneous localisation and mapping (SLAM) for monocular relative depth estimation and scene reconstruction. Coordination functionality was implemented by the application control node with a finite state machine. In order to provide visual servo control and simultaneous localisation and mapping functionalities, off-the-shelf libraries Visual Servoing Platform library (ViSP) and Large Scale Direct SLAM (LSD-SLAM) were wrapped in ROS nodes. The capabilities of the framework are demonstrated by an example implementation for use with a sweet-pepper crop, combined with hardware consisting of a Baxter robot and a colour camera placed on its end-effector. Qualitative tests were performed under laboratory conditions using an artificial dense vegetation sweet-pepper crop. Results indicated the framework can be implemented for sensing and robot motion control in sweet-pepper using visual information from the end-effector. Future research to apply the framework to other use-cases and validate the performance of its components in servo applications under real greenhouse conditions is suggested. (C) 2015 The Authors. Published by Elsevier Ltd on behalf of IAgrE.
+C1 [Barth, Ruud] Harvard Univ, 60 Oxford St, Cambridge, MA 02138 USA.
+   [Barth, Ruud; Hemming, Jochen] Univ Wageningen & Res Ctr, Greenhouse Hort, POB 644, NL-6700 AP Wageningen, Netherlands.
+   [van Henten, Eldert J.] Univ Wageningen & Res Ctr, Farm Technol Grp, Droevendaalsesteeg 1, NL-6708 PB Wageningen, Netherlands.
+C3 Harvard University; Wageningen University & Research; Wageningen University & Research
+RP Barth, R (corresponding author), Univ Wageningen & Res Ctr, Greenhouse Hort, POB 644, NL-6700 AP Wageningen, Netherlands.
+EM r.barth@wur.nl; jochen.hemming@wur.nl; eldert.vanhenten@wur.nl
+FU European Commission (CROPS GA) [246252]; Horizon2020 Programme (SWEEPER GA) [644313]; Dutch horticultural product board (PT) [14555]
+NR 44
+TC 99
+Z9 122
+U1 2
+U2 138
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 1537-5110
+EI 1537-5129
+J9 BIOSYST ENG
+JI Biosyst. Eng.
+PD JUN 15
+PY 2016
+VL 146
+IS 
+BP 71
+EP 84
+DI 10.1016/j.biosystemseng.2015.12.001
+PG 14
+WC Agricultural Engineering; Agriculture, Multidisciplinary
+SC Agriculture
+GA DQ1MZ
+UT WOS:000378966400007
+DA 2026-10-09
+ER
+

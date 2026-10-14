@@ -32,8 +32,8 @@ warnings.filterwarnings('ignore', category=UserWarning, module='sklearn')
 SCRIPT_DIR = Path(__file__).resolve().parent
 DATA_DIR = SCRIPT_DIR.parent / "Patent_Data"
 
-INPUT_FILE = DATA_DIR / "1.Raw_787_Patents.xlsx"
-OUTPUT_FILE = DATA_DIR / "2.Extracted_Keywords_787.xlsx"
+INPUT_FILE = DATA_DIR / "1.Raw_883_Patents.xlsx"
+OUTPUT_FILE = DATA_DIR / "2.Extracted_Keywords_883.xlsx"
 
 TARGET_KW_NUM = 5
 
@@ -51,7 +51,7 @@ STOPWORDS = set([
     "能够", "实用新型", "固定架", "支撑架", "支架", "人工", "人员", "采用", "方便", "综合", "加工性", "农作物",
     "主轴", "本体", "框架", "使用", "单元", "转动", "支撑", "传动", "车体", "给料", "便于", "露地",
     "系统", "带有", "放置", "固定", "实现", "操作", "涉及", "属于", "领域", "适用", "简易", "规格", "大量",
-    "解决", "技术", "方案", "效果", "组件", "原料", "物料", "模块", "工具", "辅助", "平台"
+    "解决", "技术", "方案", "效果", "组件", "原料", "物料", "模块", "工具", "辅助", "平台", "系统", "路径", "植物"
 ])
 
 # ===================== 2. Custom dictionary =====================

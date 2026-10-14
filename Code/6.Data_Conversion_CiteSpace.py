@@ -14,7 +14,7 @@ from pathlib import Path
 SCRIPT_DIR = Path(__file__).resolve().parent
 DATA_DIR = SCRIPT_DIR.parent / "Patent_Data"
 EXCEL_PATH = DATA_DIR / "3.Patent_Keywords_with_Dimensions.xlsx"
-OUTPUT_TXT = DATA_DIR / "download_787_converted.txt"
+OUTPUT_TXT = DATA_DIR / "download_883_converted.txt"
 DATA_DIR.mkdir(parents=True, exist_ok=True)
 
 

@@ -1,7 +1,7 @@
-# Chili Harvesting and Cleaning Evolution — Code & Data
+# Chilli Pepper Harvesting and Cleaning Evolution — Code & Data
 
 This repository contains the code and data for the paper:  
-**"Engineering evolution of chili harvesting and cleaning: From mechanisation to perception–actuation integration"** (Biosystems Engineering).
+**"Engineering evolution of chilli pepper harvesting and cleaning: From mechanisation to perception–actuation integration"**.
 
 ---
 

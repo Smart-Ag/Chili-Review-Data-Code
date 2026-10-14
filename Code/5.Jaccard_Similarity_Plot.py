@@ -141,6 +141,6 @@ plt.close()
 print(f"Chart saved to: {SAVE_FIG}")
 
 # ===================== Figure Caption =====================
-print("\n===== Figure Caption for Biosystems Engineering =====")
+print("\n===== Figure =====")
 print("Bar chart of pairwise Jaccard similarity coefficients calculated on extracted keyword sets of six chili patent technical categories. Symbol definitions: A = purely mechanical harvesting patents, B = purely mechanical cleaning patents, A∩C = harvesting equipment with intelligent modules, B∩C = intelligent sorting/cleaning devices, A∩B∩C = integrated harvesting-cleaning machinery equipped with intelligent functions. Jaccard index is defined as the size of the intersection of two keyword sets divided by the size of their union. Three horizontal dashed reference lines denote low (0.3), medium fusion (0.4), and high similarity (0.6) thresholds respectively.")
 print("======================================================")
